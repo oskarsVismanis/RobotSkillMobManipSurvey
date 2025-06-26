@@ -1,0 +1,115 @@
+﻿TY  - CPAPER
+AU  - Kim, G
+AU  - Chung, WJ
+AU  - Kim, M
+A1  - IEEE
+TI  - A selection framework of multiple navigation primitives using Generalized Stochastic Petri Nets
+T2  - 2005 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA), VOLS 1-4
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 0-7803-8914-X
+PY  - 2005
+SP  - 3790
+EP  - 3795
+AN  - WOS:000235460103038
+ER  -
+
+TY  - JOUR
+AU  - Rañó, I
+TI  - Biologically inspired navigation primitives
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - OCT
+PY  - 2014
+VL  - 62
+IS  - 10
+SP  - 1361
+EP  - 1370
+DO  - 10.1016/j.robot.2014.06.008
+AN  - WOS:000341464300002
+ER  -
+
+TY  - CPAPER
+AU  - Zhao, C
+AU  - Sun, L
+AU  - Krajník, T
+AU  - Duckett, T
+AU  - Yan, Z
+A1  - IEEE
+TI  - Monocular Teach-and-Repeat Navigation using a Deep Steering Network with Scale Estimation
+T2  - 2021 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-1714-3
+PY  - 2021
+SP  - 2613
+EP  - 2619
+DO  - 10.1109/IROS51168.2021.9635912
+AN  - WOS:000755125502022
+ER  -
+
+TY  - CPAPER
+AU  - Rafii-Tari, H
+AU  - Liu, JD
+AU  - Payne, CJ
+AU  - Bicknell, C
+AU  - Yang, GZ
+ED  - Golland, P
+ED  - Hata, N
+ED  - Barillot, C
+ED  - Hornegger, J
+ED  - Howe, R
+TI  - Hierarchical HMM Based Learning of Navigation Primitives for Cooperative Robotic Endovascular Catheterization
+T2  - MEDICAL IMAGE COMPUTING AND COMPUTER-ASSISTED INTERVENTION - MICCAI 2014, PT I
+CP  - 17th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-10404-1
+SN  - 978-3-319-10403-4
+PY  - 2014
+VL  - 8673
+SP  - 496
+EP  - +
+AN  - WOS:000349019600062
+ER  -
+
+TY  - CPAPER
+AU  - Khaksar, W
+AU  - Uddin, MZ
+AU  - Torresen, J
+ED  - JardimGoncalves, R
+ED  - Mendonca, JP
+ED  - Jotsov, V
+ED  - Marques, M
+ED  - Martins, J
+ED  - Bierwolf, R
+TI  - Learning from Virtual Experience: Mapless Navigation with Neuro-Fuzzy Intelligence
+T2  - 2018 9TH INTERNATIONAL CONFERENCE ON INTELLIGENT SYSTEMS (IS)
+CP  - 9th International Conference on Intelligent Systems (IS)
+SN  - 978-1-5386-7097-2
+PY  - 2018
+SP  - 117
+EP  - 124
+AN  - WOS:000469337900018
+ER  -
+
+TY  - CPAPER
+AU  - Sebastian, M
+AU  - Banisetty, SB
+AU  - Feil-Seifer, D
+ED  - Howard, A
+ED  - Suzuki, K
+ED  - Zollo, L
+TI  - Socially-Aware Navigation Planner Using Models of Human-Human Interaction
+T2  - 2017 26TH IEEE INTERNATIONAL SYMPOSIUM ON ROBOT AND HUMAN INTERACTIVE COMMUNICATION (RO-MAN)
+CP  - 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)
+SN  - 1944-9445
+SN  - 978-1-5386-3518-6
+PY  - 2017
+SP  - 405
+EP  - 410
+AN  - WOS:000427262400064
+ER  -
+

@@ -1,0 +1,561 @@
+%0 Conference Paper
+%T Policy manifold search: exploring the manifold hypothesis for diversity-based neuroevolution
+%@ 9781450383509
+%U https://doi.org/10.1145/3449639.3459320
+%R 10.1145/3449639.3459320
+%B Proceedings of the Genetic and Evolutionary Computation Conference
+%I Association for Computing Machinery
+%A Nemanja Rakicevic
+%A Antoine Cully
+%A Petar Kormushev
+%D 2021
+%P 901–909
+%K quality-diversity, neuroevolution, manifold learning, MAP-Elites
+%C Lille, France
+
+%0 Journal Article
+%T Hierarchical relative entropy policy search
+%V 17
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Christian Daniel
+%A Gerhard Neumann
+%A Oliver Kroemer
+%A Jan Peters
+%D 2016
+%P 3190–3239
+%K temporal correlation, structured learning, robust learning, robot learning, reinforcement learning, policy search, motor skill learning, hierarchical learning, REPS, HiREPS
+
+%0 Book Section
+%T Early integration for movement modeling in latent spaces
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233805
+%R 10.1145/3233795.3233805
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Rachel Hornung
+%A Nutan Chen
+%A Patrick van der Smagt
+%D 2019
+%P 305–345
+
+%0 Conference Paper
+%T Autonomous object manipulation for virtual humans
+%@ 9781450378451
+%U https://doi.org/10.1145/1401132.1401198
+%R 10.1145/1401132.1401198
+%B ACM SIGGRAPH 2008 classes
+%I Association for Computing Machinery
+%A Marcelo Kallmann
+%D 2008
+%P Article 47
+%C Los Angeles, California
+
+%0 Conference Paper
+%T Compositional Synthesis with Parametric Reactive Controllers
+%@ 9781450339551
+%U https://doi.org/10.1145/2883817.2883842
+%R 10.1145/2883817.2883842
+%B Proceedings of the 19th International Conference on Hybrid Systems: Computation and Control
+%I Association for Computing Machinery
+%A Rajeev Alur
+%A Salar Moarref
+%A Ufuk Topcu
+%D 2016
+%P 215–224
+%K robot motion planning, reactive synthesis, parametric reactive controllers, formal methods, controller synthesis, compositional synthesis
+%C Vienna, Austria
+
+%0 Conference Paper
+%T Convex Interpolation Control with Formal Guarantees for Disturbed and Constrained Nonlinear Systems
+%@ 9781450345903
+%U https://doi.org/10.1145/3049797.3049800
+%R 10.1145/3049797.3049800
+%B Proceedings of the 20th International Conference on Hybrid Systems: Computation and Control
+%I Association for Computing Machinery
+%A Bastian Schürmann
+%A Matthias Althoff
+%D 2017
+%P 121–130
+%K robust control, reach-avoid problems, nonlinear control, interpolation control, formal verification, convex combinations
+%C Pittsburgh, Pennsylvania, USA
+
+%0 Journal Article
+%T Motion Planning Under Uncertainty with Complex Agents and Environments via Hybrid Search
+%V 75
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.13361
+%R 10.1613/jair.1.13361
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Daniel Strawser
+%A Brian Williams
+%D 2022
+%P 81
+
+%0 Book Section
+%T Introduction: toward the design, construction, and deployment of multimodal-multisensor interfaces
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233797
+%R 10.1145/3233795.3233797
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%D 2019
+%P 1–20
+
+%0 Book Section
+%T Index
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233814
+%R 10.1145/3233795.3233814
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%D 2019
+%P 705–745
+
+%0 Journal Article
+%T Linearization and identification of multiple-attractor dynamical systems through Laplacian eigenmaps
+%V 23
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Bernardo Fichera
+%A Aude Billard
+%D 2022
+%P Article 294
+%K learning, clustering, Laplacian, graph, dynamical system
+
+%0 Conference Paper
+%T Autonomous waypoints planning and trajectory generation for multi-rotor UAVs
+%@ 9781450366991
+%U https://doi.org/10.1145/3313151.3313163
+%R 10.1145/3313151.3313163
+%B Proceedings of the Workshop on Design Automation for CPS and IoT
+%I Association for Computing Machinery
+%A Yilan Li
+%A Hossein Eslamiat
+%A Ningshan Wang
+%A Ziyi Zhao
+%A Amit K. Sanyal
+%A Qinru Qiu
+%D 2019
+%P 31–40
+%K waypoints planning, optimal trajectory generation, multi-rotor UAV, deep reinforcement learning
+%C Montreal, Quebec, Canada
+
+%0 Book Section
+%T Commercialization of multimodal systems
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233812
+%R 10.1145/3233795.3233812
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Philip R. Cohen
+%A Raj Tumuluri
+%D 2019
+%P 621–658
+
+%0 Book Section
+%T Multimodal conversational interaction with robots
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233799
+%R 10.1145/3233795.3233799
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Gabriel Skantze
+%A Joakim Gustafson
+%A Jonas Beskow
+%D 2019
+%P 77–104
+
+%0 Book Section
+%T Preface
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233796
+%R 10.1145/3233795.3233796
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%D 2019
+%P xvii–xix
+
+%0 Conference Paper
+%T Multi-modal data-driven motion planning and synthesis
+%@ 9781450339919
+%U https://doi.org/10.1145/2822013.2822044
+%R 10.1145/2822013.2822044
+%B Proceedings of the 8th ACM SIGGRAPH Conference on Motion in Games
+%I Association for Computing Machinery
+%A Mentar Mahmudi
+%A Marcelo Kallmann
+%D 2015
+%P 119–124
+%K motion planning, motion capture, character animation
+%C Paris, France
+
+%0 Conference Paper
+%T Dynamic Graffiti Stylisation with Stochastic Optimal Control
+%@ 9781450352093
+%U https://doi.org/10.1145/3077981.3078044
+%R 10.1145/3077981.3078044
+%B Proceedings of the 4th International Conference on Movement Computing
+%I Association for Computing Machinery
+%A Daniel Berio
+%A Sylvain Calinon
+%A Frederic Fol Leymarie
+%D 2017
+%P Article 18
+%K stochastic optimal control, smoothing splines, procedural calligraphy, model predictive control, iconic and kinemic letter forms, graffiti and tags generation, Human hand-writing movement modeling
+%C London, United Kingdom
+
+%0 Proceeding
+%T Proceedings of the 2024 4th International Conference on Control and Intelligent Robotics
+%@ 9798400709937
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Book Section
+%T Challenge discussion: advancing multimodal dialogue
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233802
+%R 10.1145/3233795.3233802
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A James Allen
+%A Elisabeth André
+%A Philip R. Cohen
+%A Dilek Hakkani-Tür
+%A Ronald Kaplan
+%A Oliver Lemon
+%A David Traum
+%D 2019
+%P 191–217
+
+%0 Book Section
+%T Multimodal databases
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233807
+%R 10.1145/3233795.3233807
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Michel Valstar
+%D 2019
+%P 393–421
+
+%0 Book Section
+%T Embedded multimodal interfaces in robotics: applications, future trends, and societal implications
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233810
+%R 10.1145/3233795.3233810
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Elsa A. Kirchner
+%A Stephen H. Fairclough
+%A Frank Kirchner
+%D 2019
+%P 523–576
+
+%0 Book Section
+%T Automotive multimodal human-machine interface
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233809
+%R 10.1145/3233795.3233809
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Dirk Schnelle-Walka
+%A Stefan Radomski
+%D 2019
+%P 477–522
+
+%0 Book Section
+%T Ergonomics for the design of multimodal interfaces
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233804
+%R 10.1145/3233795.3233804
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Alexis Heloir
+%A Fabrizio Nunnari
+%A Myroslav Bachynskyi
+%D 2019
+%P 263–304
+
+%0 Book Section
+%T Situated interaction
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233800
+%R 10.1145/3233795.3233800
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Dan Bohus
+%A Eric Horvitz
+%D 2019
+%P 105–143
+
+%0 Book Section
+%T Standardized representations and markup languages for multimodal interaction
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233806
+%R 10.1145/3233795.3233806
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Raj Tumuluri
+%A Deborah Dahl
+%A Fabio Paternò
+%A Massimo Zancanaro
+%D 2019
+%P 347–392
+
+%0 Book Section
+%T Software platforms and toolkits for building multimodal systems and applications
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233801
+%R 10.1145/3233795.3233801
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Michael Feld
+%A Robert Neβelrath
+%A Tim Schwartz
+%D 2019
+%P 145–190
+
+%0 Book Section
+%T Nonverbal behavior in multimodal performances
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233803
+%R 10.1145/3233795.3233803
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Angelo Cafaro
+%A Catherine Pelachaud
+%A Stacy C. Marsella
+%D 2019
+%P 219–262
+
+%0 Journal Article
+%T Model-free trajectory-based policy optimization with monotonic improvement
+%V 19
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Riad Akrour
+%A Abbas Abdolmaleki
+%A Hany Abdulsamad
+%A Jan Peters
+%A Gerhard Neumann
+%D 2018
+%P 565–589
+%K trajectory optimization, robotics, reinforcement learning, policy optimization
+
+%0 Proceeding
+%T Proceedings of the 2024 5th International Symposium on Artificial Intelligence for Medicine Science
+%@ 9798400717826
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Book Section
+%T Privacy concerns of multimodal sensor systems
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233813
+%R 10.1145/3233795.3233813
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Gerald Friedland
+%A Michael Carl Tschantz
+%D 2019
+%P 659–704
+
+%0 Book Section
+%T Medical and health systems
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233808
+%R 10.1145/3233795.3233808
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Daniel Sonntag
+%D 2019
+%P 423–476
+
+%0 Book Section
+%T Multimodal dialogue processing for machine translation
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233811
+%R 10.1145/3233795.3233811
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Alexander Waibel
+%D 2019
+%P 577–620
+
+%0 Conference Paper
+%T shiftIO: Reconfigurable Tactile Elements for Dynamic Affordances and Mobile Interaction
+%@ 9781450346559
+%U https://doi.org/10.1145/3025453.3025988
+%R 10.1145/3025453.3025988
+%B Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Evan Strasnick
+%A Jackie Yang
+%A Kesler Tanner
+%A Alex Olwal
+%A Sean Follmer
+%D 2017
+%P 5075–5086
+%K tactile display, mobile haptics, magnetically-actuated buttons, dynamic affordance
+%C Denver, Colorado, USA
+
+%0 Book Section
+%T Multimodal integration for interactive conversational systems
+%@ 9781970001754
+%U https://doi.org/10.1145/3233795.3233798
+%R 10.1145/3233795.3233798
+%B The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%A Michael Johnston
+%D 2019
+%P 21–76
+
+%0 Journal Article
+%T Active contextual policy search
+%V 15
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Alexander Fabisch
+%A Jan Hendrik Metzen
+%D 2014
+%P 3371–3399
+%K reinforcement learning, policy search, multi-task learning, movement primitives, active learning
+
+%0 Conference Paper
+%T Learning complex motions by sequencing simpler motion templates
+%@ 9781605585161
+%U https://doi.org/10.1145/1553374.1553471
+%R 10.1145/1553374.1553471
+%B Proceedings of the 26th Annual International Conference on Machine Learning
+%I Association for Computing Machinery
+%A Gerhard Neumann
+%A Wolfgang Maass
+%A Jan Peters
+%D 2009
+%P 753–760
+%C Montreal, Quebec, Canada
+
+%0 Proceeding
+%T Proceedings of the 10th International Conference on Human-Agent Interaction
+%@ 9781450393232
+%I Association for Computing Machinery
+%D 2022
+%C Christchurch, New Zealand
+
+%0 Conference Paper
+%T Synthesis of constrained walking skills
+%@ 9781450318310
+%U https://doi.org/10.1145/1457515.1409066
+%R 10.1145/1457515.1409066
+%B ACM SIGGRAPH Asia 2008 papers
+%I Association for Computing Machinery
+%A Stelian Coros
+%A Philippe Beaudoin
+%A Kang Kang Yin
+%A Michiel van de Panne
+%D 2008
+%P Article 113
+%C Singapore
+
+%0 Journal Article
+%T Synthesis of constrained walking skills
+%V 27
+%@ 0730-0301
+%U https://doi.org/10.1145/1409060.1409066
+%R 10.1145/1409060.1409066
+%N 5
+%J ACM Trans. Graph.
+%I Association for Computing Machinery
+%A Stelian Coros
+%A Philippe Beaudoin
+%A Kang Kang Yin
+%A Michiel van de Panne
+%D 2008
+%P Article 113
+
+%0 Conference Paper
+%T Imitation as a first step to social learning in synthetic characters: a graph-based approach
+%@ 1595931988
+%U https://doi.org/10.1145/1073368.1073370
+%R 10.1145/1073368.1073370
+%B Proceedings of the 2005 ACM SIGGRAPH/Eurographics symposium on Computer animation
+%I Association for Computing Machinery
+%A D. Buchsbaum
+%A B. Blumberg
+%D 2005
+%P 9–18
+%C Los Angeles, California
+
+%0 Journal Article
+%T Inverse reinforcement learning via nonparametric spatio-temporal subgoal modeling
+%V 19
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Adrian Šošić
+%A Abdelhak M. Zoubir
+%A Elmar Rueckert
+%A Jan Peters
+%A Heinz Koeppl
+%D 2018
+%P 2777–2821
+%K subgoal inference, learning from demonstration, inverse reinforcement learning, graphical models, gibbs sampling, Bayesian nonparametric modeling
+
+%0 Book
+%T The Handbook of Multimodal-Multisensor Interfaces: Language Processing, Software, Commercialization, and Emerging Directions
+%@ 9781970001754
+%R 10.1145/3233795
+%J ACM Books
+%I Association for Computing Machinery and Morgan &amp; Claypool
+%E Sharon Oviatt
+%E Björn Schuller
+%E Philip R. Cohen
+%E Daniel Sonntag
+%E Gerasimos Potamianos
+%E Antonio Krüger
+%D 2019
+
+%0 Proceeding
+%T Proceedings of the 2024 2nd International Conference on Advances in Artificial Intelligence and Applications
+%@ 9798400712883
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Companion Publication of the 2024 ACM Designing Interactive Systems Conference
+%@ 9798400706325
+%I Association for Computing Machinery
+%D 2024
+%C IT University of Copenhagen, Denmark
+
+%0 Proceeding
+%T Proceedings of the 2023 8th International Conference on Machine Learning Technologies
+%@ 9781450398329
+%I Association for Computing Machinery
+%D 2023
+%C Stockholm, Sweden
+
+%0 Proceeding
+%T Proceedings of the 8th ACM SIGGRAPH Conference on Motion in Games
+%@ 9781450339919
+%I Association for Computing Machinery
+%D 2015
+%C Paris, France
+

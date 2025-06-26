@@ -18,4 +18,4 @@ The official GitHub page for the survey paper "Robot Skills in Mobile Manipulati
 2. **"Behavior-based robotics"**. _Arkin et al._ MIT press, 1998. [DOI](doi), [Paper](link).
 3. **"Designing and Understanding Adaptive Group Behavior"**. _Mataric et al._ Adaptive Behavior, 1995. [DOI](doi), [Paper](link).
 4. **"Designing emergent behaviors: from local interactions to collective intelligence"**. _Mataric et al._ 1993. [DOI](doi), [Paper](link).
-
+5. **"Designing strategy and implementation of mobile manipulator control system for opening door"**. _Nagatani et al._ 1996. [DOI](doi), [Paper](link).

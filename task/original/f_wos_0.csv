@@ -1,0 +1,60 @@
+Title,Year,DOI
+Hierarchical Task Planning for Multiarm Robot with Multiconstraint,2016,10.1155/2016/2508304
+CAT Finland:: Executing primitive tasks in parallel,1999,
+Intelligent controllers as hierarchical stochastic automata,1999,10.1109/3477.752790
+Model and behavior-based robotic goalkeeper,2004,
+Concurrent Skill Composition Using Ensemble of Primitive Skills,2023,10.1109/TCDS.2022.3177691
+The task matrix: An extensible framework for creating versatile humanoid robots,2006,10.1109/ROBOT.2006.1641752
+Low-Cost Impedance Controlled Multifinger Gripper,2016,
+Case-based automatic programming in robotic assembly production,2011,10.1108/01439911111097887
+More Than a Number: A Multi-dimensional Framework For Automatically Assessing Human Teleoperation Skill,2023,10.1145/3568294.3580167
+A functional architecture for a team of fully autonomous cooperative robots,2000,
+Solving the robots gathering problem,2003,
+Motion planning of intelligent manipulation by a parallel two-fingered gripper equipped with a simple rotating mechanism,1998,10.1109/70.681241
+ThermoFlowScan: Automatic Thermal Flow Analysis of Machines from Infrared Video,2017,10.5220/0006267206370644
+On the precarious path of reverse neuro-engineering,2009,10.3389/neuro.10.005.2009
+Decidability of robot positioning tasks using stereo vision systems,1998,
+Event-based dataset for the detection and classification of manufacturing assembly tasks,2024,10.1016/j.dib.2024.110340
+Automated planning of motion tasks for multi-robot systems,2005,
+Cooperative manipulation by autonomous intelligent robots,1996,10.1299/jsmec1993.39.286
+Towards Learning Robotic Reaching and Pointing: An Uncalibrated Visual Servoing Approach,2009,10.1109/CRV.2009.47
+Hopping control for the musculoskeletal bipedal robot: BioBiped,2014,
+WebRTC-based MOSR remote control of mobile manipulators,2023,10.1007/s41315-023-00281-3
+DISTRIBUTED COMPUTING BY MOBILE ROBOTS: GATHERING,2012,10.1137/100796534
+Combining learned controllers to achieve new goals based on linearly solvable MDPs,2014,
+A knowledge-based task planning approach for robot multi-task manipulation,2024,10.1007/s40747-023-01155-8
+Teaching Robots Generalizable Hierarchical Tasks Through Natural Language Instruction,2017,10.1109/LRA.2016.2588584
+Simplifying Synchronization in Cooperative Robot Tasks - An Enhancement of the Manipulation Primitive Paradigm,2016,
+End-User Robot Programming Using Mixed Reality,2019,10.1109/icra.2019.8793988
+Distributed Computing by Mobile Robots: Solving the Uniform Circle Formation Problem,2014,
+Distributed computing by mobile robots: uniform circle formation,2017,10.1007/s00446-016-0291-x
+Manipulation task primitives for composing robot skills,1997,
+Programming by demonstration of pick-and-place tasks for industrial manipulators using task primitives,2007,
+Representation and Mapping of Dexterous Manipulation through Task Primitives,2013,
+A framework for learning from observation using primitives,2003,
+Differentiable Task Assignment and Motion Planning,2023,10.1109/IROS55552.2023.10341602
+Task model of lower body motion for a biped humanoid robot to imitate human dances,2005,10.1109/IROS.2005.1545395
+Task primitives for the discrete event modeling and control of 6-DOF assembly tasks,1996,10.1109/70.488947
+Constrained control for surgical assistant robots,2006,
+Teleoperation Control of Baxter Robot using Body Motion Tracking,2014,
+Reactive Cooperative Manipulation based on Set Primitives and Circular Fields,2021,10.1109/ICRA48506.2021.9561985
+TaskNet: A Neural Task Planner for Autonomous Excavator,2021,10.1109/ICRA48506.2021.9561629
+Improving the Generalizability of Robot Assembly Tasks Learned from Demonstration Via CNN-Based Segmentation,2019,10.1109/coase.2019.8843029
+A vision-language-guided and deep reinforcement learning-enabled approach for unstructured human-robot collaborative manufacturing task fulfilment,2024,10.1016/j.cirp.2024.04.003
+Learning Macro Actions from Instructional Videos Through Integration of Multiple Modalities,2013,10.1007/s12369-012-0167-6
+SocRob - A society of cooperative mobile robots,1998,
+Learning from observation using primitives,2001,
+A whole-body control framework for humanoids operating in human environments,2006,10.1109/ROBOT.2006.1642100
+THE SPACE STATION FREEDOM EVOLUTION-PHASE - CREW-EVA DEMAND FOR ROBOTIC SUBSTITUTION BY TASK PRIMITIVE,1989,10.1109/ROBOT.1989.100187
+FORMING COMPLEX DEXTEROUS MANIPULATIONS FROM TASK PRIMITIVES,1994,
+Intelligent control method on primitive in micro-operation robot,2003,
+Intelligent Attributes of Voice Assistants and User's Love for AI: A SEM-Based Study,2023,10.1109/ACCESS.2023.3286570
+The New Robotics Age: Meeting the Physical Interactivity Challenge,2016,10.1007/978-3-319-33714-2_2
+Learning Multi-Granularity Task Primitives from Construction Videos for Human-Robot Collaboration,2024,
+Kinematic Control Algorithms and Robust Controller Design for Rescue Robot,2014,
+"Dynamics Based Motion Optimization and Operational Space Control with an Experimental Rescue Robot, HUBO T-100",2015,
+A constrained optimization approach to virtual fixtures,2005,
+Development of a Tele-Operated Rescue Robot for a Disaster Response,2018,10.1142/S0219843618500081
+Design of singularity-robust and task-priority primitive controllers for cooperative manipulation using dual quaternion representation,2017,
+DanceMVP: Self-Supervised Learning for Multi-Task Primitive-Based Dance Performance Assessment via Transformer Text Prompting,2024,
+Learning multi-granular worker intentions from incomplete visual observations for worker-robot collaboration in construction,2024,10.1016/j.autcon.2023.105184

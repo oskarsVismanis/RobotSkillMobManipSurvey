@@ -1,0 +1,367 @@
+Title,Year,DOI
+Layered task planning for mobile manipulators,2019,10.1016/j.compeleceng.2019.106464
+Picking up a Towel by Cooperation of Functional Finger Actions,2009,10.1109/IROS.2009.5354783
+Intelligent controllers as hierarchical stochastic automata,1999,10.1109/3477.752790
+Towards automated task planning for service robots using semantic knowledge representation,2012,
+Identifying Reusable Primitives in Narrated Demonstrations,2016,
+Combined task and motion planning system for the service robot using hierarchical action decomposition,2022,10.1007/s11370-022-00437-3
+An ontology-based approach towards coupling task and path planning for the simulation of manipulation tasks,2018,
+ToolBot: Learning Oriented Keypoints for Tool Usage From Self-Supervision,2024,10.1109/TII.2023.3271113
+ARTIFICIAL INTELLIGENCE: PHILOSOPHICAL ASPECTS OF UNDERSTANDING,2021,10.24234/wisdom.v17i1.428
+Solving hybrid control problems: Level sets and behavioral programming,2000,
+Macro-Action-Based Deep Multi-Agent Reinforcement Learning,2019,
+"Object Activity Scene Description, Construction, and Recognition",2021,10.1109/TCYB.2019.2904901
+Motion Planning for Human-Robot Collaboration based on Reinforcement Learning,2022,10.1109/CASE49997.2022.9926471
+Learning to bag with a simulation-free reinforcement learning framework for robots,2024,10.1049/csy2.12113
+Vector based Control Routines for Swarms of Path Finding Robotic Devices,2020,10.5220/0009780802720283
+Evolutionary behavior acquisition for humanoid robots,2006,
+Primitive action learning using fuzzy neural networks,2012,
+Learning Behavior Trees From Demonstration,2019,10.1109/icra.2019.8794104
+A distributed task planning system for computer-integrated manufacturing systems,1996,10.1007/BF00124830
+Animating Human Dressing,2015,10.1145/2766986
+A Task Representation Based on Elementary Targets (ETs) and Execution Control Rules (ECRs),2009,10.1109/AIM.2009.5229896
+Imitation Learning from Humanoids in a Heterogeneous Setting,2010,
+MANIPULATION AND PROPAGATION OF UNCERTAINTY AND VERIFICATION OF APPLICABILITY OF ACTIONS IN ASSEMBLY TASKS,1992,10.1109/21.199463
+A Neurodynamic Account of Spontaneous Behaviour,2011,10.1371/journal.pcbi.1002221
+From Stochastic Grammar to Bayes Network: Probabilistic Parsing of Complex Activity,2014,10.1109/CVPR.2014.338
+Asynchronous multi-agent deep reinforcement learning under partial observability,2025,10.1177/02783649241306124
+Autonomous Planning of Service Robot Based on Natural Language Tasks in Intelligent Space,2017,
+Detection of Manipulation Action Consequences (MAC),2013,10.1109/CVPR.2013.331
+Modeling and recognition of actions through motor primitives,2008,10.1109/ROBOT.2008.4543446
+What's in a Primitive? Identifying Reusable Motion Trajectories in Narrated Demonstrations,2016,
+A simplifying diagrammatic representation of crisp and fuzzy Teleo-Reactive semantic circuitry for application in robotic agent task control,1998,
+A Learned Soccer Goalkeeper Petri Net Model,2017,
+Intelligent control architecture for mobile robot based on fusion methods,1997,
+A Modified Cartesian Space DMPs Model for Robot Motion Generation,2019,10.1007/978-3-030-27529-7_7
+Robot behavioral selection using Q-learning,2002,
+Flexible Discrete-Continuous Supervisory Control for Humanoid Robots,2013,10.1524/auto.2013.0004
+Learning Bifunctional Push-grasping Synergistic Strategy for Goal-agnostic and Goal-oriented Tasks,2023,10.1109/IROS55552.2023.10342533
+Using hierarchical binary Petri nets to build robust mobile robot applications:: RoboGraph,2008,10.1109/ROBOT.2008.4543394
+Learning and Planning with Timing Information in Markov Decision Processes,2015,
+Experimental Validation of Contact Dynamics for In-Hand Manipulation,2017,10.1007/978-3-319-50115-4_55
+Semantic coupling of path planning and a primitive action of a task plan for the simulation of manipulation tasks in a virtual 3D environment,2022,10.1016/j.rcim.2021.102255
+Inferring Temporal Compositions of Actions Using Probabilistic Automata,2020,10.1109/CVPRW50498.2020.00192
+Synthesizing Manipulation Sequences for Under-Specified Tasks using Unrolled Markov Random Fields,2014,
+Coarse planning for landmark navigation in a neural-network reinforcement-learning robot,2001,
+Robot learning of manipulation activities with overall planning through precedence graph,2019,10.1016/j.robot.2019.03.011
+A Kernel-based Approach to Direct Action Perception,2012,
+DUST: Dual Union of Spatio-Temporal Subspaces for Monocular Multiple Object 3D Reconstruction,2017,10.1109/CVPR.2017.165
+Reinforcement learning with via-point representation,2004,10.1016/j.neunet.2003.11.004
+Online prediction of novel trajectories using a library of movement primitives,2024,10.1109/ICDL61372.2024.10644595
+Approximate planning for bayesian hierarchical reinforcement learning,2014,10.1007/s10489-014-0565-6
+A methodology for specifying and designing behaviors for mobile robots,2004,
+Incremental Acquisition of Verb Hypothesis Space towards Physical World Interaction,2016,
+What robots can do: robot programs and effective achievability,1998,10.1016/S0004-3702(98)00041-1
+Learning compositional models of robot skills for task and motion planning,2021,10.1177/02783649211004615
+A Rule-based Decision Subsystem Design Approach for Intelligent Robot,2009,
+GOLEX -: Bridging the gap between logic (GOLOG) and a real robot,1998,
+MAGIC: Learning Macro-Actions for Online POMDP Planning,2021,
+Compositional planning in Markov decision processes: Temporal abstraction meets generalized logic composition,2019,10.23919/acc.2019.8814646
+"ConGolog, a concurrent programming language based on the situation calculus",2000,10.1016/S0004-3702(00)00031-X
+A Modular Agent Architecture for an Autonomous Robot,2009,10.1109/TIM.2009.2016301
+Skill-Critic: Refining Learned Skills for Hierarchical Reinforcement Learning,2024,10.1109/LRA.2024.3368231
+Towards Language-Based Verification of Robot Behaviors,2011,
+Reinforcement Learning in Latent Action Sequence Space,2020,10.1109/IROS45743.2020.9341629
+Continuous Action Reinforcement Learning From a Mixture of Interpretable Experts,2022,10.1109/TPAMI.2021.3103132
+Abstract Concept Learning Approach based on Behavioural Feature Extraction,2009,10.1109/ICCEE.2009.223
+Active model learning and diverse action sampling for task and motion planning,2018,
+Transferring the semantic constraints in human manipulation behaviors to robots,2020,10.1007/s10489-019-01580-8
+Interactive Learning of Grounded Verb Semantics towards Human-Robot Communication,2017,10.18653/v1/P17-1150
+Successor Options: An Option Discovery Framework for Reinforcement Learning,2019,
+A PARALLEL DISTRIBUTED CONTROL ARCHITECTURE FOR MULTIPLE ROBOT SYSTEMS USING A NETWORK OF MICROCOMPUTERS,1994,10.1016/0360-8352(94)90238-0
+Kinodynamic Randomized Rearrangement Planning via Dynamic Transitions Between Statically Stable States,2015,
+From pixels to multi-robot decision-making: A study in uncertainty,2006,10.1016/j.robot.2006.05.010
+"Online, real-time tracking and recognition of human actions",2008,
+Learn to grasp unknown objects in robotic manipulation,2021,10.1007/s11370-021-00380-9
+Learning Push-Grasping in Dense Clutter,2022,10.1109/LRA.2022.3188437
+Integrating golog plus plus and ROS for Practical and Portable High-level Control,2020,10.5220/0008984406920699
+Exploring the Boundaries of Decidable Verification of Non-Terminating Golog Programs,2014,
+GeneWorker: An end-to-end robotic reinforcement learning approach with collaborative generator and worker networks,2024,10.1016/j.neunet.2024.106472
+Teaching Robots Parametrized Executable Plans Through Spoken Interaction,2015,
+Affordance Learning Based on Subtask's Optimal Strategy,2015,10.5772/61087
+Efficient Planning under Uncertainty with Macro-actions,2011,10.1613/jair.3171
+MOPL: A Multi-Modal Path Planner for Generic Manipulation Tasks,2015,
+Ontology based autonomous robot task processing framework,2024,10.3389/fnbot.2024.1401075
+Model Learning for Look-Ahead Exploration in Continuous Control,2019,
+Hierarchical reinforcement learning for handling sparse rewards in multi-goal navigation,2024,10.1007/s10462-024-10794-3
+Autonomous car driving by a humanoid robot,2018,10.1002/rob.21731
+Recurrent Macro Actions Generator for POMDP Planning,2023,10.1109/IROS55552.2023.10341759
+Learning Sequential Tasks Interactively from Demonstrations and Own Experience,2013,
+One-Shot Learning of Multi-Step Tasks from Observation via Activity Localization in Auxiliary Video,2019,10.1109/icra.2019.8793515
+Simultaneous completion and spatiotemporal grouping of corrupted motion tracks,2022,10.1007/s00371-021-02238-8
+Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning,1999,10.1016/S0004-3702(99)00052-1
+A novel teacher-student hierarchical approach for learning primitive information,2024,10.1016/j.eswa.2023.123129
+An ensemble method for inverse reinforcement learning,2020,10.1016/j.ins.2019.09.066
+Cooperative Multi-Robot Hierarchical Reinforcement Learning,2022,
+Robot Subgoal-guided Navigation in Dynamic Crowded Environments with Hierarchical Deep Reinforcement Learning,2023,10.1007/s12555-022-0171-z
+Natural language communication between human and artificial agents,2006,
+Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models,2024,10.1109/ICRA57147.2024.10611086
+Bootstrap learning of foundational representations,2006,10.1080/09540090600768484
+Multi-Robot Environmental Coverage With a Two-Stage Coordination Strategy via Deep Reinforcement Learning,2024,10.1109/TITS.2023.3333409
+Hierarchical Task Networks as Domain-Specific Language for Planning Surgical Interventions,2016,10.1007/978-3-319-08338-4_79
+Demonstration-Guided Reinforcement Learning with Learned Skills,2021,
+Vision-Based Robot Navigation through Combining Unsupervised Learning and Hierarchical Reinforcement Learning,2019,10.3390/s19071576
+Hierarchical multi-agent reinforcement learning,2006,10.1007/s10458-006-7035-4
+Robust Spatio-Temporal Clustering and Reconstruction of Multiple Deformable Bodies,2019,10.1109/TPAMI.2018.2823717
+A framework for building mobile single and multi-robot applications,2011,10.1016/j.robot.2011.01.004
+Robotic pick-and-place of novel objects in clutter with multi-affordance grasping and cross-domain image matching,2022,10.1177/0278364919868017
+RANDOMIZATION FOR ROBOT TASKS - USING DYNAMIC-PROGRAMMING IN THE SPACE OF KNOWLEDGE STATES,1993,10.1007/BF01891842
+Learning Primitive Actions through Object Exploration,2008,
+Imitating others by composition of primitive actions: A neuro-dynamic model,2012,10.1016/j.robot.2011.11.005
+Primitive Action Segmentation and Encoding during Gesture based Demonstration,2019,
+Primitive Action Based Combined Task and Motion Planning for the Service Robot,2022,10.3389/frobt.2022.713470
+Learning to manipulate a whip with simple primitive actions - A simulation study,2023,10.1016/j.isci.2023.107395
+Discovering Action Primitive Granularity from Human Motion for Human-Robot Collaboration,2017,
+Manipulation Planning From Demonstration Via Goal-Conditioned Prior Action Primitive Decomposition and Alignment,2022,10.1109/LRA.2021.3140127
+Task-Driven Reinforcement Learning With Action Primitives for Long-Horizon Manipulation Skills,2024,10.1109/TCYB.2023.3298195
+Door-opening behavior of an autonomous mobile manipulator by sequence of action primitives,1996,
+Motion design for autonomous mobile manipulator based on programming style action primitive,2000,
+Creative Problem Solving by Robots Using Action Primitive Discovery,2019,10.1109/devlrn.2019.8850711
+Toward Shared Autonomy Control Schemes for Human-Robot Systems: Action Primitive Recognition Using Eye Gaze Features,2020,10.3389/fnbot.2020.567571
+A morphable template framework for robot learning by demonstration: Integrating one-shot and incremental learning approaches,2014,10.1016/j.robot.2014.05.010
+Gaze-Based Shared Autonomy Framework With Real-Time Action Primitive Recognition for Robot Manipulators,2023,10.1109/TNSRE.2023.3328888
+Tactile-Informed Action Primitives Mitigate Jamming in Dense Clutter,2024,10.1109/ICRA57147.2024.10610224
+Action recognition and understanding through motor primitives,2007,10.1163/156855307782506156
+A vision-based approach for learning an elementary navigation behavior,1998,10.1117/12.325778
+Enriched Manipulation Action Semantics for Robot Execution of Time Constrained Tasks,2016,
+Learning Convolutional Action Primitives for Fine-grained Action Recognition,2016,
+Skill Memories for Parameterized Dynamic Action Primitives on the Pneumatically Driven Humanoid Robot Child Affetto,2018,
+Research on LFD System of Humanoid Dual-Arm Robot,2024,10.3390/sym16040396
+Language for Learning Complex Human-Object Interactions,2013,
+Reinforcement Learning for Vision-based Object Manipulation with Non-parametric Policy and Action Primitives,2021,10.1109/IROS51168.2021.9636563
+Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives,2021,
+A Step Toward Identification of Surgical Actions in Mastoidectomy,2010,10.1109/TBME.2009.2031982
+Tracking people and action recognition from onmidirectional images,2005,10.1016/B978-044451813-2/50039-7
+Trajectory Planning with Adaptive Control Primitives for Autonomous Surface Vehicles Operating in Congested Civilian Traffic,2014,
+Object-Oriented Option Framework for Robotics Manipulation in Clutter,2023,10.1109/IROS55552.2023.10342335
+Learning Complex Sequential Tasks from Demonstration: A Pizza Dough Rolling Case Study,2016,
+Multi-modal Intention Prediction with Probabilistic Movement Primitives,2019,10.1007/978-3-319-89327-3_14
+"Learning object, grasping and manipulation activities using hierarchical HMMs",2014,10.1007/s10514-014-9392-1
+Human-Robot Shared Control Based on Locally Weighted Intent Prediction for a Teleoperated Hydraulic Manipulator System,2022,10.1109/TMECH.2022.3157852
+Scenario based robot programming,2006,
+Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks,2023,10.1109/IROS55552.2023.10342412
+SOFTWARE ARCHITECTURE AND TASK DEFINITION OF A MULTIPLE HUMANOID COOPERATIVE CONTROL SYSTEM,2009,10.1142/S0219843609001747
+Bi-Manual Manipulation of Multi-Component Garments towards Robot-Assisted Dressing,2023,10.1109/ICRA48891.2023.10161335
+TALKER: A Task-Activated Language Model Based Knowledge-Extension Reasoning System,2025,10.1109/LRA.2024.3511434
+Towards the Grounding of Abstract Words: A Neural Network Model for Cognitive Robots,2011,
+Neuro-robotics study on integrative learning of proactive visual attention and motor behaviors,2012,10.1007/s11571-011-9176-7
+Learning Task-Based Instructional Policy for Excavator-Like Robots,2018,
+Developmental Action Perception for Manipulative Interaction,2013,
+An Affordance-Based Pilot Interface for High-Level Control of Humanoid Robots in Supervised Autonomy,2016,
+A Compositional Approach for 3D Arm-Hand Action Recognition,2013,
+Action Planning for Packing Long Linear Elastic Objects Into Compact Boxes With Bimanual Robotic Manipulation,2023,10.1109/TMECH.2022.3223990
+The grounding of higher order concepts in action and language: A cognitive robotics model,2012,10.1016/j.neunet.2012.02.012
+Knowledge Sharing Enabled Multirobot Collaboration for Preventive Maintenance in Mixed Model Assembly,2022,10.1109/TII.2022.3158978
+SpeedFolding: Learning Efficient Bimanual Folding of Garments,2022,10.1109/IROS47612.2022.9981402
+Effect Regulated Projection of Robot's Action Space for Production and Prediction of Manipulation Primitives Through Learning Progress and Predictability-Based Exploration,2021,10.1109/TCDS.2019.2933900
+Toward Affordance Detection and Ranking on Novel Objects for Real-World Robotic Manipulation,2019,10.1109/LRA.2019.2930364
+Intrinsically Motivated Open-Ended Multi-Task Learning Using Transfer Learning to Discover Task Hierarchy,2021,10.3390/app11030975
+Task-Learning Policies for Collaborative Task Solving in Human-Robot Interaction,2012,
+Development of a Robotic Bin Picking Approach Based on Reinforcement Learning,2024,10.1007/978-3-031-47062-2_5
+Bi-Manual Robot Shoe Lacing,2023,10.1109/IROS55552.2023.10341934
+Autonomous Needle Manipulation for Robotic Surgical Suturing Based on Skills Learned from Demonstration,2021,10.1109/CASE49439.2021.9551569
+Hopfield Net spreading activation for grounding of abstract action words in cognitive robot,2017,10.1016/j.bica.2017.07.004
+Hierarchical Policy Learning for Mechanical Search,2022,10.1109/ICRA46639.2022.9811572
+Modeling manipulation interactions by hidden Markov models,2002,
+GE-Grasp: Efficient Target-Oriented Grasping in Dense Clutter,2022,10.1109/IROS47612.2022.9981499
+Telepresence Technology for Production: From Manual to Automated Assembly,2010,
+Toward Autonomous Car Driving by a Humanoid Robot: A Sensor-Based Framework,2014,
+Motion intention recognition in robot assisted applications,2008,10.1016/j.robot.2007.11.005
+Emotion-Aware System for Upper Extremity Rehabilitation,2009,10.1109/ICVR.2009.5174225
+Robotic Tasks Using Discrete Event Controller,2008,
+Resolution-adaptive risk-aware trajectory planning for surface vehicles operating in congested civilian traffic,2016,10.1007/s10514-015-9529-x
+Keypoint-Based Planar Bimanual Shaping of Deformable Linear Objects Under Environmental Constraints With Hierarchical Action Framework,2022,10.1109/LRA.2022.3154842
+Temporal Motion Recognition and Segmentation Approach,2009,10.1002/ima.20183
+"Scenario controller for daily assistive humanoid using visual verification, task planning and situation reasoning",2008,10.3233/978-1-58603-887-8-398
+Autonomous Bi-Manual Surgical Suturing Based on Skills Learned from Demonstration,2021,10.1109/IROS51168.2021.9636432
+Building an Affordances Map With Interactive Perception,2022,10.3389/fnbot.2022.504459
+Learning to Pick by Digging: Data-Driven Dig-Grasping for Bin Picking from Clutter,2022,10.1109/ICRA46639.2022.9811736
+Total Singulation With Modular Reinforcement Learning,2021,10.1109/LRA.2021.3062295
+Action-based sensor space segmentation for soccer robot learning,1998,10.1080/088395198117802
+"Towards a Platform-Independent Cooperative Human-Robot Interaction System: II. Perception, Execution and Imitation of Goal Directed Actions",2011,
+Multiple Humanoid Cooperative Control System for Heterogeneous Humanoid Team,2008,
+Learning Generalizable Control Programs,2011,10.1109/TAMD.2010.2103311
+Towards Open-Set NLP-Based Multi-Level Planning for Robotic Tasks,2024,10.3390/app142210717
+Unsupervised Learning of Neuro-symbolic Rules for Generalizable Context-aware Planning in Object Arrangement Tasks,2024,10.1109/ICRA57147.2024.10610696
+A new paradigm for autonomous human motion description and evaluation: Application to the Get Up & Go test use case,2019,10.1016/j.patrec.2018.02.003
+Hierarchical and parameterized learning of pick-and-place manipulation from under-specified human demonstrations,2020,10.1080/01691864.2020.1778523
+Physical Action Primitives for Collaborative Decision Making in Human-Human Manipulation,2021,10.1109/RO-MAN50785.2021.9515363
+An object-oriented approach using a top-down and bottom-up process for manipulative action recognition,2006,
+Computational Modeling of Embodied Visual Perspective Taking,2020,10.1109/TCDS.2019.2949861
+Going Cognitive: A Demonstration of the Utility of Task-General Cognitive Architectures for Adaptive Robotic Task Performance,2020,10.1109/IROS45743.2020.9340863
+Information-driven Affordance Discovery for Efficient Robotic Manipulation,2024,10.1109/ICRA57147.2024.10611170
+Human hand movement recognition using infinite hidden Markov model based sEMG classification,2021,10.1016/j.bspc.2021.102592
+"Development of an Autonomous, Explainable, Robust Robotic System for Electric Vehicle Battery Disassembly",2023,10.1109/AIM46323.2023.10196256
+Local Contextual Trajectory Estimation with Demonstration for Assisting Mobile Robot Teleoperation,2017,
+Action-based sensor space categorization for robot learning,1996,
+Human Hand Movement Recognition based on HMM with Hyperparameters Optimized by Maximum Mutual Information,2020,
+Arm-Hand Behaviours Modelling: From Attention to Imitation,2010,
+Constrained Hierarchical Monte Carlo Belief-State Planning,2024,10.1109/ICRA57147.2024.10611223
+Toward a library of manipulation actions based on semantic object-action relations,2013,
+Purposive behavior acquisition for a real robot by vision-based reinforcement learning,1996,10.1007/BF00117447
+Layered HMM for motion intention recognition,2006,10.1109/IROS.2006.282606
+Modeling Long-horizon Tasks as Sequential Interaction Landscapes,2020,
+DASP: Hierarchical Offline Reinforcement Learning via Diffusion Autodecoder and Skill Primitive,2025,10.1109/LRA.2024.3522842
+Action similarity judgment based on kinematic primitives,2020,10.1109/icdl-epirob48136.2020.9278047
+M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place,2023,
+Action representations in robotics: A taxonomy and systematic classification,2019,10.1177/0278364919835020
+PLOT: Human-Like Push-Grasping Synergy Learning in Clutter With One-Shot Target Recognition,2024,10.1109/TCDS.2024.3357084
+Learning Actions from observations Primitive-Based Modeling and Grammar,2010,10.1109/MRA.2010.936961
+Probabilistic semantic models for manipulation action representation and extraction,2015,10.1016/j.robot.2014.11.012
+Learning Bifunctional Push-Grasping Synergistic Strategy for Goal-Agnostic and Goal-Oriented Tasks,2023,10.1109/IROS55552.2023.10342533
+Collaborative Pushing and Grasping in Complex Scenarios via a Generator-Evaluator Network with Multiple Action Primitives,2025,10.1007/978-981-96-0777-8_26
+A3VLM: Actionable Articulation-Aware Vision Language Model,2024,
+Dynamic Cloth Folding Using Curriculum Learning; [使用课程学习的动态布料折叠],2024,10.1007/s12204-024-2710-7
+Total singulation with modular reinforcement learning,2021,10.1109/LRA.2021.3062295
+Inferring temporal compositions of actions using probabilistic automata,2020,10.1109/CVPRW50498.2020.00192
+"ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real",2024,
+A Methods-Time-Measurement based Approach to enable Action Recognition for Multi-Variant Assembly in Human-Robot Collaboration,2022,10.1016/j.procir.2022.02.184
+Interaction Primitives for Robotic Manipulation Based on the Contact State,2022,10.1109/CACRE54574.2022.9834102
+Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1),2024,10.1109/IROS58592.2024.10802225
+"Fast Exploration Using Multirotors: Analysis, Planning, and Experimentation",2021,10.1007/978-981-15-9460-1_21
+Natural language conditioned planning of complex robotics tasks,2023,
+"15th International Conference on Social Robotics, ICSR 2023",2024,
+Self-Supervised Learning of Grasping Arbitrary Objects On-the-Move,2025,10.1109/SII59315.2025.10871085
+Action Primitive Classification of Sewing Operations toward Training Unskilled Workers,2023,10.1109/ICMA57826.2023.10215875
+V2A - Vision to Action: Learning Robotic Arm Actions Based on Vision and Language,2021,10.1007/978-3-030-69535-4_44
+Going cognitive: A demonstration of the utility of task-general cognitive architectures for adaptive robotic task performance,2020,10.1109/IROS45743.2020.9340863
+"2024 IEEE-RAS 23rd International Conference on Humanoid Robots, Humanoids 2024",2024,
+Keypoint-Based Planar Bimanual Shaping of Deformable Linear Objects under Environmental Constraints with Hierarchical Action Framework,2022,10.1109/LRA.2022.3154842
+A novel teacher–student hierarchical approach for learning primitive information,2024,10.1016/j.eswa.2023.123129
+Differentiable Task Assignment and Motion Planning,2023,10.1109/IROS55552.2023.10341602
+Reinforcement learning in latent action sequence space,2020,10.1109/IROS45743.2020.9341629
+"Parametrization of Compliant, Object-Level Controllers from Human Demonstrations",2022,10.1007/978-3-031-08140-8_42
+Effect Regulated Projection of Robot's Action Space for Production and Prediction of Manipulation Primitives through Learning Progress and Predictability-Based Exploration,2021,10.1109/TCDS.2019.2933900
+Computational modeling of embodied visual perspective taking,2020,10.1109/TCDS.2019.2949861
+Interactive learning for multi-finger dexterous hand: A model-free hierarchical deep reinforcement learning approach,2024,10.1016/j.knosys.2024.111847
+Primitive Action Recognition Based on Semantic Facts,2024,10.1007/978-981-99-8715-3_29
+From human-human collaboration to human-robot collaboration: automated generation of assembly task knowledge model,2022,10.1109/ICAC55051.2022.9911131
+Skill Manipulation Method of Industrial Robot Based on Knowledge Graph for Assembly Scene,2023,10.1007/978-981-99-2789-0_24
+Task-Driven Reinforcement Learning with Action Primitives for Long-Horizon Manipulation Skills,2024,10.1109/TCYB.2023.3298195
+Learning to manipulate a whip with simple primitive actions – A simulation study,2023,10.1016/j.isci.2023.107395
+Online Prediction of Novel Trajectories Using a Library of Movement Primitives,2024,10.1109/ICDL61372.2024.10644595
+Physical action primitives for collaborative decision making in human-human manipulation,2021,10.1109/RO-MAN50785.2021.9515363
+“Artificial intelligence”: Philosophical aspects of understanding,2021,10.24234/wisdom.v17i1.428
+Learning Insertion Primitives with Discrete-Continuous Hybrid Action Space for Robotic Assembly Tasks,2022,10.1109/ICRA46639.2022.9811973
+Multi-Robot Environmental Coverage with a Two-Stage Coordination Strategy via Deep Reinforcement Learning,2024,10.1109/TITS.2023.3333409
+CORN: CONTACT-BASED OBJECT REPRESENTATION FOR NONPREHENSILE MANIPULATION OF GENERAL UNSEEN OBJECTS,2024,
+VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation,2024,
+Intrinsically motivated open-ended multi-task learning using transfer learning to discover task hierarchy,2021,10.3390/app11030975
+Abstract Meaning Representation for Grounded Human-Robot Communication,2023,
+Handling the Transition in the Locomotion of an Articulated Quadruped Robot by Adaptive CPG,2020,
+How can the programming of impedance control be simplified?,2020,10.1016/j.procir.2020.05.236
+Temporal motion recognition and segmentation approach,2009,10.1002/ima.20183
+Learning primitive actions through object exploration,2008,10.1109/ICHR.2008.4755978
+Applications in HHI: Physical Cooperation,2018,10.1007/978-94-007-6046-2_129
+Learning sequential tasks interactively from demonstrations and own experience,2013,10.1109/IROS.2013.6696816
+Trajectory planning with adaptive control primitives for autonomous surface vehicles operating in congested civilian traffic,2014,10.1109/IROS.2014.6942875
+Vision-based robot navigation through combining unsupervised learning and hierarchical reinforcement learning,2019,10.3390/s19071576
+Human behavior analysis with optical flow and median-filtered Temporal Motion Segmentation method,2010,
+"13th European Conference on Computer Vision, ECCV 2014",2015,
+Incremental acquisition of verb hypothesis space towards physical world interaction,2016,10.18653/v1/p16-1011
+Robot learning from human teachers,2014,10.2200/S00568ED1V01Y201402AIM028
+An Ontology-Based Approach Towards Coupling Task and Path Planning for the Simulation of Manipulation Tasks,2019,10.1109/AICCSA.2018.8612805
+"Towards a platform-independent cooperative human-robot interaction system: II. Perception, execution and imitation of goal directed actions",2011,10.1109/IROS.2011.6048351
+Synthesizing manipulation sequences for under-specified tasks using unrolled Markov Random Fields,2014,10.1109/IROS.2014.6942972
+Parametric primitives for hand gesture recognition,2009,
+A modified cartesian space DMPs model for robot motion generation,2019,10.1007/978-3-030-27529-7_7
+Teaching robots parametrized executable plans through spoken interaction,2015,
+A modular agent architecture for an autonomous robot,2009,10.1109/TIM.2009.2016301
+A rule-based decision subsystem design approach for intelligent robot,2009,10.1109/CCCM.2009.5267511
+Software architecture and task definition of a multiple humanoid cooperative control system,2009,10.1142/S0219843609001747
+Detection of manipulation action consequences (MAC),2013,10.1109/CVPR.2013.331
+Learning generalizable control programs,2011,10.1109/TAMD.2010.2103311
+Autonomous planning of service robot based on natural language tasks in intelligent space,2017,10.1109/CAC.2017.8243748
+Flexible discrete-continuous supervisory control for humanoid robots; [Flexible diskret-kontinuierliche überwachung und regelung humanoider roboter],2013,10.1524/auto.2013.0004
+A neurodynamic account of spontaneous behaviour,2011,10.1371/journal.pcbi.1002221
+Learning behavior trees from demonstration,2019,10.1109/ICRA.2019.8794104
+Emotion-aware system for upper extremity rehabilitation,2009,10.1109/ICVR.2009.5174225
+A kernel-based approach to direct action perception,2012,10.1109/ICRA.2012.6224957
+Attention-based robot learning of haptic interaction,2020,10.1007/978-3-030-58147-3_51
+A task representation based on elementary targets (ETs) and execution control rules (ECRs),2009,10.1109/AIM.2009.5229896
+Exploring the boundaries of decidable verification of non-terminating golog programs,2014,
+An affordance-based pilot interface for high-level control of humanoid robots in supervised autonomy,2016,10.1109/HUMANOIDS.2016.7803339
+Successor options: An option discovery framework for reinforcement learning,2019,10.24963/ijcai.2019/458
+Kinodynamic randomized rearrangement planning via dynamic transitions between statically stable states,2015,10.1109/ICRA.2015.7139621
+Enriched manipulation action semantics for robot execution of time constrained tasks,2016,10.1109/HUMANOIDS.2016.7803262
+Unsupervised learning of action primitives,2010,10.1109/ICHR.2010.5686309
+MOPL: A multi-modal path planner for generic manipulation tasks,2015,10.1109/IROS.2015.7354263
+MGHRL: Meta Goal-Generation for Hierarchical Reinforcement Learning,2020,10.1007/978-3-030-64096-5_3
+Interactive learning of grounded verb semantics towards human-robot communication,2017,10.18653/v1/P17-1150
+Integrating golog++ and ROS for practical and portable high-level control,2020,
+A Message Passing XSet for Path Finding Robotic Devices,2019,10.1109/IMITEC45504.2019.9015862
+Imitation learning from humanoids in a heterogeneous setting,2010,10.1007/978-3-642-15810-0_14
+Achieving robustness by optimizing failure behavior,2017,10.1109/ICRA.2017.7989681
+Abstract concept learning approach based on behavioural feature extraction,2009,10.1109/ICCEE.2009.223
+Learning convolutional action primitives for fine-grained action recognition,2016,10.1109/ICRA.2016.7487305
+Picking up a towel by cooperation of functional finger actions,2009,10.1109/IROS.2009.5354783
+Learning complex sequential tasks from demonstration: A pizza dough rolling case study,2016,10.1109/HRI.2016.7451881
+A compositional approach for 3D arm-hand action recognition,2013,10.1109/WORV.2013.6521926
+Skill memories for parameterized dynamic action primitives on the pneumatically driven humanoid robot child affetto,2018,10.1109/DEVLRN.2018.8761040
+Task-learning policies for collaborative task solving in human-robot interaction,2012,10.1145/2388676.2388752
+Human-like action segmentation for option learning,2011,10.1109/ROMAN.2011.6005277
+Arm-hand behaviours modelling: From attention to imitation,2010,10.1007/978-3-642-17274-8_60
+Planning with sensing actions and individual knowledge of agent,2009,10.1109/ICIECS.2009.5363770
+From stochastic grammar to bayes network: Probabilistic parsing of complex activity,2014,10.1109/CVPR.2014.338
+Task Generalization of Robots Based on Parameterized Learning of Multi-demonstration Action Primitives; [基于多演示动作基元参数化学习的机器人任务泛化],2019,10.13973/j.cnki.robot.180805
+Developmental action perception for manipulative interaction,2013,10.1109/ICRA.2013.6631287
+Towards the grounding of abstract words: A Neural Network model for cognitive robots,2011,10.1109/IJCNN.2011.6033258
+Multiple humanoid cooperative control system for heterogeneous humanoid team,2008,10.1109/ROMAN.2008.4600671
+Efficient planning under uncertainty with macro-actions,2011,10.1613/jair.3171
+Identifying reusable primitives in narrated demonstrations,2016,10.1109/HRI.2016.7451815
+Learning and planning with timing information in Markov decision processes,2015,
+Novelty based learning of primitive manipulation strategies,2012,
+Inference-Enabled Information-Theoretic Exploration of Continuous Action Spaces,2018,10.1007/978-3-319-60916-4_24
+Discovering action primitive granularity from human motion for human-robot collaboration,2017,
+Toward autonomous car driving by a humanoid robot: A sensor-based framework,2015,10.1109/HUMANOIDS.2014.7041400
+Active Model Learning and Diverse Action Sampling for Task and Motion Planning,2018,10.1109/IROS.2018.8594027
+Local contextual trajectory estimation with demonstration for assisting mobile robot teleoperation,2017,10.1109/ECMR.2017.8098654
+Planning for Manipulation of Interlinked Deformable Linear Objects with Applications to Aircraft Assembly,2018,10.1109/TASE.2018.2811626
+A learned soccer goalkeeper Petri net model,2017,10.1109/RIOS.2017.7956451
+Towards language-based verification of robot behaviors,2011,10.1109/IROS.2011.6048677
+Vector based control routines for swarms of path finding robotic devices,2020,10.5220/0009780802720283
+Inferring robot actions from verbal commands using shallow semantic parsing,2019,
+Learning of object manipulation operations from continuous multimodal input,2011,10.1109/Humanoids.2011.6100880
+Language for learning complex human-object interactions,2013,10.1109/ICRA.2013.6631291
+Extracting and generalizing primitive actions from sparse demonstration,2011,10.1109/Humanoids.2011.6100868
+Concurrent task programming of robotic agents in TeleoR,2017,
+One-shot learning of multi-step tasks from observation via activity localization in auxiliary video,2019,10.1109/ICRA.2019.8793515
+Extraction of human behavior from human activity monitoring data using MEMS sensors,2011,10.1109/RIISS.2011.5945784
+"Motion design for autonomous mobile manipulator based on programming style ""action primitive""",2000,10.1109/IECON.2000.973183
+Learning turn and travel actions with an uninterpreted sensorimotor apparatus,1991,
+Solving hybrid control problems: level sets and behavioral programming,2000,
+"Modelling, analysis and execution of multi-robot tasks using Petri nets",2008,
+Topological maps for visual navigation?,1999,10.1007/3-540-49256-9_2
+ROBOT PROGRAMMING ASSISTANT: A NEW APPROACH TO ASSEMBLY ROBOT PROGRAMMING.,1983,
+Task learning using graphical programming and human demonstrations,2006,10.1109/ROMAN.2006.314466
+Task planning in an uncertain world,1991,
+Sensor robotics in the national bureau of standards,1983,10.1117/12.934079
+Using hierarchical binary Petri nets to build robust mobile robot applications: RoboGraph,2008,10.1109/ROBOT.2008.4543394
+Manipulation and Propagation of Uncertainty and Verification of Applicability of Actions in Assembly Tasks,1992,10.1109/21.199463
+Randomization for robot tasks: Using dynamic programming in the space of knowledge states,1993,10.1007/BF01891842
+LISP-BASED ROBOT CONTROL SYSTEM.,1984,
+Robotic task planning: Independent of agents but dependent on time,1989,
+Simplifying diagrammatic representation of crisp and fuzzy Teleo-Reactive semantic circuitry for application in robotic agent task control,1998,
+A parallel distributed control architecture for multiple robot systems using a network of microcomputers,1994,10.1016/0360-8352(94)90238-0
+Learning a Set of Primitive Actions with an Uninterpreted Sensorimotor Apparatus,1991,10.1016/B978-1-55860-200-7.50070-2
+Taxonomy of Atomic Actions for Home-Service Robots,2005,10.20965/jaciii.2005.p0114
+Programming of robots for assembly tasks by automatically generated primitive action networks; [Roboterprogrammierung für Montageaufgaben Durch Automatisch Generierte Aktionsprimitivnetze],2008,
+Integrating true concurrency into the robot programming language GOLOG,1999,10.1109/SCCC.1999.810185
+Achieving Goals Through Interaction with Sensors and Actuators,1992,10.1109/IROS.1992.594500
+Behavioural cloning in control of a dynamic system,1995,
+Task Execution: Interfacing to Reactive Skill Networks,1995,
+Becoming Knowingly Interactive with Sensors and Actuators,1992,
+GOLEX m bridging the gap between logic (GOLOG) and a real robot,1998,10.1007/BFb0095437
+"Knowledge, execution, and what sufficiently describes sensors and actuators",1993,
+Sensory Interactive Robots,1981,10.1016/S0007-8506(07)60167-X
+Propositional logic applied to execution control,1992,10.1109/IROS.1992.587357
+Vision-based reinforcement learning for purposive behavior acquisition,1995,
+Building symbolic primitives with continuous control routines,1992,10.1016/b978-0-08-049944-4.50013-6
+Using stochastic grammars to learn robotic tasks,1995,
+What robots can do: Robot programs and effective achievability,1998,10.1016/s0004-3702(98)00041-1
+A deductive solution for plan generation,1986,10.1007/BF03037438
+AN EXPERIMENT IN ROBOT TOOL USING,1970,
+Ethological modeling and architecture for an entertainment robot,2001,10.1109/ROBOT.2001.932592
+Designing strategy and implementation of mobile manipulator control system for opening door,1996,
+Planning and Plan Recognition,1988,10.1002/j.1538-7305.1988.tb00231.x
+A method to define agricultural robot behaviours,2004,

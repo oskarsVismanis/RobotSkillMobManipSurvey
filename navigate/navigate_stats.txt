@@ -1,0 +1,28 @@
+Removed 11 duplicate(s)
+After deduplication: 9 records
+Data sorted by year (newest first), then by title
+Successfully saved 9 records to /home/oskars/Research/RobotSkillMobManipSurvey/navigate/navigate_combined_data.xlsx
+
+Summary:
+Total records: 9
+Columns: 27
+Files processed: 4 (3 RIS, 1 ENW)
+
+Records by format:
+  RIS: 8 records
+  ENW: 1 records
+
+Year statistics:
+  Year range: 1998 - 2021
+  Records with valid years: 9
+  Records missing years: 0
+  Most common years:
+    2021: 1 records
+    2018: 1 records
+    2017: 1 records
+    2014: 2 records
+    2012: 1 records
+    2010: 1 records
+    2005: 1 records
+    1998: 1 records
+

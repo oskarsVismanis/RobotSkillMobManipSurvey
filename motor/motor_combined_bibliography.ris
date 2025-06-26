@@ -1,0 +1,3935 @@
+TY  - JOUR
+TI  - Stable heteroclinic channels for controlling a simulated aquatic serpentine robot in narrow crevices
+AU  - Mengers, N
+AU  - Rouse, N
+AU  - Daltorio, KA
+PY  - 2025
+VL  - 6
+DO  - 10.3389/felec.2025.1507644
+ER  - 
+
+TY  - JOUR
+TI  - Controlling Musculoskeletal System with Spinal Cord-Inspired Constraint Force Field Primitives
+AU  - Zhong, S.
+AU  - Wu, Y.
+AU  - Wu, W.
+AU  - Qiao, H.
+PY  - 2024
+VL  - 12
+IS  - 2
+SP  - 293.0
+EP  - 304
+DO  - 10.1142/S2301385024410115
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85187529029&doi=10.1142%2fS2301385024410115&partnerID=40&md5=50d0471069777c12bca4863571042fc7
+ER  - 
+
+TY  - JOUR
+TI  - Human arm redundancy: a new approach for the inverse kinematics problem
+AU  - Barliya, A
+AU  - Krausz, N
+AU  - Naaman, H
+AU  - Chiovetto, E
+AU  - Giese, M
+AU  - Flash, T
+PY  - 2024
+VL  - 11
+IS  - 2
+DO  - 10.1098/rsos.231036
+ER  - 
+
+TY  - CONF
+TI  - Imitation Learning Control Strategy Based on Probabilistic Motor primitive for Upper Limb Rehabilitation Training
+AU  - P. Xie
+AU  - S. Huang
+AU  - C. Lv
+AU  - L. Xie
+JO  - 2024 IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM)
+PY  - 8-11 Aug. 2024
+SP  - 1.0
+EP  - 6
+DO  - 10.1109/CIS-RAM61939.2024.10673394
+ER  - 
+
+TY  - JOUR
+TI  - Motion Learning and Generalization of Musculoskeletal Robot Using Gain Primitives
+AU  - S. Zhong
+AU  - W. Wu
+JO  - IEEE Transactions on Automation Science and Engineering
+PY  - April 2024
+VL  - 21
+IS  - 2
+SP  - 1580.0
+EP  - 1591
+DO  - 10.1109/TASE.2023.3249228
+ER  - 
+
+TY  - JOUR
+TI  - Motion Learning for Musculoskeletal Robots Based on Cortex-Inspired Motor Primitives and Modulation
+AU  - X. Wang
+AU  - J. Chen
+AU  - W. Wu
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+PY  - April 2024
+VL  - 16
+IS  - 2
+SP  - 744.0
+EP  - 756
+DO  - 10.1109/TCDS.2023.3293097
+ER  - 
+
+TY  - JOUR
+TI  - Robot control based on motor primitives: A comparison of two approaches
+AU  - Nah, M.C.
+AU  - Lachner, J.
+AU  - Hogan, N.
+PY  - 2024
+VL  - 43
+IS  - 12
+SP  - 1959.0
+EP  - 1991
+DO  - 10.1177/02783649241258782
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196501072&doi=10.1177%2f02783649241258782&partnerID=40&md5=d30fb9242323e0e809948814ccdb7c2d
+ER  - 
+
+TY  - CONF
+TI  - SLIM: Skill Learning with Multiple Critics
+AU  - D. Emukpere
+AU  - B. Wu
+AU  - J. Perez
+AU  - J. -M. Renders
+JO  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 13-17 May 2024
+SP  - 9161.0
+EP  - 9167
+DO  - 10.1109/ICRA57147.2024.10610691
+ER  - 
+
+TY  - CPAPER
+TI  - Self-organized Attractoring in Locomoting Animals and Robots: An Emerging Field
+AU  - Sándor, B
+AU  - Gros, C
+PY  - 2024
+VL  - 15025
+SP  - 324.0
+EP  - 338
+DO  - 10.1007/978-3-031-72359-9_24
+ER  - 
+
+TY  - CONF
+TI  - Self-organized Attractoring in Locomoting Animals and Robots: An Emerging Field
+AU  - Sándor, B.
+AU  - Gros, C.
+PY  - 2024
+VL  - 15025 LNCS
+SP  - 324.0
+EP  - 338
+DO  - 10.1007/978-3-031-72359-9_24
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85205341227&doi=10.1007%2f978-3-031-72359-9_24&partnerID=40&md5=ca220d768f10ef11aa5ad5f7c2b1fbdc
+ER  - 
+
+TY  - JOUR
+TI  - SynergyAnalyzer: A Matlab toolbox implementing mixed-matrix factorization to identify kinematic-muscular synergies
+AU  - Russo, M
+AU  - Scano, A
+AU  - Brambilla, C
+AU  - d'Avella, A
+PY  - 2024
+VL  - 251
+DO  - 10.1016/j.cmpb.2024.108217
+ER  - 
+
+TY  - CONF
+TI  - Bimanual Rope Manipulation Skill Synthesis through Context Dependent Correction Policy Learning from Human Demonstration
+AU  - B. Akbulut
+AU  - T. Girgin
+AU  - A. Mehrabi
+AU  - M. Asada
+AU  - E. Ugur
+AU  - E. Oztop
+JO  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 29 May-2 June 2023
+SP  - 3904.0
+EP  - 3910
+DO  - 10.1109/ICRA48891.2023.10160895
+ER  - 
+
+TY  - CONF
+TI  - Deep Probabilistic Movement Primitives with a Bayesian Aggregator
+AU  - M. Przystupa
+AU  - F. Haghverd
+AU  - M. Jagersand
+AU  - S. Tosatto
+JO  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+PY  - 1-5 Oct. 2023
+SP  - 3704.0
+EP  - 3711
+DO  - 10.1109/IROS55552.2023.10342441
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic movement primitives in robotics: A tutorial survey
+AU  - Saveriano, M.
+AU  - Abu-Dakka, F.J.
+AU  - Kramberger, A.
+AU  - Peternel, L.
+PY  - 2023
+VL  - 42
+IS  - 13
+SP  - 1133.0
+EP  - 1184
+DO  - 10.1177/02783649231201196
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171406570&doi=10.1177%2f02783649231201196&partnerID=40&md5=90bb955309506fa68eeee8ef67c0d2a3
+ER  - 
+
+TY  - CPAPER
+TI  - MimicPlay: Long-Horizon Imitation Learning by Watching Human Play
+AU  - Wang, C
+AU  - Fan, LX
+AU  - Sun, JK
+AU  - Zhang, RH
+AU  - Li, FF
+AU  - Xu, DF
+AU  - Zhu, YK
+AU  - Anandkumar, A
+PY  - 2023
+VL  - 229
+ER  - 
+
+TY  - JOUR
+TI  - Motor control insights on walking planner and its stability
+AU  - Tiseo, C.
+AU  - Veluvolu, K.C.
+AU  - Tech Ang, W.
+PY  - 2023
+VL  - 5
+IS  - 2
+DO  - 10.1088/2631-8695/accb27
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85153671753&doi=10.1088%2f2631-8695%2faccb27&partnerID=40&md5=608a83ab58fd1703fcef1708d327042c
+ER  - 
+
+TY  - CONF
+TI  - One-shot Visual Imitation via Attributed Waypoints and Demonstration Augmentation
+AU  - M. Chang
+AU  - S. Gupta
+JO  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 29 May-2 June 2023
+SP  - 5055.0
+EP  - 5062
+DO  - 10.1109/ICRA48891.2023.10160944
+ER  - 
+
+TY  - CONF
+TI  - Simplified Motor Primitives for Gait Symmetrization: Pilot Study with an Active Hip Orthosis
+AU  - H. Laloyaux
+AU  - C. Livolsi
+AU  - A. Pergolini
+AU  - S. Crea
+AU  - N. Vitiello
+AU  - R. Ronsse
+JO  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 29 May-2 June 2023
+SP  - 10436.0
+EP  - 10442
+DO  - 10.1109/ICRA48891.2023.10160837
+ER  - 
+
+TY  - JOUR
+TI  - Tactile Features of Human Finger Contact Motor Primitives
+AU  - Q. Tian
+AU  - J. Liu
+AU  - K. Liu
+AU  - S. Guo
+JO  - IEEE Transactions on Haptics
+PY  - Oct.-Dec. 2023
+VL  - 16
+IS  - 4
+SP  - 848.0
+EP  - 860
+DO  - 10.1109/TOH.2023.3332402
+ER  - 
+
+TY  - JOUR
+TI  - The neuromechanics of animal locomotion: From biology to robotics and back
+AU  - Ramdya, P
+AU  - Ijspeert, AJ
+PY  - 2023
+VL  - 8
+IS  - 78
+DO  - 10.1126/scirobotics.adg0279
+ER  - 
+
+TY  - CONF
+TI  - Trajectory planning for robot arm based on the Improved Mixture of Motors Primitives
+AU  - Wang, S.
+AU  - Yuan, Y.
+AU  - Shi, H.
+AU  - Zhong, Y.
+PY  - 2023
+SP  - 129.0
+EP  - 134
+DO  - 10.1109/ICMA57826.2023.10216231
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85170825908&doi=10.1109%2fICMA57826.2023.10216231&partnerID=40&md5=84b81eb40c25c1454ee7b10730d9f7c6
+ER  - 
+
+TY  - CONF
+TI  - 27th Brazilian Congress on Biomedical Engineering, CBEB 2020
+PY  - 2022
+VL  - 83
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128970570&partnerID=40&md5=7e3b777cea6c5d84caa214cdc55c4246
+ER  - 
+
+TY  - JOUR
+TI  - A Comparison of Dynamical Perceptual-Motor Primitives and Deep Reinforcement Learning for Human-Artificial Agent Training Systems
+AU  - Rigoli, L.
+AU  - Patil, G.
+AU  - Nalepka, P.
+AU  - Kallen, R.W.
+AU  - Hosking, S.
+AU  - Best, C.
+AU  - Richardson, M.J.
+PY  - 2022
+VL  - 16
+IS  - 2
+SP  - 79.0
+EP  - 100
+DO  - 10.1177/15553434221092930
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129529635&doi=10.1177%2f15553434221092930&partnerID=40&md5=03b942650d24f80f556974bd79d99201
+ER  - 
+
+TY  - JOUR
+TI  - A unified scheme for the benchmarking of upper limb functions in neurological disorders
+AU  - Longatelli, V.
+AU  - Torricelli, D.
+AU  - Tornero, J.
+AU  - Pedrocchi, A.
+AU  - Molteni, F.
+AU  - Pons, J.L.
+AU  - Gandolla, M.
+PY  - 2022
+VL  - 19
+IS  - 1
+DO  - 10.1186/s12984-022-01082-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85138852335&doi=10.1186%2fs12984-022-01082-8&partnerID=40&md5=31c3943226bcf79c4910edabc6734eed
+ER  - 
+
+TY  - CONF
+TI  - Agile and Intelligent Control based on Geometric Motion Primitives for Robotic Arms
+AU  - D. Xiong
+AU  - H. Man
+AU  - W. Han
+AU  - Y. Huang
+JO  - 2022 China Automation Congress (CAC)
+PY  - 25-27 Nov. 2022
+SP  - 6179.0
+EP  - 6184
+DO  - 10.1109/CAC57257.2022.10054971
+ER  - 
+
+TY  - CPAPER
+TI  - Analysis of Matrix Factorization Techniques for Extraction of Motion Motor Primitives
+AU  - Nunes, PF
+AU  - Ostan, I
+AU  - dos Santos, WM
+AU  - Siqueira, AAG
+PY  - 2022
+SP  - 621.0
+EP  - 627
+DO  - 10.1007/978-3-030-70601-2_95
+ER  - 
+
+TY  - JOUR
+TI  - Characterization and Categorization of Various Human Lower Limb Movements Based on Kinematic Synergies
+AU  - Huang, B
+AU  - Chen, WB
+AU  - Liang, JJY
+AU  - Cheng, LF
+AU  - Xiong, CH
+PY  - 2022
+VL  - 9
+DO  - 10.3389/fbioe.2021.793746
+ER  - 
+
+TY  - CPAPER
+TI  - Control Design Inspired by Motors Primitives to Coordinate the Functioning of an Active Knee Orthosis for Robotic Rehabilitation
+AU  - Nunes, PF
+AU  - Mosconi, D
+AU  - Ostan, I
+AU  - Siqueira, AAG
+PY  - 2022
+SP  - 629.0
+EP  - 635
+DO  - 10.1007/978-3-030-70601-2_96
+ER  - 
+
+TY  - CONF
+TI  - Control Design Inspired by Motors Primitives to Coordinate the Functioning of an Active Knee Orthosis for Robotic Rehabilitation
+AU  - Nunes, P.F.
+AU  - Mosconi, D.
+AU  - Ostan, I.
+AU  - Siqueira, A.A.G.
+PY  - 2022
+VL  - 83
+SP  - 629.0
+EP  - 635
+DO  - 10.1007/978-3-030-70601-2_96
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128983185&doi=10.1007%2f978-3-030-70601-2_96&partnerID=40&md5=4cdeb8bc71175e4a55d7c8176f4b79f9
+ER  - 
+
+TY  - JOUR
+TI  - Evidence for basic units of upper limb muscle synergies underlying a variety of complex human manipulations
+AU  - Saito, H
+AU  - Yokoyama, H
+AU  - Sasaki, A
+AU  - Kato, T
+AU  - Nakazawa, K
+PY  - 2022
+VL  - 127
+IS  - 4
+SP  - 958.0
+EP  - 968
+DO  - 10.1152/jn.00499.2021
+ER  - 
+
+TY  - CONF
+TI  - Experimental Assessment of a Control Strategy for Locomotion Assistance Relying on Simplified Motor Primitives
+AU  - H. Laloyaux
+AU  - C. B. Sanz-Morère
+AU  - C. Livolsi
+AU  - A. Pergolini
+AU  - S. Crea
+AU  - N. Vitiello
+AU  - R. Ronsse
+JO  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+PY  - 23-27 Oct. 2022
+SP  - 12254.0
+EP  - 12260
+DO  - 10.1109/IROS47612.2022.9982128
+ER  - 
+
+TY  - CHAP
+TI  - Learning from Humans How to Grasp: A Reactive-Based Approach
+AU  - Averta, G.
+PY  - 2022
+VL  - 145
+SP  - 185.0
+EP  - 202
+DO  - 10.1007/978-3-030-92521-5_10
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123803740&doi=10.1007%2f978-3-030-92521-5_10&partnerID=40&md5=cd824722895ad2405d528edd87bfc660
+ER  - 
+
+TY  - CHAP
+TI  - Reconstruction of Hip Moments Through Constrained Shape Primitives
+AU  - Laloyaux, H.
+AU  - Ronsse, R.
+PY  - 2022
+VL  - 27
+SP  - 383.0
+EP  - 388
+DO  - 10.1007/978-3-030-69547-7_62
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85109512183&doi=10.1007%2f978-3-030-69547-7_62&partnerID=40&md5=33f25c873955d9bc1833324c813a3ff4
+ER  - 
+
+TY  - JOUR
+TI  - Residual Learning From Demonstration: Adapting DMPs for Contact-Rich Manipulation
+AU  - T. Davchev
+AU  - K. S. Luck
+AU  - M. Burke
+AU  - F. Meier
+AU  - S. Schaal
+AU  - S. Ramamoorthy
+JO  - IEEE Robotics and Automation Letters
+PY  - April 2022
+VL  - 7
+IS  - 2
+SP  - 4488.0
+EP  - 4495
+DO  - 10.1109/LRA.2022.3150024
+ER  - 
+
+TY  - JOUR
+TI  - Task space exploration improves adaptation after incompatible virtual surgeries
+AU  - Berger, DJ
+AU  - Borzelli, D
+AU  - d'Avella, A
+PY  - 2022
+VL  - 127
+IS  - 4
+SP  - 1127.0
+EP  - 1146
+DO  - 10.1152/jn.00356.2021
+ER  - 
+
+TY  - CONF
+TI  - Zero-Day Attacks Detection Using an Analysis of Mobile Robot Motor Primitives
+AU  - A. Gorbenko
+AU  - V. Popov
+JO  - 2022 International Russian Automation Conference (RusAutoCon)
+PY  - 4-10 Sept. 2022
+SP  - 278.0
+EP  - 283
+DO  - 10.1109/RusAutoCon54946.2022.9896253
+ER  - 
+
+TY  - JOUR
+TI  - 19th International Conference on Practical Applications of Agents and Multi-Agent Systems, PAAMS 2021
+PY  - 2021
+VL  - 12946 LNAI
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116324806&partnerID=40&md5=35bc9e119feff8e4f48968607dcb980b
+ER  - 
+
+TY  - JOUR
+TI  - Approaches to revealing the neural basis of muscle synergies: a review and a critique
+AU  - Cheung, VCK
+AU  - Seki, K
+PY  - 2021
+VL  - 125
+IS  - 5
+SP  - 1580.0
+EP  - 1597
+DO  - 10.1152/jn.00625.2019
+ER  - 
+
+TY  - JOUR
+TI  - Bioinspired Gain-Modulated Recurrent Neural Network for Controlling Musculoskeletal Robot
+AU  - S. Zhong
+AU  - J. Zhou
+AU  - H. Qiao
+JO  - IEEE Transactions on Neural Networks and Learning Systems
+PY  - 2021
+SP  - 1.0
+EP  - 15
+DO  - 10.1109/TNNLS.2021.3071196
+ER  - 
+
+TY  - JOUR
+TI  - Decentralized control and local information for robust and adaptive decentralized Deep Reinforcement Learning
+AU  - Schilling, M
+AU  - Melnik, A
+AU  - Ohl, FW
+AU  - Ritter, HJ
+AU  - Hammer, B
+PY  - 2021
+VL  - 144
+SP  - 699.0
+EP  - 725
+DO  - 10.1016/j.neunet.2021.09.017
+ER  - 
+
+TY  - JOUR
+TI  - Decomposing spontaneous sign language into elementary movements: A principal component analysis-based approach
+AU  - Bigand, F
+AU  - Prigent, E
+AU  - Berret, B
+AU  - Braffort, A
+PY  - 2021
+VL  - 16
+IS  - 10
+DO  - 10.1371/journal.pone.0259464
+ER  - 
+
+TY  - CONF
+TI  - Emergence of Different Modes of Tool Use in a Reaching and Dragging Task
+AU  - Nguyen, K.
+AU  - Choe, Y.
+PY  - 2021
+VL  - 2021-July
+DO  - 10.1109/IJCNN52387.2021.9533775
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116457207&doi=10.1109%2fIJCNN52387.2021.9533775&partnerID=40&md5=e3afd11e5f73af8f3701d8a4eb61c897
+ER  - 
+
+TY  - JOUR
+TI  - Generalization-based acquisition of training data for motor primitive learning by neural networks
+AU  - Lončarević, Z.
+AU  - Pahič, R.
+AU  - Ude, A.
+AU  - Gams, A.
+PY  - 2021
+VL  - 11
+IS  - 3
+SP  - 1.0
+EP  - 17
+DO  - 10.3390/app11031013
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85100081369&doi=10.3390%2fapp11031013&partnerID=40&md5=59083ead0bca446212c3c05cebbd634c
+ER  - 
+
+TY  - JOUR
+TI  - How Many Muscles? Optimal Muscles Set Search for Optimizing Myocontrol Performance
+AU  - Camardella, C.
+AU  - Junata, M.
+AU  - Tse, K.C.
+AU  - Frisoli, A.
+AU  - Tong, R.K.-Y.
+PY  - 2021
+VL  - 15
+DO  - 10.3389/fncom.2021.668579
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117509300&doi=10.3389%2ffncom.2021.668579&partnerID=40&md5=2607421605a4622299a698496e8ee57a
+ER  - 
+
+TY  - JOUR
+TI  - Muscle-Synergy-Based Planning and Neural-Adaptive Control for a Prosthetic Arm
+AU  - G. Li
+AU  - Z. Li
+AU  - J. Li
+AU  - Y. Liu
+AU  - H. Qiao
+JO  - IEEE Transactions on Artificial Intelligence
+PY  - Oct. 2021
+VL  - 2
+IS  - 5
+SP  - 424.0
+EP  - 436
+DO  - 10.1109/TAI.2021.3091038
+ER  - 
+
+TY  - JOUR
+TI  - On the encoding capacity of human motor adaptation
+AU  - Kim, S.
+AU  - Kwon, J.
+AU  - Kim, J.-M.
+AU  - Park, F.C.
+AU  - Yeo, S.-H.
+PY  - 2021
+VL  - 126
+IS  - 1
+SP  - 123.0
+EP  - 139
+DO  - 10.1152/jn.00593.2020
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85111473479&doi=10.1152%2fjn.00593.2020&partnerID=40&md5=dbbd8c27d6a7349ebb61c41b686379dc
+ER  - 
+
+TY  - JOUR
+TI  - Online sensorimotor learning and adaptation for inverse dynamics control
+AU  - Xiong, X.
+AU  - Manoonpong, P.
+PY  - 2021
+VL  - 143
+SP  - 525.0
+EP  - 536
+DO  - 10.1016/j.neunet.2021.06.029
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110690027&doi=10.1016%2fj.neunet.2021.06.029&partnerID=40&md5=dbc04c1954ce7bea4c7f9bc5d2116359
+ER  - 
+
+TY  - CONF
+TI  - Prediction of Changes of Intentions and Avoidance Strategies for the Way Crossing Scenarios
+AU  - Gorbenko, A.
+AU  - Popov, V.
+PY  - 2021
+VL  - 729 LNEE
+SP  - 811.0
+EP  - 821
+DO  - 10.1007/978-3-030-71119-1_79
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104842679&doi=10.1007%2f978-3-030-71119-1_79&partnerID=40&md5=3b848ad4e3a5ae4ccc98e98db15de1eb
+ER  - 
+
+TY  - JOUR
+TI  - Soft-Grasping With an Anthropomorphic Robotic Hand Using Spiking Neurons
+AU  - J. C. V. Tieck
+AU  - K. Secker
+AU  - J. Kaiser
+AU  - A. Roennau
+AU  - R. Dillmann
+JO  - IEEE Robotics and Automation Letters
+PY  - April 2021
+VL  - 6
+IS  - 2
+SP  - 2894.0
+EP  - 2901
+DO  - 10.1109/LRA.2020.3034067
+ER  - 
+
+TY  - JOUR
+TI  - Catch & Carry: Reusable Neural Controllers for Vision-Guided Whole-Body Tasks
+AU  - Merel, J
+AU  - Tunyasuvunakool, S
+AU  - Ahuja, A
+AU  - Tassa, Y
+AU  - Hasenclever, L
+AU  - Pham, V
+AU  - Erez, T
+AU  - Wayne, G
+AU  - Heess, N
+PY  - 2020
+VL  - 39
+IS  - 4
+DO  - 10.1145/3386569.3392474
+ER  - 
+
+TY  - JOUR
+TI  - Catch and Carry: Reusable Neural Controllers for Vision-Guided Whole-Body Tasks
+AU  - Merel, J.
+AU  - Tunyasuvunakool, S.
+AU  - Ahuja, A.
+AU  - Tassa, Y.
+AU  - Hasenclever, L.
+AU  - Pham, V.
+AU  - Erez, T.
+AU  - Wayne, G.
+AU  - Heess, N.
+PY  - 2020
+VL  - 39
+IS  - 4
+DO  - 10.1145/3386569.3392474
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089883010&doi=10.1145%2f3386569.3392474&partnerID=40&md5=cb319e2fe253dc8b14685c4e4cad7aaa
+ER  - 
+
+TY  - JOUR
+TI  - Characterization of body knotting behavior used for escape in a diversity of hagfishes
+AU  - Haney, WA
+AU  - Clark, AJ
+AU  - Uyeno, TA
+PY  - 2020
+VL  - 310
+IS  - 4
+SP  - 261.0
+EP  - 272
+DO  - 10.1111/jzo.12752
+ER  - 
+
+TY  - CONF
+TI  - DISCOVERING MOTOR PROGRAMS BY RECOMPOSING DEMONSTRATIONS
+AU  - Shankar, T.
+AU  - Tulsiani, S.
+AU  - Pinto, L.
+AU  - Gupta, A.
+PY  - 2020
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150654256&partnerID=40&md5=ef9384fa14e2ee72d76961ff4f1c1644
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Primitives Facilitate Manipulating a Whip
+AU  - M. C. Nah
+AU  - A. Krotov
+AU  - M. Russo
+AU  - D. Sternad
+AU  - N. Hogan
+JO  - 2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob)
+PY  - 29 Nov.-1 Dec. 2020
+SP  - 685.0
+EP  - 691
+DO  - 10.1109/BioRob49111.2020.9224399
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of Motor Primitive-Based Adaptive Control for Lower Limb Exoskeletons
+AU  - Nunes, P.F.
+AU  - Ostan, I.
+AU  - Siqueira, A.A.G.
+PY  - 2020
+VL  - 7
+DO  - 10.3389/frobt.2020.575217
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098522070&doi=10.3389%2ffrobt.2020.575217&partnerID=40&md5=2742478b1f44196b66cd6470f3a02407
+ER  - 
+
+TY  - CPAPER
+TI  - GTI: Learning to Generalize Across Long-Horizon Tasks from Human Demonstrations
+AU  - Mandlekar, A
+AU  - Xu, DF
+AU  - Martín-Martín, R
+AU  - Savarese, S
+AU  - Li, FF
+PY  - 2020
+ER  - 
+
+TY  - CONF
+TI  - Learning Sensory-Motor Associations from Demonstration
+AU  - V. Berenz
+AU  - A. Bjelic
+AU  - L. Herath
+AU  - J. Mainprice
+JO  - 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+PY  - 31 Aug.-4 Sept. 2020
+SP  - 1081.0
+EP  - 1087
+DO  - 10.1109/RO-MAN47096.2020.9223439
+ER  - 
+
+TY  - CONF
+TI  - Towards Robot Skill Learning
+JO  - 2020 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)
+PY  - 15-17 April 2020
+SP  - 3.0
+EP  - 3
+DO  - 10.1109/ICARSC49921.2020.9096178
+ER  - 
+
+TY  - CONF
+TI  - Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation
+AU  - J. Li
+AU  - X. Wang
+AU  - S. Tang
+AU  - H. Shi
+AU  - F. Wu
+AU  - Y. Zhuang
+AU  - W. Y. Wang
+JO  - 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+PY  - 13-19 June 2020
+SP  - 12120.0
+EP  - 12129
+DO  - 10.1109/CVPR42600.2020.01214
+ER  - 
+
+TY  - CONF
+TI  - An Approach to Hierarchical Deep Reinforcement Learning for a Decentralized Walking Control Architecture
+AU  - Schilling, M.
+AU  - Melnik, A.
+PY  - 2019
+VL  - 848
+SP  - 272.0
+EP  - 282
+DO  - 10.1007/978-3-319-99316-4_36
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85053189641&doi=10.1007%2f978-3-319-99316-4_36&partnerID=40&md5=f21b3704ec13bd3e6e81e926571d4dd4
+ER  - 
+
+TY  - CPAPER
+TI  - Analysis of Human Interaction Patterns Emerging while Learning Agile Navigation of Unknown Environments
+AU  - Verma, A
+AU  - Mettler, B
+PY  - 2019
+VL  - 51
+IS  - 34
+SP  - 75.0
+EP  - 82
+DO  - 10.1016/j.ifacol.2019.01.031
+ER  - 
+
+TY  - JOUR
+TI  - Combining motor primitives for perception driven target reaching with spiking neurons
+AU  - Camilo Vasquez Tieck, J.
+AU  - Steffen, L.
+AU  - Kaiser, J.
+AU  - Reichard, D.
+AU  - Roennau, A.
+AU  - Dillmann, R.
+PY  - 2019
+VL  - 13
+IS  - 1
+SP  - 1.0
+EP  - 12
+DO  - 10.4018/IJCINI.2019010101
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062817913&doi=10.4018%2fIJCINI.2019010101&partnerID=40&md5=805c7bf8158442f916f575c4703589ad
+ER  - 
+
+TY  - CONF
+TI  - Combining spiking motor primitives with a behaviour-based architecture to model locomotion for six-legged robots
+AU  - J. C. V. Tieck
+AU  - J. Rutschke
+AU  - J. Kaiser
+AU  - M. Schulze
+AU  - T. Buettner
+AU  - D. Reichard
+AU  - A. Roennau
+AU  - R. Dillmann
+JO  - 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+PY  - 3-8 Nov. 2019
+SP  - 4161.0
+EP  - 4168
+DO  - 10.1109/IROS40897.2019.8968128
+ER  - 
+
+TY  - CPAPER
+TI  - Dynamic Gait Transition of a Humanoid Robot from Hand-Knee Crawling to Bipedal Walking based on Kinematic Primitives
+AU  - Huang, Y
+AU  - Li, QQ
+AU  - Ming, AG
+AU  - Liu, Y
+AU  - Liu, YL
+AU  - Huang, Q
+PY  - 2019
+SP  - 240.0
+EP  - 245
+DO  - 10.1109/arso46408.2019.8948746
+ER  - 
+
+TY  - JOUR
+TI  - Embodied robots driven by self-organized environmental feedback
+AU  - Kubandt, F.
+AU  - Nowak, M.
+AU  - Koglin, T.
+AU  - Gros, C.
+AU  - Sándor, B.
+PY  - 2019
+VL  - 27
+IS  - 5
+SP  - 285.0
+EP  - 294
+DO  - 10.1177/1059712319855622
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85068326883&doi=10.1177%2f1059712319855622&partnerID=40&md5=0b963233ed44cee83161aee3f235b61f
+ER  - 
+
+TY  - CONF
+TI  - Extraction of simple monophasic motor primitives towards bio-inspired locomotion assistance
+AU  - H. Laloyaux
+AU  - R. Ronsse
+JO  - 2019 IEEE International Conference on Cyborg and Bionic Systems (CBS)
+PY  - 18-20 Sept. 2019
+SP  - 253.0
+EP  - 260
+DO  - 10.1109/CBS46900.2019.9114458
+ER  - 
+
+TY  - JOUR
+TI  - Generating pointing motions for a humanoid robot by combining motor primitives
+AU  - Tieck, J.C.V.
+AU  - Schnell, T.
+AU  - Kaiser, J.
+AU  - Mauch, F.
+AU  - Roennau, A.
+AU  - Dillmann, R.
+PY  - 2019
+VL  - 13
+DO  - 10.3389/fnbot.2019.00077
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072969345&doi=10.3389%2ffnbot.2019.00077&partnerID=40&md5=65a592c280b88f7503d32e584193581b
+ER  - 
+
+TY  - JOUR
+TI  - Human social motor solutions for human-machine interaction in dynamical task contexts
+AU  - Nalepka, P
+AU  - Lamb, M
+AU  - Kallen, RW
+AU  - Shockley, K
+AU  - Chemero, A
+AU  - Saltzman, E
+AU  - Richardson, MJ
+PY  - 2019
+VL  - 116
+IS  - 4
+SP  - 1437.0
+EP  - 1446
+DO  - 10.1073/pnas.1813164116
+ER  - 
+
+TY  - JOUR
+TI  - Human social motor solutions for human–machine interaction in dynamical task contexts
+AU  - Nalepka, P.
+AU  - Lamb, M.
+AU  - Kallen, R.W.
+AU  - Shockley, K.
+AU  - Chemero, A.
+AU  - Saltzman, E.
+AU  - Richardson, M.J.
+PY  - 2019
+VL  - 116
+IS  - 4
+SP  - 1437.0
+EP  - 1446
+DO  - 10.1073/pnas.1813164116
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060308746&doi=10.1073%2fpnas.1813164116&partnerID=40&md5=4d2e21b489bb1a95bec680546da5d7f9
+ER  - 
+
+TY  - CONF
+TI  - Musculoskeletal Bias on Infant Sensorimotor Development Driven by Predictive Learning
+AU  - K. Higuchi
+AU  - H. Kanazawa
+AU  - Y. Suzuki
+AU  - K. Fujii
+AU  - Y. Kuniyoshi
+JO  - 2019 Joint IEEE 9th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+PY  - 19-22 Aug. 2019
+SP  - 177.0
+EP  - 182
+DO  - 10.1109/DEVLRN.2019.8850722
+ER  - 
+
+TY  - CONF
+TI  - Neural probabilistic motor primitives for humanoid control
+AU  - Merel, J.
+AU  - Hasenclever, L.
+AU  - Galashov, A.
+AU  - Ahuja, A.
+AU  - Pham, V.
+AU  - Wayne, G.
+AU  - Whye Teh, Y.
+AU  - Heess, N.
+PY  - 2019
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083950738&partnerID=40&md5=c9c839bca6e5e9506bf23dbdf31f6a95
+ER  - 
+
+TY  - CPAPER
+TI  - Optimality and Modularity in Human Movement: From Optimal Control to Muscle Synergies
+AU  - Berret, B
+AU  - Delis, I
+AU  - Gaveau, J
+AU  - Jean, F
+PY  - 2019
+VL  - 124
+SP  - 105.0
+EP  - 133
+DO  - 10.1007/978-3-319-93870-7_6
+ER  - 
+
+TY  - JOUR
+TI  - Oscillatory recurrent gated neural integrator circuits (ORGaNICs), a unifying theoretical framework for neural dynamics
+AU  - Heeger, DJ
+AU  - Mackey, WE
+PY  - 2019
+VL  - 116
+IS  - 45
+SP  - 22783.0
+EP  - 22794
+DO  - 10.1073/pnas.1911633116
+ER  - 
+
+TY  - JOUR
+TI  - Rhythmic robotic training enhances motor skills of both rhythmic and discrete upper-limb movements after stroke: A longitudinal pilot study
+AU  - Leconte, P.
+AU  - Stoquart, G.
+AU  - Lejeune, T.
+AU  - Ronsse, R.
+PY  - 2019
+VL  - 42
+IS  - 1
+SP  - 46.0
+EP  - 55
+DO  - 10.1097/MRR.0000000000000325
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061370209&doi=10.1097%2fMRR.0000000000000325&partnerID=40&md5=c551cf5b8efe058e185e485101632da9
+ER  - 
+
+TY  - JOUR
+TI  - Transferring Generalizable Motor Primitives From Simulation to Real World
+AU  - M. Hazara
+AU  - V. Kyrki
+JO  - IEEE Robotics and Automation Letters
+PY  - April 2019
+VL  - 4
+IS  - 2
+SP  - 2172.0
+EP  - 2179
+DO  - 10.1109/LRA.2019.2900768
+ER  - 
+
+TY  - JOUR
+TI  - Where is my mouth? Rapid experience-dependent plasticity of perceived mouth position in humans
+AU  - Bono, D
+AU  - Haggard, P
+PY  - 2019
+VL  - 50
+IS  - 11
+SP  - 3814.0
+EP  - 3830
+DO  - 10.1111/ejn.14508
+ER  - 
+
+TY  - JOUR
+TI  - Autonomous SLAM based humanoid navigation in a cluttered environment while transporting a heavy load
+AU  - Rioux, A
+AU  - Suleiman, W
+PY  - 2018
+VL  - 99
+SP  - 50.0
+EP  - 62
+DO  - 10.1016/j.robot.2017.10.001
+ER  - 
+
+TY  - JOUR
+TI  - Biologically Guided Driver Modeling: the Stop Behavior of Human Car Drivers
+AU  - M. Da Lio
+AU  - A. Mazzalai
+AU  - K. Gurney
+AU  - A. Saroldi
+JO  - IEEE Transactions on Intelligent Transportation Systems
+PY  - Aug. 2018
+VL  - 19
+IS  - 8
+SP  - 2454.0
+EP  - 2469
+DO  - 10.1109/TITS.2017.2751526
+ER  - 
+
+TY  - CONF
+TI  - Calibration Method to Improve Transfer from Simulation to Quadruped Robots
+AU  - Urbain, G.
+AU  - Vandesompele, A.
+AU  - Wyffels, F.
+AU  - Dambre, J.
+PY  - 2018
+VL  - 10994 LNAI
+SP  - 102.0
+EP  - 113
+DO  - 10.1007/978-3-319-97628-0_9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85051437074&doi=10.1007%2f978-3-319-97628-0_9&partnerID=40&md5=1f68b61a11cdc56a52d0c538a260b7d0
+ER  - 
+
+TY  - CONF
+TI  - Control Strategy Based on Kinetic Motor Primitives for Lower Limbs Exoskeletons
+AU  - Nunes, P.F.
+AU  - dos Santos, W.M.
+AU  - Siqueira, A.A.G.
+PY  - 2018
+VL  - 51
+IS  - 27
+SP  - 402.0
+EP  - 406
+DO  - 10.1016/j.ifacol.2019.02.003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061137380&doi=10.1016%2fj.ifacol.2019.02.003&partnerID=40&md5=17c4bd3ecd601b349b8ba9c285afb170
+ER  - 
+
+TY  - CONF
+TI  - Controlling a Robot Arm for Target Reaching without Planning Using Spiking Neurons
+AU  - J. C. V. Tieck
+AU  - L. Steffen
+AU  - J. Kaiser
+AU  - A. Roennau
+AU  - R. Dillmann
+JO  - 2018 IEEE 17th International Conference on Cognitive Informatics & Cognitive Computing (ICCI*CC)
+PY  - 16-18 July 2018
+SP  - 111.0
+EP  - 116
+DO  - 10.1109/ICCI-CC.2018.8482049
+ER  - 
+
+TY  - CHAP
+TI  - Controlling and learning motor functions
+AU  - Patanè, L.
+AU  - Strauss, R.
+AU  - Arena, P.
+PY  - 2018
+IS  - 9783319733463
+SP  - 45.0
+EP  - 64
+DO  - 10.1007/978-3-319-73347-0_4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044343968&doi=10.1007%2f978-3-319-73347-0_4&partnerID=40&md5=c6950800d6695be5dfff3bc57d0f333a
+ER  - 
+
+TY  - CPAPER
+TI  - Evidence of a "Clock" Determining Human Locomotion
+AU  - Tiseo, C
+AU  - Veluvolu, KC
+AU  - Tech, AW
+PY  - 2018
+SP  - 1693.0
+EP  - 1696
+ER  - 
+
+TY  - JOUR
+TI  - Kick control: Using the attracting states arising within the sensorimotor loop of self-organized robots as motor primitives
+AU  - Sándor, B.
+AU  - Nowak, M.
+AU  - Koglin, T.
+AU  - Martin, L.
+AU  - Gros, C.
+PY  - 2018
+VL  - 12
+DO  - 10.3389/fnbot.2018.00040
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067416510&doi=10.3389%2ffnbot.2018.00040&partnerID=40&md5=8ecc5ef1a48ff1a6f2fbeb0091ec4a4f
+ER  - 
+
+TY  - CONF
+TI  - Learning Manipulation Graphs from Demonstrations Using Multimodal Sensory Signals
+AU  - Z. Su
+AU  - O. Kroemer
+AU  - G. E. Loeb
+AU  - G. S. Sukhatme
+AU  - S. Schaal
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 21-25 May 2018
+SP  - 2758.0
+EP  - 2765
+DO  - 10.1109/ICRA.2018.8461121
+ER  - 
+
+TY  - CONF
+TI  - Learning by demonstration with baxter humanoid
+AU  - Al-Abdulqader, O.
+AU  - Mohan, V.
+PY  - 2018
+VL  - 868
+SP  - 770.0
+EP  - 790
+DO  - 10.1007/978-3-030-01054-6_54
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057118873&doi=10.1007%2f978-3-030-01054-6_54&partnerID=40&md5=3ffb809a00ac6a0eca7146cb5583bb8a
+ER  - 
+
+TY  - CONF
+TI  - Meta learning shared hierarchies
+AU  - Frans, K.
+AU  - Ho, J.
+AU  - Chen, X.
+AU  - Abbeel, P.
+AU  - Schulman, J.
+PY  - 2018
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083950492&partnerID=40&md5=fe21103722a73062166ba98c2641d6bf
+ER  - 
+
+TY  - JOUR
+TI  - Modular control of human movement during running: An open access data set
+AU  - Santuz, A.
+AU  - Ekizos, A.
+AU  - Janshen, L.
+AU  - Mersmann, F.
+AU  - Bohm, S.
+AU  - Baltzopoulos, V.
+AU  - Arampatzis, A.
+PY  - 2018
+VL  - 9
+IS  - OCT
+DO  - 10.3389/fphys.2018.01509
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056117027&doi=10.3389%2ffphys.2018.01509&partnerID=40&md5=5714cf082853b484a1551aa5deecc372
+ER  - 
+
+TY  - CONF
+TI  - Multi-Modal Motion Activation for Robot Control Using Spiking Neurons
+AU  - J. C. V. Tieck
+AU  - L. Steffen
+AU  - J. Kaiser
+AU  - A. Roennau
+AU  - R. Dillmann
+JO  - 2018 7th IEEE International Conference on Biomedical Robotics and Biomechatronics (Biorob)
+PY  - 26-29 Aug. 2018
+SP  - 291.0
+EP  - 298
+DO  - 10.1109/BIOROB.2018.8487786
+ER  - 
+
+TY  - BOOK
+TI  - Representation of Distributed Haptic Feedback Given via Vibro-tactile Actuator Arrays
+AU  - Ranasinghe, A
+AU  - Weheliye, A
+AU  - Dasgupta, P
+AU  - Nanayakkara, T
+PY  - 2018
+SP  - 263.0
+EP  - 287
+ER  - 
+
+TY  - JOUR
+TI  - Robot learning human stiffness regulation for hybrid manufacture
+AU  - Zeng, C.
+AU  - Yang, C.
+AU  - Chen, Z.
+AU  - Dai, S.-L.
+PY  - 2018
+VL  - 38
+IS  - 5
+SP  - 539.0
+EP  - 547
+DO  - 10.1108/AA-02-2018-019
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046748625&doi=10.1108%2fAA-02-2018-019&partnerID=40&md5=fa6019c16d2d32d1a4b303df0be34f6d
+ER  - 
+
+TY  - CONF
+TI  - Speeding Up Incremental Learning Using Data Efficient Guided Exploration
+AU  - M. Hazara
+AU  - V. Kyrki
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 21-25 May 2018
+SP  - 5082.0
+EP  - 5089
+DO  - 10.1109/ICRA.2018.8461241
+ER  - 
+
+TY  - CONF
+TI  - Touch-Based Grasp Primitives for Soft Hands: Applications to Human-to-Robot Handover Tasks and Beyond
+AU  - M. Bianchi
+AU  - G. Averta
+AU  - E. Battaglia
+AU  - C. Rosales
+AU  - M. Bonilla
+AU  - A. Tondo
+AU  - M. Poggiani
+AU  - G. Santaera
+AU  - S. Ciotti
+AU  - M. G. Catalano
+AU  - A. Bicchi
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 21-25 May 2018
+SP  - 7794.0
+EP  - 7801
+DO  - 10.1109/ICRA.2018.8463212
+ER  - 
+
+TY  - JOUR
+TI  - An error-tuned model for sensorimotor learning
+AU  - Ingram, JN
+AU  - Sadeghi, M
+AU  - Flanagan, JR
+AU  - Wolpert, DM
+PY  - 2017
+VL  - 13
+IS  - 12
+DO  - 10.1371/journal.pcbi.1005883
+ER  - 
+
+TY  - CONF
+TI  - DMP and GMR based teaching by demonstration for a KUKA LBR robot
+AU  - A. Hewitt
+AU  - C. Yang
+AU  - Y. Li
+AU  - R. Cui
+JO  - 2017 23rd International Conference on Automation and Computing (ICAC)
+PY  - 7-8 Sept. 2017
+SP  - 1.0
+EP  - 6
+DO  - 10.23919/IConAC.2017.8081982
+ER  - 
+
+TY  - CPAPER
+TI  - Definition and Composition of Motor Primitives Using Latent Force Models and Hidden Markov Models
+AU  - Agudelo-España, D
+AU  - Alvarez, MA
+AU  - Orozco, AA
+PY  - 2017
+VL  - 10125
+SP  - 249.0
+EP  - 256
+DO  - 10.1007/978-3-319-52277-7_31
+ER  - 
+
+TY  - JOUR
+TI  - Experimental validation of motor primitive-based control for leg exoskeletons during continuous multi-locomotion tasks
+AU  - Garate, V.R.
+AU  - Parri, A.
+AU  - Yan, T.
+AU  - Munih, M.
+AU  - Lova, R.M.
+AU  - Vitiello, N.
+AU  - Ronsse, R.
+PY  - 2017
+VL  - 11
+IS  - MAR
+DO  - 10.3389/fnbot.2017.00015
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017337405&doi=10.3389%2ffnbot.2017.00015&partnerID=40&md5=21c1cf70395979094bc77e404f88e2b0
+ER  - 
+
+TY  - CONF
+TI  - Generalizing movement primitives to new situations
+AU  - Hazara, M.
+AU  - Kyrki, V.
+AU  - Lundell, J.
+PY  - 2017
+VL  - 10454 LNAI
+SP  - 16.0
+EP  - 31
+DO  - 10.1007/978-3-319-64107-2_2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026771555&doi=10.1007%2f978-3-319-64107-2_2&partnerID=40&md5=84dd4f2221cc383d3768303de3557a99
+ER  - 
+
+TY  - CONF
+TI  - International Conference on Advanced Mechatronic Systems, ICAMechS
+PY  - 2017
+VL  - 2017-December
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172650070&partnerID=40&md5=af57410f3973567d4bdd3d2cb814be62
+ER  - 
+
+TY  - CONF
+TI  - Model selection for incremental learning of generalizable movement primitives
+AU  - M. Hazara
+AU  - V. Kyrki
+JO  - 2017 18th International Conference on Advanced Robotics (ICAR)
+PY  - 10-12 July 2017
+SP  - 359.0
+EP  - 366
+DO  - 10.1109/ICAR.2017.8023633
+ER  - 
+
+TY  - JOUR
+TI  - Motor-skill learning in an insect inspired neuro-computational control system
+AU  - Arena, E.
+AU  - Arena, P.
+AU  - Strauss, R.
+AU  - Patané, L.
+PY  - 2017
+VL  - 11
+IS  - MAR
+DO  - 10.3389/fnbot.2017.00012
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85017367358&doi=10.3389%2ffnbot.2017.00012&partnerID=40&md5=eb24a2f811c08ac1d4b719c0099b46ed
+ER  - 
+
+TY  - JOUR
+TI  - Representing delayed force feedback as a combination of current and delayed states
+AU  - Avraham, G
+AU  - Mawase, F
+AU  - Karniel, A
+AU  - Shmuelof, L
+AU  - Donchin, O
+AU  - Mussa-Ivaldi, FA
+AU  - Nisky, I
+PY  - 2017
+VL  - 118
+IS  - 4
+SP  - 2110.0
+EP  - 2131
+DO  - 10.1152/jn.00347.2017
+ER  - 
+
+TY  - CHAP
+TI  - Rhythmic movements after a stroke: A different motor primitive should receive a dedicated training
+AU  - Leconte, P.
+AU  - Ronsse, R.
+PY  - 2017
+VL  - 15
+SP  - 507.0
+EP  - 511
+DO  - 10.1007/978-3-319-46669-9_84
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85028362615&doi=10.1007%2f978-3-319-46669-9_84&partnerID=40&md5=189914aa0afab8c677afe0e5b2829ac4
+ER  - 
+
+TY  - CONF
+TI  - Robot hand learning from multiple demonstrations using dynamics motor primitives
+AU  - R. Huang
+AU  - C. Yang
+AU  - F. Yang
+AU  - Z. Li
+JO  - 2017 International Conference on Advanced Mechatronic Systems (ICAMechS)
+PY  - 6-9 Dec. 2017
+SP  - 1.0
+EP  - 6
+DO  - 10.1109/ICAMechS.2017.8316540
+ER  - 
+
+TY  - CONF
+TI  - Towards grasping with spiking neural networks for anthropomorphic robot hands
+AU  - Tieck, J.C.V.
+AU  - Donat, H.
+AU  - Kaiser, J.
+AU  - Peric, I.
+AU  - Ulbrich, S.
+AU  - Roennau, A.
+AU  - Zöllner, M.
+AU  - Dillmann, R.
+PY  - 2017
+VL  - 10613 LNCS
+SP  - 43.0
+EP  - 51
+DO  - 10.1007/978-3-319-68600-4_6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85034270861&doi=10.1007%2f978-3-319-68600-4_6&partnerID=40&md5=0d6f5d6da7e24ed387a92f8a93b5f1f6
+ER  - 
+
+TY  - JOUR
+TI  - A novel movement-based operation method for dual-arm rescue construction machinery
+AU  - Fang, C
+AU  - Ding, XL
+PY  - 2016
+VL  - 34
+IS  - 5
+SP  - 1090.0
+EP  - 1112
+DO  - 10.1017/S0263574714002082
+ER  - 
+
+TY  - CONF
+TI  - Adaptation of motor primitives to the environment through learning and statistical generalization
+AU  - Deniša, M.
+AU  - Ude, A.
+AU  - Gams, A.
+PY  - 2016
+VL  - 371
+SP  - 449.0
+EP  - 457
+DO  - 10.1007/978-3-319-21290-6_45
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983097273&doi=10.1007%2f978-3-319-21290-6_45&partnerID=40&md5=bb8f21ea6df38303d0d1868494badfc5
+ER  - 
+
+TY  - JOUR
+TI  - An online gait generator for quadruped walking using motor primitives
+AU  - Zhou, C.
+AU  - Wang, B.
+AU  - Zhu, Q.
+AU  - Wu, J.
+PY  - 2016
+VL  - 13
+IS  - 6
+SP  - 1.0
+EP  - 12
+DO  - 10.1177/1729881416657960
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85007351808&doi=10.1177%2f1729881416657960&partnerID=40&md5=e5177526d072f050bca4889e71226659
+ER  - 
+
+TY  - CONF
+TI  - Autonomously constructing hierarchical task networks for planning and human-robot collaboration
+AU  - B. Hayes
+AU  - B. Scassellati
+JO  - 2016 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 16-21 May 2016
+SP  - 5469.0
+EP  - 5476
+DO  - 10.1109/ICRA.2016.7487760
+ER  - 
+
+TY  - CHAP
+TI  - Bayesian Approaches for Learning of Primitive-Based Compact Representations of Complex Human Activities
+AU  - Endres, D
+AU  - Chiovetto, E
+AU  - Giese, MA
+PY  - 2016
+VL  - 111
+SP  - 117.0
+EP  - 137
+DO  - 10.1007/978-3-319-25739-6
+ER  - 
+
+TY  - CONF
+TI  - Generalization of orientational motion in unit quaternion space
+AU  - A. Kramberger
+AU  - A. Gams
+AU  - B. Nemec
+AU  - A. Ude
+JO  - 2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
+PY  - 15-17 Nov. 2016
+SP  - 808.0
+EP  - 813
+DO  - 10.1109/HUMANOIDS.2016.7803366
+ER  - 
+
+TY  - JOUR
+TI  - Geometrical Invariance and Smoothness Maximization for Task-Space Movement Generation
+AU  - Meirovitch, Y
+AU  - Bennequin, D
+AU  - Flash, T
+PY  - 2016
+VL  - 32
+IS  - 4
+SP  - 837.0
+EP  - 853
+DO  - 10.1109/TRO.2016.2581208
+ER  - 
+
+TY  - JOUR
+TI  - Integration of robotics and neuroscience beyond the hand: What kind of synergies? Comment on "Hand synergies: Integration of robotics and neuroscience for understanding the control of biological and artificial hands" by Marco Santello et al
+AU  - d'Avella, A
+PY  - 2016
+VL  - 17
+SP  - 33.0
+EP  - 35
+DO  - 10.1016/j.plrev.2016.04.001
+ER  - 
+
+TY  - CONF
+TI  - Learning manipulation by sequencing motor primitives with a Two-Armed robot
+AU  - Lioutikov, R.
+AU  - Kroemer, O.
+AU  - Maeda, G.
+AU  - Peters, J.
+PY  - 2016
+VL  - 302
+SP  - 1601.0
+EP  - 1611
+DO  - 10.1007/978-3-319-08338-4_115
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945937351&doi=10.1007%2f978-3-319-08338-4_115&partnerID=40&md5=02b29019a6312bc18ad58fad357525ed
+ER  - 
+
+TY  - JOUR
+TI  - Learning programs is better than learning dynamics: A programmable neural network hierarchical architecture in a multi-task scenario
+AU  - Donnarumma, F.
+AU  - Prevete, R.
+AU  - de Giorgio, A.
+AU  - Montone, G.
+AU  - Pezzulo, G.
+PY  - 2016
+VL  - 24
+IS  - 1
+SP  - 27.0
+EP  - 51
+DO  - 10.1177/1059712315609412
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84957824197&doi=10.1177%2f1059712315609412&partnerID=40&md5=366b5d733bda06edef274cdc221dbb0a
+ER  - 
+
+TY  - CONF
+TI  - Linguistic primitives: A new model for language development in robotics
+AU  - Franchi, A.M.
+AU  - Sernicola, L.
+AU  - Gini, G.
+PY  - 2016
+VL  - 9825 LNCS
+SP  - 207.0
+EP  - 218
+DO  - 10.1007/978-3-319-43488-9_19
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84984781482&doi=10.1007%2f978-3-319-43488-9_19&partnerID=40&md5=4b165a3fc107362023a09dd0d9f72c2b
+ER  - 
+
+TY  - CONF
+TI  - Me and you together: A study on collaboration in manipulation tasks
+AU  - Faria, M.
+AU  - Silva, R.
+AU  - Melo, F.S.
+AU  - Paiva, A.
+PY  - 2016
+VL  - FS-16-01 - FS-16-05
+SP  - 32.0
+EP  - 35
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85025817953&partnerID=40&md5=b9310be4a33aae2627d37d5be3226019
+ER  - 
+
+TY  - CONF
+TI  - Modular active curiosity-driven discovery of tool use
+AU  - S. Forestier
+AU  - P. -Y. Oudeyer
+JO  - 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+PY  - 9-14 Oct. 2016
+SP  - 3965.0
+EP  - 3972
+DO  - 10.1109/IROS.2016.7759584
+ER  - 
+
+TY  - CONF
+TI  - Motor primitive-based control for lower-limb exoskeletons
+AU  - V. R. Garate
+AU  - A. Parri
+AU  - T. Yan
+AU  - M. Munih
+AU  - R. M. Lova
+AU  - N. Vitiello
+AU  - R. Ronsse
+JO  - 2016 6th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)
+PY  - 26-29 June 2016
+SP  - 655.0
+EP  - 661
+DO  - 10.1109/BIOROB.2016.7523700
+ER  - 
+
+TY  - JOUR
+TI  - Performance-based robotic assistance during rhythmic arm exercises
+AU  - Leconte, P.
+AU  - Ronsse, R.
+PY  - 2016
+VL  - 13
+IS  - 1
+DO  - 10.1186/s12984-016-0189-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84992176636&doi=10.1186%2fs12984-016-0189-7&partnerID=40&md5=2bc4fe786388ba1195df0a761bd77ede
+ER  - 
+
+TY  - CONF
+TI  - Real-time smoothness-based assistance during rhythmic arm movements
+AU  - P. Leconte
+AU  - R. Ronsse
+JO  - 2016 6th IEEE International Conference on Biomedical Robotics and Biomechatronics (BioRob)
+PY  - 26-29 June 2016
+SP  - 850.0
+EP  - 856
+DO  - 10.1109/BIOROB.2016.7523734
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement learning for improving imitated in-contact skills
+AU  - M. Hazara
+AU  - V. Kyrki
+JO  - 2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
+PY  - 15-17 Nov. 2016
+SP  - 194.0
+EP  - 201
+DO  - 10.1109/HUMANOIDS.2016.7803277
+ER  - 
+
+TY  - JOUR
+TI  - Rhythmic arm movements are less affected than discrete ones after a stroke
+AU  - Leconte, P.
+AU  - Orban de Xivry, J.-J.
+AU  - Stoquart, G.
+AU  - Lejeune, T.
+AU  - Ronsse, R.
+PY  - 2016
+VL  - 234
+IS  - 6
+SP  - 1403.0
+EP  - 1417
+DO  - 10.1007/s00221-015-4543-y
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84953384614&doi=10.1007%2fs00221-015-4543-y&partnerID=40&md5=3a72a0bccfafbfb1c6cc4fe612c0b54a
+ER  - 
+
+TY  - JOUR
+TI  - Walking Assistance Using Artificial Primitives A Novel Bioinspired Framework Using Motor Primitives for Locomotion Assistance Through a Wearable Cooperative Exoskeleton
+AU  - Garate, VR
+AU  - Parri, A
+AU  - Yan, TF
+AU  - Munih, M
+AU  - Lova, RM
+AU  - Vitiello, N
+AU  - Ronsse, R
+PY  - 2016
+VL  - 23
+IS  - 1
+SP  - 83.0
+EP  - 95
+DO  - 10.1109/MRA.2015.2510778
+ER  - 
+
+TY  - JOUR
+TI  - Walking Assistance Using Artificial Primitives: A Novel Bioinspired Framework Using Motor Primitives for Locomotion Assistance Through a Wearable Cooperative Exoskeleton
+AU  - V. Ruiz Garate
+AU  - A. Parri
+AU  - T. Yan
+AU  - M. Munih
+AU  - R. Molino Lova
+AU  - N. Vitiello
+AU  - R. Ronsse
+JO  - IEEE Robotics & Automation Magazine
+PY  - March 2016
+VL  - 23
+IS  - 1
+SP  - 83.0
+EP  - 95
+DO  - 10.1109/MRA.2015.2510778
+ER  - 
+
+TY  - JOUR
+TI  - Working hard to make a simple definition of synergies Comment on: "Hand synergies: Integration of robotics and neuroscience for understanding the control of biological and artificial hands" by Marco Santello et al
+AU  - Alessandro, C
+AU  - Barrow, FO
+AU  - Tresch, M
+PY  - 2016
+VL  - 17
+SP  - 24.0
+EP  - 26
+DO  - 10.1016/j.plrev.2016.05.015
+ER  - 
+
+TY  - CONF
+TI  - Adaptation of Robot Locomotion Patterns with Dynamic Movement Primitives
+AU  - J. Rosado
+AU  - F. Silva
+AU  - V. Santos
+JO  - 2015 IEEE International Conference on Autonomous Robot Systems and Competitions
+PY  - 8-10 April 2015
+SP  - 23.0
+EP  - 28
+DO  - 10.1109/ICARSC.2015.9
+ER  - 
+
+TY  - CONF
+TI  - CEUR Workshop Proceedings
+PY  - 2015
+VL  - 1544
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964022189&partnerID=40&md5=ea08a6768413ccbbf612f39bea923911
+ER  - 
+
+TY  - CONF
+TI  - Control of quadruped walking robots using motor primitives
+AU  - Wang, B.
+AU  - Zhou, C.
+PY  - 2015
+SP  - 207.0
+EP  - 214
+DO  - 10.1142/9789814725248_0028
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84999861026&doi=10.1142%2f9789814725248_0028&partnerID=40&md5=b787a6b79cb985410d41f24197a8e6e2
+ER  - 
+
+TY  - JOUR
+TI  - Editorial: Modularity in motor control: From muscle synergies to cognitive action representation
+AU  - D’Avella, A.
+AU  - Giese, M.
+AU  - Ivanenko, Y.P.
+AU  - Schack, T.
+AU  - Flash, T.
+PY  - 2015
+VL  - 9
+IS  - OCT
+DO  - 10.3389/fncom.2015.00126
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84944316785&doi=10.3389%2ffncom.2015.00126&partnerID=40&md5=f656d4e1f6bdb667806a5c472a6c13a4
+ER  - 
+
+TY  - JOUR
+TI  - Efficient policy search in low-dimensional embedding spaces by generalizing motion primitives with a parameterized skill memory
+AU  - Reinhart, RF
+AU  - Steil, JJ
+PY  - 2015
+VL  - 38
+IS  - 4
+SP  - 331.0
+EP  - 348
+DO  - 10.1007/s10514-014-9417-9
+ER  - 
+
+TY  - JOUR
+TI  - Generalization of motor resonance during the observation of hand, mouth, and eye movements
+AU  - Finisguerra, A
+AU  - Maffongelli, L
+AU  - Bassolino, M
+AU  - Jacono, M
+AU  - Pozzo, T
+AU  - D'Ausilio, A
+PY  - 2015
+VL  - 114
+IS  - 4
+SP  - 2295.0
+EP  - 2304
+DO  - 10.1152/jn.00433.2015
+ER  - 
+
+TY  - JOUR
+TI  - Graph-based motor primitive generation framework
+AU  - Sung, Y
+AU  - Kwak, J
+AU  - Park, JH
+PY  - 2015
+VL  - 5
+DO  - 10.1186/s13673-015-0051-0
+ER  - 
+
+TY  - JOUR
+TI  - Graph-based motor primitive generation framework: UAV motor primitives by demonstration-based learning
+AU  - Sung, Y.
+AU  - Kwak, J.
+AU  - Park, J.H.
+PY  - 2015
+VL  - 5
+IS  - 1
+SP  - 1.0
+EP  - 9
+DO  - 10.1186/s13673-015-0051-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84950243049&doi=10.1186%2fs13673-015-0051-0&partnerID=40&md5=b0e534fd5d8e76998e41bdc96b547c9d
+ER  - 
+
+TY  - CONF
+TI  - High-level learning from demonstration with conceptual spaces and subspace clustering
+AU  - R. Cubek
+AU  - W. Ertel
+AU  - G. Palm
+JO  - 2015 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 26-30 May 2015
+SP  - 2592.0
+EP  - 2597
+DO  - 10.1109/ICRA.2015.7139548
+ER  - 
+
+TY  - JOUR
+TI  - Humanoid robot imitation through continuous goal-directed actions: An evolutionary approach
+AU  - Morante, S.
+AU  - Victores, J.G.
+AU  - Jardón, A.
+AU  - Balaguer, C.
+PY  - 2015
+VL  - 29
+IS  - 5
+SP  - 303.0
+EP  - 314
+DO  - 10.1080/01691864.2014.964314
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84925600225&doi=10.1080%2f01691864.2014.964314&partnerID=40&md5=5000722495cf52b160d42aa9746d033c
+ER  - 
+
+TY  - JOUR
+TI  - Learning and Chaining of Motor Primitives for Goal-Directed Locomotion of a Snake-Like Robot with Screw-Drive Units
+AU  - Chatterjee, S.
+AU  - Nachstedt, T.
+AU  - Tamosiunaite, M.
+AU  - Wörgötter, F.
+AU  - Enomoto, Y.
+AU  - Ariizumi, R.
+AU  - Matsuno, F.
+AU  - Manoonpong, P.
+PY  - 2015
+VL  - 12
+IS  - 12
+DO  - 10.5772/61621
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85002050723&doi=10.5772%2f61621&partnerID=40&md5=35fd2e28ab2d1eef34fb006895ad82a2
+ER  - 
+
+TY  - CONF
+TI  - Low-cost force sensors for small size humanoid robot
+AU  - G. Passault
+AU  - Q. Rouxel
+AU  - L. Hofer
+AU  - S. N'Guyen
+AU  - O. Ly
+JO  - 2015 IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids)
+PY  - 3-5 Nov. 2015
+SP  - 1148.0
+EP  - 1148
+DO  - 10.1109/HUMANOIDS.2015.7363498
+ER  - 
+
+TY  - CONF
+TI  - Modulation of dynamic movement primitives for biped locomotion
+AU  - Rosado, J.
+AU  - Silva, F.
+AU  - Santos, V.
+AU  - Lu, Z.
+PY  - 2015
+SP  - 389.0
+EP  - 396
+DO  - 10.1142/9789814725248_0048
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84999853133&doi=10.1142%2f9789814725248_0048&partnerID=40&md5=465156b10648dec660fd0ac8a38c3b0a
+ER  - 
+
+TY  - JOUR
+TI  - Movement intention detection system for myoelectric control of a prosthetic robotic hand
+AU  - Quinayás-Burgos, C.A.
+AU  - Gaviria-López, C.A.
+PY  - 2015
+VL  - 19
+IS  - 1
+SP  - 27.0
+EP  - 50
+DO  - 10.11144/Javeriana.iyu19-1.siim
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84932125967&doi=10.11144%2fJaveriana.iyu19-1.siim&partnerID=40&md5=8c44df374e908b14a6632e1294b5255f
+ER  - 
+
+TY  - JOUR
+TI  - On the adjustment of the weights of the levenshtein distance for the description of sequences of rhythmic motor primitives
+AU  - Gorbenko, A.
+AU  - Popov, V.
+PY  - 2015
+VL  - 8
+IS  - 17-20
+SP  - 835.0
+EP  - 840
+DO  - 10.12988/ces.2015.55158
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84944603438&doi=10.12988%2fces.2015.55158&partnerID=40&md5=120bcd260a174bc8c610ee545d1ffb5d
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement learning vs human programming in tetherball robot games
+AU  - S. Parisi
+AU  - H. Abdulsamad
+AU  - A. Paraschos
+AU  - C. Daniel
+AU  - J. Peters
+JO  - 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+PY  - 28 Sept.-2 Oct. 2015
+SP  - 6428.0
+EP  - 6434
+DO  - 10.1109/IROS.2015.7354296
+ER  - 
+
+TY  - JOUR
+TI  - Stereotypical reaching movements of the octopus involve both bend propagation and arm elongation
+AU  - Hanassy, S.
+AU  - Botvinnik, A.
+AU  - Flash, T.
+AU  - Hochner, B.
+PY  - 2015
+VL  - 10
+IS  - 3
+DO  - 10.1088/1748-3190/10/3/035001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84935893292&doi=10.1088%2f1748-3190%2f10%2f3%2f035001&partnerID=40&md5=fba84eedd7bc410972d451f2d6ac5333
+ER  - 
+
+TY  - JOUR
+TI  - Synthesis of New Dynamic Movement Primitives Through Search in a Hierarchical Database of Example Movements
+AU  - Denisa, M
+AU  - Ude, A
+PY  - 2015
+VL  - 12
+DO  - 10.5772/61036
+ER  - 
+
+TY  - JOUR
+TI  - Task-oriented parameter tuning based on priority condition for biologically inspired robot application
+AU  - Kwon, J.
+AU  - Park, I.W.
+AU  - Yang, W.
+PY  - 2015
+VL  - 2015
+DO  - 10.1155/2015/506491
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939186193&doi=10.1155%2f2015%2f506491&partnerID=40&md5=ce206bf9b394bc46dfe53e165cee25c9
+ER  - 
+
+TY  - CONF
+TI  - The organization of cortex-ganglia-thalamus to generate movements from motor primitives: A model for developmental robotics
+AU  - Franchi, A.M.
+AU  - Attuario, D.
+AU  - Gini, G.
+PY  - 2015
+VL  - 1544
+SP  - 104.0
+EP  - 115
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964038726&partnerID=40&md5=6b123245201dc4630e18014834d7f7cc
+ER  - 
+
+TY  - CONF
+TI  - Towards learning hierarchical skills for multi-phase manipulation tasks
+AU  - O. Kroemer
+AU  - C. Daniel
+AU  - G. Neumann
+AU  - H. van Hoof
+AU  - J. Peters
+JO  - 2015 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 26-30 May 2015
+SP  - 1503.0
+EP  - 1510
+DO  - 10.1109/ICRA.2015.7139389
+ER  - 
+
+TY  - JOUR
+TI  - 12th International Symposium on Experimental Robotics, ISER 2010
+PY  - 2014
+VL  - 79
+SP  - 1.0
+EP  - 936
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928692701&partnerID=40&md5=46f90858964b4ca5e314df50b48b3e74
+ER  - 
+
+TY  - JOUR
+TI  - 5th International Conference on Mechanical and Aerospace Engineering, ICMAE 2014
+PY  - 2014
+VL  - 1016
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906974077&partnerID=40&md5=6c16b26e58042e951c1a34c7939eceac
+ER  - 
+
+TY  - JOUR
+TI  - 5th Scandinavian Conference on Information Systems, SCIS 2014
+PY  - 2014
+VL  - 186
+SP  - 1.0
+EP  - 493
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928975518&partnerID=40&md5=c6d0d1a9c9e1cd2cd87551943c6363dd
+ER  - 
+
+TY  - JOUR
+TI  - A feature selection method for a sample-based stochastic policy
+AU  - Yamanaka, J.
+AU  - Nakamura, Y.
+AU  - Ishiguro, H.
+PY  - 2014
+VL  - 19
+IS  - 3
+SP  - 251.0
+EP  - 257
+DO  - 10.1007/s10015-014-0158-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84926646891&doi=10.1007%2fs10015-014-0158-9&partnerID=40&md5=74cdc879370ae27c68a6743a1845280b
+ER  - 
+
+TY  - JOUR
+TI  - A novel approach to locomotion learning: Actor-critic architecture using central pattern generators and dynamic motor primitives
+AU  - Li, C.
+AU  - Lowe, R.
+AU  - Ziemke, T.
+PY  - 2014
+VL  - 8
+IS  - AUG
+DO  - 10.3389/fnbot.2014.00023
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84907358807&doi=10.3389%2ffnbot.2014.00023&partnerID=40&md5=842ea59afb8711f0e845dd3f5577cbae
+ER  - 
+
+TY  - JOUR
+TI  - A unifying model of concurrent spatial and temporal modularity in muscle activity
+AU  - Delis, I
+AU  - Panzeri, S
+AU  - Pozzo, T
+AU  - Berret, B
+PY  - 2014
+VL  - 111
+IS  - 3
+SP  - 675.0
+EP  - 693
+DO  - 10.1152/jn.00245.2013
+ER  - 
+
+TY  - CONF
+TI  - Active learning of affordances for robot use of household objects
+AU  - C. Wang
+AU  - K. V. Hindriks
+AU  - R. Babuska
+JO  - 2014 IEEE-RAS International Conference on Humanoid Robots
+PY  - 18-20 Nov. 2014
+SP  - 566.0
+EP  - 572
+DO  - 10.1109/HUMANOIDS.2014.7041419
+ER  - 
+
+TY  - CHAP
+TI  - Conclusion
+AU  - Kober, J.
+AU  - Peters, J.
+PY  - 2014
+VL  - 97
+SP  - 161.0
+EP  - 167
+DO  - 10.1007/978-3-319-03194-1_7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84927670596&doi=10.1007%2f978-3-319-03194-1_7&partnerID=40&md5=3967cf0267646dce61d06f0005ff8080
+ER  - 
+
+TY  - CONF
+TI  - Description of sequences of rhythmic motor primitives
+AU  - Gorbenko, A.
+AU  - Popov, V.
+PY  - 2014
+VL  - 1016
+SP  - 612.0
+EP  - 616
+DO  - 10.4028/www.scientific.net/AMR.1016.612
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906971587&doi=10.4028%2fwww.scientific.net%2fAMR.1016.612&partnerID=40&md5=affee9a307f8db2f48e3c1e114e235cf
+ER  - 
+
+TY  - CONF
+TI  - Experiments with motor primitives in table tennis
+AU  - Peters, J.
+AU  - Mülling, K.
+AU  - Kober, J.
+PY  - 2014
+VL  - 79
+SP  - 347.0
+EP  - 359
+DO  - 10.1007/978-3-642-28572-1_24
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84928267308&doi=10.1007%2f978-3-642-28572-1_24&partnerID=40&md5=edbffc82488209b56688aee46ba4894d
+ER  - 
+
+TY  - CONF
+TI  - Interaction primitives for human-robot cooperation tasks
+AU  - H. Ben Amor
+AU  - G. Neumann
+AU  - S. Kamthe
+AU  - O. Kroemer
+AU  - J. Peters
+JO  - 2014 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 31 May-7 June 2014
+SP  - 2831.0
+EP  - 2837
+DO  - 10.1109/ICRA.2014.6907265
+ER  - 
+
+TY  - CHAP
+TI  - Introduction
+PY  - 2014
+VL  - 97
+DO  - 10.1007/978-3-319-03194-1_1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063601301&doi=10.1007%2f978-3-319-03194-1_1&partnerID=40&md5=412cc3be613f1b7e41070440c74c535d
+ER  - 
+
+TY  - JOUR
+TI  - Learning motor skills: From algorithms to robot experiments
+AU  - Kober, J.
+PY  - 2014
+VL  - 56
+IS  - 3
+SP  - 141.0
+EP  - 146
+DO  - 10.1515/itit-2014-1039
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117177121&doi=10.1515%2fitit-2014-1039&partnerID=40&md5=3e2d60c75a56e7c79f4e73f23b020939
+ER  - 
+
+TY  - CHAP
+TI  - Learning prioritized control of motor primitives
+AU  - Kober, J.
+AU  - Peters, J.
+PY  - 2014
+VL  - 97
+SP  - 149.0
+EP  - 160
+DO  - 10.1007/978-3-319-03194-1_6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84927588818&doi=10.1007%2f978-3-319-03194-1_6&partnerID=40&md5=bfe6980bfcabd454ca1321b64888723c
+ER  - 
+
+TY  - CONF
+TI  - Learning robot tactile sensing for object manipulation
+AU  - Y. Chebotar
+AU  - O. Kroemer
+AU  - J. Peters
+JO  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 14-18 Sept. 2014
+SP  - 3368.0
+EP  - 3375
+DO  - 10.1109/IROS.2014.6943031
+ER  - 
+
+TY  - CONF
+TI  - MIT-Skywalker: A novel environment for neural gait rehabilitation
+AU  - T. Susko
+AU  - H. I. Krebs
+JO  - 5th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
+PY  - 12-15 Aug. 2014
+SP  - 677.0
+EP  - 682
+DO  - 10.1109/BIOROB.2014.6913856
+ER  - 
+
+TY  - CONF
+TI  - Motor primitive generation framework for NAOs in ubiquitous applications
+AU  - Sung, Y.
+AU  - Cho, K.
+AU  - Jeong, Y.-S.
+AU  - Um, K.
+PY  - 2014
+VL  - 280 LNEE
+SP  - 141.0
+EP  - 145
+DO  - 10.1007/978-3-642-41671-2_19
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958545409&doi=10.1007%2f978-3-642-41671-2_19&partnerID=40&md5=db2644ea489ad85e055d6954cebc0cea
+ER  - 
+
+TY  - JOUR
+TI  - On the approximate period problem
+AU  - Gorbenko, A.
+PY  - 2014
+VL  - 44
+IS  - 1
+SP  - 1.0
+EP  - 9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897765445&partnerID=40&md5=79a928f7021edb7fc5e669f020f3c4f0
+ER  - 
+
+TY  - CONF
+TI  - On using guided motor primitives to execute Continuous Goal-Directed Actions
+AU  - S. Morante
+AU  - J. G. Victores
+AU  - A. Jardón
+AU  - C. Balaguer
+JO  - The 23rd IEEE International Symposium on Robot and Human Interactive Communication
+PY  - 25-29 Aug. 2014
+SP  - 613.0
+EP  - 618
+DO  - 10.1109/ROMAN.2014.6926320
+ER  - 
+
+TY  - JOUR
+TI  - Online Segmentation and Classification of Manipulation Actions From the Observation of Kinetostatic Data
+AU  - Cavallo, A
+AU  - Falco, P
+PY  - 2014
+VL  - 44
+IS  - 2
+SP  - 256.0
+EP  - 269
+DO  - 10.1109/TSMC.2013.2296569
+ER  - 
+
+TY  - CONF
+TI  - Peg-in-Hole assembly under uncertain pose estimation
+AU  - L. L. Lin
+AU  - Y. Yang
+AU  - Y. T. Song
+AU  - B. Nemec
+AU  - A. Ude
+AU  - J. A. Rytz
+AU  - A. G. Buch
+AU  - N. Krüger
+AU  - T. R. Savarimuthu
+JO  - Proceeding of the 11th World Congress on Intelligent Control and Automation
+PY  - 29 June-4 July 2014
+SP  - 2842.0
+EP  - 2847
+DO  - 10.1109/WCICA.2014.7053179
+ER  - 
+
+TY  - CONF
+TI  - Realtime tracking and grasping of a moving object from range video
+AU  - F. Husain
+AU  - A. Colomé
+AU  - B. Dellen
+AU  - G. Alenyà
+AU  - C. Torras
+JO  - 2014 IEEE International Conference on Robotics and Automation (ICRA)
+PY  - 31 May-7 June 2014
+SP  - 2617.0
+EP  - 2622
+DO  - 10.1109/ICRA.2014.6907234
+ER  - 
+
+TY  - JOUR
+TI  - Robot learning from demonstration and the problem of target defense by team of unmanned surface vehicles
+AU  - Popov, V.
+PY  - 2014
+VL  - 8
+IS  - 97-100
+SP  - 4971.0
+EP  - 4976
+DO  - 10.12988/ams.2014.46496
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939185654&doi=10.12988%2fams.2014.46496&partnerID=40&md5=5d8205c39a7bbcd3c8d8f3fd1d108def
+ER  - 
+
+TY  - CONF
+TI  - Robot learns from human teacher through modified kinesthetic teaching
+AU  - Ghoshal, D.P.
+AU  - Das, N.
+AU  - Dutta, S.
+AU  - Behera, L.
+PY  - 2014
+VL  - 3
+IS  - PART 1
+SP  - 773.0
+EP  - 780
+DO  - 10.3182/20140313-3-IN-3024.00225
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899540655&doi=10.3182%2f20140313-3-IN-3024.00225&partnerID=40&md5=6a32913701160c6d8c7898ac6c51c765
+ER  - 
+
+TY  - JOUR
+TI  - Robot service framework based on big data technology
+AU  - Sung, Y.
+AU  - Jeong, H.-Y.
+AU  - Cho, K.
+AU  - Um, K.
+PY  - 2014
+VL  - 15
+IS  - 4
+SP  - 593.0
+EP  - 603
+DO  - 10.6138/JIT.2014.15.4.09
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906912401&doi=10.6138%2fJIT.2014.15.4.09&partnerID=40&md5=24c84db987bd3b5ce20e490d9389cc2d
+ER  - 
+
+TY  - CONF
+TI  - Robust learning from demonstrations using multidimensional SAX
+AU  - Y. Mohammad
+AU  - T. Nishida
+JO  - 2014 14th International Conference on Control, Automation and Systems (ICCAS 2014)
+PY  - 22-25 Oct. 2014
+SP  - 64.0
+EP  - 71
+DO  - 10.1109/ICCAS.2014.6987960
+ER  - 
+
+TY  - CPAPER
+TI  - Simulating the Emergence of Early Physical and Social Interactions : A Developmental Route through Low Level Visuomotor Learning
+AU  - Braud, R
+AU  - Mostafaoui, G
+AU  - Karaouzene, A
+AU  - Gaussier, P
+PY  - 2014
+VL  - 8575
+SP  - 154.0
+EP  - 165
+ER  - 
+
+TY  - CONF
+TI  - Simulating the emergence of early physical and social interactions: A developmental route through low level visuomotor learning
+AU  - Braud, R.
+AU  - Mostafaoui, G.
+AU  - Karaouzene, A.
+AU  - Gaussier, P.
+PY  - 2014
+VL  - 8575 LNAI
+SP  - 154.0
+EP  - 165
+DO  - 10.1007/978-3-319-08864-8_15
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958525241&doi=10.1007%2f978-3-319-08864-8_15&partnerID=40&md5=817ac2b10cc896820a2a5cba659db6b4
+ER  - 
+
+TY  - CONF
+TI  - Voxel robot: A pneumatic robot with deformable morphology
+AU  - Roper, M.
+AU  - Katsaros, N.
+AU  - Fernando, C.
+PY  - 2014
+VL  - 8575 LNAI
+SP  - 230.0
+EP  - 239
+DO  - 10.1007/978-3-319-08864-8_22
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958537661&doi=10.1007%2f978-3-319-08864-8_22&partnerID=40&md5=33d49403f9a990e180661b4b507cb820
+ER  - 
+
+TY  - JOUR
+TI  - A computational approach on the co-development of artificial visual sensorimotor
+AU  - Ruesch, J
+AU  - Ferreira, R
+AU  - Bernardino, A
+PY  - 2013
+VL  - 21
+IS  - 6
+SP  - 452.0
+EP  - 464
+DO  - 10.1177/1059712313492176
+ER  - 
+
+TY  - JOUR
+TI  - A goal-orientation framework for self-organizing control
+AU  - Hesse, F.
+AU  - Wörgötter, F.
+PY  - 2013
+VL  - 16
+IS  - 2-3
+DO  - 10.1142/S0219525913500021
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84880354518&doi=10.1142%2fS0219525913500021&partnerID=40&md5=9d5e26eb1a8c426bf268f1dfd97dabce
+ER  - 
+
+TY  - CONF
+TI  - A probabilistic approach to robot trajectory generation
+AU  - A. Paraschos
+AU  - G. Neumann
+AU  - J. Peters
+JO  - 2013 13th IEEE-RAS International Conference on Humanoid Robots (Humanoids)
+PY  - 15-17 Oct. 2013
+SP  - 477.0
+EP  - 483
+DO  - 10.1109/HUMANOIDS.2013.7030017
+ER  - 
+
+TY  - JOUR
+TI  - Active learning of inverse models with intrinsically motivated goal exploration in robots
+AU  - Baranes, A.
+AU  - Oudeyer, P.-Y.
+PY  - 2013
+VL  - 61
+IS  - 1
+SP  - 49.0
+EP  - 73
+DO  - 10.1016/j.robot.2012.05.008
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870239334&doi=10.1016%2fj.robot.2012.05.008&partnerID=40&md5=3c0f4c257e720421e6258575de63b1f6
+ER  - 
+
+TY  - CONF
+TI  - Brain-Inspired Motion Programming for Hobby-Use Humanoid Robots
+AU  - M. Kubota
+AU  - T. Yamazaki
+AU  - T. Nishino
+JO  - 2013 14th ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing
+PY  - 1-3 July 2013
+SP  - 472.0
+EP  - 477
+DO  - 10.1109/SNPD.2013.37
+ER  - 
+
+TY  - CONF
+TI  - Developing learnability - The case for reduced dimensionality
+AU  - Kuppuswamy, N.
+AU  - Harris, C.M.
+PY  - 2013
+DO  - 10.1109/DevLrn.2013.6652571
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84891061797&doi=10.1109%2fDevLrn.2013.6652571&partnerID=40&md5=2dd1d0d3c51e8b34323f2f21c34fbf3b
+ER  - 
+
+TY  - CONF
+TI  - Developing learnability — The case for reduced dimensionality
+AU  - N. Kuppuswamy
+AU  - C. M. Harris
+JO  - 2013 IEEE Third Joint International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+PY  - 18-22 Aug. 2013
+SP  - 1.0
+EP  - 7
+DO  - 10.1109/DevLrn.2013.6652571
+ER  - 
+
+TY  - CONF
+TI  - Efficient sensorimotor learning from multiple demonstrations
+AU  - Nemec, B.
+AU  - Vuga, R.
+AU  - Ude, A.
+PY  - 2013
+VL  - 27
+IS  - 13
+SP  - 1023.0
+EP  - 1031
+DO  - 10.1080/01691864.2013.814211
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84881313929&doi=10.1080%2f01691864.2013.814211&partnerID=40&md5=fcd4ae0ce668873550490c0c61b68b13
+ER  - 
+
+TY  - CONF
+TI  - Feedback error learning for rhythmic motor primitives
+AU  - N. Gopalan
+AU  - M. P. Deisenroth
+AU  - J. Peters
+JO  - 2013 IEEE International Conference on Robotics and Automation
+PY  - 6-10 May 2013
+SP  - 1317.0
+EP  - 1322
+DO  - 10.1109/ICRA.2013.6630741
+ER  - 
+
+TY  - JOUR
+TI  - Generating human-like reaching movements with a humanoid robot: A computational approach
+AU  - Taïx, M.
+AU  - Tran, M.T.
+AU  - Souères, P.
+AU  - Guigon, E.
+PY  - 2013
+VL  - 4
+IS  - 4
+SP  - 269.0
+EP  - 284
+DO  - 10.1016/j.jocs.2012.08.001
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84878951974&doi=10.1016%2fj.jocs.2012.08.001&partnerID=40&md5=be7fcaca23e6e6e52638529879427f53
+ER  - 
+
+TY  - CONF
+TI  - Grounding abstract action words through the hierarchical organization of motor primitives
+AU  - F. Stramandinoli
+AU  - D. Marocco
+AU  - A. Cangelosi
+JO  - 2013 IEEE Third Joint International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+PY  - 18-22 Aug. 2013
+SP  - 1.0
+EP  - 2
+DO  - 10.1109/DevLrn.2013.6652543
+ER  - 
+
+TY  - JOUR
+TI  - Human-Robot Interaction Learning Using Demonstration-Based Learning and Q-Learning in a Pervasive Sensing Environment
+AU  - Sung, Y
+AU  - Cho, S
+AU  - Um, K
+AU  - Jeong, YS
+AU  - Fong, SM
+AU  - Cho, K
+PY  - 2013
+DO  - 10.1155/2013/782043
+ER  - 
+
+TY  - JOUR
+TI  - Human-robot interaction learning using demonstration-based learning and Q -learning in a pervasive sensing environment
+AU  - Sung, Y.
+AU  - Cho, S.
+AU  - Um, K.
+AU  - Jeong, Y.-S.
+AU  - Fong, S.
+AU  - Cho, K.
+PY  - 2013
+VL  - 2013
+DO  - 10.1155/2013/782043
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893851452&doi=10.1155%2f2013%2f782043&partnerID=40&md5=8a4dcab279e442097161f9a9f498bbaf
+ER  - 
+
+TY  - CONF
+TI  - Learning multiple behaviors from unlabeled demonstrations in a latent controller space
+AU  - Almingol, J.
+AU  - Montesano, L.
+AU  - Lopes, M.
+PY  - 2013
+IS  - PART 2
+SP  - 1173.0
+EP  - 1181
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84897494932&partnerID=40&md5=25b6ab88a1178564f17d8af0ca142b4a
+ER  - 
+
+TY  - CONF
+TI  - Learning sequential motor tasks
+AU  - C. Daniel
+AU  - G. Neumann
+AU  - O. Kroemer
+AU  - J. Peters
+JO  - 2013 IEEE International Conference on Robotics and Automation
+PY  - 6-10 May 2013
+SP  - 2626.0
+EP  - 2632
+DO  - 10.1109/ICRA.2013.6630937
+ER  - 
+
+TY  - JOUR
+TI  - MACOP modular architecture with control primitives
+AU  - Waegeman, T.
+AU  - Hermans, M.
+AU  - Schrauwen, B.
+PY  - 2013
+IS  - JUL
+DO  - 10.3389/fncom.2013.00099
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84879927659&doi=10.3389%2ffncom.2013.00099&partnerID=40&md5=3983c5afbff1b90646fe39cbb53e3799
+ER  - 
+
+TY  - CONF
+TI  - Modulation of motor primitives using force feedback: Interaction with the environment and bimanual tasks
+AU  - A. Gams
+AU  - B. Nemec
+AU  - L. Zlajpah
+AU  - M. Wächter
+AU  - A. Ijspeert
+AU  - T. Asfour
+AU  - A. Ude
+JO  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 3-7 Nov. 2013
+SP  - 5629.0
+EP  - 5635
+DO  - 10.1109/IROS.2013.6697172
+ER  - 
+
+TY  - JOUR
+TI  - Motor primitives of pointing movements in a three-dimensional workspace
+AU  - Schütz, C
+AU  - Schack, T
+PY  - 2013
+VL  - 227
+IS  - 3
+SP  - 355.0
+EP  - 365
+DO  - 10.1007/s00221-013-3516-2
+ER  - 
+
+TY  - JOUR
+TI  - Muscle synergies in neuroscience and robotics: from input-space to task-space perspectives
+AU  - Alessandro, C
+AU  - Delis, I
+AU  - Nori, F
+AU  - Panzeri, S
+AU  - Berret, B
+PY  - 2013
+VL  - 7
+DO  - 10.3389/fncom.2013.00043
+ER  - 
+
+TY  - CHAP
+TI  - Postural synergies and neural network for autonomous grasping: A tool for dextrous prosthetic and robotic hands
+AU  - Ficuciello, F.
+AU  - Palli, G.
+AU  - Melchiorri, C.
+AU  - Siciliano, B.
+PY  - 2013
+VL  - 1
+SP  - 467.0
+EP  - 480
+DO  - 10.1007/978-3-642-34546-3_76
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85013730083&doi=10.1007%2f978-3-642-34546-3_76&partnerID=40&md5=848bf40b505df93e2ec3545ddf3f4585
+ER  - 
+
+TY  - JOUR
+TI  - Probabilistic model-based imitation learning
+AU  - Englert, P.
+AU  - Paraschos, A.
+AU  - Deisenroth, M.P.
+AU  - Peters, J.
+PY  - 2013
+VL  - 21
+IS  - 5
+SP  - 388.0
+EP  - 403
+DO  - 10.1177/1059712313491614
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84884155630&doi=10.1177%2f1059712313491614&partnerID=40&md5=d6ac74c3cd95313e1b1aa5c432cf8a1f
+ER  - 
+
+TY  - JOUR
+TI  - Quantitative evaluation of muscle synergy models: a single-trial task decoding approach
+AU  - Delis, I
+AU  - Berret, B
+AU  - Pozzo, T
+AU  - Panzeri, S
+PY  - 2013
+VL  - 7
+DO  - 10.3389/fncom.2013.00008
+ER  - 
+
+TY  - CONF
+TI  - A kernel-based approach to direct action perception
+AU  - O. Kroemer
+AU  - E. Ugur
+AU  - E. Oztop
+AU  - J. Peters
+JO  - 2012 IEEE International Conference on Robotics and Automation
+PY  - 14-18 May 2012
+SP  - 2605.0
+EP  - 2610
+DO  - 10.1109/ICRA.2012.6224957
+ER  - 
+
+TY  - JOUR
+TI  - A modular neural model of motor synergies
+AU  - Byadarhaly, K.V.
+AU  - Perdoor, M.C.
+AU  - Minai, A.A.
+PY  - 2012
+VL  - 32
+SP  - 96.0
+EP  - 108
+DO  - 10.1016/j.neunet.2012.02.003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84861785844&doi=10.1016%2fj.neunet.2012.02.003&partnerID=40&md5=5fa9a669bd3cdd7f68a3df7c887c6f06
+ER  - 
+
+TY  - JOUR
+TI  - Biped robots: Effects of small perturbations on the generation of modular trajectories
+AU  - Pinto, C.M.A.
+AU  - Rocha, D.
+AU  - Santos, C.P.
+PY  - 2012
+VL  - 7
+IS  - 1-2
+SP  - 27.0
+EP  - 37
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84863550019&partnerID=40&md5=e31b4e9609e71c500aa748a921896af1
+ER  - 
+
+TY  - CONF
+TI  - Conceptual Similarity as a Key to High-Level Robot Programming by Demonstration
+AU  - R. Cubek
+AU  - W. Ertel
+JO  - ROBOTIK 2012; 7th German Conference on Robotics
+PY  - 21-22 May 2012
+SP  - 1.0
+EP  - 6
+ER  - 
+
+TY  - JOUR
+TI  - From Animals to Animats 12 - 12th International Conference on Simulation of Adaptive Behavior, SAB 2012, Proceedings
+PY  - 2012
+VL  - 7426 LNAI
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866040202&partnerID=40&md5=d3b7641549dbd075b438b05674056dca
+ER  - 
+
+TY  - JOUR
+TI  - Generalization in Adaptation to Stable and Unstable Dynamics
+AU  - Kadiallah, A.
+AU  - Franklin, D.W.
+AU  - Burdet, E.
+PY  - 2012
+VL  - 7
+IS  - 10
+DO  - 10.1371/journal.pone.0045075
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84861485562&doi=10.1371%2fjournal.pone.0045075&partnerID=40&md5=fa5ba202be9a26fe4810ec420e9c2089
+ER  - 
+
+TY  - CONF
+TI  - Generalization of human grasping for multi-fingered robot hands
+AU  - H. Ben Amor
+AU  - O. Kroemer
+AU  - U. Hillenbrand
+AU  - G. Neumann
+AU  - J. Peters
+JO  - 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 7-12 Oct. 2012
+SP  - 2043.0
+EP  - 2050
+DO  - 10.1109/IROS.2012.6386072
+ER  - 
+
+TY  - JOUR
+TI  - Hexapod robots: New CPG model for generation of trajectories
+AU  - Pinto, C.M.A.
+AU  - Rocha, D.
+AU  - Santos, C.P.
+PY  - 2012
+VL  - 7
+IS  - 1-2
+SP  - 15.0
+EP  - 26
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84863543016&partnerID=40&md5=ec292f54a3c1e7fc6a92f4820c213ce1
+ER  - 
+
+TY  - CONF
+TI  - Learning anticipatory motor control
+AU  - D. Bailly
+AU  - P. Andry
+AU  - P. Gaussier
+JO  - 2012 IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+PY  - 7-9 Nov. 2012
+SP  - 1.0
+EP  - 2
+DO  - 10.1109/DevLrn.2012.6400850
+ER  - 
+
+TY  - CONF
+TI  - Learning to select and generalize striking movements in robot table tennis
+AU  - Muelling, K.
+AU  - Kober, J.
+AU  - Kroemer, O.
+AU  - Peters, J.
+PY  - 2012
+VL  - FS-12-07
+SP  - 38.0
+EP  - 45
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875627703&partnerID=40&md5=2cc06119914552bf7379251507be029c
+ER  - 
+
+TY  - CONF
+TI  - Locomotion through Reconfiguration based on Motor Primitives for Roombots Self-Reconfigurable Modular Robots
+AU  - S. Bonardi
+AU  - R. Moeckel
+AU  - A. Sproewitz
+AU  - M. Vespignani
+AU  - A. J. Ijspeert
+JO  - ROBOTIK 2012; 7th German Conference on Robotics
+PY  - 21-22 May 2012
+SP  - 1.0
+EP  - 6
+ER  - 
+
+TY  - CONF
+TI  - Motor primitive discovery
+AU  - P. S. Thomas
+AU  - A. G. Barto
+JO  - 2012 IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+PY  - 7-9 Nov. 2012
+SP  - 1.0
+EP  - 8
+DO  - 10.1109/DevLrn.2012.6400845
+ER  - 
+
+TY  - JOUR
+TI  - New developments on online generation of trajectories in quadruped robots
+AU  - Pinto, C.M.A.
+AU  - Santos, C.P.
+AU  - Rocha, D.
+AU  - Matos, V.
+PY  - 2012
+VL  - 7
+IS  - 1-2
+SP  - 39.0
+EP  - 57
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84863544313&partnerID=40&md5=978e23e0822534dea4ea4147236d88da
+ER  - 
+
+TY  - JOUR
+TI  - On the kinematic motion primitives (kMPs) - theory and application
+AU  - Moro, F.L.
+AU  - Tsagarakis, N.G.
+AU  - Caldwell, D.G.
+PY  - 2012
+IS  - OCT
+DO  - 10.3389/fnbot.2012.00010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84872391627&doi=10.3389%2ffnbot.2012.00010&partnerID=40&md5=afdf129d7c0c1565edfb2269afcfa655
+ER  - 
+
+TY  - JOUR
+TI  - Reinforcement learning to adjust parametrized motor primitives to new situations
+AU  - Kober, J.
+AU  - Wilhelm, A.
+AU  - Oztop, E.
+AU  - Peters, J.
+PY  - 2012
+VL  - 33
+IS  - 4
+SP  - 361.0
+EP  - 379
+DO  - 10.1007/s10514-012-9290-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84868358933&doi=10.1007%2fs10514-012-9290-3&partnerID=40&md5=2aff1f65902d3f8814aef2c50b988123
+ER  - 
+
+TY  - CONF
+TI  - Self-discovery of motor primitives and learning grasp affordances
+AU  - E. Ugur
+AU  - E. Şahin
+AU  - E. Oztop
+JO  - 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 7-12 Oct. 2012
+SP  - 3260.0
+EP  - 3267
+DO  - 10.1109/IROS.2012.6385639
+ER  - 
+
+TY  - CONF
+TI  - Synthesising a motor-primitive inspired control architecture for redundant compliant robots
+AU  - Kuppuswamy, N.
+AU  - Marques, H.G.
+AU  - Hauser, H.
+PY  - 2012
+VL  - 7426 LNAI
+SP  - 96.0
+EP  - 105
+DO  - 10.1007/978-3-642-33093-3_10
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866043634&doi=10.1007%2f978-3-642-33093-3_10&partnerID=40&md5=ade6c4252e5ea142a88dbb644fc066aa
+ER  - 
+
+TY  - CPAPER
+TI  - A Preliminary Experiment for Transferring Human Motion to a Musculoskeletal Robot-Decomposition of Human Running based on Muscular Coordination
+AU  - Iimura, T
+AU  - Inoue, K
+AU  - Pham, HTT
+AU  - Hirai, H
+AU  - Miyazaki, F
+PY  - 2011
+SP  - 4496.0
+EP  - 4501
+ER  - 
+
+TY  - CONF
+TI  - A flexible hybrid framework for modeling complex manipulation tasks
+AU  - O. Kroemer
+AU  - J. Peters
+JO  - 2011 IEEE International Conference on Robotics and Automation
+PY  - 9-13 May 2011
+SP  - 1856.0
+EP  - 1861
+DO  - 10.1109/ICRA.2011.5980237
+ER  - 
+
+TY  - CONF
+TI  - A modular approach for trajectory generation in biped robots
+AU  - Pinto, C.M.A.
+AU  - Rocha, D.
+AU  - Santos, C.P.
+AU  - Matos, V.
+PY  - 2011
+VL  - 1389
+SP  - 495.0
+EP  - 499
+DO  - 10.1063/1.3636773
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-81855186893&doi=10.1063%2f1.3636773&partnerID=40&md5=3ff314d98bfc6ff9e3e86a660e926eeb
+ER  - 
+
+TY  - CONF
+TI  - A new CPG model for the generation of modular trajectories for hexapod robots
+AU  - Pinto, C.M.A.
+AU  - Rocha, D.
+AU  - Santos, C.P.
+AU  - Matos, V.
+PY  - 2011
+VL  - 1389
+SP  - 504.0
+EP  - 508
+DO  - 10.1063/1.3636775
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-81855186890&doi=10.1063%2f1.3636775&partnerID=40&md5=4ed2274537cf856bca34a18ab56b376c
+ER  - 
+
+TY  - CONF
+TI  - A preliminary experiment for transferring human motion to a musculoskeletal robot - Decomposition of human running based on muscular coordination
+AU  - T. Iimura
+AU  - K. Inoue
+AU  - H. T. T. Pham
+AU  - H. Hirai
+AU  - F. Miyazaki
+JO  - 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 25-30 Sept. 2011
+SP  - 4496.0
+EP  - 4501
+DO  - 10.1109/IROS.2011.6094416
+ER  - 
+
+TY  - CONF
+TI  - Bio-inspired vertebral column, compliance and semi-passive dynamics in a lightweight humanoid robot
+AU  - O. Ly
+AU  - M. Lapeyre
+AU  - P. -Y. Oudeyer
+JO  - 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 25-30 Sept. 2011
+SP  - 1465.0
+EP  - 1472
+DO  - 10.1109/IROS.2011.6095019
+ER  - 
+
+TY  - JOUR
+TI  - Biomimetic control for redundant and high degree of freedom limb systems: Neurobiological modularity
+AU  - Giszter, S.F.
+AU  - Hart, C.B.
+PY  - 2011
+VL  - 7
+IS  - 3
+SP  - 169.0
+EP  - 184
+DO  - 10.12989/sss.2011.7.3.169
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79953115234&doi=10.12989%2fsss.2011.7.3.169&partnerID=40&md5=41567a376b7d9c9aa5a8af57037a0a7e
+ER  - 
+
+TY  - JOUR
+TI  - COMPLEX ORDER BIPED RHYTHMS
+AU  - Pinto, CMA
+AU  - Machado, JAT
+PY  - 2011
+VL  - 21
+IS  - 10
+SP  - 3053.0
+EP  - 3061
+DO  - 10.1142/S0218127411030362
+ER  - 
+
+TY  - CONF
+TI  - Central pattern generators and hormone inspired messages: A hybrid control strategy to implement motor primitives on chain type modular reconfigurable robots
+AU  - R. Moreno
+AU  - J. Gomez
+JO  - 2011 IEEE International Conference on Robotics and Automation
+PY  - 9-13 May 2011
+SP  - 1014.0
+EP  - 1019
+DO  - 10.1109/ICRA.2011.5980149
+ER  - 
+
+TY  - JOUR
+TI  - Decomposition of limb movement based on muscular coordination during human running
+AU  - Iimura, T.
+AU  - Inoue, K.
+AU  - Pham, H.T.T.
+AU  - Hirai, H.
+AU  - Miyazaki, F.
+PY  - 2011
+VL  - 15
+IS  - 8
+SP  - 980.0
+EP  - 987
+DO  - 10.20965/jaciii.2011.p0980
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80054883438&doi=10.20965%2fjaciii.2011.p0980&partnerID=40&md5=e70dca469a83f515123bbf2231c6268e
+ER  - 
+
+TY  - CONF
+TI  - Development of learning control in robots
+AU  - H. Su
+AU  - D. Xu
+AU  - Y. Huang
+JO  - 2011 IEEE International Conference on Mechatronics and Automation
+PY  - 7-10 Aug. 2011
+SP  - 433.0
+EP  - 439
+DO  - 10.1109/ICMA.2011.5985697
+ER  - 
+
+TY  - CONF
+TI  - Evolution of neural symmetry and its coupled alignment to body plan morphology
+AU  - Ben, J.
+AU  - Soltoggio, A.
+AU  - Sendhoff, B.
+AU  - Yao, X.
+PY  - 2011
+SP  - 235.0
+EP  - 242
+DO  - 10.1145/2001576.2001609
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860402427&doi=10.1145%2f2001576.2001609&partnerID=40&md5=6bbfa5110842184b414dca6ff615f754
+ER  - 
+
+TY  - JOUR
+TI  - Human-Robot synchrony: Flexible assistance using adaptive oscillators
+AU  - Ronsse, R.
+AU  - Vitiello, N.
+AU  - Lenzi, T.
+AU  - Van Den Kieboom, J.
+AU  - Carrozza, M.C.
+AU  - Ijspeert, A.J.
+PY  - 2011
+VL  - 58
+IS  - 4
+SP  - 1001.0
+EP  - 1012
+DO  - 10.1109/TBME.2010.2089629
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79251603322&doi=10.1109%2fTBME.2010.2089629&partnerID=40&md5=72b8bb816fa9289b96bb9c30aa04078e
+ER  - 
+
+TY  - CONF
+TI  - Humanoid muscle movement representation
+AU  - R. Iyer
+AU  - D. Ballard
+JO  - 2011 11th IEEE-RAS International Conference on Humanoid Robots
+PY  - 26-28 Oct. 2011
+SP  - 409.0
+EP  - 415
+DO  - 10.1109/Humanoids.2011.6100892
+ER  - 
+
+TY  - JOUR
+TI  - Human–Robot Synchrony: Flexible Assistance Using Adaptive Oscillators
+AU  - R. Ronsse
+AU  - N. Vitiello
+AU  - T. Lenzi
+AU  - J. van den Kieboom
+AU  - M. C. Carrozza
+AU  - A. J. Ijspeert
+JO  - IEEE Transactions on Biomedical Engineering
+PY  - April 2011
+VL  - 58
+IS  - 4
+SP  - 1001.0
+EP  - 1012
+DO  - 10.1109/TBME.2010.2089629
+ER  - 
+
+TY  - CONF
+TI  - Impact of discrete corrections in a modular approach for trajectory generation in quadruped robots
+AU  - Pinto, C.M.A.
+AU  - Santos, C.P.
+AU  - Rocha, D.
+AU  - Matos, V.
+PY  - 2011
+VL  - 1389
+SP  - 509.0
+EP  - 513
+DO  - 10.1063/1.3636776
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-81855221553&doi=10.1063%2f1.3636776&partnerID=40&md5=e8aaf73c74aae5649c6daa1b1f41bb93
+ER  - 
+
+TY  - CONF
+TI  - Oscillator-based walking assistance: A model-free approach
+AU  - R. Ronsse
+AU  - B. Koopman
+AU  - N. Vitiello
+AU  - T. Lenzi
+AU  - S. M. M. De Rossi
+AU  - J. van den Kieboom
+AU  - E. van Asseldonk
+AU  - M. C. Carrozza
+AU  - H. van der Kooij
+AU  - A. J. Ijspeert
+JO  - 2011 IEEE International Conference on Rehabilitation Robotics
+PY  - 29 June-1 July 2011
+SP  - 1.0
+EP  - 6
+DO  - 10.1109/ICORR.2011.5975352
+ER  - 
+
+TY  - JOUR
+TI  - Policy search for motor primitives in robotics
+AU  - Kober, J.
+AU  - Peters, J.
+PY  - 2011
+VL  - 84
+IS  - 1-2
+SP  - 171.0
+EP  - 203
+DO  - 10.1007/s10994-010-5223-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78049390740&doi=10.1007%2fs10994-010-5223-6&partnerID=40&md5=66ff7afc9656fa35e7b5755c4dc43a64
+ER  - 
+
+TY  - CONF
+TI  - Toward simple control for complex, autonomous robotic applications: Combining discrete and rhythmic motor primitives
+AU  - Degallier, S.
+AU  - Righetti, L.
+AU  - Gay, S.
+AU  - Ijspeert, A.
+PY  - 2011
+VL  - 31
+IS  - 2-3
+SP  - 155.0
+EP  - 181
+DO  - 10.1007/s10514-011-9235-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80052961345&doi=10.1007%2fs10514-011-9235-2&partnerID=40&md5=69e1d0bc7c794908009cf92b4db6ca7f
+ER  - 
+
+TY  - CONF
+TI  - Towards a platform-independent cooperative human-robot interaction system: II. Perception, execution and imitation of goal directed actions
+AU  - S. Lallée
+AU  - U. Pattacini
+AU  - J. D. Boucher
+AU  - S. Lemaignan
+AU  - A. Lenz
+AU  - C. Melhuish
+AU  - L. Natale
+AU  - S. Skachek
+AU  - K. Hamann
+AU  - J. Steinwender
+AU  - E. A. Sisbot
+AU  - G. Metta
+AU  - R. Alami
+AU  - M. Warnier
+AU  - J. Guitton
+AU  - F. Warneken
+AU  - P. F. Dominey
+JO  - 2011 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 25-30 Sept. 2011
+SP  - 2895.0
+EP  - 2902
+DO  - 10.1109/IROS.2011.6094744
+ER  - 
+
+TY  - CONF
+TI  - Adapting preshaped grasping movements using vision descriptors
+AU  - Krömer, O.
+AU  - Detry, R.
+AU  - Piater, J.
+AU  - Peters, J.
+PY  - 2010
+VL  - 6226 LNAI
+SP  - 156.0
+EP  - 166
+DO  - 10.1007/978-3-642-15193-4_15
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78249252094&doi=10.1007%2f978-3-642-15193-4_15&partnerID=40&md5=ba181bd615cadc01f7d43ea82087ce38
+ER  - 
+
+TY  - JOUR
+TI  - Advances in Robot Programming by Demonstration
+AU  - Dillmann, R.
+AU  - Asfour, T.
+AU  - Do, M.
+AU  - Jäkel, R.
+AU  - Kasper, A.
+AU  - Azad, P.
+AU  - Ude, A.
+AU  - Schmidt-Rohr, S.R.
+AU  - Lösch, M.
+PY  - 2010
+VL  - 24
+IS  - 4
+SP  - 295.0
+EP  - 303
+DO  - 10.1007/s13218-010-0060-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80155186549&doi=10.1007%2fs13218-010-0060-0&partnerID=40&md5=6f3f2dbb515bfb1115fd4670951933d6
+ER  - 
+
+TY  - JOUR
+TI  - Age-Related Modifications of Muscle Synergies and Spinal Cord Activity During Locomotion
+AU  - Monaco, V
+AU  - Ghionzoli, A
+AU  - Micera, S
+PY  - 2010
+VL  - 104
+IS  - 4
+SP  - 2092.0
+EP  - 2102
+DO  - 10.1152/jn.00525.2009
+ER  - 
+
+TY  - CONF
+TI  - Grasping with vision descriptors and motor primitives
+AU  - Kroemer, O.
+AU  - Detry, R.
+AU  - Piater, J.
+AU  - Peters, J.
+PY  - 2010
+VL  - 2
+SP  - 47.0
+EP  - 54
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78649678957&partnerID=40&md5=47f0f59103fd88f16ae414fc54e10fb8
+ER  - 
+
+TY  - JOUR
+TI  - Imitation and Reinforcement Learning
+AU  - J. Kober
+AU  - J. Peters
+JO  - IEEE Robotics & Automation Magazine
+PY  - June 2010
+VL  - 17
+IS  - 2
+SP  - 55.0
+EP  - 62
+DO  - 10.1109/MRA.2010.936952
+ER  - 
+
+TY  - JOUR
+TI  - Imitation and Reinforcement Learning Practical Algorithms for Motor Primitives in Robotics
+AU  - Kober, J
+AU  - Peters, J
+PY  - 2010
+VL  - 17
+IS  - 2
+SP  - 55.0
+EP  - 62
+DO  - 10.1109/MRA.2010.936952
+ER  - 
+
+TY  - CHAP
+TI  - Imitation and Reinforcement Learning for Motor Primitives with Perceptual Coupling
+AU  - Kober, J
+AU  - Mohler, B
+AU  - Peters, J
+PY  - 2010
+VL  - 264
+SP  - 209.0
+EP  - 225
+DO  - 10.1007/978-3-642-05181-4
+ER  - 
+
+TY  - JOUR
+TI  - Learning Actions from observations Primitive-Based Modeling and Grammar
+AU  - Krüger, V
+AU  - Herzog, DL
+AU  - Baby, S
+AU  - Ude, A
+AU  - Kragic, D
+PY  - 2010
+VL  - 17
+IS  - 2
+SP  - 30.0
+EP  - 43
+DO  - 10.1109/MRA.2010.936961
+ER  - 
+
+TY  - CONF
+TI  - Learning table tennis with a Mixture of Motor Primitives
+AU  - K. Muelling
+AU  - J. Kober
+AU  - J. Peters
+JO  - 2010 10th IEEE-RAS International Conference on Humanoid Robots
+PY  - 6-8 Dec. 2010
+SP  - 411.0
+EP  - 416
+DO  - 10.1109/ICHR.2010.5686298
+ER  - 
+
+TY  - JOUR
+TI  - Modeling discrete and rhythmic movements through motor primitives: a review
+AU  - Degallier, S
+AU  - Ijspeert, A
+PY  - 2010
+VL  - 103
+IS  - 4
+SP  - 319.0
+EP  - 338
+DO  - 10.1007/s00422-010-0403-9
+ER  - 
+
+TY  - CONF
+TI  - Movement templates for learning of hitting and batting
+AU  - J. Kober
+AU  - K. Mülling
+AU  - O. Krömer
+AU  - C. H. Lampert
+AU  - B. Schölkopf
+AU  - J. Peters
+JO  - 2010 IEEE International Conference on Robotics and Automation
+PY  - 3-7 May 2010
+SP  - 853.0
+EP  - 858
+DO  - 10.1109/ROBOT.2010.5509672
+ER  - 
+
+TY  - CONF
+TI  - Sparse-code muscle representation for human walking
+AU  - R. Iyer
+AU  - D. Ballard
+JO  - 2010 3rd IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics
+PY  - 26-29 Sept. 2010
+SP  - 491.0
+EP  - 497
+DO  - 10.1109/BIOROB.2010.5627988
+ER  - 
+
+TY  - CONF
+TI  - Switched latent force models for movement segmentation
+AU  - Álvarez, M.A.
+AU  - Peters, J.
+AU  - Schölkopf, B.
+AU  - Lawrence, N.D.
+PY  - 2010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162059171&partnerID=40&md5=5382cdfc02b665ba10787669f60be229
+ER  - 
+
+TY  - JOUR
+TI  - An action generation model by using time series prediction and its application to robot navigation
+AU  - Gouko, M.
+AU  - Ito, K.
+PY  - 2009
+VL  - 19
+IS  - 2
+SP  - 105.0
+EP  - 113
+DO  - 10.1142/S0129065709001872
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67650035428&doi=10.1142%2fS0129065709001872&partnerID=40&md5=ebd695594399dd739af4d337073a3244
+ER  - 
+
+TY  - CONF
+TI  - Compact models of motor primitive variations for predictable reaching and obstacle avoidance
+AU  - F. Stulp
+AU  - E. Oztop
+AU  - P. Pastor
+AU  - M. Beetz
+AU  - S. Schaal
+JO  - 2009 9th IEEE-RAS International Conference on Humanoid Robots
+PY  - 7-10 Dec. 2009
+SP  - 589.0
+EP  - 595
+DO  - 10.1109/ICHR.2009.5379551
+ER  - 
+
+TY  - CONF
+TI  - Learning motor primitives for robotics
+AU  - J. Kober
+AU  - J. Peters
+JO  - 2009 IEEE International Conference on Robotics and Automation
+PY  - 12-17 May 2009
+SP  - 2112.0
+EP  - 2118
+DO  - 10.1109/ROBOT.2009.5152577
+ER  - 
+
+TY  - CONF
+TI  - Learning new basic movements for robotics
+AU  - Kober, J.
+AU  - Peters, J.
+PY  - 2009
+SP  - 105.0
+EP  - 112
+DO  - 10.1007/978-3-642-10284-4_14
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883085665&doi=10.1007%2f978-3-642-10284-4_14&partnerID=40&md5=fd492a3d346676a5742dc04cdcbd4ef4
+ER  - 
+
+TY  - CONF
+TI  - Using Bayesian dynamical systems for motion template libraries
+AU  - Chiappa, S.
+AU  - Kober, J.
+AU  - Peters, J.
+PY  - 2009
+SP  - 297.0
+EP  - 304
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-70049111229&partnerID=40&md5=cf650844b20da3acb8fb121adf14ad64
+ER  - 
+
+TY  - CONF
+TI  - Using reward-weighted imitation for robot Reinforcement Learning
+AU  - J. Peters
+AU  - J. Kober
+JO  - 2009 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning
+PY  - 30 March-2 April 2009
+SP  - 226.0
+EP  - 232
+DO  - 10.1109/ADPRL.2009.4927549
+ER  - 
+
+TY  - CONF
+TI  - Using reward-weighted imitations for robot reinforcement learning
+AU  - Peters, J.
+AU  - Kober, J.
+PY  - 2009
+SP  - 226.0
+EP  - 232
+DO  - 10.1109/ADPRL.2009.4927549
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67650458573&doi=10.1109%2fADPRL.2009.4927549&partnerID=40&md5=7ed007a4804f9510755256caff9547c5
+ER  - 
+
+TY  - JOUR
+TI  - Emergence of functional hierarchy in a multiple timescale neural network model: A humanoid robot experiment
+AU  - Yamashita, Y.
+AU  - Tani, J.
+PY  - 2008
+VL  - 4
+IS  - 11
+DO  - 10.1371/journal.pcbi.1000220
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-57149090913&doi=10.1371%2fjournal.pcbi.1000220&partnerID=40&md5=b1c10c4922f36d9f81d29914ac250af5
+ER  - 
+
+TY  - CONF
+TI  - Learning perceptual coupling for motor primitives
+AU  - J. Kober
+AU  - B. Mohler
+AU  - J. Peters
+JO  - 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 22-26 Sept. 2008
+SP  - 834.0
+EP  - 839
+DO  - 10.1109/IROS.2008.4650953
+ER  - 
+
+TY  - CONF
+TI  - Modeling and recognition of actions through motor primitives
+AU  - D. Martinez
+AU  - D. Kragic
+JO  - 2008 IEEE International Conference on Robotics and Automation
+PY  - 19-23 May 2008
+SP  - 1704.0
+EP  - 1709
+DO  - 10.1109/ROBOT.2008.4543446
+ER  - 
+
+TY  - CPAPER
+TI  - Motor System's Role in Grounding, Receptive Field Development, and Shape Recognition
+AU  - Choe, Y
+AU  - Yang, HF
+AU  - Misra, N
+PY  - 2008
+SP  - 67.0
+EP  - 72
+DO  - 10.1109/DEVLRN.2008.4640807
+ER  - 
+
+TY  - CONF
+TI  - Policy learning - A unified perspective with applications in robotics
+AU  - Peters, J.
+AU  - Kober, J.
+AU  - Nguyen-Tuong, D.
+PY  - 2008
+VL  - 5323 LNAI
+SP  - 220.0
+EP  - 228
+DO  - 10.1007/978-3-540-89722-4_17
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-58449123855&doi=10.1007%2f978-3-540-89722-4_17&partnerID=40&md5=ede44caadb28607d3244c21d8c221a08
+ER  - 
+
+TY  - JOUR
+TI  - Reinforcement learning of motor skills with policy gradients
+AU  - Peters, J.
+AU  - Schaal, S.
+PY  - 2008
+VL  - 21
+IS  - 4
+SP  - 682.0
+EP  - 697
+DO  - 10.1016/j.neunet.2008.02.003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-44949241322&doi=10.1016%2fj.neunet.2008.02.003&partnerID=40&md5=b71c6043a6a726ab8efbc6ef60bff68b
+ER  - 
+
+TY  - CONF
+TI  - 15th European Symposium on Artificial Neural Networks, ESANN 2007
+PY  - 2007
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84887010886&partnerID=40&md5=b1f84f03ae5bd995567cdaa2512aaff2
+ER  - 
+
+TY  - CHAP
+TI  - A Dual Interaction Perspective for Robot Cognition: Grasping as a "Rosetta Stone"
+AU  - Ritter, H
+AU  - Haschke, R
+AU  - Steil, JJ
+PY  - 2007
+VL  - 77
+SP  - 159.0
+EP  - 178
+DO  - 10.1007/978-3-540-73954-8
+ER  - 
+
+TY  - CONF
+TI  - Action Recognition and Understanding using Motor Primitives
+AU  - V. Kyrki
+AU  - I. S. Vicente
+AU  - D. Kragic
+AU  - J. -O. Eklundh
+JO  - RO-MAN 2007 - The 16th IEEE International Symposium on Robot and Human Interactive Communication
+PY  - 26-29 Aug. 2007
+SP  - 1113.0
+EP  - 1118
+DO  - 10.1109/ROMAN.2007.4415247
+ER  - 
+
+TY  - JOUR
+TI  - Action recognition and understanding through motor primitives
+AU  - Vicente, I.S.
+AU  - Kyrki, V.
+AU  - Kragic, D.
+AU  - Larsson, M.
+PY  - 2007
+VL  - 21
+IS  - 15
+SP  - 1687.0
+EP  - 1707
+DO  - 10.1163/156855307782506156
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-36148938370&doi=10.1163%2f156855307782506156&partnerID=40&md5=a05a58bb8c3ac9a383646ab28137f927
+ER  - 
+
+TY  - CONF
+TI  - An Action Generation Model Using Time Series Prediction
+AU  - M. Gouko
+AU  - K. Ito
+JO  - 2007 International Joint Conference on Neural Networks
+PY  - 12-17 Aug. 2007
+SP  - 602.0
+EP  - 607
+DO  - 10.1109/IJCNN.2007.4371025
+ER  - 
+
+TY  - CONF
+TI  - Applying the episodic natural actor-critic architecture to motor primitive learning
+AU  - Peters, J.
+AU  - Schaal, S.
+PY  - 2007
+SP  - 295.0
+EP  - 300
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886998125&partnerID=40&md5=90a082a06d59e9b504bef7c4e983a5b5
+ER  - 
+
+TY  - JOUR
+TI  - Autonomous learning of the semantics of internal sensory states based on motor exploration
+AU  - Choe, Y.
+AU  - Yang, H.-F.
+AU  - Eng, D.C.-Y.
+PY  - 2007
+VL  - 4
+IS  - 2
+SP  - 211.0
+EP  - 243
+DO  - 10.1142/S0219843607001102
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-34447330416&doi=10.1142%2fS0219843607001102&partnerID=40&md5=aaecb5e87678e124e3e348119fcd0ce3
+ER  - 
+
+TY  - JOUR
+TI  - Interactive human pose and action recognition using dynamical motion primitives
+AU  - Jenkins, OC
+AU  - Serrano, GG
+AU  - Loper, MM
+PY  - 2007
+VL  - 4
+IS  - 2
+SP  - 365.0
+EP  - 385
+DO  - 10.1142/S0219843607001060
+ER  - 
+
+TY  - JOUR
+TI  - Interactive human pose and action recogniton using dynamical motion primitives
+AU  - Jenkins, O.C.
+AU  - Serrano, G.G.
+AU  - Loper, M.W.
+PY  - 2007
+VL  - 4
+IS  - 2
+SP  - 365.0
+EP  - 385
+DO  - 10.1142/S0219843607001060
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-34447331277&doi=10.1142%2fS0219843607001060&partnerID=40&md5=1f9e56dea1a34097a89ca6e577e0d8d1
+ER  - 
+
+TY  - CONF
+TI  - Mental models for cognitive control
+AU  - Schilling, M.
+AU  - Cruse, H.
+AU  - Schmitz, J.
+PY  - 2007
+VL  - 6592
+DO  - 10.1117/12.721968
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-36248984245&doi=10.1117%2f12.721968&partnerID=40&md5=b6a21655c16c7b266d7cca6dcd7418cd
+ER  - 
+
+TY  - JOUR
+TI  - A Control System for a Flexible Spine Belly-Dancing Humanoid
+AU  - J. Or
+JO  - Artificial Life
+PY  - 2006
+VL  - 12
+IS  - 1
+SP  - 63.0
+EP  - 88
+DO  - 10.1162/106454606775186464
+ER  - 
+
+TY  - JOUR
+TI  - A neural network model for coordination of hand gesture during reach to grasp
+AU  - Vilaplana, J.M.
+AU  - Coronado, J.L.
+PY  - 2006
+VL  - 19
+IS  - 1
+SP  - 12.0
+EP  - 30
+DO  - 10.1016/j.neunet.2005.07.014
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-30644463627&doi=10.1016%2fj.neunet.2005.07.014&partnerID=40&md5=a28f4cf6425cf8c933d92ba3b91011cc
+ER  - 
+
+TY  - JOUR
+TI  - A neural network model. for coordination of hand gesture during reach to grasp
+AU  - Vilaplana, JM
+AU  - Coronado, JL
+PY  - 2006
+VL  - 19
+IS  - 1
+SP  - 12.0
+EP  - 30
+DO  - 10.1016/j.neunet.2005.07.014
+ER  - 
+
+TY  - JOUR
+TI  - Adjustable primitive pattern generator: A novel cerebellar model for reaching movements
+AU  - Vahdat, S
+AU  - Maghsoudi, A
+AU  - Hasani, MH
+AU  - Towhidkhah, F
+AU  - Gharibzadeh, S
+AU  - Jahed, M
+PY  - 2006
+VL  - 406
+IS  - 3
+SP  - 232.0
+EP  - 234
+DO  - 10.1016/j.neulet.2006.07.038
+ER  - 
+
+TY  - JOUR
+TI  - Goal-directed imitation for robots: A bio-inspired approach to action understanding and skill learning
+AU  - Erlhagen, W.
+AU  - Mukovskiy, A.
+AU  - Bicho, E.
+AU  - Panin, G.
+AU  - Kiss, C.
+AU  - Knoll, A.
+AU  - van Schie, H.
+AU  - Bekkering, H.
+PY  - 2006
+VL  - 54
+IS  - 5
+SP  - 353.0
+EP  - 360
+DO  - 10.1016/j.robot.2006.01.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33646154200&doi=10.1016%2fj.robot.2006.01.004&partnerID=40&md5=2cd56340f1a1172e6ef2f7b7bc2df8c5
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement Learning for Parameterized Motor Primitives
+AU  - J. Peters
+AU  - S. Schaal
+JO  - The 2006 IEEE International Joint Conference on Neural Network Proceedings
+PY  - 16-21 July 2006
+SP  - 73.0
+EP  - 80
+DO  - 10.1109/IJCNN.2006.246662
+ER  - 
+
+TY  - CONF
+TI  - Standing up with motor primitives
+AU  - Hamburger, V.
+AU  - Berns, K.
+AU  - Iida, F.
+AU  - Pfeifer, R.
+PY  - 2006
+SP  - 383.0
+EP  - 390
+DO  - 10.1007/3-540-26415-9_46
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84881126753&doi=10.1007%2f3-540-26415-9_46&partnerID=40&md5=ef08907cc1784d189f33ffe763c431fe
+ER  - 
+
+TY  - JOUR
+TI  - Motor primitives in vertebrates and invertebrates
+AU  - Flash, T.
+AU  - Hochner, B.
+PY  - 2005
+VL  - 15
+IS  - 6
+SP  - 660.0
+EP  - 666
+DO  - 10.1016/j.conb.2005.10.011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-27944489902&doi=10.1016%2fj.conb.2005.10.011&partnerID=40&md5=e9640fae279d2d6aca526f0b60c6f995
+ER  - 
+
+TY  - CONF
+TI  - Rapid synchronization and accurate phase-locking of rhythmic motor primitives
+AU  - D. Pongas
+AU  - A. Billard
+AU  - S. Schaal
+JO  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 2-6 Aug. 2005
+SP  - 2911.0
+EP  - 2916
+DO  - 10.1109/IROS.2005.1545257
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement learning in MirrorBot
+AU  - Weber, C.
+AU  - Muse, D.
+AU  - Elshaw, M.
+AU  - Wermter, S.
+PY  - 2005
+VL  - 3696 LNCS
+SP  - 305.0
+EP  - 310
+DO  - 10.1007/11550822_48
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33646180612&doi=10.1007%2f11550822_48&partnerID=40&md5=0dd5c442f0c10c45dad72ece5e538ee6
+ER  - 
+
+TY  - CONF
+TI  - The emotive episode is a composition of anticipatory and reactive evaluations
+AU  - Lahnstein, M.
+PY  - 2005
+SP  - 62.0
+EP  - 69
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-21544463596&partnerID=40&md5=b56f4e7aeba72bc1e09eb023efd2067b
+ER  - 
+
+TY  - CHAP
+TI  - Adaptive Motor Primitive and Sequence Formation in a Hierarchical Recurrent Neural Network
+AU  - Stefan Schaal
+AU  - Auke Jan Ijspeert
+AU  - Aude Billard
+AU  - Sethu Vijayakumar
+AU  - Jean-Arcady Meyer
+PY  - 2004
+SP  - 274.0
+EP  - 283
+UR  - http://ieeexplore.ieee.org/document/6281995
+ER  - 
+
+TY  - CHAP
+TI  - Cortical control of motor learning
+AU  - Padoa-Schioppa, C.
+AU  - Bizzi, E.
+AU  - Mussa-Ivaldi, F.A.
+PY  - 2004
+SP  - 329.0
+EP  - 348
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057673875&partnerID=40&md5=d9e5e5b3978c7b7da170af0c482f652e
+ER  - 
+
+TY  - JOUR
+TI  - Evolved motor primitives and sequences in a hierarchical recurrent neural network
+AU  - Paine, R.W.
+AU  - Tani, J.
+PY  - 2004
+VL  - 3102
+SP  - 603.0
+EP  - 614
+DO  - 10.1007/978-3-540-24854-5_63
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-35048872742&doi=10.1007%2f978-3-540-24854-5_63&partnerID=40&md5=2d2fa81628fdb06fe280285eac9c0f43
+ER  - 
+
+TY  - CONF
+TI  - Exemplar-based primitives for humanoid movement classification and control
+AU  - E. Drumwright
+AU  - O. C. Jenkins
+AU  - M. J. Mataric
+JO  - IEEE International Conference on Robotics and Automation, 2004. Proceedings. ICRA '04. 2004
+PY  - 26 April-1 May 2004
+VL  - 1
+SP  - 140.0
+EP  - 145 Vol.1
+DO  - 10.1109/ROBOT.2004.1307142
+ER  - 
+
+TY  - CONF
+TI  - Motor primitive and sequence self-organization in a hierarchical recurrent neural network
+AU  - Paine, R.W.
+AU  - Tani, J.
+PY  - 2004
+VL  - 17
+IS  - 8-9
+SP  - 1291.0
+EP  - 1309
+DO  - 10.1016/j.neunet.2004.08.005
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-9144259348&doi=10.1016%2fj.neunet.2004.08.005&partnerID=40&md5=1abd63e5997bc5609b3a4b7d4ff4292a
+ER  - 
+
+TY  - JOUR
+TI  - Neural primitives for motion control
+AU  - F. A. Mussa-Ivaldi
+AU  - S. A. Solla
+JO  - IEEE Journal of Oceanic Engineering
+PY  - July 2004
+VL  - 29
+IS  - 3
+SP  - 640.0
+EP  - 650
+DO  - 10.1109/JOE.2004.833102
+ER  - 
+
+TY  - JOUR
+TI  - Synthesizing Movements for Computer Game Characters
+AU  - Thurau, C.
+AU  - Bauckhage, C.
+AU  - Sagerer, G.
+PY  - 2004
+VL  - 3175
+SP  - 179.0
+EP  - 186
+DO  - 10.1007/978-3-540-28649-3_22
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-34047236129&doi=10.1007%2f978-3-540-28649-3_22&partnerID=40&md5=8f56ef4a6f478891acd67abae4418591
+ER  - 
+
+TY  - CONF
+TI  - Towards single-arm reaching for humanoids in dynamic environments
+AU  - E. Drumwright
+AU  - M. Kallmann
+AU  - M. Mataric
+JO  - 4th IEEE/RAS International Conference on Humanoid Robots, 2004.
+PY  - 10-12 Nov. 2004
+VL  - 2
+SP  - 749.0
+EP  - 763
+DO  - 10.1109/ICHR.2004.1442683
+ER  - 
+
+TY  - JOUR
+TI  - Computational approaches to motor learning by imitation
+AU  - Schaal, S
+AU  - Ijspeert, A
+AU  - Billard, A
+PY  - 2003
+VL  - 358
+IS  - 1431
+SP  - 537.0
+EP  - 547
+DO  - 10.1098/rstb.2002.1258
+ER  - 
+
+TY  - CONF
+TI  - Learning attractor landscapes for learning motor primitives
+AU  - Ijspeert, A.J.
+AU  - Nakanishi, J.
+AU  - Schaal, S.
+PY  - 2003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899019754&partnerID=40&md5=ab2909cc55a329782ed2f8dfa4864053
+ER  - 
+
+TY  - CONF
+TI  - Neuroethological concepts and their transfer to walking machines
+AU  - Dürr, V.
+AU  - Krause, A.F.
+AU  - Schmitz, J.
+AU  - Cruse, H.
+PY  - 2003
+VL  - 22
+IS  - 3-4
+SP  - 151.0
+EP  - 167
+DO  - 10.1177/027836403128964917
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-19244371149&doi=10.1177%2f027836403128964917&partnerID=40&md5=23706b4d8b18040b3b6379551df50a68
+ER  - 
+
+TY  - JOUR
+TI  - Automated derivation of primitives for movement classification
+AU  - Fod, A.
+AU  - Matarić, M.J.
+AU  - Jenkins, O.C.
+PY  - 2002
+VL  - 12
+IS  - 1
+SP  - 39.0
+EP  - 54
+DO  - 10.1023/A:1013254724861
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036168527&doi=10.1023%2fA%3a1013254724861&partnerID=40&md5=7f43e63e2e2c165d6d8f70e481a9e28b
+ER  - 
+
+TY  - CONF
+TI  - Deriving action and behavior primitives from human motion data
+AU  - O. C. Jenkins
+AU  - M. J. Mataric
+JO  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+PY  - 30 Sept.-4 Oct. 2002
+VL  - 3
+SP  - 2551.0
+EP  - 2556 vol.3
+DO  - 10.1109/IRDS.2002.1041654
+ER  - 
+
+TY  - CONF
+TI  - Design expressive behaviors for robotic puppet
+AU  - Shusong Xing
+AU  - I-Ming Chen
+JO  - 7th International Conference on Control, Automation, Robotics and Vision, 2002. ICARCV 2002.
+PY  - 2-5 Dec. 2002
+VL  - 1
+SP  - 378.0
+EP  - 383 vol.1
+DO  - 10.1109/ICARCV.2002.1234851
+ER  - 
+
+TY  - CONF
+TI  - Intelligent control of a 7-DOF manipulator based on model primitives
+AU  - D. P. Thrishantha Nanayakkar
+AU  - K. Watanabe
+AU  - K. Kiguchi
+AU  - R. Shadmehr
+JO  - Proceedings of the IEEE Internatinal Symposium on Intelligent Control
+PY  - 30-30 Oct. 2002
+SP  - 538.0
+EP  - 543
+DO  - 10.1109/ISIC.2002.1157820
+ER  - 
+
+TY  - CONF
+TI  - Learning movement sequences from demonstration
+AU  - R. Amit
+AU  - M. Matari
+JO  - Proceedings 2nd International Conference on Development and Learning. ICDL 2002
+PY  - 12-15 June 2002
+SP  - 203.0
+EP  - 208
+DO  - 10.1109/DEVLRN.2002.1011867
+ER  - 
+
+TY  - CONF
+TI  - Parametric primitives for motor representation and control
+AU  - R. Amit
+AU  - M. J. Mataric
+JO  - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)
+PY  - 11-15 May 2002
+VL  - 1
+SP  - 863.0
+EP  - 868 vol.1
+DO  - 10.1109/ROBOT.2002.1013465
+ER  - 
+
+TY  - CHAP
+TI  - Sensory-Motor Primitives as a Basis for Imitation: Linking Perception to Action and Biology to Robotics
+AU  - Kerstin Dautenhahn
+AU  - Chrystopher L. Nehaniv
+PY  - 2002
+SP  - 391.0
+EP  - 422
+UR  - http://ieeexplore.ieee.org/document/6284774
+ER  - 
+
+TY  - JOUR
+TI  - Modularity, evolution, and the binding problem: A view from stability theory
+AU  - Slotine, J.-J.
+AU  - Lohmiller, W.
+PY  - 2001
+VL  - 14
+IS  - 2
+SP  - 137.0
+EP  - 145
+DO  - 10.1016/S0893-6080(00)00089-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035138542&doi=10.1016%2fS0893-6080%2800%2900089-7&partnerID=40&md5=bd13984faea94891e89329de54cf2548
+ER  - 
+
+TY  - JOUR
+TI  - Neurobiological and neurorobotic approaches to control architectures for a humanoid motor system
+AU  - Giszter, S.F.
+AU  - Moxon, K.A.
+AU  - Rybak, I.A.
+AU  - Chapin, J.K.
+PY  - 2001
+VL  - 37
+IS  - 2-3
+SP  - 219.0
+EP  - 235
+DO  - 10.1016/S0921-8890(01)00159-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035976369&doi=10.1016%2fS0921-8890%2801%2900159-2&partnerID=40&md5=80c1ac8ad4b9267ffe0e1963fa44194b
+ER  - 
+
+TY  - JOUR
+TI  - A neurobiological perspective on humanoid robot design
+AU  - S. F. Giszter
+AU  - K. A. Moxon
+AU  - I. Rybak
+AU  - J. K. Chapin
+JO  - IEEE Intelligent Systems and their Applications
+PY  - July-Aug. 2000
+VL  - 15
+IS  - 4
+SP  - 64.0
+EP  - 69
+DO  - 10.1109/5254.867914
+ER  - 
+
+TY  - JOUR
+TI  - Emulation of biological motor primitives in an artificial system: the generation of static force fields
+AU  - Lee, C.J.
+AU  - Reger, B.D.
+AU  - Tresch, M.C.
+AU  - Colgate, J.E.
+AU  - Mussa-Ivaldi, F.A.
+PY  - 1999
+VL  - 67
+SP  - 897.0
+EP  - 905
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0033297725&partnerID=40&md5=b72abdca341e4d955a5c8e93f8149d01
+ER  - 
+

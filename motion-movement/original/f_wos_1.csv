@@ -1,0 +1,629 @@
+Title,Year,DOI
+Effectiveness and application of simplified geometric models in skill-based manipulation,2003,
+Sensor-based Whole-Body Planning/Replanning for Humanoid Robots,2019,10.1109/humanoids43949.2019.9035017
+On-line learning and modulation of periodic movements with nonlinear dynamical systems,2009,10.1007/s10514-009-9118-y
+Hierarchical Collision Avoidance for Adaptive-Speed Multirotor Teleoperation,2022,10.1109/SSRR56537.2022.10018782
+On-line and On-board Planning and Perception for Quadrupedal Locomotion,2015,
+Towards the analytical computation of time-optimal trajectories for unicycle robots in corridor environments,2024,
+Robot planning and control,1997,10.1016/S0921-8890(96)00078-4
+Time-Optimal Motion Strategies for Capturing an Omnidirectional Evader Using a Differential Drive Robot,2013,10.1109/TRO.2013.2264868
+A Unified Language for Anthropomorphic Arm Motion,2013,
+"Optimal timing control of interconnected, switched systems with applications to robotic marionettes",2008,10.1109/WODES.2008.4605938
+Constrained Path Optimization with Bezier Curve Primitives,2014,
+Timing Control of Switched Systems with Applications to Robotic Marionettes,2010,10.1007/s10626-009-0059-6
+Collision Avoidance for Multiple Static Obstacles using Path-Velocity Decomposition,2019,10.1016/j.ifacol.2019.08.081
+Context Dependent Action Affordances and their Execution using an Ontology of Actions and 3D Geometric Reasoning,2018,10.5220/0006562502180229
+DMP-based Path Planning for Model Predictive Interaction Control,2024,
+Online Segmentation and Clustering From Continuous Observation of Whole Body Motions,2009,10.1109/TRO.2009.2026508
+An Analysis of Peristaltic Locomotion for Maximizing Velocity or Minimizing Cost of Transport of Earthworm-Like Robots,2021,10.1089/soro.2020.0021
+Maneuver-based motion planning for nonlinear systems with symmetries,2005,10.1109/TRO.2005.852260
+Human-Humanoid Haptic Joint Object Transportation Case Study,2012,
+Controlling Palm-Object Interactions Via Friction for Enhanced In-Hand Manipulation,2022,10.1109/LRA.2022.3143578
+Search-Based Motion Planning for Aggressive Flight in SE(3),2018,10.1109/LRA.2018.2795654
+Energy-saving optimization method for point-to-point trajectories planned via standard primitives in 1-DoF mechatronic systems,2021,10.1007/s00170-021-07277-y
+Control of Wall Mounting Robot,2017,10.1016/j.ifacol.2017.08.1113
+Anchoring by imitation learning in conceptual spaces,2005,
+Coordinating Mobile Manipulator's Motion to produce Stable Trajectories on Uneven Terrain based on Feasible Acceleration Count,2013,
+Improving Walking Path Generation Through Biped Constraint in Indoor Navigation System for Visually Impaired Individuals,2024,10.1109/TNSRE.2024.3375944
+Learning Sequential Force Interaction Skills,2020,10.3390/robotics9020045
+Fusion dynamical systems with machine learning in imitation learning: A comprehensive overview,2024,10.1016/j.inffus.2024.102379
+Imitation-Based Motion Planning and Control of a Multi-Section Continuum Robot Interacting With the Environment,2023,10.1109/LRA.2023.3239306
+Grid-based Motion Planning using Advanced Motions for Hexapod Robots,2018,
+Path planning for autonomous inland vessels in complex harbor environments,2023,
+Towards Semantic Segmentation of Human Motion Sequences,2010,
+Control Aesthetics in Software Architecture for Robotic Marionettes,2011,
+Robotic in-hand manipulation with relaxed optimization,2024,10.1109/RO-MAN60168.2024.10731302
+Path planning using genetic algorithms for mini-robotic tasks,2004,10.1109/ICSMC.2004.1400927
+Mimetic Communication Model with Compliant Physical Contact in Human-Humanoid Interaction,2010,10.1177/0278364910364164
+Learning robot soccer skills from demonstration,2007,
+Leveraging Submovements for Prediction and Trajectory Planning for Human-Robot Handover,2022,10.1145/3529190.3529220
+Learning quadrupedal locomotion over challenging terrain,2020,10.1126/scirobotics.abc5986
+Representation and Generalization of Bi-manual Skills from Kinesthetic Teaching,2012,
+Trajectory Generation under the Least Action Principle for Physical Human-Robot Cooperation,2013,
+An extended DMP framework for robot learning and improving variable stiffness manipulation,2020,10.1108/AA-11-2018-0188
+Hybrid Discrete-Continuous Path Planning for Lattice Traversal,2022,10.1109/IROS47612.2022.9981801
+Trajectory Imitation With Visual Guidance and Compliance Control for Robotic Bolt Grasping and Assembly,2024,10.1109/TMECH.2024.3464680
+Motion Generation Based on Contact State Estimation Using Two-stage Clustering,2023,10.1541/ieejjia.22012635
+Navigation among visually connected sets of partially distinguishable landmarks,2012,
+Towards Associative Skill Memories,2012,
+Docking and Undocking a Modular Underactuated Oscillating Swimming Robot,2021,10.1109/ICRA48506.2021.9562033
+A Comparison of Automatic Nap-of-the-earth Guidance Strategies for Helicopters,2014,10.1002/rob.21514
+Probabilistic Segmentation Applied to an Assembly Task,2015,
+Compliance force control for Polish cardiosurgical manipulator RobIn Heart,2013,
+Learning Intelligent Controllers for Path-Following Skills on Snake-Like Robots,2011,
+Incremental Micro-UAV Motion Replanning for Exploring Unknown Environments,2013,
+"Scalable and Robust Fabrication, Operation, and Control of Compliant Modular Robots",2020,10.3389/frobt.2020.00044
+MMP plus plus : Motion Manifold Primitives With Parametric Curve Models,2024,10.1109/TRO.2024.3444068
+Graph Neural Networks for Decentralized Multi-Robot Target Tracking,2022,10.1109/SSRR56537.2022.10018712
+Parallel Permutation for Linear Full-resolution Reconfiguration of Heterogeneous Sliding-only Cubic Modular Robots,2020,10.1109/icra40945.2020.9197033
+Locomotion Planning of a Truss Robot on Irregular Terrain,2023,10.1109/IROS55552.2023.10341447
+Robot catching: Towards engaging human-humanoid interaction,2002,10.1023/A:1013223328496
+Constrained Global Path Optimization for Articulated Steering Vehicles,2016,10.1109/TVT.2015.2424933
+Adapting Object-Centric Probabilistic Movement Primitives with Residual Reinforcement Learning,2022,
+CPG-based Behavior Design and Implementation for a Biomimetic Amphibious Robot,2011,
+Whole body humanoid control from human motion descriptors,2008,10.1109/ROBOT.2008.4543616
+Recent Advances in Robot Learning from Demonstration,2020,10.1146/annurev-control-100819-063206
+RABBIT: A Robot-Assisted Bed Bathing System with Multimodal Perception and Integrated Compliance,2024,10.1145/3610977.3634989
+Deformed State Lattice Planning,2017,
+Adaptive Symmetry Reference Trajectory Generation in Shared Autonomy for Active Knee Orthosis,2023,10.1109/LRA.2023.3264767
+Recognition and Generation of Motion Primitives with Humanoid Robots,2009,
+Stable heteroclinic channels for controlling a simulated aquatic serpentine robot in narrow crevices,2025,10.3389/felec.2025.1507644
+Sequential Quadratic Programming for Task Plan Optimization,2016,
+Hierarchical Human Machine Interaction Learning for a Lower Extremity Augmentation Device,2019,10.1007/s12369-018-0484-5
+A Neural Network to Capture Demonstrated Motions on a Humanoid Robot to Rapidly Create Complex Central Pattern Generators as Reusable Neural Building Blocks,2013,
+Motion Adaptation With Motor Invariant Theory,2013,10.1109/TSMCB.2012.2224920
+Learning Motor Skills from Partially Observed Movements Executed at Different Speeds,2015,
+Applications of contraction analysis,1997,
+Door-opening behavior of an autonomous mobile manipulator by sequence of action primitives,1996,
+The Rapidly Exploring Random Tree Funnel Algorithm,2022,10.1109/ICMRE54455.2022.9734089
+"Ori-Pixel, a Multi-DoFs Origami Pixel for Modular Reconfigurable Surfaces",2020,10.1109/LRA.2020.3028054
+Dynamic Balance Gait for Walking Assistance Exoskeleton,2018,10.1155/2018/7847014
+Active learning of time-optimal motion for an industrial manipulator with variable,2023,10.1016/j.ifacol.2023.10.1585
+A cognitive framework for imitation learning,2006,10.1016/j.robot.2006.01.008
+Warehouse Automation in a Day: From Model to Implementation with Provable Guarantees,2020,10.1109/case48305.2020.9217012
+A Modified Robotic Rat to Study Rat-Like Pitch and Yaw Movements,2018,10.1109/TMECH.2018.2863269
+Learning of Robotic Throwing at a Target using a Qualitative Learning Reward,2019,10.1109/eurocon.2019.8861589
+Generating near minimal spanning control sets for constrained motion planning in discrete state spaces,2005,10.1109/IROS.2005.1545046
+Extending Conflict-Based Search for Optimal and Efficient Quadrotor Swarm Motion Planning,2024,10.3390/drones8120719
+High-level motion planning for CPG-driven modular robots,2015,10.1016/j.robot.2015.01.006
+Demonstration-enhanced policy search for space multi-arm robot collaborative skill learning,2025,10.1016/j.cja.2024.08.018
+Multi-agent Path Finding on Real Robots: First Experience with Ozobots,2018,10.1007/978-3-030-03928-8_24
+Effect Regulated Projection of Robot's Action Space for Production and Prediction of Manipulation Primitives Through Learning Progress and Predictability-Based Exploration,2021,10.1109/TCDS.2019.2933900
+Motion primitives of dancing,2008,
+Motor Compositionality and Timing: Combined Geometrical and Optimization Approaches,2019,10.1007/978-3-319-93870-7_8
+Fast on-board motion planning for modular robots,2014,
+Action Description From 2D Human Postures in Care Facilities,2020,10.1109/LRA.2020.2965394
+Design and development of a software architecture for autonomous mobile manipulators in industrial environments,2015,
+A Switching Kinematic Model for an Octapedal Robot,2012,
+TossingBot: Learning to Throw Arbitrary Objects with Residual Physics,2019,
+Learning Under-specified Object Manipulations From Human Demonstrations,2018,
+dPMP-Deep Probabilistic Motion Planning: A use case in Strawberry Picking Robot,2022,10.1109/IROS47612.2022.9982187
+Parallel computation using active self-assembly,2015,10.1007/s11047-014-9432-y
+"Grounding Verbs for Tool-Dependent, Sensor-Based Robot Tasks",2018,
+A multitasking architecture for humanoid robot programming,2013,10.1007/s11370-013-0132-8
+Imitation learning for coordinated human-robot collaboration based on hidden state-space models,2022,10.1016/j.rcim.2021.102310
+Real-Time Capable Decision Making for Autonomous Driving Using Reachable Sets,2024,10.1109/ICRA57147.2024.10610689
+Human Hand Motion Recognition Using Empirical Copula,2010,10.1109/IROS.2010.5649027
+Learning Arm Movements of Target Reaching for Humanoid Robot,2015,
+Recursive Algorithm for Motion Primitive Estimation,2011,
+Distributed assignment with limited communication for multi-robot multi-target tracking,2020,10.1007/s10514-019-09856-1
+Using Fuzzy Logic to Enhance Classification of Human Motion Primitives,2014,
+Learning by demonstration applied to underwater intervention,2014,10.3233/978-1-61499-452-7-95
+Biomimetic learning of hand gestures in a humanoid robot,2024,10.3389/fnhum.2024.1391531
+Assessing the Impact of Fatigue on Gait Using Inertial Sensors,2013,
+Search-based task and motion planning for hybrid systems: Agile autonomous vehicles,2023,10.1016/j.engappai.2023.105893
+Skill-based backprojection for fine motion planning,1996,
+"Human-Inspired Underactuated Bipedal Robotic Walking with AMBER on Flat-ground, Up-slope and Uneven Terrain",2012,
+An Untethered Brittle Star-Inspired Soft Robot for Closed-Loop Underwater Locomotion,2020,10.1109/IROS45743.2020.9341008
+A Passivity-Based Strategy for Coaching in Human-Robot Interaction,2018,
+Parallel Algorithm for Precise Navigation Using Black-Box Forward Model and Motion Primitives,2019,10.1109/LRA.2019.2904739
+Using Manipulation Primitives for Brick Sorting in Clutter,2012,
+Human-robot cooperation using quasi-symbols generated by RNNPB model,2007,10.1109/ROBOT.2007.363640
+Towards reliable robot packing system based on deep reinforcement learning,2023,10.1016/j.aei.2023.102028
+Differentially constrained path planning with graduated state space,2016,10.1016/j.mechatronics.2016.02.006
+Generalization Based Database Acquisition for Robot Learning in Reduced Space,2020,10.1007/978-3-030-48989-2_53
+Solving Complex Tasks Hierarchically from Demonstrations,2018,
+Evaluating the Task Generalization of Temporal Convolutional Networks for Surgical Gesture and Motion Recognition Using Kinematic Data,2023,10.1109/LRA.2023.3292581
+Vision-guided motion primitives for humanoid reactive walking: Decoupled versus coupled approaches,2015,10.1177/0278364914550891
+Thin plate manipulation by an under-actuated robotic soft gripper utilizing the environment,2017,
+Process of Learning from Demonstration with Paraconsistent Artificial Neural Cells for Application in Linear Cartesian Robots,2023,10.3390/robotics12030069
+Motion Generators Combined with Behavior Trees: a Novel Approach to Skill Modelling,2018,
+SupraPeds: Smart Staff Design and Terrain Characterization,2015,
+Robots Learning from Robots: A Proof of Concept Study for Co-Manipulation Tasks,2017,
+STITCH: Augmented Dexterity for Suture Throws Including Thread Coordination and Handoffs,2024,10.1109/ISMR63436.2024.10585751
+Parallel Computation Using Active Self-assembly,2013,
+Directing Policy Search with Interactively Taught Via-Points,2016,
+Learned Stochastic Mobility Prediction for Planning with Control Uncertainty on Unstructured Terrain,2014,10.1002/rob.21536
+Exploiting Symmetries in Reinforcement Learning of Bimanual Robotic Tasks,2019,10.1109/LRA.2019.2898330
+Robot adaptation to human physical fatigue in human-robot co-manipulation,2018,10.1007/s10514-017-9678-1
+Realizing human-like manipulation with a musculoskeletal system and biologically inspired control scheme,2019,10.1016/j.neucom.2018.12.069
+Plucking Motions for Tea Harvesting Robots Using Probabilistic Movement Primitives,2020,10.1109/LRA.2020.2976314
+A Novel Robust Imitation Learning Framework for Complex Skills With Limited Demonstrations,2024,10.1109/TASE.2024.3403833
+Unsupervised Human Motion Segmentation Based on Characteristic Force Signals of Contact Events,2023,10.1109/LRA.2023.3303828
+Motion Capture and Reinforcement Learning of Dynamically Stable Humanoid Movement Primitives,2013,
+PyRoboLearn: A Python Framework for Robot Learning Practitioners,2019,
+Interpretation of human demonstrations using Mirror Neuron System principles,2007,
+Intrinsic Motivations and Planning to Explain Tool-Use Development: A Study With a Simulated Robot Model,2022,10.1109/TCDS.2020.2986411
+Multi-risk Aware Trajectory Planning for Car-like Robot in Highly Dynamic Environments,2023,10.1109/ITSC57777.2023.10421942
+TossingBot: Learning to Throw Arbitrary Objects With Residual Physics,2020,10.1109/TRO.2020.2988642
+Effective Motion Learning for a Flexible-Joint Robot Using Motor Babbling,2015,
+Whole-Body Motion Planning for Humanoids based on CoM Movement Primitives,2015,
+Randomized statistical path planning,2007,
+Fillet-based RRT*: A Rapid Convergence Implementation of RRT* for Curvature Constrained Vehicles,2023,10.1007/s10846-023-01846-x
+ACNMP: Skill Transfer and Task Extrapolation through Learning from Demonstration and Reinforcement Learning via Representation Sharing,2020,
+Adaptation of Robot Physical Behaviour to Human Fatigue in Human-Robot Co-Manipulation,2016,
+Hierarchical HMM Based Learning of Navigation Primitives for Cooperative Robotic Endovascular Catheterization,2014,
+Enhancing Object Release Fluency in Robot to Human Handover Using Proprioceptive and Exteroceptive Information,2025,10.1007/s12369-025-01216-7
+"A differential pursuit/evasion game of capture between an omnidirectional agent and a differential drive robot, and their winning roles",2016,10.1080/00207179.2016.1151078
+Learning Generalizable Robot Skills from Demonstrations in Cluttered Environments,2018,
+A Cost-Effective Approach to Smooth A* Path Planning for Autonomous Vehicles,2024,10.1109/IAVVC63304.2024.10786408
+A probabilistic approach for learning and adapting shared control skills with the human in the loop,2024,10.1109/ICRA57147.2024.10610956
+Do we need complex rehabilitation robots for training complex tasks?,2019,10.7892/boris.131931
+Human-in-the-Loop Approach for Teaching Robot Assembly Tasks Using Impedance Control Interface,2015,
+Generation of co-speech gestures of robot based on morphemic analysis,2022,10.1016/j.robot.2022.104154
+Understanding and Transfer of Human Skills in Robotics Using Deep Learning and Musculoskeletal Modeling,2020,10.1007/978-3-030-33950-0_5
+Combining Model-based and Data-based approaches for online predictions of human trajectories,2024,10.1109/BIOROB60516.2024.10719877
+Locomotive Reduction for Snake Robots,2015,
+Kinematic Redundancy Resolution for Humanoid Robots by Human Motion Database,2020,10.1109/LRA.2020.3026972
+Environment-adaptive Interaction Primitives for Human-Robot Motor Skill Learning,2016,
+PiP-X: Online feedback motion planning/replanning in dynamic environments using invariant funnels,2023,10.1177/02783649231209340
+Human-Agent Shared Teleoperation: A Case Study Utilizing Haptic Feedback,2019,10.1007/978-981-13-3194-7_56
+A Shared Control Method for Collaborative Human-Robot Plug Task,2021,10.1109/LRA.2021.3098323
+Intuitive teaching of medical device operation to clinical assistance robots,2023,10.1007/s11548-022-02802-0
+Real-Time Planning with Primitives for Dynamic Walking over Uneven Terrain,2014,
+Development of Topology Optimized Bending-Twisting Soft Finger,2022,10.1115/1.4053159
+Acoustic Flow-Based Control of a Mobile Platform Using a 3D Sonar Sensor,2017,10.1109/JSEN.2017.2688476
+Hierarchical spatio-temporal morphable models for representation of complex movements for imitation learning,2003,
+Evaluation of Generalization Performance of Visuo-Motor Learning by Analyzing Internal State Structured from Robot Motion,2020,10.1007/s00354-019-00083-x
+Periodic Trajectories of Mobile Robots,2017,
+Analysis of Human Behavior Recognition Algorithms based on Acceleration Data,2013,
+Embodied symbol emergence based on mimesis theory,2004,10.1177/0278364904042199
+Transferring Autonomous Reaching and Targeting Behaviors for Cable-driven Robots in Minimally Invasive Surgery,2016,
+MIT-Skywalker: A Novel Gait Neurorehabilitation Robot for Stroke and Cerebral Palsy,2016,10.1109/TNSRE.2016.2533492
+Robot skill learning in latent space of a deep autoencoder neural network,2021,10.1016/j.robot.2020.103690
+Caging Grasps for Micromanipulation & Microassembly,2011,
+An experimental platform for motion estimation and maneuver characterization in high speed off-road driving,2005,
+Prediction of Human Whole-Body Movements with AE-ProMPs,2018,
+Physical Human Robot Interaction in Imitation Learning,2011,
+Full-body multi-primitive segmentation using classifiers,2014,
+Fillet-Based Batch Informed Trees (FB-BIT*): Rapid Convergence Path Planning for Curvature Constrained Vehicles,2023,10.1109/IRC59093.2023.00019
+Contingency Planning for Automated Vehicles,2016,
+Abstractions for Design-by-Humans of Heterogeneous Behaviors,2016,10.1007/978-3-319-25739-6_11
+Probabilistic Adaptive Control for Robust Behavior Imitation,2021,10.1109/LRA.2021.3061310
+Semantically-enhanced Deep Collision Prediction for Autonomous Navigation using Aerial Robots,2023,10.1109/IROS55552.2023.10342297
+MOBILE ROBOTIC ASSEMBLY ON A MOVING VEHICLE,2013,
+Nonprehensile Manipulation Control and Task Planning for Deformable Object Manipulation: Results from the RoDyMan Project,2020,10.1007/978-3-030-31993-9_4
+Generating and Adapting Probabilistic Movement Primitives,2020,10.1007/978-3-030-26326-3_8
+Task Space Torque Profile Adaptations for Dynamical Human-Robot Motion Transfer,2019,10.1007/978-3-030-00232-9_5
+Adaptive locomotion of lower limb exoskeleton based on oscillators and frequency adaptation,2020,10.1109/iciea48937.2020.9248397
+Failure recovery for modular robot movements without reassembling modules,2015,
+NLOS-Avoiding and Obstacle-Adaptive Formation Control by Sharing Obstacle Information of a Leader UAV in Multi-UAV System,2023,10.1109/UR57808.2023.10202465
+Learning to Sequence Movement Primitives from Demonstrations,2014,
+Sampling-based path planning under temporal logic constraints with real-time adaptation,2023,10.1109/ICRA48891.2023.10161266
+A Local Planner for Ackermann-Driven Vehicles in ROS SBPL,2015,
+Reactive motion generation on learned Riemannian manifolds,2023,10.1177/02783649231193046
+"Fast, Versatile, and Open-loop Stable Running Behaviors with Proprioceptive-only Sensing using Model-based Optimization",2020,10.1109/icra40945.2020.9196542
+Learning Task-Specific Dynamics to Improve Whole-Body Control,2018,
+Enhanced Teleoperation Using Autocomplete,2020,10.1109/icra40945.2020.9197140
+"Incremental learning, clustering and hierarchy formation of whole body motion patterns using adaptive hidden Markov chains",2008,10.1177/0278364908091153
+Primitive-Based Action Representation and Recognition,2011,10.1163/016918611X563346
+Design and Closed-Loop Motion Planning of an Untethered Swimming Soft Robot Using 2D Discrete Elastic Rods Simulations,2022,10.1002/aisy.202200163
+Exploiting collisions for sampling-based multicopter motion planning,2021,10.1109/ICRA48506.2021.9561166
+Learning to Self-Reconfigure for Freeform Modular Robots via Altruism Proximal Policy Optimization,2023,
+In-hand manipulation planning using human motion dictionary,2022,10.1109/RO-MAN53752.2022.9900858
+A structured prediction approach for robot imitation learning,2024,10.1177/02783649231204656
+Transfer Learning of Complex Motor Skills on the Humanoid Robot Affetto,2018,
+BOLeRo: Behavior optimization and learning for robots,2020,10.1177/1729881420913741
+PiP-X: Funnel-Based Online Feedback Motion Planning/Replanning in Dynamic Environments,2023,10.1007/978-3-031-21090-7_9
+Intention Recognition with Recurrent Neural Networks for Dynamic Human-Robot Collaboration,2021,10.1109/ICAR53236.2021.9659473
+Unifying Representations and Large-Scale Whole-Body Motion Databases for Studying Human Motion,2016,10.1109/TRO.2016.2572685
+Hierarchical Planning for Autonomous Parking in Dynamic Environments,2024,10.1109/TCST.2024.3367468
+db-CBS: Discontinuity-Bounded Conflict-Based Search for Multi-Robot Kinodynamic Motion Planning,2024,10.1109/ICRA57147.2024.10610999
+Motion planning for maintaining landmarks visibility with a differential drive robot,2014,10.1016/j.robot.2013.12.003
+Progressive automation of periodic tasks on planar surfaces of unknown pose with hybrid force/position control,2020,10.1109/IROS45743.2020.9341374
+Action recognition and understanding through motor primitives,2007,10.1163/156855307782506156
+Learning Human-to-Robot Dexterous Handovers for Anthropomorphic Hand,2023,10.1109/TCDS.2022.3203025
+Safe and Individualized Motion Planning for Upper-limb Exoskeleton Robots Using Human Demonstration and Interactive Learning,2024,10.1109/ICRA57147.2024.10610552
+Imitative Motion Generation for Humanoid Robots based on the Motion Knowledge Learning and Reuse,2009,10.1109/ICSMC.2009.5346686
+A hierarchical approach for primitive-based motion planning and control of autonomous vehicles,2014,10.1016/j.robot.2013.10.003
+Deep Learning and Mixed Reality o Autocomplete Teleoperation,2021,10.1109/ICRA48506.2021.9560887
+Robot Motor Skill Transfer With Alternate Learning in Two Spaces,2021,10.1109/TNNLS.2020.3021530
+Efficient two-phase 3D motion planning for small fixed-wing UAVs,2007,10.1109/ROBOT.2007.363121
+Autonomous framework for segmenting robot trajectories of manipulation task,2015,10.1007/s10514-014-9397-9
+sEMG-based Motion Recognition for Robotic Surgery Training - A Preliminary Study,2023,10.1109/EMBC40787.2023.10340047
+Bounding on rough terrain with the LittleDog robot,2011,10.1177/0278364910388315
+Virtual reality simulation of humanoid robots,2007,10.1109/IECON.2007.4460061
+Robust Learning from Demonstration Based on GANs and Affine Transformation,2024,10.3390/app14072902
+Learning Riemannian Manifolds for Geodesic Motion Skills,2021,
+A Primitive-Based Approach to Good Seamanship Path Planning for Autonomous Surface Vessels,2021,10.1109/ICRA48506.2021.9561507
+Long-Horizon Planning and Execution With Functional Object-Oriented Networks,2023,10.1109/LRA.2023.3285510
+Degenerate Motion Analysis for Aided INS With Online Spatial and Temporal Sensor Calibration,2019,10.1109/LRA.2019.2893803
+An attempt to raise the level of software abstraction in assembly robotics through an apposite choice of underlying mechatronics,2000,10.1023/A:1008102809568
+Search-based Motion Planning for Quadrotors using Linear Quadratic Minimum Time Control,2017,
+Hybrid Trajectory Replanning-Based Dynamic Obstacle Avoidance for Physical Human-Robot Interaction,2021,10.1007/s10846-021-01510-2
+A spiking network classifies human sEMG signals and triggers finger reflexes on a robotic hand,2020,10.1016/j.robot.2020.103566
+Iterative Interactive Modeling for Knotting Plastic Bags,2022,
+External Wrench Estimation for Multilink Aerial Robot by Center of Mass Estimator Based on Distributed IMU System,2019,10.1109/icra.2019.8794325
+Quadrupedal Robotic Walking on Sloped Terrains via Exact Decomposition into Coupled Bipedal Robots,2020,10.1109/IROS45743.2020.9341181
+A Framework for Human-Robot Interaction User Studies,2020,10.1109/IROS45743.2020.9341286
+DEFORMABLE MOTION 3D RECONSTRUCTION BY UNION OF REGULARIZED SUBSPACES,2018,
+From Temporal-evolving to Spatial-fixing: A Keypoints-based Learning Paradigm for Visual Robotic Manipulation,2023,10.1109/IROS55552.2023.10341397
+Micro-Assembly Sequence and Path Planning Using Subassemblies,2018,10.1115/1.4041333
+Backflipping With Miniature Quadcopters by Gaussian-Process-Based Control and Planning,2024,10.1109/TCST.2023.3297744
+Escaping Local Minima in Search-Based Planning using Soft Duplicate Detection,2019,10.1109/iros40897.2019.8967815
+Anytime Whole-Body Planning/Replanning for Humanoid Robots,2018,
+Incremental on-line hierarchical clustering of whole body motion patterns,2007,
+Dynamically feasible trajectory planning for Anguilliform-inspired robots in the presence of steady ambient flow,2019,10.1016/j.robot.2019.05.001
+Computationally Efficient Information-Theoretic Exploration of Pits and Caves,2016,
+Haptic Exploration of Unknown Objects for Robust In-Hand Manipulation,2023,10.1109/TOH.2023.3300439
+Sample-Efficient Robot Motion Learning using Gaussian Process Latent Variable Models,2020,10.1109/icra40945.2020.9196658
+Interactive Human-Robot Skill Transfer: A Review of Learning Methods and User Experience,2021,10.1002/aisy.202000247
+"Hierarchical Impedance, Force, and Manipulability Control for Robot Learning of Skills",2024,10.1109/TMECH.2024.3419852
+Language Models as Zero-Shot Trajectory Generators,2024,10.1109/LRA.2024.3410155
+Kinodynamic Motion Planning for a System with Squid Dynamics,2024,10.1016/j.ifacol.2024.10.041
+The KIT Gripper: A Multi-Functional Gripper for Disassembly Tasks,2021,10.1109/ICRA48506.2021.9561336
+Teaching the User By Learning From the User: Personalizing Movement Control in Physical Human-robot Interaction,2017,10.1109/JAS.2017.7510634
+Skill Memories for Parameterized Dynamic Action Primitives on the Pneumatically Driven Humanoid Robot Child Affetto,2018,
+Motion Capture based Human Motion Recognition and Imitation by Direct Marker Control,2008,
+Adaptive Control of Exoskeleton Robots for Periodic Assistive Behaviours Based on EMG Feedback Minimisation,2016,10.1371/journal.pone.0148942
+Learning Compact Parameterized Skills with a Single Regression,2013,
+Generating action descriptions from statistically integrated representations of human motions and sentences,2016,10.1016/j.neunet.2016.03.001
+Co-active Learning to Adapt Humanoid Movement for Manipulation,2016,
+RRT-Based Path Planning for Fixed-Wing UAVs with Arrival Time and Approach Direction Constraints,2014,
+"FastMimic: Model-Based Motion Imitation for Agile, Diverse and Generalizable Quadrupedal Locomotion",2023,10.3390/robotics12030090
+Robot-Assisted 3D Medical Sonography,2014,10.1007/978-3-319-05431-5_4
+Quantifying The Human-Robot Interaction Forces Between A Lower Limb Exoskeleton And Healthy Users,2016,
+Learn from Interaction: Learning to Pick via Reinforcement Learning in Challenging Clutter,2022,10.1109/IROS47612.2022.9981530
+CRASH: A Collaborative Aerial-Ground Exploration System Using Hybrid-Frontier Method,2018,
+Hierarchical Policy Blending as Inference for Reactive Robot Control,2023,10.1109/ICRA48891.2023.10161374
+Motion Planning for a Small Aerobatic Fixed-Wing Unmanned Aerial Vehicle,2018,
+Extended residual learning with one-shot imitation learning for robotic assembly in semi-structured environment,2024,10.3389/fnbot.2024.1355170
+Optimal motion primitives for a 5 DOF experimental hopper,2001,
+Shared Control for Human-Robot Cooperative Manipulation Tasks,2018,10.1007/978-3-319-61276-8_83
+Efficient Walking Gait Generation via Principal Component Representation of Optimal Trajectories: Application to a Planar Biped Robot With Elastic Joints,2018,10.1109/LRA.2018.2807578
+Learning Solution Manifolds for Control Problems via Energy Minimization,2022,10.1109/LRA.2022.3186046
+Dynamical System Segmentation for Information Measures in Motion,2019,10.1109/LRA.2018.2884091
+Learning perceptual Coupling for Motor Primitives,2008,10.1109/IROS.2008.4650953
+A Control Scheme With a Novel DMP-Robot Coupling Achieving Compliance and Tracking Accuracy Under Unknown Task Dynamics and Model Uncertainties,2020,10.1109/LRA.2020.2970985
+Teaching by demonstration of assembly motion in VR - Non-deterministic search-type motion in the teaching stage -,2002,
+A Neural Network Architecture for Learning a Feedback Controller from Demonstration,2024,10.1109/IJCNN60899.2024.10650889
+Incremental Imitation Learning of Context-Dependent Motor Skills,2016,
+Composing Dynamical Systems to Realize Dynamic Robotic Dancing,2015,10.1007/978-3-319-16595-0_25
+Biologically inspired kinematic synergies enable linear balance control of a humanoid robot,2011,10.1007/s00422-011-0430-1
+Learning from demonstration for 7-DOF anthropomorphic manipulators without offset via analytical inverse kinematics,2024,10.1016/j.neucom.2024.128036
+DEEP LEARNING-BASED ERROR MITIGATION FOR ASSISTIVE EXOSKELETON WITH COMPUTATIONAL-RESOURCE-LIMITED PLATFORM AND EDGE TENSOR PROCESSING UNIT,2021,
+Whole-Body Motion Planning for Humanoid Robots with Heuristic Search,2016,
+LPNet: A Reaction-Based Local Planner for Autonomous Collision Avoidance Using Imitation Learning,2023,10.1109/LRA.2023.3314350
+Clutter-Resilient Autonomous Mobile Robot Navigation with Computationally Efficient Free-Space Features,2023,10.1007/978-3-031-25555-7_35
+Incremental Robot Skill Learning by Human Motion Retargetting and Physical Human Guidance,2015,
+Probably Approximately Correct Vision-Based Planning using Motion Primitives,2020,
+Classification of Multiple Finger Motions During Dynamic Upper Limb Movements,2017,10.1109/JBHI.2015.2490718
+Solving peg-in-hole tasks by human demonstration and exception strategies,2014,10.1108/IR-07-2014-0363
+Shape-based coordination in locomotion control,2018,10.1177/0278364918761569
+VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models,2023,
+Aggressive Collision Avoidance with Limited Field-of-View Sensing,2017,
+OPTIMAL AND DYNAMICALLY FEASIBLE PATH PLANNING FOR AN ANGUILLIFORM FISH-INSPIRED ROBOT IN PRESENCE OF OBSTACLES,2018,
+Improved A-Search Guided Tree for Autonomous Trailer Planning,2022,10.1109/IROS47612.2022.9982121
+Modeling the Development of Goal-Specificity in Mirror Neurons,2011,10.1007/s12559-011-9108-1
+Incremental episodic segmentation and imitative learning of humanoid robot through self-exploration,2016,10.1016/j.neucom.2015.09.021
+Automatic generation of biped locomotion controllers using genetic programming,2014,10.1016/j.robot.2014.05.008
+Trajectory generation based on human attention for a bartender robot,2013,
+Perceiving Artistic Expression: A Formal Exploration of Performance Art Salsa,2018,10.1109/ACCESS.2018.2871003
+Optimal Motion Primitives for Multi-UAV Convoy Protection,2010,10.1109/ROBOT.2010.5509221
+Bagging for Gaussian mixture regression in robot learning from demonstration,2022,10.1007/s10845-020-01686-8
+Motion generation for a tumbling robot using a general contact model,2004,10.1109/ROBOT.2004.1308758
+Real-time identification and avoidance of simultaneous static and dynamic obstacles on point cloud for UAVs navigation,2022,10.1016/j.robot.2022.104124
+Improved Analytic Expansions in Hybrid A-Star Path Planning for Non-Holonomic Robots,2022,10.3390/app12125999
+Motion design and learning of autonomous robots based on primitives and heuristic cost-to-go,2008,10.1016/j.robot.2007.11.006
+Transfer of Contact Skills to New Environmental Conditions,2016,
+Optimizing Sets of Solutions for Controlling Constrained Nonlinear Systems,2021,10.1109/TAC.2020.2989762
+Towards Open-Set NLP-Based Multi-Level Planning for Robotic Tasks,2024,10.3390/app142210717
+Robot visual navigation in semi-structured outdoor environments,2005,
+Learning a Repertoire of Actions with Deep Neural Networks,2014,
+"Control of a manipulator with a minimum number of, motion primitives",2005,
+Autonomous Navigation of Quadrotors in Dynamic Complex Environments,2025,10.1109/TIE.2024.3433585
+Learning Multi-step Robotic Manipulation Policies from Visual Observation of Scene and Q-value Predictions of Previous Action,2022,10.1109/ICRA46639.2022.9812251
+Point Cloud Video Object Segmentation using a Persistent Supervoxel World-Model,2013,
+Grasping Strategy for Unknown Objects Based on Real-Time Grasp-Stability Evaluation Using Proximity Sensing,2022,10.1109/LRA.2022.3188885
+You Only Plan Once: A Learning-Based One-Stage Planner With Guidance Learning,2024,10.1109/LRA.2024.3399589
+Generalization of orientation trajectories and force-torque profiles for robotic assembly,2017,10.1016/j.robot.2017.09.019
+Sample-Efficient Covariance Matrix Adaptation Evolutional Strategy via Simulated Rollouts in Neural Networks,2020,
+Learning When to Switch: Composing Controllers to Traverse a Sequence of Terrain Artifacts,2021,10.1109/IROS51168.2021.9636233
+A Traffic Knowledge Aided Vehicle Motion Planning Engine Based on Space Exploration Guided Heuristic Search,2014,
+Achievement of Online Agile Manipulation Task for Aerial Transformable Multilink Robot,2019,10.1109/iros40897.2019.8967672
+Robot gaining accurate pouring skills through self-supervised learning and generalization,2021,10.1016/j.robot.2020.103692
+More than a Million Ways to Be Pushed. A High-Fidelity Experimental Dataset of Planar Pushing,2016,
+A Novel Trajectory Reproduction Method: Multi Virtual Spring-Dampers,2018,
+A Method for Derivation of Robot Task-Frame Control Authority from Repeated Sensory Observations,2017,10.1109/LRA.2017.2651368
+Multi-modal Robot Apprenticeship: Imitation Learning using Linearly Decayed DMP plus in a Human-Robot Dialogue System,2018,
+Topological Exploration using Segmented Map with Keyframe Contribution in Subterranean Environments,2024,10.1109/ICRA57147.2024.10610605
+Sufficient Conditions for the Existence of Resolution Complete Planning Algorithms,2010,
+A Whole-Body Pose Taxonomy for Loco-Manipulation Tasks,2015,
+Switched Systems With Multiple Equilibria Under Disturbances: Boundedness and Practical Stability,2020,10.1109/TAC.2019.2931941
+A Manipulation Framework for Compliant Humanoid COMAN: Application to a Valve Turning Task,2014,
+Information-Theoretic Planning with Trajectory Optimization for Dense 3D Mapping,2015,
+A Hybrid Primitive-Based Navigation Planner for the Wheeled-Legged Robot CENTAURO,2022,10.1109/IROS47612.2022.9981188
+Control strategies for cleaning robots in domestic applications: A comprehensive review,2019,10.1177/1729881419857432
+Is imitation learning the route to humanoid robots?,1999,10.1016/S1364-6613(99)01327-3
+Implicit Multiagent Coordination at Uncontrolled Intersections via Topological Braids,2023,10.1007/978-3-031-21090-7_22
+Representation for knot-tying tasks,2006,10.1109/TRO.2005.855988
+Reward Conditioned Neural Movement Primitives for Population-Based Variational Policy Optimization,2021,10.1109/ICRA48506.2021.9560897
+Robotic Wire Pinning for Wire Harness Assembly Automation,2020,10.1109/aim43001.2020.9158905
+Experimental Nonrobocentric Dynamic Landing of Quadrotor UAVs With On-Ground Sensor Suite,2024,10.1109/TIM.2024.3470976
+"System Design and Locomotion of SUPERball, an Untethered Tensegrity Robot",2015,
+Data-enabled predictive control for quadcopters,2021,10.1002/rnc.5686
+Extraction of primitive representation from captured human movements and measured ground reaction force to generate physically consistent imitated behaviors,2013,10.1016/j.neunet.2013.01.002
+Learning to Pour,2017,
+Towards the Unification of System Design and Motion Synthesis for High-Performance Hopping Robots,2021,10.1109/ICRA48506.2021.9561322
+A Linearly Constrained Nonparametric Framework for Imitation Learning,2020,10.1109/icra40945.2020.9196821
+Learning from Few Demonstrations with Frame-Weighted Motion Generation,2024,10.1007/978-3-031-63596-0_4
+A Probabilistic Framework of Learning Movement Primitives from Unstructured Demonstrations,2015,
+Vision-aided Dynamic Quadrupedal Locomotion on Discrete Terrain using Motion Libraries,2022,10.1109/ICRA46639.2022.9811373
+Tight Collision Probability for UAV Motion Planning in Uncertain Environment,2023,10.1109/IROS55552.2023.10342141
+Communication of Intent in Assistive Free Flyers,2014,10.1145/2559636.2559672
+Multi-agent path finding on real robots,2019,10.3233/AIC-190621
+Learning Human-Robot Collaboration Insights through the Integration of Muscle Activity in Interaction Motion Models,2017,
+Motion planning for the roller racer with a sticking/slipping switching model,2006,
+Path Planning Tolerant to Degraded Locomotion Conditions,2019,10.1109/ssrr.2019.8848980
+Optimal transition maneuvers for a class of V/STOL aircraft,2011,10.1016/j.automatica.2011.01.027
+Teaching of assembly motion by demonstration - Artificial constrained motion primiteves and its implementation using virtual polyhedron,2000,
+Real-Time Coordination of Multiple Robotic Arms With Reactive Trajectory Modulation,2025,10.1109/TRO.2024.3502223
+Combining Social and Intrinsically Motivated Learning for Multitask Robot Skill Acquisition,2023,10.1109/TCDS.2021.3069341
+Distance-optimal navigation in an unknown environment without sensing distances,2007,10.1109/TRO.2007.898962
+A modular neural model of motor synergies,2012,10.1016/j.neunet.2012.02.003
+Interaction rule learning with a human partner based on an imitation faculty with a simple visuo-motor mapping,2006,10.1016/j.robot.2006.01.005
+Design of Prismatic Cube Modules for Convex Corner Traversal in 3D,2009,10.1109/IROS.2009.5354320
+Neural Geometric Fabrics: Efficiently Learning High-Dimensional Policies from Demonstrations,2022,
+A Framework of Improving Human Demonstration Efficiency for Goal-Directed Robot Skill Learning,2022,10.1109/TCDS.2021.3137262
+Fast Global Motion Planning for Dynamic Legged Robots,2020,10.1109/IROS45743.2020.9341438
+Environment-aware Interactive Movement Primitives for Object Reaching in Clutter,2022,10.1109/CASE49997.2022.9926518
+Spikebot: A Multigait Tensegrity Robot with Linearly Extending Struts,2024,10.1089/soro.2023.0030
+"Biomechanics, motor control and dynamic models of the soft limbs of the octopus and other cephalopods",2023,10.1242/jeb.245295
+Learning compliant robotic movements based on biomimetic motor adaptation,2021,10.1016/j.robot.2020.103668
+Fitting Constrained Trajectory with High Variability into Redundant Robot Workspace,2022,10.1007/978-3-031-04870-8_20
+A Hierarchical Behavioral Dynamic Approach for Naturally Adaptive Human-Agent Pick-and-Place Interactions,2019,10.1155/2019/5964632
+An Approach for Robotic Leaning Inspired by Biomimetic Adaptive Control,2022,10.1109/TII.2021.3087337
+A Novel RRT Extend Function for Efficient and Smooth Mobile Robot Motion Planning,2014,
+Dimensionality Reduction and Prioritized Exploration for Policy Search,2022,
+Computationally Efficient Trajectory Planning for High Speed Obstacle Avoidance of a Quadrotor With Active Sensing,2021,10.1109/LRA.2021.3062332
+Exploring motor skill acquisition in bimanual coordination: insights from navigating a novel maze task,2024,10.1038/s41598-024-69200-1
+Contact Mode Guided Motion Planning for Quasidynamic Dexterous Manipulation in 3D,2022,10.1109/ICRA46639.2022.9811872
+Learning and Blending Robot Hugging Behaviors in Time and Space,2023,10.1109/ICRA48891.2023.10160587
+Cooperative Collision Avoidance for Nonholonomic Robots,2018,10.1109/TRO.2018.2793890
+Point Cloud based Dynamical System Modulation for Reactive Avoidance of Convex and Concave Obstacles,2013,
+Online Navigation Method for Mobile Robot Based on Thermal Compliance,2024,10.1109/TIE.2024.3360608
+Hybrid Sampling/Optimization-based Planning for Agile Jumping Robots on Challenging Terrains,2021,10.1109/ICRA48506.2021.9561939
+Experimental Validation of Energy Consumption Model for the Four-Wheeled Omnidirectional Mecanum Robots for Energy-Optimal Motion Control,2016,
+Integrating Reinforcement Learning and Learning From Demonstrations to Learn Nonprehensile Manipulation,2023,10.1109/TASE.2022.3185071
+A Homicidal Differential Drive Robot,2012,
+Minimum wheel-rotation paths for differential-drive mobile robots,2006,10.1109/ROBOT.2006.1641938
+A Framework of Robot Skill Learning From Complex and Long-Horizon Tasks,2022,10.1109/TASE.2021.3127574
+Learning and generalization of task-parameterized skills through few human demonstrations,2024,10.1016/j.engappai.2024.108310
+External Forces Resilient Safe Motion Planning for Quadrotor,2021,10.1109/LRA.2021.3110316
+Analyzing Whole-Body Pose Transitions in Multi-Contact Motions,2015,
+Team RoboSimian: Semi-autonomous Mobile Manipulation at the 2015 DARPA Robotics Challenge Finals,2017,10.1002/rob.21676
+Data-Driven Online Decision Making for Autonomous Manipulation,2015,
+Integration of Robotic Vision and Automatic Tool Changer Based on Sequential Motion Primitive for Performing Assembly Tasks,2023,10.1016/j.ifacol.2023.10.175
+Simultaneous Base and Arm Trajectories for Multi-target Mobile Agri-Robot,2023,10.1007/978-3-031-43360-3_18
+On-line motion synthesis and adaptation using a trajectory database,2012,10.1016/j.robot.2012.05.004
+PI-ELM: Reinforcement learning-based adaptable policy improvement for dynamical system,2023,10.1016/j.ins.2023.119700
+Trajectory Planning for Manipulators Operating in Confined Workspaces,2018,
+Neural Field Movement Primitives for Joint Modelling of Scenes and Motions,2023,10.1109/IROS55552.2023.10342170
+Constrained motion planning in discrete state spaces,2006,
+Team NimbRo at MBZIRC 2017: Autonomous valve stem turning using a wrench,2019,10.1002/rob.21826
+Assisted teleoperation in changing environments with a mixture of virtual guides,2020,10.1080/01691864.2020.1785326
+Spatial representation of context-dependent sentences and its application to sentence generation,2017,10.1080/01691864.2017.1351392
+COMPASS: a formal framework and aggregate dataset for generalized surgical procedure modeling,2023,10.1007/s11548-023-02922-1
+Multidirectional Bending Soft Pneumatic Actuator With Fishbone-Like Strain-Limiting Layer for Dexterous Manipulation,2024,10.1109/LRA.2024.3369475
+A template candidate for miniature legged robots in quasi-static motion,2015,10.1007/s10514-014-9401-4
+Robot learning of industrial assembly task via human demonstrations,2019,10.1007/s10514-018-9725-6
+Effects of Increased Entropy on Robustness of Reinforcement Learning for Robot Box-Pushing,2024,10.1007/978-3-031-59257-7_10
+Rearrangement planning of multiple movable objects by using realtime search methodology,2002,
+Trajectory-Based Skill Learning for Overhead Construction Robots Using Generalized Cylinders with Orientation,2022,10.1061/(ASCE)CP.1943-5487.0001004
+The superposition strategy for arm trajectory modification in robotic manipulators,1999,10.1109/3477.740168
+A new bounded jerk on-line trajectory planning for mimicking human movements in robot-aided neurorehabilitation,2013,10.1016/j.robot.2012.09.003
+Hierarchical Policy Blending As Optimal Transport,2023,
+Trajectory Scaling for Reactive Motion Planning,2022,10.1109/ICRA46639.2022.9811657
+FlyView: a bio-informed optical flow truth dataset for visual navigation using panoramic stereo vision,2022,
+Learning Accurate and Stable Point-to-Point Motions: A Dynamic System Approach,2022,10.1109/LRA.2022.3140677
+Caging Micromanipulation for Automated Microassembly,2011,
+A probabilistic framework for learning geometry-based robot manipulation skills,2021,10.1016/j.robot.2021.103761
+Scenario-level knowledge transfer for motion planning of autonomous driving via successor representation,2024,10.1016/j.trc.2024.104899
+Reactive Execution of Learned Tasks With Real-Time Collision Avoidance in a Dynamic Environment,2018,10.1109/ACCESS.2018.2873718
+2 ARMS ARE FASTER THAN ONE,1994,
+SNAKEBOARD MOTION PLANNING WITH LOCAL TRAJECTORY INFORMATION,2013,10.1115/DSCC2013-3883
+Search-based Planning of Dynamic MAY Trajectories Using Local Multiresolution State Lattices,2021,10.1109/ICRA48506.2021.9560969
+Towards Efficient Motion Planning for UAVs: Lazy A* Search with Motion Primitives,2024,10.1109/ICMRA62519.2024.10809236
+Trajectory Planning for Manipulators based on the Optimal Concatenation of LQ Control Primitives,2011,
+A New Strategy for Making a Knot with a General-Purpose Arm,2012,
+Synergistic Organization of Action: A Computational Model,2011,
+Progressive Stochastic Motion Planning for Human-Robot Interaction,2017,
+Uncertainty Aware Grasping And Tactile Exploration,2013,
+"Online Self-Calibration for Visual-Inertial Navigation: Models, Analysis, and Degeneracy",2023,10.1109/TRO.2023.3275878
+Real-Time Synthesis of Body Movements Based on Learned Primitives,2009,
+Triggering Robot Hand Reflexes with Human EMG Data Using Spiking Neurons,2019,10.1007/978-3-030-01370-7_70
+Bayesian Approaches for Learning of Primitive-Based Compact Representations of Complex Human Activities,2016,10.1007/978-3-319-25739-6_6
+A Human-Robot Co-Manipulation Approach Based on Human Sensorimotor Information,2017,10.1109/TNSRE.2017.2694553
+Active Contextual Policy Search,2014,
+MonoNav: MAV Navigation via Monocular Depth Estimation and Reconstruction,2024,10.1007/978-3-031-63596-0_37
+A Fast Motion Planning Representation for Configuration Flat Robots with Applications to Micro Air Vehicles,2017,
+Online Learning of Feed-Forward Models for Task-Space Variable Impedance Control,2019,10.1109/humanoids43949.2019.9035063
+Region-Based Planning for 3D Within-Hand-Manipulation via Variable Friction Robot Fingers and Extrinsic Contacts,2021,10.1109/ICRA48506.2021.9561376
+Autonomous Robots for Space: Trajectory Learning and Adaptation Using Imitation,2021,10.3389/frobt.2021.638849
+Design and Evaluation of Skating Motions for a Dexterous Quadruped,2018,
+Modelling of parametrized processes via regression in the model space of neural networks,2017,10.1016/j.neucom.2016.12.086
+Excavation of Fragmented Rocks with Multi-modal Model-based Reinforcement Learning,2022,10.1109/IROS47612.2022.9981537
+Enhancing Learning from Demonstration with DLS-IK and ProMPs,2024,10.1109/ICAC61394.2024.10718791
+Autopilot Design for A Class of Miniature Autonomous Blimps,2017,
+Learning a Flexible Neural Energy Function With a Unique Minimum for Globally Stable and Accurate Demonstration Learning,2023,10.1109/TRO.2023.3303011
+BPMP-Tracker: A Versatile Aerial Target Tracker Using Bernstein Polynomial Motion Primitives,2024,10.1109/LRA.2024.3475879
+Wasserstein Gradient Flows for Optimizing Gaussian Mixture Policies,2023,
+Robust Gait Synthesis Combining Constrained Optimization and Imitation Learning,2020,10.1109/IROS45743.2020.9341146
+Learning Robotic Manipulation Tasks via Task Progress Based Gaussian Reward and Loss Adjusted Exploration,2022,10.1109/LRA.2021.3129833
+Autonomously Untangling Long Cables,2022,
+Learning from Demonstration for Real-Time User Goal Prediction and Shared Assistive Control,2021,10.1109/ICRA48506.2021.9560758
+Fast and Agile Vision-Based Flight with Teleoperation and Collision Avoidance on a Multirotor,2020,10.1007/978-3-030-33950-0_45
+Shape-Aware and G2 Continuous Path Planning Based on Bidirectional Hybrid A* for Car-Like Vehicles,2021,10.1007/s10846-021-01508-w
+Using simplified geometric models in skill-based manipulation,2004,10.1163/1568553041738130
+Combining Analytical Modeling and Learning to Simplify Dexterous Manipulation With Adaptive Robot Hands,2019,10.1109/TASE.2018.2885801
+Synthesis of kinematically constrained full-body motion from stochastic motion model,2019,10.1007/s10514-019-09837-4
+Robust Supervisory-Based Control Strategy for Mobile Robot Navigation,2016,10.1007/978-3-319-08338-4_10
+Imitation Learning: A Survey of Learning Methods,2017,10.1145/3054912
+Clothoid-based CAD Model Compensation for Precise Welding in Manufacturing Processes,2024,10.1109/CASE59546.2024.10711784
+Statistical mutual conversion between whole body motion primitives and linguistic sentences for human motions,2015,10.1177/0278364915587923
+Learning New Motion Primitives in the Mirror Neuron System: A Self-organising Computational Model,2010,
+Impact-Friendly Object Catching at Non-Zero Velocity Based on Combined Optimization and Learning,2023,10.1109/IROS55552.2023.10341600
+"Stochastic-Biomechanic Modeling and Recognition of Human Movement Primitives, in Industry, Using Wearables",2021,10.3390/s21072497
+Formal Design of Robot Integrated Task and Motion Planning,2016,
+"Codeless, Inclusive, and End-To-End Robotized Manipulations by Leveraging Extended Reality and Digital Twin Technologies",2024,10.1109/HSI61632.2024.10613560
+TMG: A topology-based motion generalization method with spatial relationship preservation,2023,10.1016/j.robot.2023.104445
+"The bench mover's problem: minimum-time trajectories, with cost for switching between controls",2014,
+Gesture recognition system for real-time mobile robot control based on inertial sensors and motion strings,2017,10.1016/j.engappai.2017.08.013
+Analysis and synthesis of assistive tools for insertion tasks,2021,10.1177/09544054211019655
+Transfer learning in robotics: An upcoming breakthrough? A review of promises and challenges,2025,10.1177/02783649241273565
+Geometric Motion Planning for a Three-Link Swimmer in a Three-Dimensional Low Reynolds-Number Regime,2018,
+Imitation Learning and Attentional Supervision of Dual-Arm Structured Tasks,2017,
+Optimal Trajectories for Planar Rigid Bodies with Switching Costs,2015,10.1007/978-3-319-16595-0_22
+Towards Lifelong Learning and Organization of Whole Body Motion Patterns,2010,
+A DMP-based Online Adaptive Stiffness Adjustment Method,2021,10.1109/IECON48115.2021.9589707
+Contextual Policy Search for Micro-Data Robot Motion Learning through Covariate Gaussian Process Latent Variable Models,2020,10.1109/IROS45743.2020.9340709
+Learning adaptive dressing assistance from human demonstration,2017,10.1016/j.robot.2017.03.017
+Fuzzy dynamical system for robot learning motion skills from human demonstration,2023,10.1016/j.robot.2023.104406
+A Position-Domain Adaptive Control Method for Underactuated Bipedal Walking on a Compliant Ground,2019,10.1142/S0219843619500105
+Learning Replanning Policies With Direct Policy Search,2019,10.1109/LRA.2019.2901656
+Learning Rat-Like Behavior for a Small-Scale Biomimetic Robot,2022,10.1016/j.eng.2022.05.012
+"PGCD: Robot Programming and Verification with Geometry, Concurrency, and Dynamics",2019,10.1145/3302509.3311052
+Humanoid gait generation in complex environments based on template models and optimality principles learned from human beings,2018,10.1177/0278364918765620
+Me and You Together Movement Impact in Multi-user Collaboration Tasks,2017,
+Intrinsically Motivated Exploration of Learned Goal Spaces,2021,10.3389/fnbot.2020.555271
+Initialization of latent space coordinates via random linear projections for learning robotic sensory-motor sequences,2022,10.3389/fnbot.2022.891031
+Planning for a Ground-Air Robotic System with Collaborative Localization,2016,
+Energy-Aware Motion Planning using Experimental Flight Data from a Tailsitter UAV,2023,10.2514/6.2023-2670
+Style-based Human Motion Segmentation,2014,
+Topology guided search of potential fields,2010,10.1109/CDC.2010.5717407
+Prim-LAfD: A Framework to Learn and Adapt Primitive-Based Skills from Demonstrations for Insertion Tasks,2023,10.1016/j.ifacol.2023.10.1748
+Learning Force-Relevant Skills from Human Demonstration,2019,10.1155/2019/5262859
+Muscle-Synergies-Based Neuromuscular Control for Motion Learning and Generalization of a Musculoskeletal System,2021,10.1109/TSMC.2020.2966818
+A Non-parametric Skill Representation with Soft Null Space Projectors for Fast Generalization,2023,10.1109/ICRA48891.2023.10161065
+Optimal trajectories for kinematic planar rigid bodies with switching costs,2016,10.1177/0278364915594243
+Learning modular policies for robotics,2014,10.3389/fncom.2014.00062
+A physical-virtual based digital twin robotic hand,2024,10.1007/s12008-024-01773-7
+Overtaking Maneuvers by Non Linear Time Scaling over Reduced Set of Learned Motion Primitives,2015,
+Formal Methods for Robot Motion Planning with Time and Space Constraints (Extended Abstract),2021,10.1007/978-3-030-85037-1_1
+Fast diffeomorphic matching to learn globally asymptotically stable nonlinear dynamical systems,2016,10.1016/j.sysconle.2016.06.018
+"OPTIHROV: Optically Linked Hybrid Autonomous/Remotely Operated Vehicle, Beyond Teleoperation in a New Generation of Underwater Intervention Vehicles",2023,10.1109/OCEANSLimerick52467.2023.10244690
+Path Planning for Non-Circular Micro Aerial Vehicles in Constrained Environments,2013,
+Segmentation of endpoint trajectories does not imply segmented control,1999,10.1007/s002210050606
+Leveraging Kernelized Synergies on Shared Subspace for Precision Grasping and Dexterous Manipulation,2023,10.1109/TCDS.2021.3110406
+Potential Fields-Aided Motion Planning for Quadcopters in Three-Dimensional Dynamic Environments,2021,10.2514/6.2021-1410
+Adaptive Movement Sequences and Predictive Decisions based on Hierarchical Dynamical Systems,2012,
+Drivocopter: A concept Hybrid Aerial/Ground vehicle for long-endurance mobility,2020,10.1109/aero47225.2020.9172782
+Acquiring Diverse Skills using Curriculum Reinforcement Learning with Mixture of Experts,2024,
+Combining MAP-Elites and Incremental Evolution to Generate Gaits for a Mammalian Quadruped Robot,2018,10.1007/978-3-319-77538-8_48
+Learning Motion Reconstruction from Demonstration via Multi-Modal Soft Tactile Sensing,2024,10.1109/ICRA57147.2024.10610135
+Understanding Human Hand Gestures for Learning Robot Pick-and-Place Tasks,2015,10.5772/60093
+Robust Semantic Representations for Inferring Human Co-manipulation Activities even with Different Demonstration Styles,2015,
+Trajectory tracking and control of differential drive robot for predefined regular geometrical path,2016,10.1016/j.protcy.2016.08.221
+Bumpless Transfer for a Flexible Adaptation of Iterative Learning Control,2011,
+Observer-Based Feedback Control for Stabilization of Collective Motion,2013,10.1109/TCST.2012.2205252
+Implan: Scalable Incremental Motion Planning for Multi-Robot Systems,2016,
+An Independently Learnable Hierarchical Model for Bilateral Control-Based Imitation Learning Applications,2022,10.1109/ACCESS.2022.3155255
+A general family of morphed nonlinear phase oscillators with arbitrary limit cycle shape,2013,10.1016/j.physd.2013.07.016
+"C'mon part, do the local motion!",2001,
+PA-FaSTrack: Planner-Aware Real-Time Guaranteed Safe Planning,2021,10.1109/CDC45484.2021.9683031
+A Clustering Approach to Categorizing 7 Degree-of-Freedom Arm Motions during Activities of Daily Living,2019,10.1109/icra.2019.8794421
+Fast Planning for 3D Any-Pose-Reorienting using Pivoting,2018,
+Velocity obstacle guided motion planning method in dynamic environments,2024,10.1016/j.jksuci.2023.101889
+"Perceiving, learning, and exploiting object affordances for autonomous pile manipulation",2014,10.1007/s10514-014-9407-y
+Sentence Generation from IMU-based Human Whole-Body Motions in Daily Life Behaviors,2020,10.1109/sii46433.2020.9026240
+Embodied Movement Strategies for Development of a Core-located Actuation Walker,2016,
+Variable Time-Step MPC for Agile Multi-Rotor UAV Interception of Dynamic Targets,2025,10.1109/LRA.2024.3518096
+Hummingbirds rapidly respond to the removal of visible light and control a sequence of rate-commanded escape manoeuvres in milliseconds,2024,10.1098/rspb.2024.1268
+Human-exoskeleton Cooperative Balance Strategy for a Human-powered Augmentation Lower Exoskeleton,2022,10.1109/IROS47612.2022.9981568
+Extraction and Deployment of Human Guidance Policies,2016,10.1016/j.ifacol.2016.12.196
+Controller Design for Multi-Skilled Bipedal Characters,2015,10.1111/cgf.12607
+A Deep Learning Approach to Grasping the Invisible,2020,10.1109/LRA.2020.2970622
+Continuous adaptive gaits manipulation for three-fingered robotic hands via bioinspired fingertip contact events,2024,10.1016/j.birob.2024.100144
+An Encoder-Decoder Architecture for Smooth Motion Generation,2023,10.1007/978-3-031-32606-6_42
+Inverse dynamics control with floating base and constraints,2007,10.1109/ROBOT.2007.363606
+Learning compliant dynamical system from human demonstrations for stable force control in unknown environments,2024,10.1016/j.rcim.2023.102669
+"Learning, Generating and Adapting Wave Gestures for Expressive Human-Robot Interaction",2020,10.1145/3371382.3378286
+K-VIL: Keypoints-Based Visual Imitation Learning,2023,10.1109/TRO.2023.3286074
+Autocomplete of 3D Motions for UAV Teleoperation,2023,10.1109/IROS55552.2023.10342390
+Robotics and neuroscience:: A rhythmic interaction,2008,10.1016/j.neunet.2008.03.005
+Origami Folding by Multifingered Hands with Motion Primitives,2021,10.34133/2021/9851834
+"Towards autonomous selective harvesting: A review of robot perception, robot design, motion planning and control",2024,10.1002/rob.22230
+Efficiently Learning Manipulations by Selecting Structured Skill Representations,2022,10.1109/IROS47612.2022.9981422
+Dealing with Difficult Instances of Object Rearrangement,2015,
+"Counts of mechanical, external configurations compared to computational, internal configurations in natural and artificial systems",2019,10.1371/journal.pone.0215671
+Kinematic Synergy Primitives for Human-Like Grasp Motion Generation,2024,10.1109/ICRA57147.2024.10611490
+Natural movement generation using hidden Markov models and principal components,2008,10.1109/TSMCB.2008.926324
+Dynamic Motion Planning for Aerial Surveillance on a Fixed-Wing UAV,2017,
+Manipulation Pattern Discovery: A Nonparametric Bayesian Approach,2013,10.1109/ICCV.2013.172
+Multi-Objective Weight Optimization for Trajectory Planning of an Airplane with Structural Damage,2018,10.1007/s10846-017-0753-9
+Proximal Policy Optimization With Time-Varying Muscle Synergy for the Control of an Upper Limb Musculoskeletal System,2024,10.1109/TASE.2023.3254583
+Real-time Quadrotor Navigation Through Planning in Depth Space in Unstructured Environments,2019,10.1109/icuas.2019.8797948
+A survey on teaching workplace skills to construction robots,2022,10.1016/j.eswa.2022.117658
+Where Should I Look? Optimised Gaze Control for Whole-Body Collision Avoidance in Dynamic Environments,2022,10.1109/LRA.2021.3137545
+Sequential Monte Carlo controller that integrates physical consistency and motion knowledge,2019,10.1007/s10514-018-9815-5
+Flying through a narrow gap using neural network: an end-to-end planning and control approach,2019,10.1109/iros40897.2019.8967944
+Representation and classification of whole-body motion integrated with finger motion,2020,10.1016/j.robot.2019.103378
+Robot learning from demonstration by constructing skill trees,2012,10.1177/0278364911428653
+Kinodynamic planning for spherical tensegrity locomotion with effective gait primitives,2019,10.1177/0278364919847763
+Skill transfer learning for autonomous robots and human-robot cooperation: A survey,2020,10.1016/j.robot.2020.103515
+Modular representation and control of floppy networks,2022,10.1098/rspa.2022.0082
+A behavioral conditional diffusion probabilistic model for human motion modeling in multi-action mixed human-robot collaboration,2024,10.1016/j.aei.2024.102742
+The Control Theory of Motion-Based Communication: Problems in Teaching Robots to Dance,2012,
+Intent-Aware Predictive Haptic Guidance and its Application to Shared Control Teleoperation,2021,10.1109/RO-MAN50785.2021.9515326
+Planning and Execution using Inaccurate Models with Provable Guarantees,2020,
+A novel approach to dynamic movement imitation based on quadratic programming,2015,
+Motion Planning for Autonomous Vehicles in Highly Constrained Urban Environments,2016,
+A novel movement-based operation method for dual-arm rescue construction machinery,2016,10.1017/S0263574714002082
+Learning tasks from observation and practice,2004,10.1016/j.robot.2004.03.010
+Adjutant: A Framework for Flexible Human-Machine Collaborative Systems,2014,
+Trajectory Planning of Slider-Pushers in Cluttered Environments with Automatic Switching,2024,
+A Formally Verified Motion Planner for Autonomous Vehicles,2018,10.1007/978-3-030-01090-4_5
+Human skill knowledge guided global trajectory policy reinforcement learning method,2024,10.3389/fnbot.2024.1368243
+Assisting Movement Training and Execution With Visual and Haptic Feedback,2018,10.3389/fnbot.2018.00024
+Specializing Versatile Skill Libraries using Local Mixture of Experts,2021,
+A Robust Time-Stepping Scheme for Quasistatic Rigid Multibody Systems,2018,
+Using Manipulation Primitives for Object Sorting in Cluttered Environments,2015,10.1109/TASE.2014.2361346
+Predicting full-arm grasping motions from anticipated tactile responses,2022,
+Learning a bidirectional mapping between human whole-body motion and natural language using deep recurrent neural networks,2018,10.1016/j.robot.2018.07.006
+Mechanics and control of swimming: A review,2004,10.1109/JOE.2004.833208
+Physical Interaction via Dynamic Primitives,2017,10.1007/978-3-319-51547-2_12
+Occluded object detection and exposure in cluttered environments with automated hyperspectral anomaly detection,2022,10.3389/frobt.2022.982131
+Human-guided motion planner with perception awareness for assistive aerial teleoperation,2024,10.1080/01691864.2024.2307606
+Optimal Biomechanical Performance in Upper-Limb Gestures Depends on Velocity and Carried Load,2022,10.3390/biology11030391
+CPA-Planner: Motion Planner With Complete Perception Awareness for Sensing- Limited Quadrotors,2023,10.1109/LRA.2022.3231827
+Local Motion Planner for Autonomous Navigation in Vineyards with a RGB-D Camera-Based Algorithm and Deep Learning Synergy,2020,10.3390/machines8020027
+Self-organization of behavioral primitives as multiple attractor dynamics: A robot experiment,2003,10.1109/TSMCA.2003.809171
+Integration of robotics and neuroscience beyond the hand: What kind of synergies? Comment on Hand synergies: Integration of robotics and neuroscience for understanding the control of biological and artificial hands by Marco Santello et al,2016,10.1016/j.plrev.2016.04.001
+Objective Clinical Fitness Assessment Using Inertial Sensors,2012,10.1016/j.proeng.2012.07.196
+Learning from Humans,2016,
+A survey of robot manipulation in contact,2022,10.1016/j.robot.2022.104224
+Robotics and Neuroscience,2014,10.1016/j.cub.2014.07.058
+MACOP modular architecture with control primitives,2013,10.3389/fncom.2013.00099
+Model-based contextual policy search for data-efficient generalization of robot skills,2017,10.1016/j.artint.2014.11.005
+Learning potential functions from human demonstrations with encapsulated dynamic and compliant behaviors,2017,10.1007/s10514-015-9528-y
+Posture similarity index: a method to compare hand postures in synergy space,2018,10.7717/peerj.6078
+Dynamics systems vs. optimal control - a unifying view,2007,10.1016/S0079-6123(06)65027-9
+Quantizing Euclidean Motions via Double-Coset Decomposition,2019,10.34133/2019/1608396
+A Brief Survey on the Role of Dimensionality Reduction in Manipulation Learning and Control,2018,10.1109/LRA.2018.2818933
+Safe Interval Path Planning and Flatness-Based Control for Navigation of a Mobile Robot among Static and Dynamic Obstacles,2022,10.1134/S000511792206008X
+Unmanned Driving Technology in Coal Mine Based on Semantic Information Method,2023,10.1109/ACCESS.2023.3257574
+Model Reference Tracking Control Solutions for a Visual Servo System Based on a Virtual State from Unknown Dynamics,2022,10.3390/en15010267
+Haptic dancing: human performance at haptic decoding with a vocabulary,2003,
+Adaptive human-inspired compliant contact primitives to perform surface-surface contact under uncertainty,2016,10.1177/0278364916648389
+Bioinspired Embodiment for Intelligent Sensing and Dexterity in Fine Manipulation: A Survey,2020,10.1109/TII.2020.2971643
+Human motion analysis using expressions of non-separated accelerometer values as character strings,2021,10.1007/s10015-020-00668-6
+Learning control Lyapunov function to ensure stability of dynamical system-based robot reaching motions,2014,10.1016/j.robot.2014.03.001
+Decision Making for Rapid Information Acquisition in the Reconnaissance of Random Fields,2012,10.1109/JPROC.2011.2174101
+Motion Hysteresis Compensation Based on Motor Current Segmentation for Elongated Cable-Driven Surgical Instruments,2024,10.1109/TASE.2022.3233851
+Autonomous Learning of Page Flipping Movements via Tactile Feedback,2022,10.1109/TRO.2022.3168731
+From inverse optimal control to inverse reinforcement learning: A historical review,2020,10.1016/j.arcontrol.2020.06.001
+Model-Free Reinforcement Learning of Impedance Control in Stochastic Environments,2012,10.1109/TAMD.2012.2205924
+Cerebellar transcranial current stimulation - An intraindividual comparison of different techniques,2022,10.3389/fnins.2022.987472
+Automated Assembly for Mesoscale Parts,2011,10.1109/TASE.2011.2132128
+A computational analysis of motor synergies by dynamic response decomposition,2014,10.3389/fncom.2013.00191
+Learning variable impedance control,2011,10.1177/0278364911402527

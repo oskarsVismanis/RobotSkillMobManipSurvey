@@ -1,0 +1,4677 @@
+﻿TY  - JOUR
+AU  - Wang, X.
+AU  - Santos, V.J.
+TI  - Gaze-Based Shared Autonomy Framework With Real-Time Action Primitive Recognition for Robot Manipulators
+PY  - 2023
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+VL  - 31
+SP  - 4306
+EP  - 4317
+DO  - 10.1109/TNSRE.2023.3328888
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85176430668&doi=10.1109%2fTNSRE.2023.3328888&partnerID=40&md5=b49801a2f62e478b73e5782f15351227
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Ren, D.
+AU  - Wu, S.
+AU  - Wang, X.
+AU  - Peng, Y.
+AU  - Ren, X.
+TI  - Learning Bifunctional Push-Grasping Synergistic Strategy for Goal-Agnostic and Goal-Oriented Tasks
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 2909
+EP  - 2916
+DO  - 10.1109/IROS55552.2023.10342533
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182524983&doi=10.1109%2fIROS55552.2023.10342533&partnerID=40&md5=959b6e380af5abfb930f7caed1cc27e9
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Munguia-Galeano, F.
+AU  - Zhu, J.
+AU  - Hernández, J.D.
+AU  - Ji, Z.
+TI  - Learning to bag with a simulation-free reinforcement learning framework for robots
+PY  - 2024
+T2  - IET Cyber-systems and Robotics
+VL  - 6
+IS  - 2
+C7  - e12113
+DO  - 10.1049/csy2.12113
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85189932995&doi=10.1049%2fcsy2.12113&partnerID=40&md5=dd7221d2eeaf8da2783a7fb5f9653838
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Liu, Z.
+AU  - Wang, Z.
+AU  - Huang, S.
+AU  - Zhou, J.
+AU  - Lu, J.
+TI  - GE-Grasp: Efficient Target-Oriented Grasping in Dense Clutter
+PY  - 2022
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2022-October
+SP  - 1388
+EP  - 1395
+DO  - 10.1109/IROS47612.2022.9981499
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144122435&doi=10.1109%2fIROS47612.2022.9981499&partnerID=40&md5=7e49ff7333eedbca570e27096b8349b5
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 20
+ER  -
+
+TY  - CONF
+AU  - Zuo, G.
+AU  - Wang, Z.
+AU  - Luo, Y.
+AU  - Yu, S.
+AU  - Zhao, M.
+TI  - Collaborative Pushing and Grasping in Complex Scenarios via a Generator-Evaluator Network with Multiple Action Primitives
+PY  - 2025
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 
+VL  - 15205 LNAI
+SP  - 359
+EP  - 373
+DO  - 10.1007/978-981-96-0777-8_26
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85219211902&doi=10.1007%2f978-981-96-0777-8_26&partnerID=40&md5=a8c4abfb988741bcb326bb6a7936e691
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Huang, S.
+AU  - Chang, H.
+AU  - Liu, Y.
+AU  - Zhu, Y.
+AU  - Dong, H.
+AU  - Boularias, A.
+AU  - Gao, P.
+AU  - Li, H.
+TI  - A3VLM: Actionable Articulation-Aware Vision Language Model
+PY  - 2024
+T2  - Proceedings of Machine Learning Research
+VL  - 270
+SP  - 1675
+EP  - 1690
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-86000743918&partnerID=40&md5=b98a2194b2d1543b733523e7df7e808e
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Zhao, C.
+AU  - Tong, Z.
+AU  - Rojas, J.
+AU  - Seo, J.
+TI  - Learning to Pick by Digging: Data-Driven Dig-Grasping for Bin Picking from Clutter
+PY  - 2022
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 749
+EP  - 754
+DO  - 10.1109/ICRA46639.2022.9811736
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85136326830&doi=10.1109%2fICRA46639.2022.9811736&partnerID=40&md5=e0b7b3bff6e16ac56d9d346f7c600983
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Li, M.
+AU  - Bao, H.
+AU  - Huang, J.
+TI  - Dynamic Cloth Folding Using Curriculum Learning
+ST  - 使用课程学习的动态布料折叠
+PY  - 2024
+T2  - Journal of Shanghai Jiaotong University (Science)
+DO  - 10.1007/s12204-024-2710-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185687642&doi=10.1007%2fs12204-024-2710-7&partnerID=40&md5=afe890835a0471ae06b30e423d03d6f9
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Sarantopoulos, I.
+AU  - Kiatos, M.
+AU  - Doulgeri, Z.
+AU  - Malassiotis, S.
+TI  - Total singulation with modular reinforcement learning
+PY  - 2021
+T2  - IEEE Robotics and Automation Letters
+VL  - 6
+IS  - 2
+C7  - 9363569
+SP  - 4118
+EP  - 4125
+DO  - 10.1109/LRA.2021.3062295
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85101841603&doi=10.1109%2fLRA.2021.3062295&partnerID=40&md5=2c0b5ae1d05f65f5a5cbc41b3c02b74f
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 22
+ER  -
+
+TY  - JOUR
+AU  - Zhao, Y.
+AU  - Fillatreau, P.
+AU  - Elmhadhbi, L.
+AU  - Karray, M.H.
+AU  - Archimede, B.
+TI  - Semantic coupling of path planning and a primitive action of a task plan for the simulation of manipulation tasks in a virtual 3D environment
+PY  - 2022
+T2  - Robotics and Computer-Integrated Manufacturing
+VL  - 73
+C7  - 102255
+DO  - 10.1016/j.rcim.2021.102255
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85114382870&doi=10.1016%2fj.rcim.2021.102255&partnerID=40&md5=2c6a07bde91c62dc7420952387623cfe
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Cruz, R.S.
+AU  - Cherian, A.
+AU  - Fernando, B.
+AU  - Campbell, D.
+AU  - Gould, S.
+TI  - Inferring temporal compositions of actions using probabilistic automata
+PY  - 2020
+T2  - IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops
+VL  - 2020-June
+C7  - 9150614
+SP  - 1514
+EP  - 1522
+DO  - 10.1109/CVPRW50498.2020.00192
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090147877&doi=10.1109%2fCVPRW50498.2020.00192&partnerID=40&md5=88eeb7b9d5717d4c1c97aafbc195811c
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Luo, S.
+AU  - Cheng, M.
+AU  - Ding, R.
+AU  - Wang, F.
+AU  - Xu, B.
+AU  - Chen, B.
+TI  - Human-Robot Shared Control Based on Locally Weighted Intent Prediction for a Teleoperated Hydraulic Manipulator System
+PY  - 2022
+T2  - IEEE/ASME Transactions on Mechatronics
+VL  - 27
+IS  - 6
+SP  - 4462
+EP  - 4474
+DO  - 10.1109/TMECH.2022.3157852
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85145021706&doi=10.1109%2fTMECH.2022.3157852&partnerID=40&md5=0a26919666e05edeffbef1e3594ae112
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 45
+ER  -
+
+TY  - JOUR
+AU  - Ge, Y.
+AU  - Zhang, S.
+AU  - Cai, Y.
+AU  - Lu, T.
+AU  - Wang, H.
+AU  - Hui, X.
+AU  - Wang, S.
+TI  - Ontology based autonomous robot task processing framework
+PY  - 2024
+T2  - Frontiers in Neurorobotics
+VL  - 18
+C7  - 1401075
+DO  - 10.3389/fnbot.2024.1401075
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193472861&doi=10.3389%2ffnbot.2024.1401075&partnerID=40&md5=f050b9631b4760102c128a5e5749a518
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Lyu, J.
+AU  - Chen, Y.
+AU  - Du, T.
+AU  - Zhu, F.
+AU  - Liu, H.
+AU  - Wang, Y.
+AU  - Wang, H.
+TI  - ScissorBot: Learning Generalizable Scissor Skill for Paper Cutting via Simulation, Imitation, and Sim2Real
+PY  - 2024
+T2  - Proceedings of Machine Learning Research
+VL  - 270
+SP  - 3379
+EP  - 3394
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-86000768028&partnerID=40&md5=8f97dd5da15e556867f414d0b6dd84df
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Koch, J.
+AU  - Büsch, L.
+AU  - Gomse, M.
+AU  - Schüppstuhl, T.
+TI  - A Methods-Time-Measurement based Approach to enable Action Recognition for Multi-Variant Assembly in Human-Robot Collaboration
+PY  - 2022
+T2  - Procedia CIRP
+VL  - 106
+SP  - 233
+EP  - 238
+DO  - 10.1016/j.procir.2022.02.184
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127473404&doi=10.1016%2fj.procir.2022.02.184&partnerID=40&md5=8aed33cbcf7694bca50a35c25512f742
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Ji, H.
+AU  - Li, S.
+AU  - Wang, J.
+AU  - Chen, J.
+TI  - Interaction Primitives for Robotic Manipulation Based on the Contact State
+PY  - 2022
+T2  - Proceedings - 2022 7th International Conference on Automation, Control and Robotics Engineering, CACRE 2022
+SP  - 99
+EP  - 103
+DO  - 10.1109/CACRE54574.2022.9834102
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85136335782&doi=10.1109%2fCACRE54574.2022.9834102&partnerID=40&md5=d7349cdb8b25e3c62788c41dd174a3b3
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Peng, Y.
+AU  - Wang, Z.
+AU  - Zhang, Y.
+AU  - Zhang, S.
+AU  - Cai, N.
+AU  - Wu, F.
+AU  - Chen, M.
+TI  - Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1)
+PY  - 2024
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 6367
+EP  - 6374
+DO  - 10.1109/IROS58592.2024.10802225
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85216499555&doi=10.1109%2fIROS58592.2024.10802225&partnerID=40&md5=47a7513a076b95bb93c0f91d8675976d
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CHAP
+AU  - Goel, K.
+AU  - Corah, M.
+AU  - Boirum, C.
+AU  - Michael, N.
+TI  - Fast Exploration Using Multirotors: Analysis, Planning, and Experimentation
+PY  - 2021
+T2  - Springer Proceedings in Advanced Robotics
+VL  - 16
+SP  - 291
+EP  - 305
+DO  - 10.1007/978-981-15-9460-1_21
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107040413&doi=10.1007%2f978-981-15-9460-1_21&partnerID=40&md5=8dfa2f89044258eff0ecbd11e2ac8a9e
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - CHAP
+AU  - Eduards Zinars, T.
+AU  - Vismanis, O.
+AU  - Racinskis, P.
+AU  - Arents, J.
+AU  - Greitans, M.
+TI  - Natural language conditioned planning of complex robotics tasks
+PY  - 2023
+T2  - Advancing Edge Artificial Intelligence: System Contexts
+SP  - 131
+EP  - 151
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180272617&partnerID=40&md5=5001f8cca3a041c9bba89d34379ff864
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Setyawan, G.E.
+AU  - Hartono, P.
+AU  - Sawada, H.
+TI  - Cooperative Multi-Robot Hierarchical Reinforcement Learning
+PY  - 2022
+T2  - International Journal of Advanced Computer Science and Applications
+VL  - 13
+IS  - 9
+SP  - 35
+EP  - 44
+DO  - 10.14569/IJACSA.2022.0130904
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139306773&doi=10.14569%2fIJACSA.2022.0130904&partnerID=40&md5=21d6d67fe6b17ba2e3a334c7c6d7b7c4
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 10
+ER  -
+
+TY  - CONF
+AU  - Avigal, Y.
+AU  - Berscheid, L.
+AU  - Asfour, T.
+AU  - Kroger, T.
+AU  - Goldberg, K.
+TI  - SpeedFolding: Learning Efficient Bimanual Folding of Garments
+PY  - 2022
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2022-October
+SP  - 1
+EP  - 8
+DO  - 10.1109/IROS47612.2022.9981402
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139140849&doi=10.1109%2fIROS47612.2022.9981402&partnerID=40&md5=84bf43620e7e4aa62c730582f9e1f77c
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 61
+ER  -
+
+TY  - JOUR
+AU  - Wang, H.
+AU  - Man, H.
+AU  - Cui, W.
+AU  - Lu, R.
+AU  - Cai, C.
+AU  - Fan, X.
+TI  - GeneWorker: An end-to-end robotic reinforcement learning approach with collaborative generator and worker networks
+PY  - 2024
+T2  - Neural Networks
+VL  - 178
+C7  - 106472
+DO  - 10.1016/j.neunet.2024.106472
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196773187&doi=10.1016%2fj.neunet.2024.106472&partnerID=40&md5=f5cdd8e5bc6123f7c794870290b8fd8e
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+TI  - 15th International Conference on Social Robotics, ICSR 2023
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14454 LNAI
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180624858&partnerID=40&md5=758d9b3cc2ea76141945aedec136c54e
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Feng, H.
+AU  - Wang, S.
+AU  - Xu, H.
+AU  - Ge, S.S.
+TI  - Object Activity Scene Description, Construction, and Recognition
+PY  - 2021
+T2  - IEEE Transactions on Cybernetics
+VL  - 51
+IS  - 10
+SP  - 5082
+EP  - 5092
+DO  - 10.1109/TCYB.2019.2904901
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85117391989&doi=10.1109%2fTCYB.2019.2904901&partnerID=40&md5=5312daae54a8bc8a0dc4ce71dbe313cd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Luo, H.
+AU  - Demiris, Y.
+TI  - Bi-Manual Robot Shoe Lacing
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 8772
+EP  - 8775
+DO  - 10.1109/IROS55552.2023.10341934
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182522795&doi=10.1109%2fIROS55552.2023.10341934&partnerID=40&md5=34942801839b305b1c447ff593051983
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Cao, X.
+AU  - Lu, T.
+AU  - Zheng, L.
+AU  - Cai, Y.
+AU  - Wang, S.
+TI  - PLOT: Human-Like Push-Grasping Synergy Learning in Clutter With One-Shot Target Recognition
+PY  - 2024
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+VL  - 16
+IS  - 4
+SP  - 1391
+EP  - 1404
+DO  - 10.1109/TCDS.2024.3357084
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85183656025&doi=10.1109%2fTCDS.2024.3357084&partnerID=40&md5=53e6f6b2c67591f422da672b5bf43906
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Pang, J.-C.
+AU  - Yang, S.-H.
+AU  - Chen, X.-H.
+AU  - Yang, X.
+AU  - Yu, Y.
+AU  - Ma, M.
+AU  - Guo, Z.
+AU  - Yang, H.
+AU  - Huang, B.
+TI  - Object-Oriented Option Framework for Robotics Manipulation in Clutter
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 1230
+EP  - 1237
+DO  - 10.1109/IROS55552.2023.10342335
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182523765&doi=10.1109%2fIROS55552.2023.10342335&partnerID=40&md5=5191e4ff2f197144abd40c5f4a4c1e07
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Kiyokawa, T.
+AU  - Nagata, E.
+AU  - Tsurumine, Y.
+AU  - Kwon, Y.
+AU  - Matsubara, T.
+TI  - Self-Supervised Learning of Grasping Arbitrary Objects On-the-Move
+PY  - 2025
+T2  - 2025 IEEE/SICE International Symposium on System Integration, SII 2025
+SP  - 965
+EP  - 972
+DO  - 10.1109/SII59315.2025.10871085
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-86000259983&doi=10.1109%2fSII59315.2025.10871085&partnerID=40&md5=bdea1e939e258dfa173e2b8f56010217
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Ishikawa, A.
+AU  - Hiratsuka, N.
+AU  - Takase, Y.
+AU  - Arnold, S.
+AU  - Yamazaki, K.
+TI  - Action Primitive Classification of Sewing Operations toward Training Unskilled Workers
+PY  - 2023
+T2  - 2023 IEEE International Conference on Mechatronics and Automation, ICMA 2023
+SP  - 845
+EP  - 851
+DO  - 10.1109/ICMA57826.2023.10215875
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85170820407&doi=10.1109%2fICMA57826.2023.10215875&partnerID=40&md5=5d59407cb5d6c8ae5ec546c3793071b6
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Nazarczuk, M.
+AU  - Mikolajczyk, K.
+TI  - V2A - Vision to Action: Learning Robotic Arm Actions Based on Vision and Language
+PY  - 2021
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12624 LNCS
+SP  - 721
+EP  - 736
+DO  - 10.1007/978-3-030-69535-4_44
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103232202&doi=10.1007%2f978-3-030-69535-4_44&partnerID=40&md5=625c5b00a25690f3072f5f13f2e426a5
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Kotsovolis, S.
+AU  - Demiris, Y.
+TI  - Bi-Manual Manipulation of Multi-Component Garments towards Robot-Assisted Dressing
+PY  - 2023
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2023-May
+SP  - 9865
+EP  - 9871
+DO  - 10.1109/ICRA48891.2023.10161335
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168706752&doi=10.1109%2fICRA48891.2023.10161335&partnerID=40&md5=be48ae0f1ec71728e9419c1088811d23
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Chen, B.
+AU  - Tong, X.
+AU  - Wan, J.
+AU  - Wang, L.
+AU  - Duan, X.
+AU  - Wang, Z.
+AU  - Xia, X.
+TI  - Knowledge sharing-enabled low-code program for collaborative robots in mix-model assembly
+PY  - 2025
+T2  - Journal of Industrial Information Integration
+VL  - 45
+C7  - 100824
+DO  - 10.1016/j.jii.2025.100824
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000150091&doi=10.1016%2fj.jii.2025.100824&partnerID=40&md5=a8323c694c25c74c6690dbfcaacb0ce9
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Zhang, Y.
+AU  - Zhang, H.
+AU  - Wang, Z.
+AU  - Zhang, S.
+AU  - Li, H.
+AU  - Chen, M.
+TI  - Development of an Autonomous, Explainable, Robust Robotic System for Electric Vehicle Battery Disassembly
+PY  - 2023
+T2  - IEEE/ASME International Conference on Advanced Intelligent Mechatronics, AIM
+VL  - 2023-June
+SP  - 409
+EP  - 414
+DO  - 10.1109/AIM46323.2023.10196256
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168411131&doi=10.1109%2fAIM46323.2023.10196256&partnerID=40&md5=e413cc32836e3df3f7a26beb73562144
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Frasca, T.
+AU  - Han, Z.
+AU  - Allspaw, J.
+AU  - Yanco, H.
+AU  - Scheutz, M.
+TI  - Going cognitive: A demonstration of the utility of task-general cognitive architectures for adaptive robotic task performance
+PY  - 2020
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 9340863
+SP  - 8110
+EP  - 8116
+DO  - 10.1109/IROS45743.2020.9340863
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102408482&doi=10.1109%2fIROS45743.2020.9340863&partnerID=40&md5=299545334a9bfa422de65df2ff040a8e
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+TI  - 2024 IEEE-RAS 23rd International Conference on Humanoid Robots, Humanoids 2024
+PY  - 2024
+T2  - IEEE-RAS International Conference on Humanoid Robots
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214494815&partnerID=40&md5=dc2c77f127f64eb4e45d85a6f82eb536
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Huo, S.
+AU  - Duan, A.
+AU  - Li, C.
+AU  - Zhou, P.
+AU  - Ma, W.
+AU  - Wang, H.
+AU  - Navarro-Alarcon, D.
+TI  - Keypoint-Based Planar Bimanual Shaping of Deformable Linear Objects under Environmental Constraints with Hierarchical Action Framework
+PY  - 2022
+T2  - IEEE Robotics and Automation Letters
+VL  - 7
+IS  - 2
+SP  - 5222
+EP  - 5229
+DO  - 10.1109/LRA.2022.3154842
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126301392&doi=10.1109%2fLRA.2022.3154842&partnerID=40&md5=8a5f5e1cc9727278615798985b4ea6c2
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 29
+ER  -
+
+TY  - JOUR
+AU  - Zhang, H.
+AU  - Huang, Y.
+AU  - Han, W.
+AU  - Chen, H.
+AU  - Xiong, D.
+AU  - Zhang, C.
+AU  - Medeiros, E.P.
+AU  - de Albuquerque, V.H.C.
+TI  - A novel teacher–student hierarchical approach for learning primitive information
+PY  - 2024
+T2  - Expert Systems with Applications
+VL  - 246
+C7  - 123129
+DO  - 10.1016/j.eswa.2023.123129
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182729804&doi=10.1016%2fj.eswa.2023.123129&partnerID=40&md5=6ca8c757f5167fc1526c5f0b4febf716
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ma, W.
+AU  - Zhang, B.
+AU  - Han, L.
+AU  - Huo, S.
+AU  - Wang, H.
+AU  - Navarro-Alarcon, D.
+TI  - Action Planning for Packing Long Linear Elastic Objects Into Compact Boxes With Bimanual Robotic Manipulation
+PY  - 2023
+T2  - IEEE/ASME Transactions on Mechatronics
+VL  - 28
+IS  - 3
+SP  - 1718
+EP  - 1729
+DO  - 10.1109/TMECH.2022.3223990
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144042962&doi=10.1109%2fTMECH.2022.3223990&partnerID=40&md5=8c46f4a762e3a31e4a91d356108faea3
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Zhang, T.
+AU  - Liu, Z.
+AU  - Pu, Z.
+AU  - Yi, J.
+AU  - Liang, Y.
+AU  - Zhang, D.
+TI  - Robot Subgoal-guided Navigation in Dynamic Crowded Environments with Hierarchical Deep Reinforcement Learning
+PY  - 2023
+T2  - International Journal of Control, Automation and Systems
+VL  - 21
+IS  - 7
+SP  - 2350
+EP  - 2362
+DO  - 10.1007/s12555-022-0171-z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85158101688&doi=10.1007%2fs12555-022-0171-z&partnerID=40&md5=fc47af7cdedcafa8549128b653b2a287
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Envall, J.
+AU  - Poranne, R.
+AU  - Coros, S.
+TI  - Differentiable Task Assignment and Motion Planning
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 2049
+EP  - 2056
+DO  - 10.1109/IROS55552.2023.10341602
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182523035&doi=10.1109%2fIROS55552.2023.10341602&partnerID=40&md5=75068a91166dd07d9915480694d1f5c0
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Cui, Z.
+AU  - Kou, L.
+AU  - Chen, Z.
+AU  - Bao, P.
+AU  - Qian, D.
+AU  - Xie, L.
+AU  - Tang, Y.
+TI  - Research on LFD System of Humanoid Dual-Arm Robot
+PY  - 2024
+T2  - Symmetry
+VL  - 16
+IS  - 4
+C7  - 396
+DO  - 10.3390/sym16040396
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191551456&doi=10.3390%2fsym16040396&partnerID=40&md5=9b67ff76b3e9143b5bc3c8cf1f5a8cb4
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+TI  - 15th International Conference on Social Robotics, ICSR 2023
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14453 LNAI
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180620142&partnerID=40&md5=a1087f4f485125bf60e3cfe0aeaad6e9
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Lin, N.
+AU  - Li, Y.
+AU  - Tang, K.
+AU  - Zhu, Y.
+AU  - Zhang, X.
+AU  - Wang, R.
+AU  - Ji, J.
+AU  - Chen, X.
+AU  - Zhang, X.
+TI  - Manipulation Planning From Demonstration Via Goal-Conditioned Prior Action Primitive Decomposition and Alignment
+PY  - 2022
+T2  - IEEE Robotics and Automation Letters
+VL  - 7
+IS  - 2
+SP  - 1387
+EP  - 1394
+DO  - 10.1109/LRA.2021.3140127
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122561023&doi=10.1109%2fLRA.2021.3140127&partnerID=40&md5=51d1e0bb2d1184889f81122ec3176bd5
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 15
+ER  -
+
+TY  - CONF
+AU  - Rens, G.B.
+TI  - Proposing Hierarchical Goal-Conditioned Policy Planning in Multi-Goal Reinforcement Learning
+PY  - 2025
+T2  - International Conference on Agents and Artificial Intelligence
+VL  - 1
+SP  - 507
+EP  - 514
+DO  - 10.5220/0013238900003890
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001709332&doi=10.5220%2f0013238900003890&partnerID=40&md5=86f87c00bdef5f32e111d24b33e70771
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Kiatos, M.
+AU  - Sarantopoulos, I.
+AU  - Koutras, L.
+AU  - Malassiotis, S.
+AU  - Doulgeri, Z.
+TI  - Learning Push-Grasping in Dense Clutter
+PY  - 2022
+T2  - IEEE Robotics and Automation Letters
+VL  - 7
+IS  - 4
+SP  - 8783
+EP  - 8790
+DO  - 10.1109/LRA.2022.3188437
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85134208763&doi=10.1109%2fLRA.2022.3188437&partnerID=40&md5=6d554b1fa7d32533f5b2465394ea0ed9
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 15
+ER  -
+
+TY  - CONF
+AU  - Kim, H.
+AU  - Yamada, M.
+AU  - Miyoshi, K.
+AU  - Iwata, T.
+AU  - Yamakawa, H.
+TI  - Reinforcement learning in latent action sequence space
+PY  - 2020
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 9341629
+SP  - 5497
+EP  - 5503
+DO  - 10.1109/IROS45743.2020.9341629
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102408232&doi=10.1109%2fIROS45743.2020.9341629&partnerID=40&md5=25e0ed8f3332d1e94aea5d62be0a60ea
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Herrero, E.G.
+AU  - Piedra, A.
+AU  - Brosque, C.
+AU  - Khatib, O.
+TI  - Parametrization of Compliant, Object-Level Controllers from Human Demonstrations
+PY  - 2022
+T2  - Springer Proceedings in Advanced Robotics
+VL  - 24 SPAR
+SP  - 383
+EP  - 395
+DO  - 10.1007/978-3-031-08140-8_42
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133225596&doi=10.1007%2f978-3-031-08140-8_42&partnerID=40&md5=82ec615e78e486541f336a8ed10e3c09
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Mavrogiannis, A.
+AU  - Mavrogiannis, C.
+AU  - Aloimonos, Y.
+TI  - Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models
+PY  - 2024
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 17679
+EP  - 17686
+DO  - 10.1109/ICRA57147.2024.10611086
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202429355&doi=10.1109%2fICRA57147.2024.10611086&partnerID=40&md5=c87ca1099a1a418d8bc9bce920895dd5
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Bugur, S.
+AU  - Oztop, E.
+AU  - Nagai, Y.
+AU  - Ugur, E.
+TI  - Effect Regulated Projection of Robot's Action Space for Production and Prediction of Manipulation Primitives through Learning Progress and Predictability-Based Exploration
+PY  - 2021
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+VL  - 13
+IS  - 2
+C7  - 8792160
+SP  - 286
+EP  - 297
+DO  - 10.1109/TCDS.2019.2933900
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070693534&doi=10.1109%2fTCDS.2019.2933900&partnerID=40&md5=4bdcb5363e0b7eff6d33c4e7a5e5d8f5
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Fischer, T.
+AU  - Demiris, Y.
+TI  - Computational modeling of embodied visual perspective taking
+PY  - 2020
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+VL  - 12
+IS  - 4
+C7  - 8884119
+SP  - 723
+EP  - 732
+DO  - 10.1109/TCDS.2019.2949861
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074540920&doi=10.1109%2fTCDS.2019.2949861&partnerID=40&md5=8fcb9c80359bcc7dce39329fa0db1c43
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Li, B.
+AU  - Qiu, S.
+AU  - Bai, J.
+AU  - Wang, B.
+AU  - Zhang, Z.
+AU  - Li, L.
+AU  - Wang, H.
+AU  - Wang, X.
+TI  - Interactive learning for multi-finger dexterous hand: A model-free hierarchical deep reinforcement learning approach
+PY  - 2024
+T2  - Knowledge-Based Systems
+VL  - 295
+C7  - 111847
+DO  - 10.1016/j.knosys.2024.111847
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85191336576&doi=10.1016%2fj.knosys.2024.111847&partnerID=40&md5=3f88237e21eac57f9bb39114a0b521d7
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Brouwer, D.
+AU  - Citron, J.
+AU  - Choi, H.
+AU  - Lepert, M.
+AU  - Lin, M.
+AU  - Bohg, J.
+AU  - Cutkosky, M.
+TI  - Tactile-Informed Action Primitives Mitigate Jamming in Dense Clutter
+PY  - 2024
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 7991
+EP  - 7997
+DO  - 10.1109/ICRA57147.2024.10610224
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202431954&doi=10.1109%2fICRA57147.2024.10610224&partnerID=40&md5=c97f07bbcc26b9cd37eb231a5f95f6c7
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Vigné, A.
+AU  - Sarthou, G.
+AU  - Clodic, A.
+TI  - Primitive Action Recognition Based on Semantic Facts
+PY  - 2024
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 14453 LNAI
+SP  - 350
+EP  - 362
+DO  - 10.1007/978-981-99-8715-3_29
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180635113&doi=10.1007%2f978-981-99-8715-3_29&partnerID=40&md5=9e97603cb6eddc122d3859141e6116b4
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - You, Y.
+AU  - Ji, Z.
+AU  - Yang, X.
+AU  - Liu, Y.
+TI  - From human-human collaboration to human-robot collaboration: automated generation of assembly task knowledge model
+PY  - 2022
+T2  - 2022 27th International Conference on Automation and Computing: Smart Systems and Manufacturing, ICAC 2022
+DO  - 10.1109/ICAC55051.2022.9911131
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141148344&doi=10.1109%2fICAC55051.2022.9911131&partnerID=40&md5=241670e2647646c8b53a2f9730090401
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Zhong, D.
+AU  - Miao, S.
+AU  - Miao, R.
+AU  - Sun, F.
+AU  - Wen, Z.
+AU  - Huang, H.
+AU  - Wang, N.
+TI  - Skill Manipulation Method of Industrial Robot Based on Knowledge Graph for Assembly Scene
+PY  - 2023
+T2  - Communications in Computer and Information Science
+VL  - 1732 CCIS
+SP  - 280
+EP  - 290
+DO  - 10.1007/978-981-99-2789-0_24
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85163292234&doi=10.1007%2f978-981-99-2789-0_24&partnerID=40&md5=bb65518c41f4dc678b4ecc55070058d7
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Zeng, A.
+AU  - Song, S.
+AU  - Yu, K.-T.
+AU  - Donlon, E.
+AU  - Hogan, F.R.
+AU  - Bauza, M.
+AU  - Ma, D.
+AU  - Taylor, O.
+AU  - Liu, M.
+AU  - Romo, E.
+AU  - Fazeli, N.
+AU  - Alet, F.
+AU  - Chavan Dafle, N.
+AU  - Holladay, R.
+AU  - Morona, I.
+AU  - Nair, P.Q.
+AU  - Green, D.
+AU  - Taylor, I.
+AU  - Liu, W.
+AU  - Funkhouser, T.
+AU  - Rodriguez, A.
+TI  - Robotic pick-and-place of novel objects in clutter with multi-affordance grasping and cross-domain image matching
+PY  - 2022
+T2  - International Journal of Robotics Research
+VL  - 41
+IS  - 7
+SP  - 690
+EP  - 705
+DO  - 10.1177/0278364919868017
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070356669&doi=10.1177%2f0278364919868017&partnerID=40&md5=ee4fe7df315b0191fe43dde457781bee
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 125
+ER  -
+
+TY  - JOUR
+AU  - Wang, H.
+AU  - Zhang, H.
+AU  - Li, L.
+AU  - Kan, Z.
+AU  - Song, Y.
+TI  - Task-Driven Reinforcement Learning with Action Primitives for Long-Horizon Manipulation Skills
+PY  - 2024
+T2  - IEEE Transactions on Cybernetics
+VL  - 54
+IS  - 8
+SP  - 4513
+EP  - 4526
+DO  - 10.1109/TCYB.2023.3298195
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167781175&doi=10.1109%2fTCYB.2023.3298195&partnerID=40&md5=bf8542bb39f3e3f5d031377a0bcaac25
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Schwaner, K.L.
+AU  - Dall'alba, D.
+AU  - Jensen, P.T.
+AU  - Fiorini, P.
+AU  - Savarimuthu, T.R.
+TI  - Autonomous Needle Manipulation for Robotic Surgical Suturing Based on Skills Learned from Demonstration
+PY  - 2021
+T2  - IEEE International Conference on Automation Science and Engineering
+VL  - 2021-August
+SP  - 235
+EP  - 241
+DO  - 10.1109/CASE49439.2021.9551569
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85116966930&doi=10.1109%2fCASE49439.2021.9551569&partnerID=40&md5=0b9a7e8e68ca9b49387ae240bbc27d68
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 27
+ER  -
+
+TY  - JOUR
+AU  - Wang, Z.
+AU  - Garrett, C.R.
+AU  - Kaelbling, L.P.
+AU  - Lozano-Pérez, T.
+TI  - Learning compositional models of robot skills for task and motion planning
+PY  - 2021
+T2  - International Journal of Robotics Research
+VL  - 40
+IS  - 6-7
+SP  - 866
+EP  - 894
+DO  - 10.1177/02783649211004615
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104029148&doi=10.1177%2f02783649211004615&partnerID=40&md5=cae338a5163f5afe9e5b8ba8dd84dc7b
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 72
+ER  -
+
+TY  - JOUR
+AU  - Nah, M.C.
+AU  - Krotov, A.
+AU  - Russo, M.
+AU  - Sternad, D.
+AU  - Hogan, N.
+TI  - Learning to manipulate a whip with simple primitive actions – A simulation study
+PY  - 2023
+T2  - iScience
+VL  - 26
+IS  - 8
+C7  - 107395
+DO  - 10.1016/j.isci.2023.107395
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166335037&doi=10.1016%2fj.isci.2023.107395&partnerID=40&md5=d5d0f701b24f6a37b8e03e67e8d37007
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Jeon, J.
+AU  - Jung, H.-R.
+AU  - Luong, T.
+AU  - Yumbla, F.
+AU  - Moon, H.
+TI  - Combined task and motion planning system for the service robot using hierarchical action decomposition
+PY  - 2022
+T2  - Intelligent Service Robotics
+VL  - 15
+IS  - 4
+SP  - 487
+EP  - 501
+DO  - 10.1007/s11370-022-00437-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85136093368&doi=10.1007%2fs11370-022-00437-3&partnerID=40&md5=41925632808e94b46e3c915cd5f61b2a
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Yan, J.
+AU  - Luo, B.
+AU  - Xu, X.
+TI  - Hierarchical reinforcement learning for handling sparse rewards in multi-goal navigation
+PY  - 2024
+T2  - Artificial Intelligence Review
+VL  - 57
+IS  - 6
+C7  - 156
+DO  - 10.1007/s10462-024-10794-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194882136&doi=10.1007%2fs10462-024-10794-3&partnerID=40&md5=8dc315ee7fef3532deff48d700df8940
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Oikonomou, P.
+AU  - Dometios, A.
+AU  - Khamassi, M.
+AU  - Tzafestas, C.S.
+TI  - Online Prediction of Novel Trajectories Using a Library of Movement Primitives
+PY  - 2024
+T2  - 2024 IEEE International Conference on Development and Learning, ICDL 2024
+DO  - 10.1109/ICDL61372.2024.10644595
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203802944&doi=10.1109%2fICDL61372.2024.10644595&partnerID=40&md5=4ddff7b7a310a6c758f9bc371f27cf37
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Pertsch, K.
+AU  - Lee, Y.
+AU  - Wu, Y.
+AU  - Lim, J.J.
+TI  - Demonstration-Guided Reinforcement Learning with Learned Skills
+PY  - 2021
+T2  - Proceedings of Machine Learning Research
+VL  - 164
+SP  - 729
+EP  - 739
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171797404&partnerID=40&md5=4fea46a1bd8bd4b47dbfad7ce0629ef0
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 29
+ER  -
+
+TY  - JOUR
+AU  - Xiao, Y.
+AU  - Tan, W.
+AU  - Hoffman, J.
+AU  - Xia, T.
+AU  - Amato, C.
+TI  - Asynchronous multi-agent deep reinforcement learning under partial observability
+PY  - 2025
+T2  - International Journal of Robotics Research
+DO  - 10.1177/02783649241306124
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85214552259&doi=10.1177%2f02783649241306124&partnerID=40&md5=c16f7fee2cae570000332291f9f18503
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Liang, Y.
+AU  - Kurniawati, H.
+TI  - Recurrent Macro Actions Generator for POMDP Planning
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 2026
+EP  - 2033
+DO  - 10.1109/IROS55552.2023.10341759
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182526323&doi=10.1109%2fIROS55552.2023.10341759&partnerID=40&md5=9ef3ac62e52e482d170edccbf6508812
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Rysbek, Z.
+AU  - Oh, K.H.
+AU  - Abbasi, B.
+AU  - Zefran, M.
+AU  - Di Eugenio, B.
+TI  - Physical action primitives for collaborative decision making in human-human manipulation
+PY  - 2021
+T2  - 2021 30th IEEE International Conference on Robot and Human Interactive Communication, RO-MAN 2021
+SP  - 1319
+EP  - 1325
+DO  - 10.1109/RO-MAN50785.2021.9515363
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85115084365&doi=10.1109%2fRO-MAN50785.2021.9515363&partnerID=40&md5=b3087a3efcf5c12a1d4284239f077f20
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Naumenko, O.
+AU  - Sapaev, U.
+AU  - Skatershchikova, A.
+AU  - Bekbaev, R.
+TI  - “Artificial intelligence”: Philosophical aspects of understanding
+PY  - 2021
+T2  - Wisdom
+VL  - 17
+IS  - 1
+SP  - 53
+EP  - 64
+DO  - 10.24234/wisdom.v17i1.428
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85110270199&doi=10.24234%2fwisdom.v17i1.428&partnerID=40&md5=2a54162cab1dd66c184ff98a75f07c53
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Schwaner, K.L.
+AU  - Iturrate, I.
+AU  - Andersen, J.K.H.
+AU  - Jensen, P.T.
+AU  - Savarimuthu, T.R.
+TI  - Autonomous Bi-Manual Surgical Suturing Based on Skills Learned from Demonstration
+PY  - 2021
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 4017
+EP  - 4024
+DO  - 10.1109/IROS51168.2021.9636432
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124360489&doi=10.1109%2fIROS51168.2021.9636432&partnerID=40&md5=4adc1375c400571f770781a5002e0391
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 15
+ER  -
+
+TY  - CONF
+AU  - Sharma, S.
+AU  - Tuli, S.
+AU  - Paul, R.
+TI  - Unsupervised Learning of Neuro-symbolic Rules for Generalizable Context-aware Planning in Object Arrangement Tasks
+PY  - 2024
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 12865
+EP  - 12872
+DO  - 10.1109/ICRA57147.2024.10610696
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202216595&doi=10.1109%2fICRA57147.2024.10610696&partnerID=40&md5=626dbe0561a7799d8596a36eba1d9f76
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Yu, T.
+AU  - Chang, Q.
+TI  - Motion Planning for Human-Robot Collaboration based on Reinforcement Learning
+PY  - 2022
+T2  - IEEE International Conference on Automation Science and Engineering
+VL  - 2022-August
+SP  - 1866
+EP  - 1871
+DO  - 10.1109/CASE49997.2022.9926471
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141722323&doi=10.1109%2fCASE49997.2022.9926471&partnerID=40&md5=c9aebfc44444a1ffcdcb4bb6601778c5
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Mazzaglia, P.
+AU  - Cohen, T.
+AU  - Dijkman, D.
+TI  - Information-driven Affordance Discovery for Efficient Robotic Manipulation
+PY  - 2024
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 7780
+EP  - 7787
+DO  - 10.1109/ICRA57147.2024.10611170
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197842575&doi=10.1109%2fICRA57147.2024.10611170&partnerID=40&md5=db04891aecf30b6a914fdf89d1eeee5c
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Lee, Y.
+AU  - Cai, P.
+AU  - Hsu, D.
+TI  - MAGIC: Learning Macro-Actions for Online POMDP Planning
+PY  - 2021
+T2  - Robotics: Science and Systems
+DO  - 10.15607/RSS.2021.XVII.041
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127958762&doi=10.15607%2fRSS.2021.XVII.041&partnerID=40&md5=13ce8dac0b61b1eb9189dc088248fab9
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 12
+ER  -
+
+TY  - JOUR
+AU  - Le Goff, L.K.
+AU  - Yaakoubi, O.
+AU  - Coninx, A.
+AU  - Doncieux, S.
+TI  - Building an Affordances Map With Interactive Perception
+PY  - 2022
+T2  - Frontiers in Neurorobotics
+VL  - 16
+C7  - 504459
+DO  - 10.3389/fnbot.2022.504459
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130744784&doi=10.3389%2ffnbot.2022.504459&partnerID=40&md5=5f47e42c1b643923ac6d61b470ff6549
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Zhang, X.
+AU  - Jin, S.
+AU  - Wang, C.
+AU  - Zhu, X.
+AU  - Tomizuka, M.
+TI  - Learning Insertion Primitives with Discrete-Continuous Hybrid Action Space for Robotic Assembly Tasks
+PY  - 2022
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 9881
+EP  - 9887
+DO  - 10.1109/ICRA46639.2022.9811973
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85136108623&doi=10.1109%2fICRA46639.2022.9811973&partnerID=40&md5=61b806c44e5a36520612d6a75e1f1589
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 31
+ER  -
+
+TY  - JOUR
+AU  - Wang, X.
+AU  - Haji Fathaliyan, A.
+AU  - Santos, V.J.
+TI  - Toward Shared Autonomy Control Schemes for Human-Robot Systems: Action Primitive Recognition Using Eye Gaze Features
+PY  - 2020
+T2  - Frontiers in Neurorobotics
+VL  - 14
+C7  - 567571
+DO  - 10.3389/fnbot.2020.567571
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094654653&doi=10.3389%2ffnbot.2020.567571&partnerID=40&md5=d8e9721cd3bb3c4f71cefe1bd3731014
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Lou, X.
+AU  - Yu, H.
+AU  - Worobel, R.
+AU  - Yang, Y.
+AU  - Choi, C.
+TI  - Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 1008
+EP  - 1015
+DO  - 10.1109/IROS55552.2023.10342412
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182525863&doi=10.1109%2fIROS55552.2023.10342412&partnerID=40&md5=e31b6832211cd0816e18a840877498f1
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Wang, T.
+AU  - Luo, Y.
+AU  - Xie, F.
+AU  - Zhao, N.
+AU  - Shen, Y.
+TI  - Underwater Autonomous Grasping Strategy with Constrained Visual Information
+PY  - 2024
+T2  - IEEE International Conference on Robotics and Biomimetics, ROBIO
+IS  - 2024
+SP  - 219
+EP  - 224
+DO  - 10.1109/ROBIO64047.2024.10907589
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001476854&doi=10.1109%2fROBIO64047.2024.10907589&partnerID=40&md5=83067b3a044bd45dfcb95fc677d0b4e0
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Lou, J.
+AU  - Shi, R.
+AU  - Lin, Y.
+AU  - Wang, Q.
+AU  - Wu, W.
+TI  - TALKER: A Task-Activated Language Model Based Knowledge-Extension Reasoning System
+PY  - 2025
+T2  - IEEE Robotics and Automation Letters
+VL  - 10
+IS  - 2
+SP  - 1026
+EP  - 1033
+DO  - 10.1109/LRA.2024.3511434
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-86000376629&doi=10.1109%2fLRA.2024.3511434&partnerID=40&md5=43507dca984c5ff3863922ca9007c54a
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Akrour, R.
+AU  - Tateo, D.
+AU  - Peters, J.
+TI  - Continuous Action Reinforcement Learning From a Mixture of Interpretable Experts
+PY  - 2022
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+VL  - 44
+IS  - 10
+SP  - 6795
+EP  - 6806
+DO  - 10.1109/TPAMI.2021.3103132
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85138448448&doi=10.1109%2fTPAMI.2021.3103132&partnerID=40&md5=b3b4ae93ccc3ea45c189b3b9236eb4cf
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 16
+ER  -
+
+TY  - JOUR
+AU  - Zhu, L.
+AU  - Cheng, J.
+AU  - Zhang, H.
+AU  - Zhang, W.
+AU  - Liu, Y.
+TI  - Multi-Robot Environmental Coverage with a Two-Stage Coordination Strategy via Deep Reinforcement Learning
+PY  - 2024
+T2  - IEEE Transactions on Intelligent Transportation Systems
+VL  - 25
+IS  - 6
+SP  - 5022
+EP  - 5033
+DO  - 10.1109/TITS.2023.3333409
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181571329&doi=10.1109%2fTITS.2023.3333409&partnerID=40&md5=fab7fd27953f764a33069bad5e0eb0fb
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Wen, R.
+AU  - Wang, Q.
+AU  - Li, Z.
+TI  - Human hand movement recognition using infinite hidden Markov model based sEMG classification
+PY  - 2021
+T2  - Biomedical Signal Processing and Control
+VL  - 68
+C7  - 102592
+DO  - 10.1016/j.bspc.2021.102592
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103946182&doi=10.1016%2fj.bspc.2021.102592&partnerID=40&md5=945d4b0c378ee7bcf03f3aaf3212c273
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Wang, J.
+AU  - Chen, C.
+AU  - Liu, J.
+AU  - Du, G.
+AU  - Zhu, X.
+AU  - Guan, Q.
+AU  - Qiu, X.
+TI  - Self-supervised reinforcement learning for multi-step object manipulation skills
+PY  - 2025
+T2  - Industrial Robot
+DO  - 10.1108/IR-12-2024-0534
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105001171082&doi=10.1108%2fIR-12-2024-0534&partnerID=40&md5=f370c88e69a6e9fbc215953272be2e02
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Wei, J.
+AU  - Hao, P.
+AU  - Wang, S.
+TI  - ToolBot: Learning Oriented Keypoints for Tool Usage From Self-Supervision
+PY  - 2024
+T2  - IEEE Transactions on Industrial Informatics
+VL  - 20
+IS  - 1
+SP  - 723
+EP  - 731
+DO  - 10.1109/TII.2023.3271113
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85159711783&doi=10.1109%2fTII.2023.3271113&partnerID=40&md5=97dd6f7c955ddfcf7e722a0860dee740
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Jeon, J.
+AU  - Jung, H.-R.
+AU  - Yumbla, F.
+AU  - Luong, T.A.
+AU  - Moon, H.
+TI  - Primitive Action Based Combined Task and Motion Planning for the Service Robot
+PY  - 2022
+T2  - Frontiers in Robotics and AI
+VL  - 9
+C7  - 713470
+DO  - 10.3389/frobt.2022.713470
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125194444&doi=10.3389%2ffrobt.2022.713470&partnerID=40&md5=e1d3f6cd20bb0357e19e2907b9cd282a
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 11
+ER  -
+
+TY  - CONF
+AU  - Cho, Y.
+AU  - Han, J.
+AU  - Cho, Y.
+AU  - Kim, B.
+TI  - CORN: CONTACT-BASED OBJECT REPRESENTATION FOR NONPREHENSILE MANIPULATION OF GENERAL UNSEEN OBJECTS
+PY  - 2024
+T2  - 12th International Conference on Learning Representations, ICLR 2024
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85200560196&partnerID=40&md5=b2753ce0ce627723c67bdda9d5a96052
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Dalal, M.
+AU  - Pathak, D.
+AU  - Salakhutdinov, R.
+TI  - Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives
+PY  - 2021
+T2  - Advances in Neural Information Processing Systems
+VL  - 26
+SP  - 21847
+EP  - 21859
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128580624&partnerID=40&md5=3034ba588058079e81a54709299dc378
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 53
+ER  -
+
+TY  - JOUR
+AU  - Racinskis, P.
+AU  - Vismanis, O.
+AU  - Zinars, T.E.
+AU  - Arents, J.
+AU  - Greitans, M.
+TI  - Towards Open-Set NLP-Based Multi-Level Planning for Robotic Tasks
+PY  - 2024
+T2  - Applied Sciences (Switzerland)
+VL  - 14
+IS  - 22
+C7  - 10717
+DO  - 10.3390/app142210717
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85210578260&doi=10.3390%2fapp142210717&partnerID=40&md5=b13d0a5b3876d84dc9675ad44a4137dd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Son, D.
+AU  - Kim, M.
+AU  - Sim, J.
+AU  - Shin, W.
+TI  - Reinforcement Learning for Vision-based Object Manipulation with Non-parametric Policy and Action Primitives
+PY  - 2021
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 5756
+EP  - 5763
+DO  - 10.1109/IROS51168.2021.9636563
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85124348851&doi=10.1109%2fIROS51168.2021.9636563&partnerID=40&md5=4d5f21224519a8fac0e96406774bb028
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Liu, I.-C.A.
+AU  - He, S.
+AU  - Seita, D.
+AU  - Sukhatme, G.S.
+TI  - VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation
+PY  - 2024
+T2  - Proceedings of Machine Learning Research
+VL  - 270
+SP  - 4354
+EP  - 4370
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-86000786191&partnerID=40&md5=27a71971a1220e44b897f18608c26f02
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Qian, K.
+AU  - Liu, H.
+AU  - Valls Miro, J.
+AU  - Jing, X.
+AU  - Zhou, B.
+TI  - Hierarchical and parameterized learning of pick-and-place manipulation from under-specified human demonstrations
+PY  - 2020
+T2  - Advanced Robotics
+VL  - 34
+IS  - 13
+SP  - 858
+EP  - 872
+DO  - 10.1080/01691864.2020.1778523
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087015605&doi=10.1080%2f01691864.2020.1778523&partnerID=40&md5=3800d36a5e14506bae923a9c05a870e6
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 10
+ER  -
+
+TY  - JOUR
+AU  - Chen, B.
+AU  - Zhang, Y.
+AU  - Xia, X.
+AU  - Martinez-Garcia, M.
+AU  - Jombo, G.
+TI  - Knowledge Sharing Enabled Multirobot Collaboration for Preventive Maintenance in Mixed Model Assembly
+PY  - 2022
+T2  - IEEE Transactions on Industrial Informatics
+VL  - 18
+IS  - 11
+SP  - 8098
+EP  - 8107
+DO  - 10.1109/TII.2022.3158978
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126518713&doi=10.1109%2fTII.2022.3158978&partnerID=40&md5=f31527e28349bd168ad0fe01daa81f91
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 15
+ER  -
+
+TY  - CONF
+AU  - Wen, R.
+AU  - Wang, Q.
+AU  - Ma, X.
+AU  - Li, Z.
+TI  - Human Hand Movement Recognition based on HMM with Hyperparameters Optimized by Maximum Mutual Information
+PY  - 2020
+T2  - 2020 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference, APSIPA ASC 2020 - Proceedings
+C7  - 9306365
+SP  - 944
+EP  - 951
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85100931742&partnerID=40&md5=33c4dad1be8c3e851643d09735917aa0
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Al-Shanoon, A.
+AU  - Lang, H.
+AU  - Wang, Y.
+AU  - Zhang, Y.
+AU  - Hong, W.
+TI  - Learn to grasp unknown objects in robotic manipulation
+PY  - 2021
+T2  - Intelligent Service Robotics
+VL  - 14
+IS  - 4
+SP  - 571
+EP  - 582
+DO  - 10.1007/s11370-021-00380-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85112810180&doi=10.1007%2fs11370-021-00380-9&partnerID=40&md5=3b813bf32a9663b78e560a71ddeaa6b0
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Duminy, N.
+AU  - Nguyen, S.M.
+AU  - Zhu, J.
+AU  - Duhaut, D.
+AU  - Kerdreux, J.
+TI  - Intrinsically motivated open-ended multi-task learning using transfer learning to discover task hierarchy
+PY  - 2021
+T2  - Applied Sciences (Switzerland)
+VL  - 11
+IS  - 3
+C7  - 975
+SP  - 1
+EP  - 30
+DO  - 10.3390/app11030975
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099718146&doi=10.3390%2fapp11030975&partnerID=40&md5=32195db45427b565814ad2515a5d4142
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Yuan, W.
+AU  - Murali, A.
+AU  - Fox, D.
+AU  - Mousavian, A.
+TI  - M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place
+PY  - 2023
+T2  - Proceedings of Machine Learning Research
+VL  - 229
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85184351129&partnerID=40&md5=3c9fdf55bd7eb60c687195ca76b13821
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Bonial, C.
+AU  - Foresta, J.
+AU  - Fung, N.C.
+AU  - Hayes, C.J.
+AU  - Osteen, P.
+AU  - Arkin, J.
+AU  - Hedegaard, B.
+AU  - Howard, T.M.
+TI  - Abstract Meaning Representation for Grounded Human-Robot Communication
+PY  - 2023
+T2  - DMR 2023 - 4th International Workshop on Designing Meaning Representations, Proceedings of the Workshop
+SP  - 34
+EP  - 44
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85185348190&partnerID=40&md5=a3cde12f85b398391df7de1a9bf91d85
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Jamgochian, A.
+AU  - Buurmeijer, H.
+AU  - Wray, K.H.
+AU  - Corso, A.
+AU  - Kochenderfer, M.J.
+TI  - Constrained Hierarchical Monte Carlo Belief-State Planning
+PY  - 2024
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 2368
+EP  - 2374
+DO  - 10.1109/ICRA57147.2024.10611223
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85202445915&doi=10.1109%2fICRA57147.2024.10611223&partnerID=40&md5=083650982bd707339796b207e8130811
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Zhang, K.
+AU  - Ren, P.
+AU  - Lin, B.
+AU  - Lin, J.
+AU  - Ma, S.
+AU  - Xu, H.
+AU  - Liang, X.
+TI  - PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation
+PY  - 2024
+T2  - Advances in Neural Information Processing Systems
+VL  - 37
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000481110&partnerID=40&md5=3412059cad30d0d1b91e1c5003bb400d
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Nair, V.
+AU  - Hemeren, P.
+AU  - Vignolo, A.
+AU  - Noceti, N.
+AU  - Nicora, E.
+AU  - Sciutti, A.
+AU  - Rea, F.
+AU  - Billing, E.
+AU  - Odone, F.
+AU  - Sandini, G.
+TI  - Action similarity judgment based on kinematic primitives
+PY  - 2020
+T2  - ICDL-EpiRob 2020 - 10th IEEE International Conference on Development and Learning and Epigenetic Robotics
+C7  - 9278047
+DO  - 10.1109/ICDL-EpiRob48136.2020.9278047
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097550238&doi=10.1109%2fICDL-EpiRob48136.2020.9278047&partnerID=40&md5=c95080e696b1fd5c9fdcb34a804f4e97
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Bandera, J.P.
+AU  - Marfil, R.
+AU  - Romero-Garcés, A.
+AU  - Voilmy, D.
+TI  - A new paradigm for autonomous human motion description and evaluation: Application to the Get Up & Go test use case
+PY  - 2019
+T2  - Pattern Recognition Letters
+VL  - 118
+SP  - 51
+EP  - 60
+DO  - 10.1016/j.patrec.2018.02.003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85043324995&doi=10.1016%2fj.patrec.2018.02.003&partnerID=40&md5=8fa46212ea22ee0b993e21656ce6f77c
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 9
+ER  -
+
+TY  - CHAP
+AU  - Rickert, M.
+AU  - Gaschler, A.
+AU  - Knoll, A.
+TI  - Applications in HHI: Physical Cooperation
+PY  - 2018
+T2  - Humanoid Robotics: A Reference
+SP  - 2221
+EP  - 2259
+DO  - 10.1007/978-94-007-6046-2_129
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85138896357&doi=10.1007%2f978-94-007-6046-2_129&partnerID=40&md5=78eff49c8b7d5ddc5449ff2f7cdde002
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Gatsoulis, Y.
+AU  - Siradjuddin, I.
+AU  - McGinnity, T.M.
+TI  - Primitive action learning using fuzzy neural networks
+PY  - 2012
+T2  - 2012 IEEE International Conference on Robotics and Biomimetics, ROBIO 2012 - Conference Digest
+C7  - 6491183
+SP  - 1513
+EP  - 1517
+DO  - 10.1109/ROBIO.2012.6491183
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84876478776&doi=10.1109%2fROBIO.2012.6491183&partnerID=40&md5=84dfca6ddad5426900830db3c78b0acd
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Vuga, R.
+AU  - Aksoy, E.E.
+AU  - Wörgötter, F.
+AU  - Ude, A.
+TI  - Probabilistic semantic models for manipulation action representation and extraction
+PY  - 2015
+T2  - Robotics and Autonomous Systems
+VL  - 65
+SP  - 40
+EP  - 56
+DO  - 10.1016/j.robot.2014.11.012
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84921435766&doi=10.1016%2fj.robot.2014.11.012&partnerID=40&md5=4bd9291e66e0e0c6880015bec075df76
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Grave, K.
+AU  - Behnke, S.
+TI  - Learning sequential tasks interactively from demonstrations and own experience
+PY  - 2013
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 6696816
+SP  - 3237
+EP  - 3243
+DO  - 10.1109/IROS.2013.6696816
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893763069&doi=10.1109%2fIROS.2013.6696816&partnerID=40&md5=d432f6b45eefcafa78d91096e39a8428
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Shah, B.C.
+AU  - Švec, P.
+AU  - Bertaska, I.R.
+AU  - Klinger, W.
+AU  - Sinisterra, A.J.
+AU  - Von Ellenrieder, K.
+AU  - Dhanak, M.
+AU  - Gupta, S.K.
+TI  - Trajectory planning with adaptive control primitives for autonomous surface vehicles operating in congested civilian traffic
+PY  - 2014
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 6942875
+SP  - 2312
+EP  - 2318
+DO  - 10.1109/IROS.2014.6942875
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84911488868&doi=10.1109%2fIROS.2014.6942875&partnerID=40&md5=50c6a045af4d24db4ef90abea3ce28a4
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 17
+ER  -
+
+TY  - CONF
+AU  - Aein, M.J.
+AU  - Aksoy, E.E.
+AU  - Tamosiunaite, M.
+AU  - Papon, J.
+AU  - Ude, A.
+AU  - Worgotter, F.
+TI  - Toward a library of manipulation actions based on semantic object-action relations
+PY  - 2013
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 6697011
+SP  - 4555
+EP  - 4562
+DO  - 10.1109/IROS.2013.6697011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84893719749&doi=10.1109%2fIROS.2013.6697011&partnerID=40&md5=ea955706efe72694afe89555a0b88944
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 24
+ER  -
+
+TY  - JOUR
+AU  - Zhou, X.
+AU  - Bai, T.
+AU  - Gao, Y.
+AU  - Han, Y.
+TI  - Vision-based robot navigation through combining unsupervised learning and hierarchical reinforcement learning
+PY  - 2019
+T2  - Sensors (Switzerland)
+VL  - 19
+IS  - 7
+C7  - 1576
+DO  - 10.3390/s19071576
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064211647&doi=10.3390%2fs19071576&partnerID=40&md5=c53255337e78ff642a809af289e7919b
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 26
+ER  -
+
+TY  - JOUR
+AU  - Li, C.
+AU  - Tian, G.
+TI  - Transferring the semantic constraints in human manipulation behaviors to robots
+PY  - 2020
+T2  - Applied Intelligence
+VL  - 50
+IS  - 6
+SP  - 1711
+EP  - 1724
+DO  - 10.1007/s10489-019-01580-8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079437302&doi=10.1007%2fs10489-019-01580-8&partnerID=40&md5=25efd28c002dbe2a19351dd0890988ae
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Ahad, Md.A.R.
+AU  - Tan, J.K.
+AU  - Kim, H.
+AU  - Ishikawa, S.
+TI  - Human behavior analysis with optical flow and median-filtered Temporal Motion Segmentation method
+PY  - 2010
+T2  - Proceedings of the 15th International Symposium on Artificial Life and Robotics, AROB 15th'10
+SP  - 1022
+EP  - 1025
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84866648695&partnerID=40&md5=d288a8f5373c3e56aec0ae665803c245
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+TI  - 13th European Conference on Computer Vision, ECCV 2014
+PY  - 2015
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 8927
+SP  - 1
+EP  - 859
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84946167763&partnerID=40&md5=49783968bb28dce86fdc1fd951d98715
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - She, L.
+AU  - Chai, J.Y.
+TI  - Incremental acquisition of verb hypothesis space towards physical world interaction
+PY  - 2016
+T2  - 54th Annual Meeting of the Association for Computational Linguistics, ACL 2016 - Long Papers
+VL  - 1
+SP  - 108
+EP  - 117
+DO  - 10.18653/v1/p16-1011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85011949169&doi=10.18653%2fv1%2fp16-1011&partnerID=40&md5=9edd0ccb18bbc69aa30ded2f8658fc10
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 16
+ER  -
+
+TY  - JOUR
+AU  - Chernova, S.
+AU  - L. Thomaz, A.
+TI  - Robot learning from human teachers
+PY  - 2014
+T2  - Synthesis Lectures on Artificial Intelligence and Machine Learning
+VL  - 28
+SP  - 1
+EP  - 121
+DO  - 10.2200/S00568ED1V01Y201402AIM028
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899837449&doi=10.2200%2fS00568ED1V01Y201402AIM028&partnerID=40&md5=a61fb8ed373c1f87c02fcb4e09c561f9
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 147
+ER  -
+
+TY  - CONF
+AU  - Zhao, Y.
+AU  - Fillatreau, P.
+AU  - Karray, M.H.
+AU  - Archimede, B.
+TI  - An Ontology-Based Approach Towards Coupling Task and Path Planning for the Simulation of Manipulation Tasks
+PY  - 2019
+T2  - Proceedings of IEEE/ACS International Conference on Computer Systems and Applications, AICCSA
+VL  - 2018-November
+C7  - 8612805
+DO  - 10.1109/AICCSA.2018.8612805
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061921275&doi=10.1109%2fAICCSA.2018.8612805&partnerID=40&md5=82fbac68c0909e9839491720e81bd877
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Lallée, S.
+AU  - Pattacini, U.
+AU  - Boucher, J.D.
+AU  - Lemaignan, S.
+AU  - Lenz, A.
+AU  - Melhuish, C.
+AU  - Natale, L.
+AU  - Skachek, S.
+AU  - Hamann, K.
+AU  - Steinwender, J.
+AU  - Sisbot, E.A.
+AU  - Metta, G.
+AU  - Alami, R.
+AU  - Warnier, M.
+AU  - Guitton, J.
+AU  - Warneken, F.
+AU  - Dominey, P.F.
+TI  - Towards a platform-independent cooperative human-robot interaction system: II. Perception, execution and imitation of goal directed actions
+PY  - 2011
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 6048351
+SP  - 2895
+EP  - 2902
+DO  - 10.1109/IROS.2011.6048351
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84455175496&doi=10.1109%2fIROS.2011.6048351&partnerID=40&md5=f54b52ed5dcbf6de60fad61e68b9b8e3
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 26
+ER  -
+
+TY  - CONF
+AU  - Sung, J.
+AU  - Selman, B.
+AU  - Saxena, A.
+TI  - Synthesizing manipulation sequences for under-specified tasks using unrolled Markov Random Fields
+PY  - 2014
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 6942972
+SP  - 2970
+EP  - 2977
+DO  - 10.1109/IROS.2014.6942972
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84911499061&doi=10.1109%2fIROS.2014.6942972&partnerID=40&md5=40dddd168d88cbf20cd1c3f41e0faf83
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 14
+ER  -
+
+TY  - JOUR
+AU  - Sanmohan, S.
+AU  - Krüger, V.
+TI  - Parametric primitives for hand gesture recognition
+PY  - 2009
+T2  - World Academy of Science, Engineering and Technology
+VL  - 58
+SP  - 97
+EP  - 101
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79954493059&partnerID=40&md5=5b3fc99c4dbbd5fc6729fa8de7a04149
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Liu, N.
+AU  - Liu, Z.
+AU  - Cui, L.
+TI  - A modified cartesian space DMPs model for robot motion generation
+PY  - 2019
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11745 LNAI
+SP  - 76
+EP  - 85
+DO  - 10.1007/978-3-030-27529-7_7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070707780&doi=10.1007%2f978-3-030-27529-7_7&partnerID=40&md5=d4ddd459e0c346d944944bd53705e3da
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Gemignani, G.
+AU  - Bastianelli, E.
+AU  - Nardi, D.
+TI  - Teaching robots parametrized executable plans through spoken interaction
+PY  - 2015
+T2  - Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems, AAMAS
+VL  - 2
+SP  - 851
+EP  - 859
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945175320&partnerID=40&md5=9b2c063caccf73bfdd70b7d3e976d4ee
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 23
+ER  -
+
+TY  - CHAP
+AU  - Kolbert, R.
+AU  - Chavan-Dafle, N.
+AU  - Rodriguez, A.
+TI  - Experimental Validation of Contact Dynamics for In-Hand Manipulation
+PY  - 2017
+T2  - Springer Proceedings in Advanced Robotics
+VL  - 1
+SP  - 633
+EP  - 645
+DO  - 10.1007/978-3-319-50115-4_55
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107030867&doi=10.1007%2f978-3-319-50115-4_55&partnerID=40&md5=070304000e9b81f16780cdfa231d5f5e
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 10
+ER  -
+
+TY  - CONF
+AU  - Yuehai, W.
+AU  - Qi, W.
+AU  - Renping, L.
+TI  - A rule-based decision subsystem design approach for intelligent robot
+PY  - 2009
+T2  - 2009 Second ISECS International Colloquium on Computing, Communication, Control, and Management, CCCM 2009
+VL  - 2
+C7  - 5267511
+SP  - 525
+EP  - 528
+DO  - 10.1109/CCCM.2009.5267511
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-70450040417&doi=10.1109%2fCCCM.2009.5267511&partnerID=40&md5=8efcae16624223a3a8d31d9c9e1d38d1
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Lim, H.
+AU  - Kang, Y.
+AU  - Lee, J.
+AU  - Kim, J.
+AU  - You, B.-J.
+TI  - Software architecture and task definition of a multiple humanoid cooperative control system
+PY  - 2009
+T2  - International Journal of Humanoid Robotics
+VL  - 6
+IS  - 2
+SP  - 173
+EP  - 203
+DO  - 10.1142/S0219843609001747
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-68049097988&doi=10.1142%2fS0219843609001747&partnerID=40&md5=4f126ce117e9a264ede7c4742a1b367e
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Yang, Y.
+AU  - Fermuller, C.
+AU  - Aloimonos, Y.
+TI  - Detection of manipulation action consequences (MAC)
+PY  - 2013
+T2  - Proceedings of the IEEE Computer Society Conference on Computer  Vision and Pattern Recognition
+C7  - 6619175
+SP  - 2563
+EP  - 2570
+DO  - 10.1109/CVPR.2013.331
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84887345046&doi=10.1109%2fCVPR.2013.331&partnerID=40&md5=d3316504bf601e8d8dd38d33c77a828a
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 54
+ER  -
+
+TY  - CONF
+AU  - Hart, S.
+AU  - Grupen, R.
+TI  - Learning generalizable control programs
+PY  - 2011
+T2  - IEEE Transactions on Autonomous Mental Development
+VL  - 3
+IS  - 3
+C7  - 5680948
+SP  - 216
+EP  - 231
+DO  - 10.1109/TAMD.2010.2103311
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80052879447&doi=10.1109%2fTAMD.2010.2103311&partnerID=40&md5=87f51059830c3471ac85e2bf6b4447c8
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 50
+ER  -
+
+TY  - CONF
+AU  - Li, W.
+AU  - Zhang, X.
+AU  - Cheng, H.
+TI  - Primitive Action Segmentation and Encoding during Gesture based Demonstration
+PY  - 2019
+T2  - 9th IEEE International Conference on Cyber Technology in Automation, Control and Intelligent Systems, CYBER 2019
+C7  - 9066543
+SP  - 1552
+EP  - 1557
+DO  - 10.1109/CYBER46603.2019.9066543
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85084311514&doi=10.1109%2fCYBER46603.2019.9066543&partnerID=40&md5=f7e77fc325b7bd76c3452e3cde9d7620
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Yuan, Y.
+AU  - Tian, G.
+AU  - Zhang, M.
+TI  - Autonomous planning of service robot based on natural language tasks in intelligent space
+PY  - 2017
+T2  - Proceedings - 2017 Chinese Automation Congress, CAC 2017
+VL  - 2017-January
+SP  - 5437
+EP  - 5442
+DO  - 10.1109/CAC.2017.8243748
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050365333&doi=10.1109%2fCAC.2017.8243748&partnerID=40&md5=b334d5a60835436c1ad50f6c127aad6d
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Milighetti, G.
+AU  - Bauer, C.
+AU  - Mikut, R.
+AU  - Kuntze, H.-B.
+TI  - Flexible discrete-continuous supervisory control for humanoid robots
+ST  - Flexible diskret-kontinuierliche überwachung und regelung humanoider roboter
+PY  - 2013
+T2  - At-Automatisierungstechnik
+VL  - 61
+IS  - 1
+SP  - 16
+EP  - 27
+DO  - 10.1524/auto.2013.0004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875279222&doi=10.1524%2fauto.2013.0004&partnerID=40&md5=ecf16ad57163acc0d9970d545d149cfc
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Namikawa, J.
+AU  - Nishimoto, R.
+AU  - Tani, J.
+TI  - A neurodynamic account of spontaneous behaviour
+PY  - 2011
+T2  - PLoS Computational Biology
+VL  - 7
+IS  - 10
+C7  - e1002221
+DO  - 10.1371/journal.pcbi.1002221
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80055087257&doi=10.1371%2fjournal.pcbi.1002221&partnerID=40&md5=da38e97965255fd348781a01b9d6cb3f
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 34
+ER  -
+
+TY  - CONF
+AU  - French, K.
+AU  - Wu, S.
+AU  - Pan, T.
+AU  - Zhou, Z.
+AU  - Jenkins, O.C.
+TI  - Learning behavior trees from demonstration
+PY  - 2019
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 8794104
+SP  - 7791
+EP  - 7797
+DO  - 10.1109/ICRA.2019.8794104
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071485048&doi=10.1109%2fICRA.2019.8794104&partnerID=40&md5=8bddbcb1da6cb1bcc418acb0d2d801e2
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 63
+ER  -
+
+TY  - CONF
+AU  - Mihelj, M.
+AU  - Novak, D.
+AU  - Munih, M.
+TI  - Emotion-aware system for upper extremity rehabilitation
+PY  - 2009
+T2  - 2009 Virtual Rehabilitation International Conference, VR 2009
+C7  - 05174225
+SP  - 160
+EP  - 165
+DO  - 10.1109/ICVR.2009.5174225
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-70449397270&doi=10.1109%2fICVR.2009.5174225&partnerID=40&md5=485296e7e131b9e3cae605e777fed22b
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 27
+ER  -
+
+TY  - JOUR
+AU  - Lin, J.-L.
+AU  - Hwang, K.-S.
+AU  - Shi, H.
+AU  - Pan, W.
+TI  - An ensemble method for inverse reinforcement learning
+PY  - 2020
+T2  - Information Sciences
+VL  - 512
+SP  - 518
+EP  - 532
+DO  - 10.1016/j.ins.2019.09.066
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073051334&doi=10.1016%2fj.ins.2019.09.066&partnerID=40&md5=8822d30b633ab7bd73b01f99436a6edb
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 17
+ER  -
+
+TY  - CONF
+AU  - Kroemer, O.
+AU  - Ugur, E.
+AU  - Oztop, E.
+AU  - Peters, J.
+TI  - A kernel-based approach to direct action perception
+PY  - 2012
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 6224957
+SP  - 2605
+EP  - 2610
+DO  - 10.1109/ICRA.2012.6224957
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84864487681&doi=10.1109%2fICRA.2012.6224957&partnerID=40&md5=eb9a345b10f882381eb60bdf66f59e04
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 55
+ER  -
+
+TY  - CONF
+AU  - Moringen, A.
+AU  - Fleer, S.
+AU  - Walck, G.
+AU  - Ritter, H.
+TI  - Attention-based robot learning of haptic interaction
+PY  - 2020
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12272 LNCS
+SP  - 462
+EP  - 470
+DO  - 10.1007/978-3-030-58147-3_51
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091287375&doi=10.1007%2f978-3-030-58147-3_51&partnerID=40&md5=565f6db072d97be3f36b70e9c090716b
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Abbas, T.
+AU  - MacDonald, B.A.
+TI  - A task representation based on elementary targets (ETs) and execution control rules (ECRs)
+PY  - 2009
+T2  - IEEE/ASME International Conference on Advanced Intelligent Mechatronics, AIM
+C7  - 5229896
+SP  - 905
+EP  - 910
+DO  - 10.1109/AIM.2009.5229896
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-70350462381&doi=10.1109%2fAIM.2009.5229896&partnerID=40&md5=b5654771f1cd0727a581fc165265da84
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Claßen, J.
+AU  - Liebenberg, M.
+AU  - Lakemeyer, G.
+AU  - Zarrieß, B.
+TI  - Exploring the boundaries of decidable verification of non-terminating golog programs
+PY  - 2014
+T2  - Proceedings of the National Conference on Artificial Intelligence
+VL  - 2
+SP  - 1012
+EP  - 1019
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84908172789&partnerID=40&md5=9ca39b7db74994278ebf95cfcbdfed0b
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Kaiser, P.
+AU  - Kanoulas, D.
+AU  - Grotz, M.
+AU  - Muratore, L.
+AU  - Rocchi, A.
+AU  - Hoffman, E.M.
+AU  - Tsagarakis, N.G.
+AU  - Asfour, T.
+TI  - An affordance-based pilot interface for high-level control of humanoid robots in supervised autonomy
+PY  - 2016
+T2  - IEEE-RAS International Conference on Humanoid Robots
+C7  - 7803339
+SP  - 621
+EP  - 628
+DO  - 10.1109/HUMANOIDS.2016.7803339
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010224325&doi=10.1109%2fHUMANOIDS.2016.7803339&partnerID=40&md5=1d02b3489aaaad512b6e179ef5335db6
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Rasheed, N.
+AU  - Amin, S.H.M.
+AU  - Sultana, U.
+AU  - Bhatti, A.R.
+TI  - Hopfield Net spreading activation for grounding of abstract action words in cognitive robot
+PY  - 2017
+T2  - Biologically Inspired Cognitive Architectures
+VL  - 21
+SP  - 37
+EP  - 46
+DO  - 10.1016/j.bica.2017.07.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85023630090&doi=10.1016%2fj.bica.2017.07.004&partnerID=40&md5=58677eb12b8254af9438c2ad3a1b2333
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Ramesh, R.
+AU  - Tomar, M.
+AU  - Ravindran, B.
+TI  - Successor options: An option discovery framework for reinforcement learning
+PY  - 2019
+T2  - IJCAI International Joint Conference on Artificial Intelligence
+VL  - 2019-August
+SP  - 3304
+EP  - 3310
+DO  - 10.24963/ijcai.2019/458
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074902814&doi=10.24963%2fijcai.2019%2f458&partnerID=40&md5=45158af99b20b5034305bc235ca70394
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Haustein, J.A.
+AU  - King, J.
+AU  - Srinivasa, S.S.
+AU  - Asfour, T.
+TI  - Kinodynamic randomized rearrangement planning via dynamic transitions between statically stable states
+PY  - 2015
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2015-June
+IS  - June
+C7  - 7139621
+SP  - 3075
+EP  - 3082
+DO  - 10.1109/ICRA.2015.7139621
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84938244748&doi=10.1109%2fICRA.2015.7139621&partnerID=40&md5=f6aeda1eb0c89faf3e3b7d0388102e97
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 42
+ER  -
+
+TY  - JOUR
+AU  - Jeong, S.
+AU  - Arie, H.
+AU  - Lee, M.
+AU  - Tani, J.
+TI  - Neuro-robotics study on integrative learning of proactive visual attention and motor behaviors
+PY  - 2012
+T2  - Cognitive Neurodynamics
+VL  - 6
+IS  - 1
+SP  - 43
+EP  - 59
+DO  - 10.1007/s11571-011-9176-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84860834963&doi=10.1007%2fs11571-011-9176-7&partnerID=40&md5=c6e0f1c80febe6b9f2a22d2644f767a4
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Aksoy, E.E.
+AU  - Zhou, Y.
+AU  - Wächter, M.
+AU  - Asfour, T.
+TI  - Enriched manipulation action semantics for robot execution of time constrained tasks
+PY  - 2016
+T2  - IEEE-RAS International Conference on Humanoid Robots
+C7  - 7803262
+SP  - 109
+EP  - 116
+DO  - 10.1109/HUMANOIDS.2016.7803262
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85010217255&doi=10.1109%2fHUMANOIDS.2016.7803262&partnerID=40&md5=d5d31423924a54094c5e5fff109036c2
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Krüger, V.
+AU  - Kragic, D.
+TI  - Unsupervised learning of action primitives
+PY  - 2010
+T2  - 2010 10th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2010
+C7  - 5686309
+SP  - 554
+EP  - 559
+DO  - 10.1109/ICHR.2010.5686309
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79851504957&doi=10.1109%2fICHR.2010.5686309&partnerID=40&md5=5057146c9d2a649aac572f3820fb21d7
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Min, H.
+AU  - Yi, C.
+AU  - Luo, R.
+AU  - Bi, S.
+AU  - Shen, X.
+AU  - Yan, Y.
+TI  - Affordance Learning Based on Subtask's Optimal Strategy
+PY  - 2015
+T2  - International Journal of Advanced Robotic Systems
+VL  - 12
+IS  - 8
+C7  - 111
+DO  - 10.5772/61087
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84994518923&doi=10.5772%2f61087&partnerID=40&md5=92ce1f309e6b229b721dcc68c2a3f29c
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Jentzsch, S.
+AU  - Gaschler, A.
+AU  - Khatib, O.
+AU  - Knoll, A.
+TI  - MOPL: A multi-modal path planner for generic manipulation tasks
+PY  - 2015
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2015-December
+C7  - 7354263
+SP  - 6208
+EP  - 6214
+DO  - 10.1109/IROS.2015.7354263
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958211886&doi=10.1109%2fIROS.2015.7354263&partnerID=40&md5=165547b36e5b41af4e92db72f4a0acbd
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Fu, H.
+AU  - Tang, H.
+AU  - Hao, J.
+AU  - Liu, W.
+AU  - Chen, C.
+TI  - MGHRL: Meta Goal-Generation for Hierarchical Reinforcement Learning
+PY  - 2020
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 12547 LNAI
+SP  - 29
+EP  - 39
+DO  - 10.1007/978-3-030-64096-5_3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85097648976&doi=10.1007%2f978-3-030-64096-5_3&partnerID=40&md5=0c31661d18f044400429a9cf6ac0ec8a
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - She, L.
+AU  - Chai, J.Y.
+TI  - Interactive learning of grounded verb semantics towards human-robot communication
+PY  - 2017
+T2  - ACL 2017 - 55th Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference (Long Papers)
+VL  - 1
+SP  - 1634
+EP  - 1644
+DO  - 10.18653/v1/P17-1150
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040949491&doi=10.18653%2fv1%2fP17-1150&partnerID=40&md5=163147987ef86f142d2b3696a5ffbb7f
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 40
+ER  -
+
+TY  - CONF
+AU  - Kirsch, M.
+AU  - Mataré, V.
+AU  - Ferrein, A.
+AU  - Schiffer, S.
+TI  - Integrating golog++ and ROS for practical and portable high-level control
+PY  - 2020
+T2  - ICAART 2020 - Proceedings of the 12th International Conference on Agents and Artificial Intelligence
+VL  - 2
+SP  - 692
+EP  - 699
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083092677&partnerID=40&md5=5ea2f6ec6123816d7af3a1b4b352ae02
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Arie, H.
+AU  - Arakaki, T.
+AU  - Sugano, S.
+AU  - Tani, J.
+TI  - Imitating others by composition of primitive actions: A neuro-dynamic model
+PY  - 2012
+T2  - Robotics and Autonomous Systems
+VL  - 60
+IS  - 5
+SP  - 729
+EP  - 741
+DO  - 10.1016/j.robot.2011.11.005
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84858450869&doi=10.1016%2fj.robot.2011.11.005&partnerID=40&md5=c21291f4884f2d074af6ef3ea4c54774
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 23
+ER  -
+
+TY  - CONF
+AU  - Chibaya, C.
+TI  - A Message Passing XSet for Path Finding Robotic Devices
+PY  - 2019
+T2  - Proceedings - 2019 International Multidisciplinary Information Technology and Engineering Conference, IMITEC 2019
+C7  - 9015862
+DO  - 10.1109/IMITEC45504.2019.9015862
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081946808&doi=10.1109%2fIMITEC45504.2019.9015862&partnerID=40&md5=7d1ea3d1f9f45c724680c43b4cb4db82
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Allen, J.
+AU  - Anderson, J.
+AU  - Baltes, J.
+TI  - Imitation learning from humanoids in a heterogeneous setting
+PY  - 2010
+T2  - Communications in Computer and Information Science
+VL  - 103 CCIS
+SP  - 106
+EP  - 113
+DO  - 10.1007/978-3-642-15810-0_14
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78149260316&doi=10.1007%2f978-3-642-15810-0_14&partnerID=40&md5=0b96b4326e468f13001921318b617c21
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Maske, H.
+AU  - Kieson, E.
+AU  - Chowdhary, G.
+AU  - Abramson, C.
+TI  - Learning Task-Based Instructional Policy for Excavator-Like Robots
+PY  - 2018
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 8462923
+SP  - 1962
+EP  - 1969
+DO  - 10.1109/ICRA.2018.8462923
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063124703&doi=10.1109%2fICRA.2018.8462923&partnerID=40&md5=bdf82ed134880d5fc59fc3eec7a5a93b
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Baum, M.
+AU  - Brock, O.
+TI  - Achieving robustness by optimizing failure behavior
+PY  - 2017
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 7989681
+SP  - 5806
+EP  - 5811
+DO  - 10.1109/ICRA.2017.7989681
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027990350&doi=10.1109%2fICRA.2017.7989681&partnerID=40&md5=ea1e6fd9c987a402f5be4d2999eed2f4
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Paolillo, A.
+AU  - Gergondet, P.
+AU  - Cherubini, A.
+AU  - Vendittelli, M.
+AU  - Kheddar, A.
+TI  - Autonomous car driving by a humanoid robot
+PY  - 2018
+T2  - Journal of Field Robotics
+VL  - 35
+IS  - 2
+SP  - 169
+EP  - 186
+DO  - 10.1002/rob.21731
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021312707&doi=10.1002%2frob.21731&partnerID=40&md5=cdfe17e56ef1ba0ba969b11d57b2e044
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 24
+ER  -
+
+TY  - CHAP
+AU  - Dermy, O.
+AU  - Charpillet, F.
+AU  - Ivaldi, S.
+TI  - Multi-modal Intention Prediction with Probabilistic Movement Primitives
+PY  - 2019
+T2  - Springer Proceedings in Advanced Robotics
+VL  - 7
+SP  - 181
+EP  - 196
+DO  - 10.1007/978-3-319-89327-3_14
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107075790&doi=10.1007%2f978-3-319-89327-3_14&partnerID=40&md5=5f8d221a1ebe53eea484944479772790
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 15
+ER  -
+
+TY  - CONF
+AU  - Hosseini, B.
+AU  - Ahmadabadi, M.N.
+AU  - Araabi, B.N.
+TI  - Abstract concept learning approach based on behavioural feature extraction
+PY  - 2009
+T2  - 2009 International Conference on Computer and Electrical Engineering, ICCEE 2009
+VL  - 1
+C7  - 5380178
+SP  - 574
+EP  - 579
+DO  - 10.1109/ICCEE.2009.223
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77950499774&doi=10.1109%2fICCEE.2009.223&partnerID=40&md5=c7fad35a130ccf3541fd4285ae454af7
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Gizzi, E.
+AU  - Castro, M.G.
+AU  - Sinapov, J.
+TI  - Creative Problem Solving by Robots Using Action Primitive Discovery
+PY  - 2019
+T2  - 2019 Joint IEEE 9th International Conference on Development and Learning and Epigenetic Robotics, ICDL-EpiRob 2019
+C7  - 8850711
+SP  - 228
+EP  - 233
+DO  - 10.1109/DEVLRN.2019.8850711
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85073694173&doi=10.1109%2fDEVLRN.2019.8850711&partnerID=40&md5=b0bd9f7cec56da653b1fc7f906a15c1d
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Lea, C.
+AU  - Vidal, R.
+AU  - Hager, G.D.
+TI  - Learning convolutional action primitives for fine-grained action recognition
+PY  - 2016
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2016-June
+C7  - 7487305
+SP  - 1642
+EP  - 1649
+DO  - 10.1109/ICRA.2016.7487305
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84977479301&doi=10.1109%2fICRA.2016.7487305&partnerID=40&md5=2095c259bfd806c7ff303410b98195bb
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 96
+ER  -
+
+TY  - CONF
+AU  - Nagata, K.
+AU  - Yamanobe, N.
+TI  - Picking up a towel by cooperation of functional finger actions
+PY  - 2009
+T2  - 2009 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2009
+C7  - 5354783
+SP  - 1785
+EP  - 1790
+DO  - 10.1109/IROS.2009.5354783
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-76249110212&doi=10.1109%2fIROS.2009.5354783&partnerID=40&md5=687ea9c2a70ce4e5aaff0cd7ee28649a
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Figueroa, N.
+AU  - Ureche, A.L.P.
+AU  - Billard, A.
+TI  - Learning complex sequential tasks from demonstration: A pizza dough rolling case study
+PY  - 2016
+T2  - ACM/IEEE International Conference on Human-Robot Interaction
+VL  - 2016-April
+C7  - 7451881
+SP  - 611
+EP  - 612
+DO  - 10.1109/HRI.2016.7451881
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964834390&doi=10.1109%2fHRI.2016.7451881&partnerID=40&md5=1fd8b84275e91fb3ab744baf281a601c
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 44
+ER  -
+
+TY  - CONF
+AU  - Gori, I.
+AU  - Fanello, S.R.
+AU  - Odone, F.
+AU  - Metta, G.
+TI  - A compositional approach for 3D arm-hand action recognition
+PY  - 2013
+T2  - 2013 IEEE Workshop on Robot Vision, WORV 2013
+C7  - 6521926
+SP  - 126
+EP  - 131
+DO  - 10.1109/WORV.2013.6521926
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84880302649&doi=10.1109%2fWORV.2013.6521926&partnerID=40&md5=71d20387e161961ec8e04f8c8fe8fcb3
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Queiber, J.F.
+AU  - Hammer, B.
+AU  - Ishihara, H.
+AU  - Asada, M.
+AU  - Steil, J.J.
+TI  - Skill memories for parameterized dynamic action primitives on the pneumatically driven humanoid robot child affetto
+PY  - 2018
+T2  - 2018 Joint IEEE 8th International Conference on Development and Learning and Epigenetic Robotics, ICDL-EpiRob 2018
+C7  - 8761040
+SP  - 39
+EP  - 45
+DO  - 10.1109/DEVLRN.2018.8761040
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070414019&doi=10.1109%2fDEVLRN.2018.8761040&partnerID=40&md5=3319dc886e4f68da2ae029b4b18a103a
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Park, H.W.
+TI  - Task-learning policies for collaborative task solving in human-robot interaction
+PY  - 2012
+T2  - ICMI'12 - Proceedings of the ACM International Conference on Multimodal Interaction
+SP  - 341
+EP  - 344
+DO  - 10.1145/2388676.2388752
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870177633&doi=10.1145%2f2388676.2388752&partnerID=40&md5=2d48d0ea5db686da06d87fca9cdc6bbd
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Shim, J.
+AU  - Thomaz, A.L.
+TI  - Human-like action segmentation for option learning
+PY  - 2011
+T2  - Proceedings - IEEE International Workshop on Robot and Human Interactive Communication
+C7  - 6005277
+SP  - 455
+EP  - 460
+DO  - 10.1109/ROMAN.2011.6005277
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80052997019&doi=10.1109%2fROMAN.2011.6005277&partnerID=40&md5=802d26f7b7105022a1d474e663dfd979
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Pirk, S.
+AU  - Hausman, K.
+AU  - Toshev, A.
+AU  - Khansari, M.
+TI  - Modeling Long-horizon Tasks as Sequential Interaction Landscapes
+PY  - 2020
+T2  - Proceedings of Machine Learning Research
+VL  - 155
+SP  - 471
+EP  - 484
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85175846870&partnerID=40&md5=76fe3679d0e5409788da5e12a2ae5145
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Fanello, S.R.F.
+AU  - Gori, I.
+AU  - Pirri, F.
+TI  - Arm-hand behaviours modelling: From attention to imitation
+PY  - 2010
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 6454 LNCS
+IS  - PART 2
+SP  - 616
+EP  - 627
+DO  - 10.1007/978-3-642-17274-8_60
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-78650761803&doi=10.1007%2f978-3-642-17274-8_60&partnerID=40&md5=18fd1bc1ac8ec58fee21e24964b6c164
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - López, J.
+AU  - Pérez, D.
+AU  - Zalama, E.
+TI  - A framework for building mobile single and multi-robot applications
+PY  - 2011
+T2  - Robotics and Autonomous Systems
+VL  - 59
+IS  - 3-4
+SP  - 151
+EP  - 162
+DO  - 10.1016/j.robot.2011.01.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79952039940&doi=10.1016%2fj.robot.2011.01.004&partnerID=40&md5=6ce4e032a34f17b4ed718a755602f719
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 40
+ER  -
+
+TY  - CONF
+AU  - Zhou, S.
+AU  - Liao, Y.
+TI  - Planning with sensing actions and individual knowledge of agent
+PY  - 2009
+T2  - Proceedings - 2009 International Conference on Information Engineering and Computer Science, ICIECS 2009
+C7  - 5363770
+DO  - 10.1109/ICIECS.2009.5363770
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-77949631637&doi=10.1109%2fICIECS.2009.5363770&partnerID=40&md5=a8c308d7e58d35ea95998331fe202a0c
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Vo, N.N.
+AU  - Bobick, A.F.
+TI  - From stochastic grammar to bayes network: Probabilistic parsing of complex activity
+PY  - 2014
+T2  - Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+C7  - 6909734
+SP  - 2641
+EP  - 2648
+DO  - 10.1109/CVPR.2014.338
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84911418323&doi=10.1109%2fCVPR.2014.338&partnerID=40&md5=6ce25d9a8d68f0b830fa72d538a757ba
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 69
+ER  -
+
+TY  - JOUR
+AU  - Wu, Y.
+AU  - Su, Y.
+AU  - Demiris, Y.
+TI  - A morphable template framework for robot learning by demonstration: Integrating one-shot and incremental learning approaches
+PY  - 2014
+T2  - Robotics and Autonomous Systems
+VL  - 62
+IS  - 10
+SP  - 1517
+EP  - 1530
+DO  - 10.1016/j.robot.2014.05.010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906310152&doi=10.1016%2fj.robot.2014.05.010&partnerID=40&md5=58fd365b040df8d56c511e475659b147
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 20
+ER  -
+
+TY  - JOUR
+AU  - Liu, H.
+AU  - Qian, K.
+AU  - Gui, B.
+AU  - Ma, X.
+TI  - Task Generalization of Robots Based on Parameterized Learning of Multi-demonstration Action Primitives
+ST  - 基于多演示动作基元参数化学习的机器人任务泛化
+PY  - 2019
+T2  - Jiqiren/Robot
+VL  - 41
+IS  - 5
+SP  - 574
+EP  - 582
+DO  - 10.13973/j.cnki.robot.180805
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074343460&doi=10.13973%2fj.cnki.robot.180805&partnerID=40&md5=8262673b477123dc1a0fa4c96266851f
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Saegusa, R.
+AU  - Metta, G.
+AU  - Sandini, G.
+AU  - Natale, L.
+TI  - Developmental action perception for manipulative interaction
+PY  - 2013
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 6631287
+SP  - 4967
+EP  - 4972
+DO  - 10.1109/ICRA.2013.6631287
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84887308441&doi=10.1109%2fICRA.2013.6631287&partnerID=40&md5=a2f08f1e952a3ca14c131728b10d18c8
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Stramandinoli, F.
+AU  - Cangelosi, A.
+AU  - Marocco, D.
+TI  - Towards the grounding of abstract words: A Neural Network model for cognitive robots
+PY  - 2011
+T2  - Proceedings of the International Joint Conference on Neural Networks
+C7  - 6033258
+SP  - 467
+EP  - 474
+DO  - 10.1109/IJCNN.2011.6033258
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-80054760395&doi=10.1109%2fIJCNN.2011.6033258&partnerID=40&md5=ca4c4ab9387d215889a48d7f71af9281
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - He, R.
+AU  - Brunskill, E.
+AU  - Roy, N.
+TI  - Efficient planning under uncertainty with macro-actions
+PY  - 2011
+T2  - Journal of Artificial Intelligence Research
+VL  - 40
+SP  - 523
+EP  - 570
+DO  - 10.1613/jair.3171
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79956361567&doi=10.1613%2fjair.3171&partnerID=40&md5=15858bbfea0bd979c358257262b03572
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 66
+ER  -
+
+TY  - JOUR
+AU  - Stramandinoli, F.
+AU  - Marocco, D.
+AU  - Cangelosi, A.
+TI  - The grounding of higher order concepts in action and language: A cognitive robotics model
+PY  - 2012
+T2  - Neural Networks
+VL  - 32
+SP  - 165
+EP  - 173
+DO  - 10.1016/j.neunet.2012.02.012
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84861766092&doi=10.1016%2fj.neunet.2012.02.012&partnerID=40&md5=0b4b9286098e9976b61cc71d3a556f3f
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 41
+ER  -
+
+TY  - CONF
+AU  - Ji, Z.
+AU  - Qiu, R.
+AU  - Noyvirt, A.
+AU  - Soroka, A.
+AU  - Packianather, M.
+AU  - Setchi, R.
+AU  - Li, D.
+AU  - Xu, S.
+TI  - Towards automated task planning for service robots using semantic knowledge representation
+PY  - 2012
+T2  - IEEE International Conference on Industrial Informatics (INDIN)
+C7  - 6301131
+SP  - 1194
+EP  - 1201
+DO  - 10.1109/INDIN.2012.6301131
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84868232745&doi=10.1109%2fINDIN.2012.6301131&partnerID=40&md5=c5f50b3449e6140377295ac7cd3c4566
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 17
+ER  -
+
+TY  - CONF
+AU  - Mohseni-Kabir, A.
+AU  - Chernova, S.
+AU  - Rich, C.
+TI  - Identifying reusable primitives in narrated demonstrations
+PY  - 2016
+T2  - ACM/IEEE International Conference on Human-Robot Interaction
+VL  - 2016-April
+C7  - 7451815
+SP  - 479
+EP  - 480
+DO  - 10.1109/HRI.2016.7451815
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84964799728&doi=10.1109%2fHRI.2016.7451815&partnerID=40&md5=5d45e1ee073504872ce98eed3799db83
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Bacon, P.-L.
+AU  - Balle, B.
+AU  - Precup, D.
+TI  - Learning and planning with timing information in Markov decision processes
+PY  - 2015
+T2  - Uncertainty in Artificial Intelligence - Proceedings of the 31st Conference, UAI 2015
+SP  - 111
+EP  - 120
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84983135325&partnerID=40&md5=cdf3c94b32edb5d63363dca82bab7b32
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Border, B.
+AU  - Russell, R.A.
+TI  - Novelty based learning of primitive manipulation strategies
+PY  - 2012
+T2  - Australasian Conference on Robotics and Automation, ACRA
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84879894905&partnerID=40&md5=2b0f0695e45c1971b0d3c732c6fc82e6
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CHAP
+AU  - Bai, S.
+AU  - Wang, J.
+AU  - Doherty, K.
+AU  - Englot, B.
+TI  - Inference-Enabled Information-Theoretic Exploration of Continuous Action Spaces
+PY  - 2018
+T2  - Springer Proceedings in Advanced Robotics
+VL  - 3
+SP  - 419
+EP  - 433
+DO  - 10.1007/978-3-319-60916-4_24
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107077551&doi=10.1007%2f978-3-319-60916-4_24&partnerID=40&md5=cd1a018c2ee4a853ef06422d4925f472
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Ye, X.
+AU  - Lin, Z.
+AU  - Yang, Y.
+TI  - Robot learning of manipulation activities with overall planning through precedence graph
+PY  - 2019
+T2  - Robotics and Autonomous Systems
+VL  - 116
+SP  - 126
+EP  - 135
+DO  - 10.1016/j.robot.2019.03.011
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063732707&doi=10.1016%2fj.robot.2019.03.011&partnerID=40&md5=8fe0a66897c7b8570525fba02dda1a9d
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Grigore, E.C.
+AU  - Scassellati, B.
+TI  - Discovering action primitive granularity from human motion for human-robot collaboration
+PY  - 2017
+T2  - Robotics: Science and Systems
+VL  - 13
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85048752493&partnerID=40&md5=39de438e8c6fa1c55a50dee1b80672d6
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Patel, M.
+AU  - Miro, J.V.
+AU  - Kragic, D.
+AU  - Ek, C.H.
+AU  - Dissanayake, G.
+TI  - Learning object, grasping and manipulation activities using hierarchical HMMs
+PY  - 2014
+T2  - Autonomous Robots
+VL  - 37
+IS  - 3
+SP  - 317
+EP  - 331
+DO  - 10.1007/s10514-014-9392-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84905755829&doi=10.1007%2fs10514-014-9392-1&partnerID=40&md5=8953b0544d14d99c8ee7d35029025247
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 15
+ER  -
+
+TY  - CONF
+AU  - Paolillo, A.
+AU  - Cherubini, A.
+AU  - Keith, F.
+AU  - Kheddar, A.
+AU  - Vendittelli, M.
+TI  - Toward autonomous car driving by a humanoid robot: A sensor-based framework
+PY  - 2015
+T2  - IEEE-RAS International Conference on Humanoid Robots
+VL  - 2015-February
+C7  - 7041400
+SP  - 451
+EP  - 456
+DO  - 10.1109/HUMANOIDS.2014.7041400
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945195241&doi=10.1109%2fHUMANOIDS.2014.7041400&partnerID=40&md5=6a30039bfbd5638149253048489ff818
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 9
+ER  -
+
+TY  - CONF
+AU  - Wang, Z.
+AU  - Garrett, C.R.
+AU  - Kaelbling, L.P.
+AU  - Lozano-Perez, T.
+TI  - Active Model Learning and Diverse Action Sampling for Task and Motion Planning
+PY  - 2018
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 8594027
+SP  - 4107
+EP  - 4114
+DO  - 10.1109/IROS.2018.8594027
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85062993019&doi=10.1109%2fIROS.2018.8594027&partnerID=40&md5=af8d49ca910b06c7c11023e46a250d6e
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 51
+ER  -
+
+TY  - CONF
+AU  - Gao, M.
+AU  - Zollner, J.M.
+TI  - Local contextual trajectory estimation with demonstration for assisting mobile robot teleoperation
+PY  - 2017
+T2  - 2017 European Conference on Mobile Robots, ECMR 2017
+C7  - 8098654
+DO  - 10.1109/ECMR.2017.8098654
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85040709723&doi=10.1109%2fECMR.2017.8098654&partnerID=40&md5=12cbbe6c14f5d6f427a0bb75a6efacfc
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Shah, A.
+AU  - Blumberg, L.
+AU  - Shah, J.
+TI  - Planning for Manipulation of Interlinked Deformable Linear Objects with Applications to Aircraft Assembly
+PY  - 2018
+T2  - IEEE Transactions on Automation Science and Engineering
+VL  - 15
+IS  - 4
+C7  - 8329015
+SP  - 1823
+EP  - 1838
+DO  - 10.1109/TASE.2018.2811626
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85044740876&doi=10.1109%2fTASE.2018.2811626&partnerID=40&md5=ef5e3daebdfd14db09c9a7bb88cdd29c
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 31
+ER  -
+
+TY  - CONF
+AU  - Gholami, A.
+AU  - Bigham, B.S.
+TI  - A learned soccer goalkeeper Petri net model
+PY  - 2017
+T2  - 7th Conference on Artificial Intelligence and Robotics, IRANOPEN 2017
+C7  - 7956451
+SP  - 102
+EP  - 108
+DO  - 10.1109/RIOS.2017.7956451
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85025615435&doi=10.1109%2fRIOS.2017.7956451&partnerID=40&md5=d66aac66e3b6923a6345d51eb46646e7
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Xiao, Y.
+AU  - Hoffman, J.
+AU  - Amato, C.
+TI  - Macro-Action-Based Deep Multi-Agent Reinforcement Learning
+PY  - 2019
+T2  - Proceedings of Machine Learning Research
+VL  - 100
+SP  - 1146
+EP  - 1161
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160851693&partnerID=40&md5=ea5c93d482560f89fc322ae69b07bc95
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 17
+ER  -
+
+TY  - CONF
+AU  - Cowley, A.
+AU  - Taylor, C.J.
+TI  - Towards language-based verification of robot behaviors
+PY  - 2011
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 6048677
+SP  - 4776
+EP  - 4782
+DO  - 10.1109/IROS.2011.6048677
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84455192598&doi=10.1109%2fIROS.2011.6048677&partnerID=40&md5=ca909d3698acfe992f29f061667788e4
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Chibaya, C.
+TI  - Vector based control routines for swarms of path finding robotic devices
+PY  - 2020
+T2  - ICINCO 2020 - Proceedings of the 17th International Conference on Informatics in Control, Automation and Robotics
+SP  - 272
+EP  - 283
+DO  - 10.5220/0009780802720283
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090388521&doi=10.5220%2f0009780802720283&partnerID=40&md5=363a4eab4ddf217e998c3b0019325425
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Sutherland, A.
+AU  - Bensch, S.
+AU  - Hellström, T.
+TI  - Inferring robot actions from verbal commands using shallow semantic parsing
+PY  - 2019
+T2  - Proceedings of the 2015 International Conference on Artificial Intelligence, ICAI 2015 - WORLDCOMP 2015
+SP  - 28
+EP  - 34
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050674091&partnerID=40&md5=6b6b0f709d5e0c64d48df6d40308150d
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Großekathöfer, U.
+AU  - Barchunova, A.
+AU  - Haschke, R.
+AU  - Hermann, T.
+AU  - Franzius, M.
+AU  - Ritter, H.
+TI  - Learning of object manipulation operations from continuous multimodal input
+PY  - 2011
+T2  - IEEE-RAS International Conference on Humanoid Robots
+C7  - 6100880
+SP  - 507
+EP  - 512
+DO  - 10.1109/Humanoids.2011.6100880
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856324816&doi=10.1109%2fHumanoids.2011.6100880&partnerID=40&md5=fbff87ae890c95d164d44f2b9efffee4
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Djezairi, S.
+AU  - Razika, B.Z.
+AU  - Akli, I.
+AU  - Bouzouia, B.
+TI  - Layered task planning for mobile manipulators
+PY  - 2019
+T2  - Computers and Electrical Engineering
+VL  - 79
+C7  - 106464
+DO  - 10.1016/j.compeleceng.2019.106464
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072521686&doi=10.1016%2fj.compeleceng.2019.106464&partnerID=40&md5=7f429582defb382c20d5a7a62c32f067
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Patel, M.
+AU  - Ek, C.H.
+AU  - Kyriazis, N.
+AU  - Argyros, A.
+AU  - Miro, J.V.
+AU  - Kragic, D.
+TI  - Language for learning complex human-object interactions
+PY  - 2013
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 6631291
+SP  - 4997
+EP  - 5002
+DO  - 10.1109/ICRA.2013.6631291
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84887282395&doi=10.1109%2fICRA.2013.6631291&partnerID=40&md5=a3bd43973bfc54f30543f2e7b3fd87a8
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Riley, M.
+AU  - Cheng, G.
+TI  - Extracting and generalizing primitive actions from sparse demonstration
+PY  - 2011
+T2  - IEEE-RAS International Conference on Humanoid Robots
+C7  - 6100868
+SP  - 630
+EP  - 635
+DO  - 10.1109/Humanoids.2011.6100868
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856333350&doi=10.1109%2fHumanoids.2011.6100868&partnerID=40&md5=2173c2bd1b890eb5de7e5be4a607e315
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Clark, K.L.
+AU  - Robinson, P.J.
+TI  - Concurrent task programming of robotic agents in TeleoR
+PY  - 2017
+T2  - CEUR Workshop Proceedings
+VL  - 1875
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85027848582&partnerID=40&md5=b09757ba47baf0228cbf4c3162e5730e
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Mesa, E.M.R.
+AU  - Hernandez-Riveros, J.-A.
+TI  - Handling the Transition in the Locomotion of an Articulated Quadruped Robot by Adaptive CPG
+PY  - 2020
+T2  - IAENG International Journal of Computer Science
+VL  - 47
+IS  - 4
+SP  - 1
+EP  - 13
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102400943&partnerID=40&md5=b3d035af336209db23769321ee634907
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Goo, W.
+AU  - Niekum, S.
+TI  - One-shot learning of multi-step tasks from observation via activity localization in auxiliary video
+PY  - 2019
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 8793515
+SP  - 7755
+EP  - 7761
+DO  - 10.1109/ICRA.2019.8793515
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85071495204&doi=10.1109%2fICRA.2019.8793515&partnerID=40&md5=f28f7949185652c22964599f74077a5a
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 20
+ER  -
+
+TY  - CONF
+AU  - Cruz, A.B.
+AU  - Radke, M.
+AU  - Haninger, K.
+AU  - Krüger, J.
+TI  - How can the programming of impedance control be simplified?
+PY  - 2020
+T2  - Procedia CIRP
+VL  - 97
+SP  - 266
+EP  - 271
+DO  - 10.1016/j.procir.2020.05.236
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85100857196&doi=10.1016%2fj.procir.2020.05.236&partnerID=40&md5=df5cf1b83a851a47b6dab38557ac89f5
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Nii, M.
+AU  - Nakai, K.
+AU  - Takahashi, Y.
+TI  - Extraction of human behavior from human activity monitoring data using MEMS sensors
+PY  - 2011
+T2  - IEEE SSCI 2011: Symposium Series on Computational Intelligence - RIISS 2011: 2011 IEEE Workshop on Robotic Intelligence in Informationally Structured Space
+C7  - 5945784
+SP  - 7
+EP  - 11
+DO  - 10.1109/RIISS.2011.5945784
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-79961228427&doi=10.1109%2fRIISS.2011.5945784&partnerID=40&md5=f455520b1c1cb64327ddab741b6490a0
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Ahad, M.A.R.
+AU  - Tan, J.K.
+AU  - Kim, H.S.
+AU  - Ishikawa, S.
+TI  - Temporal motion recognition and segmentation approach
+PY  - 2009
+T2  - International Journal of Imaging Systems and Technology
+VL  - 19
+IS  - 2
+SP  - 91
+EP  - 99
+DO  - 10.1002/ima.20183
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67049087749&doi=10.1002%2fima.20183&partnerID=40&md5=2ba0b020b216b00b575561b3fef9f73a
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 25
+ER  -
+
+TY  - CONF
+AU  - Nagatani, K.
+AU  - Tanaka, Y.
+TI  - Motion design for autonomous mobile manipulator based on programming style "action primitive"
+PY  - 2000
+T2  - IECON Proceedings (Industrial Electronics Conference)
+VL  - 1
+C7  - 973183
+SP  - 399
+EP  - 404
+DO  - 10.1109/IECON.2000.973183
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84969160327&doi=10.1109%2fIECON.2000.973183&partnerID=40&md5=e66584db1cea195d03af931cb2c6a3ef
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Omrčen, D.
+AU  - Ude, A.
+AU  - Kos, A.
+TI  - Learning primitive actions through object exploration
+PY  - 2008
+T2  - 2008 8th IEEE-RAS International Conference on Humanoid Robots, Humanoids 2008
+C7  - 4755978
+SP  - 306
+EP  - 311
+DO  - 10.1109/ICHR.2008.4755978
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-63549114503&doi=10.1109%2fICHR.2008.4755978&partnerID=40&md5=3c9e3da5f694c12518a1c7fdfba6a849
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Pierce, David
+TI  - Learning turn and travel actions with an uninterpreted sensorimotor apparatus
+PY  - 1991
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 1
+SP  - 246
+EP  - 251
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0025797882&partnerID=40&md5=4d7d03131e60cabea325120cc19c5f69
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Branicky, Michael S.
+AU  - Zhang, Gang
+TI  - Solving hybrid control problems: level sets and behavioral programming
+PY  - 2000
+T2  - Proceedings of the American Control Conference
+VL  - 2
+SP  - 1175
+EP  - 1180
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034546592&partnerID=40&md5=0af0c36718c135c3bd434eb970a4ee58
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Costelha, H.
+AU  - Lima, P.
+TI  - Modelling, analysis and execution of multi-robot tasks using Petri nets
+PY  - 2008
+T2  - Proceedings of the International Joint Conference on Autonomous Agents and Multiagent Systems, AAMAS
+VL  - 2
+SP  - 1165
+EP  - 1168
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84899927781&partnerID=40&md5=75d8807626c2a3cef062a8fc1223e114
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Santos-Victor, J.
+AU  - Vassallo, R.
+AU  - Schneebeli, H.
+TI  - Topological maps for visual navigation?
+PY  - 1999
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 1542
+SP  - 21
+EP  - 36
+DO  - 10.1007/3-540-49256-9_2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84958648465&doi=10.1007%2f3-540-49256-9_2&partnerID=40&md5=3c78536d99bea3a1894800ef32530cc6
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Noda, S.
+TI  - Purposive behavior acquisition for a real robot by vision-based reinforcement learning
+PY  - 1996
+T2  - Machine Learning
+VL  - 23
+IS  - 2-3
+SP  - 279
+EP  - 303
+DO  - 10.1007/bf00117447
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0030149709&doi=10.1007%2fbf00117447&partnerID=40&md5=045b992e4b951c7aed82a1f04bd16dfe
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 188
+ER  -
+
+TY  - JOUR
+AU  - De Giacomo, G.
+AU  - Lespérance, Y.
+AU  - Levesque, H.J.
+TI  - ConGolog, a concurrent programming language based on the situation calculus
+PY  - 2000
+T2  - Artificial Intelligence
+VL  - 121
+IS  - 1
+SP  - 109
+EP  - 169
+DO  - 10.1016/S0004-3702(00)00031-X
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0342520920&doi=10.1016%2fS0004-3702%2800%2900031-X&partnerID=40&md5=7ad813c8e708cf76854a04f9b96dd54f
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 374
+ER  -
+
+TY  - CONF
+AU  - Choi, T.A.
+TI  - Scenario based robot programming
+PY  - 2006
+T2  - Proceedings of the IASTED International Conference on Robotics and Applications
+SP  - 55
+EP  - 60
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-54949098509&partnerID=40&md5=b1bb3c2e105b02eaa1eb05b79c41a0e4
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Jakopac, David E.
+TI  - ROBOT PROGRAMMING ASSISTANT: A NEW APPROACH TO ASSEMBLY ROBOT PROGRAMMING.
+PY  - 1983
+SP  - 52
+EP  - 57
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0020861528&partnerID=40&md5=751b1a755a2b2be9dabca745f3b576e9
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Baldassarre, G.
+TI  - Coarse planning for landmark navigation in a neural-network reinforcement-learning robot
+PY  - 2001
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 4
+SP  - 2398
+EP  - 2403
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0035559797&partnerID=40&md5=ae92a0aa30c2e1ff86fb6a2704f956e0
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CHAP
+AU  - Koh, N.W.
+AU  - Ang, M.H.
+AU  - Lim, S.Y.
+TI  - Robotic Tasks Using Discrete Event Controller
+PY  - 2007
+T2  - Mechatronic Systems: Devices, Design, Control, Operation and Monitoring
+SP  - 15
+EP  - 1
+DO  - 10.1201/9780849307768-15
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178625508&doi=10.1201%2f9780849307768-15&partnerID=40&md5=3a52fa7b563483cbd13c05958cad0b27
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Ekvall, S.
+AU  - Aarno, D.
+AU  - Kragic, D.
+TI  - Task learning using graphical programming and human demonstrations
+PY  - 2006
+T2  - Proceedings - IEEE International Workshop on Robot and Human Interactive Communication
+C7  - 4107840
+SP  - 398
+EP  - 403
+DO  - 10.1109/ROMAN.2006.314466
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-48349108599&doi=10.1109%2fROMAN.2006.314466&partnerID=40&md5=44f19ef7ca4d6fb812fb29a2c8ec4283
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Martinson, E.
+AU  - Stoytchev, A.
+AU  - Arkin, R.
+TI  - Robot behavioral selection using Q-learning
+PY  - 2002
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 1
+SP  - 970
+EP  - 977
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036452535&partnerID=40&md5=0e7f1ec529ddc0feb9e7921715020f63
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 24
+ER  -
+
+TY  - JOUR
+AU  - Vicente, I.S.
+AU  - Kyrki, V.
+AU  - Kragic, D.
+AU  - Larsson, M.
+TI  - Action recognition and understanding through motor primitives
+PY  - 2007
+T2  - Advanced Robotics
+VL  - 21
+IS  - 15
+SP  - 1687
+EP  - 1707
+DO  - 10.1163/156855307782506156
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-36148938370&doi=10.1163%2f156855307782506156&partnerID=40&md5=a05a58bb8c3ac9a383646ab28137f927
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 23
+ER  -
+
+TY  - CONF
+AU  - Medromi, H.
+AU  - Zaafrani, E.
+AU  - Deckneuvel, E.
+AU  - El Hassani, A.
+AU  - Thomas, M.C.
+TI  - Intelligent control architecture for mobile robot based on fusion methods
+PY  - 1997
+T2  - IEEE International Symposium on Industrial Electronics
+VL  - 2
+SP  - 691
+EP  - 696
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0031355941&partnerID=40&md5=7232a239d9a06365753a7cef134e62af
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Aylett, R.S.
+AU  - Fish, A.N.
+AU  - Bartrum, S.R.
+TI  - Task planning in an uncertain world
+PY  - 1991
+T2  - IEE Conference Publication
+VL  - 2
+IS  - 332
+SP  - 801
+EP  - 806
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0025721544&partnerID=40&md5=2d36b9ead7db6d3868e8f6608da3e8e7
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Albus, J.S.
+AU  - Barbera, A.J.
+AU  - Fitzgerald, M.L.
+TI  - Sensor robotics in the national bureau of standards
+PY  - 1983
+T2  - Proceedings of SPIE - The International Society for Optical Engineering
+VL  - 360
+SP  - 14
+EP  - 21
+DO  - 10.1117/12.934079
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0020504416&doi=10.1117%2f12.934079&partnerID=40&md5=ec112e0e6dcf3ddd2fb95518db1a648f
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Aydemir, D.
+AU  - Iba, H.
+TI  - Evolutionary behavior acquisition for humanoid robots
+PY  - 2006
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 4193 LNCS
+SP  - 651
+EP  - 660
+DO  - 10.1007/11844297_66
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33750282115&doi=10.1007%2f11844297_66&partnerID=40&md5=5b7da41f54f4caac538828b753dae8bf
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Asada, Minoru
+AU  - Noda, Shoichi
+AU  - Hosoda, Koh
+TI  - Action-based sensor space categorization for robot learning
+PY  - 1996
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 3
+SP  - 1502
+EP  - 1509
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0030380251&partnerID=40&md5=7986285b74a9311f66801152364fe66d
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 47
+ER  -
+
+TY  - CONF
+AU  - Fernández, J.L.
+AU  - Sanz, R.
+AU  - Paz, E.
+AU  - Alonso, C.
+TI  - Using hierarchical binary Petri nets to build robust mobile robot applications: RoboGraph
+PY  - 2008
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 4543394
+SP  - 1372
+EP  - 1377
+DO  - 10.1109/ROBOT.2008.4543394
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-51649100617&doi=10.1109%2fROBOT.2008.4543394&partnerID=40&md5=dbd94e42930f8300faeaad98ff0db3d8
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 23
+ER  -
+
+TY  - JOUR
+AU  - Su, S.-F.
+AU  - Lee, C.S.G.
+TI  - Manipulation and Propagation of Uncertainty and Verification of Applicability of Actions in Assembly Tasks
+PY  - 1992
+T2  - IEEE Transactions on Systems, Man and Cybernetics
+VL  - 22
+IS  - 6
+SP  - 1376
+EP  - 1389
+DO  - 10.1109/21.199463
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0026945383&doi=10.1109%2f21.199463&partnerID=40&md5=ce32c036e5f0745203da65735c1108df
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 52
+ER  -
+
+TY  - CONF
+AU  - Lim, H.
+AU  - Kang, Y.
+AU  - Lee, J.
+AU  - Kim, J.
+AU  - You, B.-J.
+TI  - Multiple humanoid cooperative control system for heterogeneous humanoid team
+PY  - 2008
+T2  - Proceedings of the 17th IEEE International Symposium on Robot and Human Interactive Communication, RO-MAN
+C7  - 4600671
+SP  - 231
+EP  - 236
+DO  - 10.1109/ROMAN.2008.4600671
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-52949115689&doi=10.1109%2fROMAN.2008.4600671&partnerID=40&md5=2fadbc3312d34506ca790ce043e33ea2
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Erdmann, M.
+TI  - Randomization for robot tasks: Using dynamic programming in the space of knowledge states
+PY  - 1993
+T2  - Algorithmica
+VL  - 10
+IS  - 2-4
+SP  - 248
+EP  - 291
+DO  - 10.1007/BF01891842
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0002142387&doi=10.1007%2fBF01891842&partnerID=40&md5=9de9f04aa42735772b7813bb4c9ba134
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Snead, Doug
+AU  - Roach, John
+TI  - LISP-BASED ROBOT CONTROL SYSTEM.
+PY  - 1984
+T2  - Robotics age
+VL  - 6
+IS  - 11
+SP  - 8
+EP  - 12
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0021530431&partnerID=40&md5=691d3a877e645adcec81c5e97beaaf55
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Martínez, D.
+AU  - Kragic, D.
+TI  - Modeling and recognition of actions through motor primitives
+PY  - 2008
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 4543446
+SP  - 1704
+EP  - 1709
+DO  - 10.1109/ROBOT.2008.4543446
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-51649098561&doi=10.1109%2fROBOT.2008.4543446&partnerID=40&md5=0c71dc86052fafeaef8073f432894fe3
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 14
+ER  -
+
+TY  - CONF
+AU  - Davis, William S.
+TI  - Robotic task planning: Independent of agents but dependent on time
+PY  - 1989
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 691
+EP  - 692
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0024861271&partnerID=40&md5=2d3e8d24fce33ec322380c16df4b6cd6
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Li, Z.
+AU  - Fritsch, J.
+AU  - Wachsmuth, S.
+AU  - Sagerer, G.
+TI  - An object-oriented approach using a top-down and bottom-up process for manipulative action recognition
+PY  - 2006
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 4174 LNCS
+SP  - 212
+EP  - 221
+DO  - 10.1007/11861898_22
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33750260463&doi=10.1007%2f11861898_22&partnerID=40&md5=a95e9b72d04dbfe255af6d20144adffc
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Katz, Edward P.
+TI  - Simplifying diagrammatic representation of crisp and fuzzy Teleo-Reactive semantic circuitry for application in robotic agent task control
+PY  - 1998
+T2  - Proceedings of the IEEE International Conference on Systems, Man and Cybernetics
+VL  - 3
+SP  - 2120
+EP  - 2125
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032310380&partnerID=40&md5=0b038310ba0eaef36c2505c3695d4e37
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Yasuda, G.
+AU  - Tachibana, K.
+TI  - A parallel distributed control architecture for multiple robot systems using a network of microcomputers
+PY  - 1994
+T2  - Computers and Industrial Engineering
+VL  - 27
+IS  - 1-4
+SP  - 63
+EP  - 66
+DO  - 10.1016/0360-8352(94)90238-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0028510954&doi=10.1016%2f0360-8352%2894%2990238-0&partnerID=40&md5=8d3fe17ee445c23d7904fbc0459e1306
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Kemke, C.
+TI  - Natural language communication between human and artificial agents
+PY  - 2006
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 4088 LNAI
+SP  - 84
+EP  - 93
+DO  - 10.1007/11802372_11
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33746805058&doi=10.1007%2f11802372_11&partnerID=40&md5=889b8d8e599367590facc5868fa2b056
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Pierce, D.
+TI  - Learning a Set of Primitive Actions with an Uninterpreted Sensorimotor Apparatus
+PY  - 1991
+T2  - Proceedings of the 8th International Workshop on Machine Learning, ICML 1991
+SP  - 338
+EP  - 342
+DO  - 10.1016/B978-1-55860-200-7.50070-2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-43449102146&doi=10.1016%2fB978-1-55860-200-7.50070-2&partnerID=40&md5=4f0ba02f49faf2471ab0eda4dde1923f
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Hwang, K.-S.
+AU  - Lo, C.-Y.
+AU  - Liu, W.-L.
+TI  - A modular agent architecture for an autonomous robot
+PY  - 2009
+T2  - IEEE Transactions on Instrumentation and Measurement
+VL  - 58
+IS  - 8
+SP  - 2797
+EP  - 2806
+DO  - 10.1109/TIM.2009.2016301
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-67949118789&doi=10.1109%2fTIM.2009.2016301&partnerID=40&md5=46ef4a4af2aa08132aaa0952c3cd5198
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Kim, H.
+AU  - Jung, Y.
+AU  - Hwang, Y.K.
+TI  - Taxonomy of Atomic Actions for Home-Service Robots
+PY  - 2005
+T2  - Journal of Advanced Computational Intelligence and Intelligent Informatics
+VL  - 9
+IS  - 2
+SP  - 114
+EP  - 120
+DO  - 10.20965/jaciii.2005.p0114
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-47949092964&doi=10.20965%2fjaciii.2005.p0114&partnerID=40&md5=9a969b86f5ae3b5964672734e1de90db
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Thomas, U.
+AU  - Molkenstruck, S.
+AU  - Wahl, F.M.
+AU  - Maaß, J.
+TI  - Programming of robots for assembly tasks by automatically generated primitive action networks
+ST  - Roboterprogrammierung für Montageaufgaben Durch Automatisch Generierte Aktionsprimitivnetze
+PY  - 2008
+T2  - VDI Berichte
+IS  - 2012
+SP  - 99
+EP  - 102
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-48949091053&partnerID=40&md5=4dfc305d5889f3c10e76563b6faaf838
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Ogawara, K.
+AU  - Takamatsu, J.
+AU  - Kimura, H.
+AU  - Ikeuchi, K.
+TI  - Modeling manipulation interactions by hidden Markov models
+PY  - 2002
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2
+SP  - 1096
+EP  - 1101
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0036448763&partnerID=40&md5=b49684ce6cc9e4aa16fb296a32477994
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 37
+ER  -
+
+TY  - CONF
+AU  - Makar, R.
+AU  - Mahadevan, S.
+AU  - Ghavamzadeh, M.
+TI  - Hierarchical multi-agent reinforcement learning
+PY  - 2001
+T2  - Proceedings of the International Conference on Autonomous Agents
+SP  - 246
+EP  - 253
+DO  - 10.1145/375735.376302
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034819292&doi=10.1145%2f375735.376302&partnerID=40&md5=605581ea09c2b13d35dc4054a0cdf06c
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 98
+ER  -
+
+TY  - CONF
+AU  - Baier, J.
+AU  - Pinto, J.
+TI  - Integrating true concurrency into the robot programming language GOLOG
+PY  - 1999
+T2  - Proceedings - International Conference of the Chilean Computer Science Society, SCCC
+VL  - 1999-November
+C7  - 810185
+SP  - 179
+EP  - 186
+DO  - 10.1109/SCCC.1999.810185
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84948803390&doi=10.1109%2fSCCC.1999.810185&partnerID=40&md5=6a08489739fec00b56735345779ef411
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Budenske, J.
+AU  - Gini, M.
+TI  - Achieving Goals Through Interaction with Sensors and Actuators
+PY  - 1992
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2
+C7  - 594500
+SP  - 903
+EP  - 908
+DO  - 10.1109/IROS.1992.594500
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066763321&doi=10.1109%2fIROS.1992.594500&partnerID=40&md5=dc6050f5b59041e803c479e2507ee818
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Esmaili, Nasser
+AU  - Sammut, Claude
+AU  - Shirazi, G.M.
+TI  - Behavioural cloning in control of a dynamic system
+PY  - 1995
+T2  - Proceedings of the IEEE International Conference on Systems, Man and Cybernetics
+VL  - 3
+SP  - 2904
+EP  - 2909
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0029546140&partnerID=40&md5=c11d3aebb6d97d2bd090c4de3d719299
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 20
+ER  -
+
+TY  - CONF
+AU  - James Firby, R.
+AU  - Slack, M.G.
+TI  - Task Execution: Interfacing to Reactive Skill Networks
+PY  - 1995
+T2  - AAAI Spring Symposium - Technical Report
+VL  - SS-95-02
+SP  - 97
+EP  - 111
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0342731046&partnerID=40&md5=f410f9e9070f40d8ab09192ef4da1b28
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Budenske, J.
+AU  - Gini, M.
+TI  - Becoming Knowingly Interactive with Sensors and Actuators
+PY  - 1992
+T2  - AAAI Fall Symposium - Technical Report
+VL  - FS-92-02
+SP  - 23
+EP  - 28
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168691033&partnerID=40&md5=34439753b48fb7489cd8bf0f1fb10c0a
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Häihnel, D.
+AU  - Burgard, W.
+AU  - Lakemeyer, G.
+TI  - GOLEX m bridging the gap between logic (GOLOG) and a real robot
+PY  - 1998
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 1504
+SP  - 165
+EP  - 176
+DO  - 10.1007/BFb0095437
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84957711879&doi=10.1007%2fBFb0095437&partnerID=40&md5=e649226709f46a56d8e72ca096a43b97
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 23
+ER  -
+
+TY  - JOUR
+AU  - Nagatani, K.
+AU  - Yuta, S.
+TI  - Door-opening behavior of an autonomous mobile manipulator by sequence of action primitives
+PY  - 1996
+T2  - Journal of Robotic Systems
+VL  - 13
+IS  - 11
+SP  - 709
+EP  - 721
+DO  - 10.1002/(SICI)1097-4563(199611)13:11<709::AID-ROB3>3.0.CO;2-Z
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0030283139&doi=10.1002%2f%28SICI%291097-4563%28199611%2913%3a11%3c709%3a%3aAID-ROB3%3e3.0.CO%3b2-Z&partnerID=40&md5=ab94871a12a3ef7d6aa6c105fd7403d2
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 15
+ER  -
+
+TY  - CONF
+AU  - Budenske, John
+AU  - Gini, Maria
+TI  - Knowledge, execution, and what sufficiently describes sensors and actuators
+PY  - 1993
+T2  - Proceedings of SPIE - The International Society for Optical Engineering
+VL  - 1831
+SP  - 223
+EP  - 234
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0027309881&partnerID=40&md5=797d5cdc3e6893391ebb1ef85e8dc31b
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Albus, J.S.
+AU  - Barbera, A.J.
+AU  - Fitzgerald, M.L.
+AU  - Nashman, M.
+AU  - Young, R.D.
+TI  - Sensory Interactive Robots
+PY  - 1981
+T2  - CIRP Annals - Manufacturing Technology
+VL  - 30
+IS  - 2
+SP  - 559
+EP  - 562
+DO  - 10.1016/S0007-8506(07)60167-X
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0019657539&doi=10.1016%2fS0007-8506%2807%2960167-X&partnerID=40&md5=9369592d652dfdf777d08cd34fa92d88
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Aarno, D.
+AU  - Kragic, D.
+TI  - Layered HMM for motion intention recognition
+PY  - 2006
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 4059237
+SP  - 5130
+EP  - 5135
+DO  - 10.1109/IROS.2006.282606
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-34250652173&doi=10.1109%2fIROS.2006.282606&partnerID=40&md5=5f906795f268c13c49b05836de10ed51
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 36
+ER  -
+
+TY  - JOUR
+AU  - Ghavamzadeh, M.
+AU  - Mahadevan, S.
+AU  - Makar, R.
+TI  - Hierarchical multi-agent reinforcement learning
+PY  - 2006
+T2  - Autonomous Agents and Multi-Agent Systems
+VL  - 13
+IS  - 2
+SP  - 197
+EP  - 229
+DO  - 10.1007/s10458-006-7035-4
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33846942607&doi=10.1007%2fs10458-006-7035-4&partnerID=40&md5=33d0b5d30be0e8e3430d6dea298baf5f
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 104
+ER  -
+
+TY  - CONF
+AU  - Degallaix, B.
+AU  - Thibault, J.P.
+AU  - Ghallab, M.
+TI  - Propositional logic applied to execution control
+PY  - 1992
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 1
+C7  - 587357
+SP  - 317
+EP  - 324
+DO  - 10.1109/IROS.1992.587357
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85067263510&doi=10.1109%2fIROS.1992.587357&partnerID=40&md5=06de8b097db7076c22026711da499134
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Miyamoto, H.
+AU  - Morimoto, J.
+AU  - Doya, K.
+AU  - Kawato, M.
+TI  - Reinforcement learning with via-point representation
+PY  - 2004
+T2  - Neural Networks
+VL  - 17
+IS  - 3
+SP  - 299
+EP  - 305
+DO  - 10.1016/j.neunet.2003.11.004
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-1642352667&doi=10.1016%2fj.neunet.2003.11.004&partnerID=40&md5=caa863d47929589af245686daf1b307a
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 30
+ER  -
+
+TY  - CONF
+AU  - Asada, Minoru
+AU  - Noda, Shoichi
+AU  - Tawaratsumida, Sukoya
+AU  - Hosoda, Koh
+TI  - Vision-based reinforcement learning for purposive behavior acquisition
+PY  - 1995
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 1
+SP  - 146
+EP  - 153
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0029182767&partnerID=40&md5=14f265b9d74e4c3bb7ffbe87ff590049
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 43
+ER  -
+
+TY  - CONF
+AU  - Firby, R.James
+TI  - Building symbolic primitives with continuous control routines
+PY  - 1992
+SP  - 62
+EP  - 69
+DO  - 10.1016/b978-0-08-049944-4.50013-6
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0026960956&doi=10.1016%2fb978-0-08-049944-4.50013-6&partnerID=40&md5=4c222cea0e60664256943a80622f7c3d
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 47
+ER  -
+
+TY  - CONF
+AU  - Okada, K.
+AU  - Tokutsu, S.
+AU  - Ogura, T.
+AU  - Kojima, M.
+AU  - Mori, Y.
+AU  - Maki, T.
+AU  - Inaba, M.
+TI  - Scenario controller for daily assistive humanoid using visual verification, task planning and situation reasoning
+PY  - 2008
+T2  - Intelligent Autonomous Systems 10, IAS 2008
+SP  - 398
+EP  - 405
+DO  - 10.3233/978-1-58603-887-8-398
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84255205918&doi=10.3233%2f978-1-58603-887-8-398&partnerID=40&md5=51f95db739f9fdeee8f950d07b3e6525
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Lima, P.U.
+AU  - Saridis, G.N.
+TI  - Using stochastic grammars to learn robotic tasks
+PY  - 1995
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 990
+SP  - 335
+EP  - 346
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84955596335&partnerID=40&md5=725f039c717e0350a8479a0d8e05575c
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Lin, F.
+AU  - Levesque, H.J.
+TI  - What robots can do: Robot programs and effective achievability
+PY  - 1998
+T2  - Artificial Intelligence
+VL  - 101
+IS  - 1-2
+SP  - 201
+EP  - 226
+DO  - 10.1016/s0004-3702(98)00041-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032072878&doi=10.1016%2fs0004-3702%2898%2900041-1&partnerID=40&md5=74cb594c54de28148ba4bbcd64a4040e
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 28
+ER  -
+
+TY  - JOUR
+AU  - Bibel, W.
+TI  - A deductive solution for plan generation
+PY  - 1986
+T2  - New Generation Computing
+VL  - 4
+IS  - 2
+SP  - 115
+EP  - 132
+DO  - 10.1007/BF03037438
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0001511359&doi=10.1007%2fBF03037438&partnerID=40&md5=89d543bc4d4e8d0fb77511356c2a7fc8
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 72
+ER  -
+
+TY  - CONF
+TI  - AN EXPERIMENT IN ROBOT TOOL USING
+PY  - 1970
+SP  - 224
+EP  - 225
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0014894484&partnerID=40&md5=244ebf33a06c43e656c70c6c348523a4
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Arkin, R.C.
+AU  - Fujita, M.
+AU  - Takagi, T.
+AU  - Hasegawa, R.
+TI  - Ethological modeling and architecture for an entertainment robot
+PY  - 2001
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 1
+SP  - 453
+EP  - 458
+DO  - 10.1109/ROBOT.2001.932592
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034868188&doi=10.1109%2fROBOT.2001.932592&partnerID=40&md5=64fa29886780f8ab115f9454e635a62b
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 68
+ER  -
+
+TY  - JOUR
+AU  - Stone, P.
+AU  - Sridharan, M.
+AU  - Stronger, D.
+AU  - Kuhlmann, G.
+AU  - Kohl, N.
+AU  - Fidelman, P.
+AU  - Jong, N.K.
+TI  - From pixels to multi-robot decision-making: A study in uncertainty
+PY  - 2006
+T2  - Robotics and Autonomous Systems
+VL  - 54
+IS  - 11
+SP  - 933
+EP  - 943
+DO  - 10.1016/j.robot.2006.05.010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33750031720&doi=10.1016%2fj.robot.2006.05.010&partnerID=40&md5=73c6434908139b514ace5a4b7c2a068f
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 18
+ER  -
+
+TY  - JOUR
+AU  - Asada, M.
+AU  - Ichinoda, S.
+AU  - Hosoda, K.
+TI  - Action-based sensor space segmentation for soccer robot learning
+PY  - 1998
+T2  - Applied Artificial Intelligence
+VL  - 12
+IS  - 2-3
+SP  - 149
+EP  - 164
+DO  - 10.1080/088395198117802
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0032019726&doi=10.1080%2f088395198117802&partnerID=40&md5=4be6faccb1ae241b8ce431d065ff97fc
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 10
+ER  -
+
+TY  - CONF
+AU  - Nagatani, Keiji
+AU  - Yuta, Shin'ichi
+TI  - Designing strategy and implementation of mobile manipulator control system for opening door
+PY  - 1996
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 3
+SP  - 2828
+EP  - 2834
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0029720626&partnerID=40&md5=629bce9258cdac1e6cd927a17b518b23
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 51
+ER  -
+
+TY  - CONF
+AU  - Tehrani, A.M.
+AU  - Kamel, M.S.
+TI  - A methodology for specifying and designing behaviors for mobile robots
+PY  - 2004
+T2  - Soft Computing with Industrial Applications - Proceedings of the Sixth Biannual World Automation Congress
+SP  - 55
+EP  - 61
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-32844474294&partnerID=40&md5=49a65bae923984996e0e8a53293a7646
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Kautz, H.A.
+AU  - Pednault, E.P.D.
+TI  - Planning and Plan Recognition
+PY  - 1988
+T2  - AT&T Technical Journal
+VL  - 67
+IS  - 1
+SP  - 25
+EP  - 40
+DO  - 10.1002/j.1538-7305.1988.tb00231.x
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-0023828473&doi=10.1002%2fj.1538-7305.1988.tb00231.x&partnerID=40&md5=7d2973971ed4312ef54268d74cb74510
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Aarno, D.
+AU  - Kragic, D.
+TI  - Motion intention recognition in robot assisted applications
+PY  - 2008
+T2  - Robotics and Autonomous Systems
+VL  - 56
+IS  - 8
+SP  - 692
+EP  - 705
+DO  - 10.1016/j.robot.2007.11.005
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-47249085658&doi=10.1016%2fj.robot.2007.11.005&partnerID=40&md5=67c90268f57ccd0df60bc5bcd1c7e93c
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 64
+ER  -
+
+TY  - JOUR
+AU  - Kuipers, B.J.
+AU  - Beeson, P.
+AU  - Modayil, J.
+AU  - Provost, J.
+TI  - Bootstrap learning of foundational representations
+PY  - 2006
+T2  - Connection Science
+VL  - 18
+IS  - 2
+SP  - 145
+EP  - 158
+DO  - 10.1080/09540090600768484
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-33745610440&doi=10.1080%2f09540090600768484&partnerID=40&md5=47a4d25619cff4dc212803b721a3f525
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 46
+ER  -
+
+TY  - CONF
+AU  - Blackmore, B.S.
+AU  - Fountas, S.
+AU  - Vougioukas, S.
+AU  - Tang, L.
+AU  - Sørensen, C.G.
+AU  - Jargensen, R.
+TI  - A method to define agricultural robot behaviours
+PY  - 2004
+T2  - Proceedings of the International Conference on Automation Technology for Off-road Equipment, ATOE 2004
+C7  - 04C
+SP  - 155
+EP  - 161
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-27844577421&partnerID=40&md5=31cb3c87cdc495ccd9589d52e19f603c
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 23 April 2025; Cited By: 3
+ER  -
+

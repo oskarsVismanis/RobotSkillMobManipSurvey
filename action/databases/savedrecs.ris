@@ -1,0 +1,4064 @@
+﻿TY  - CPAPER
+AU  - Nagata, K
+AU  - Yamanobe, N
+A1  - IEEE
+TI  - Picking up a Towel by Cooperation of Functional Finger Actions
+T2  - 2009 IEEE-RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+CP  - IEEE RSJ International Conference on Intelligent Robots and Systems
+SN  - 978-1-4244-3803-7
+PY  - 2009
+SP  - 1785
+EP  - 1790
+DO  - 10.1109/IROS.2009.5354783
+AN  - WOS:000285372900293
+ER  -
+
+TY  - JOUR
+AU  - Djezairi, S
+AU  - Razika, BZ
+AU  - Akli, I
+AU  - Bouzouia, B
+TI  - Layered task planning for mobile manipulators
+T2  - COMPUTERS & ELECTRICAL ENGINEERING
+SN  - 0045-7906
+SN  - 1879-0755
+DA  - OCT
+PY  - 2019
+VL  - 79
+C7  - 106464
+DO  - 10.1016/j.compeleceng.2019.106464
+AN  - WOS:000492799200018
+ER  -
+
+TY  - JOUR
+AU  - Lima, PU
+AU  - Saridis, GN
+TI  - Intelligent controllers as hierarchical stochastic automata
+T2  - IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART B-CYBERNETICS
+SN  - 1083-4419
+SN  - 1941-0492
+DA  - APR
+PY  - 1999
+VL  - 29
+IS  - 2
+SP  - 151
+EP  - 163
+DO  - 10.1109/3477.752790
+AN  - WOS:000079319900002
+ER  -
+
+TY  - CPAPER
+AU  - Ji, Z
+AU  - Qiu, RX
+AU  - Noyvirt, A
+AU  - Soroka, A
+AU  - Packianather, M
+AU  - Setchi, R
+AU  - Li, DY
+AU  - Xu, S
+A1  - IEEE
+TI  - Towards automated task planning for service robots using semantic knowledge representation
+T2  - 2012 10TH IEEE INTERNATIONAL CONFERENCE ON INDUSTRIAL INFORMATICS (INDIN)
+CP  - 10th IEEE International Conference on Industrial Informatics (INDIN)
+SN  - 1935-4576
+SN  - 978-1-4673-0311-8
+PY  - 2012
+SP  - 1194
+EP  - 1201
+AN  - WOS:000312724900206
+ER  -
+
+TY  - CPAPER
+AU  - Mohseni-Kabir, A
+AU  - Chernova, S
+AU  - Rich, C
+A1  - ACM
+TI  - Identifying Reusable Primitives in Narrated Demonstrations
+T2  - ELEVENTH ACM/IEEE INTERNATIONAL CONFERENCE ON HUMAN ROBOT INTERACTION (HRI'16)
+CP  - 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SN  - 2167-2121
+SN  - 2167-2148
+SN  - 978-1-4673-8369-1
+PY  - 2016
+SP  - 479
+EP  - 480
+AN  - WOS:000389809100090
+ER  -
+
+TY  - JOUR
+AU  - Jeon, J
+AU  - Jung, HR
+AU  - Luong, T
+AU  - Yumbla, F
+AU  - Moon, H
+TI  - Combined task and motion planning system for the service robot using hierarchical action decomposition
+T2  - INTELLIGENT SERVICE ROBOTICS
+SN  - 1861-2776
+SN  - 1861-2784
+DA  - SEP
+PY  - 2022
+VL  - 15
+IS  - 4
+SP  - 487
+EP  - 501
+DO  - 10.1007/s11370-022-00437-3
+C6  - AUG 2022
+AN  - WOS:000840272500001
+ER  -
+
+TY  - CPAPER
+AU  - Zhao, YS
+AU  - Fillatreau, P
+AU  - Karray, MH
+AU  - Archimede, B
+A1  - IEEE
+TI  - An ontology-based approach towards coupling task and path planning for the simulation of manipulation tasks
+T2  - 2018 IEEE/ACS 15TH INTERNATIONAL CONFERENCE ON COMPUTER SYSTEMS AND APPLICATIONS (AICCSA)
+CP  - 15th IEEE/ACS International Conference on Computer Systems and Applications (AICCSA)
+SN  - 2161-5322
+SN  - 978-1-5386-9120-5
+PY  - 2018
+AN  - WOS:000457628800028
+ER  -
+
+TY  - JOUR
+AU  - Wei, JH
+AU  - Hao, P
+AU  - Wang, S
+TI  - ToolBot: Learning Oriented Keypoints for Tool Usage From Self-Supervision
+T2  - IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+SN  - 1551-3203
+SN  - 1941-0050
+DA  - JAN
+PY  - 2024
+VL  - 20
+IS  - 1
+SP  - 723
+EP  - 731
+DO  - 10.1109/TII.2023.3271113
+AN  - WOS:001163471500019
+ER  -
+
+TY  - CPAPER
+AU  - Branicky, MS
+AU  - Zhang, G
+A1  - AACC
+A1  - AACC
+A1  - AACC
+TI  - Solving hybrid control problems: Level sets and behavioral programming
+T2  - PROCEEDINGS OF THE 2000 AMERICAN CONTROL CONFERENCE, VOLS 1-6
+CP  - 2000 American Control Conference (ACC 2000)
+SN  - 0743-1619
+SN  - 0-7803-5520-2
+PY  - 2000
+SP  - 1175
+EP  - 1180
+AN  - WOS:000166106200242
+ER  -
+
+TY  - CPAPER
+AU  - Xiao, YC
+AU  - Hoffman, J
+AU  - Amato, C
+ED  - Kaelbling, LP
+ED  - Kragic, D
+ED  - Sugiura, K
+TI  - Macro-Action-Based Deep Multi-Agent Reinforcement Learning
+T2  - CONFERENCE ON ROBOT LEARNING, VOL 100
+CP  - 3rd Conference on Robot Learning (CoRL)
+SN  - 2640-3498
+PY  - 2019
+VL  - 100
+AN  - WOS:001228521000087
+ER  -
+
+TY  - JOUR
+AU  - Wang, JQ
+AU  - Chen, CX
+AU  - Liu, JW
+AU  - Du, GL
+AU  - Zhu, XJ
+AU  - Guan, QL
+AU  - Qiu, XJ
+TI  - Self-supervised reinforcement learning for multi-step object manipulation skills
+T2  - INDUSTRIAL ROBOT-THE INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH AND APPLICATION
+SN  - 0143-991X
+SN  - 1758-5791
+DA  - 2025 MAR 31
+PY  - 2025
+DO  - 10.1108/IR-12-2024-0534
+C6  - MAR 2025
+AN  - WOS:001454482400001
+ER  -
+
+TY  - JOUR
+AU  - Naumenko, O
+AU  - Sapaev, U
+AU  - Skatershchikova, A
+AU  - Bekbaev, R
+TI  - "ARTIFICIAL INTELLIGENCE": PHILOSOPHICAL ASPECTS OF UNDERSTANDING
+T2  - WISDOM
+SN  - 1829-3824
+PY  - 2021
+VL  - 17
+IS  - 1
+SP  - 53
+EP  - 64
+DO  - 10.24234/wisdom.v17i1.428
+AN  - WOS:000635181900006
+ER  -
+
+TY  - JOUR
+AU  - Feng, H
+AU  - Wang, SS
+AU  - Xu, HX
+AU  - Ge, SS
+TI  - Object Activity Scene Description, Construction, and Recognition
+T2  - IEEE TRANSACTIONS ON CYBERNETICS
+SN  - 2168-2267
+SN  - 2168-2275
+DA  - OCT
+PY  - 2021
+VL  - 51
+IS  - 10
+SP  - 5082
+EP  - 5092
+DO  - 10.1109/TCYB.2019.2904901
+AN  - WOS:000706832000030
+ER  -
+
+TY  - CPAPER
+AU  - Yu, T
+AU  - Chang, Q
+A1  - IEEE
+TI  - Motion Planning for Human-Robot Collaboration based on Reinforcement Learning
+T2  - 2022 IEEE 18TH INTERNATIONAL CONFERENCE ON AUTOMATION SCIENCE AND ENGINEERING (CASE)
+CP  - IEEE 18th International Conference on Automation Science and Engineering (IEEE CASE)
+SN  - 2161-8070
+SN  - 978-1-6654-9042-9
+PY  - 2022
+SP  - 1866
+EP  - 1871
+DO  - 10.1109/CASE49997.2022.9926471
+AN  - WOS:000927622400215
+ER  -
+
+TY  - JOUR
+AU  - Munguia-Galeano, F
+AU  - Zhu, JH
+AU  - Hernández, JD
+AU  - Ji, Z
+TI  - Learning to bag with a simulation-free reinforcement learning framework for robots
+T2  - IET CYBER-SYSTEMS AND ROBOTICS
+SN  - 2631-6315
+DA  - JUN
+PY  - 2024
+VL  - 6
+IS  - 2
+C7  - e12113
+DO  - 10.1049/csy2.12113
+AN  - WOS:001200005300001
+ER  -
+
+TY  - CPAPER
+AU  - Chibaya, C
+ED  - Gusikhin, O
+ED  - Madani, K
+ED  - Zaytoon, J
+TI  - Vector based Control Routines for Swarms of Path Finding Robotic Devices
+T2  - ICINCO: PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON INFORMATICS IN CONTROL, AUTOMATION AND ROBOTICS
+CP  - 17th International Conference on Informatics in Control, Automation and Robotics (ICINCO)
+SN  - 978-989-758-442-8
+PY  - 2020
+SP  - 272
+EP  - 283
+DO  - 10.5220/0009780802720283
+AN  - WOS:000614134300030
+ER  -
+
+TY  - CHAP
+AU  - Aydemir, D
+AU  - Iba, H
+ED  - Runarsson, TP
+ED  - Beyer, HG
+ED  - Burke, E
+ED  - MereloGuervos, JJ
+ED  - Whitley, LD
+ED  - Yao, X
+TI  - Evolutionary behavior acquisition for humanoid robots
+T2  - PARALLEL PROBLEM SOLVING FROM NATURE - PPSN IX, PROCEEDINGS
+CP  - 9th International Conference on Parallel Problem Solving from Nature (PPSN IX)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-38990-3
+PY  - 2006
+VL  - 4193
+SP  - 651
+EP  - 660
+AN  - WOS:000241446400066
+ER  -
+
+TY  - CPAPER
+AU  - Abbas, T
+AU  - MacDonald, BA
+A1  - IEEE
+TI  - A Task Representation Based on Elementary Targets (ETs) and Execution Control Rules (ECRs)
+T2  - 2009 IEEE/ASME INTERNATIONAL CONFERENCE ON ADVANCED INTELLIGENT MECHATRONICS, VOLS 1-3
+CP  - IEEE/ASME International Conference on Advanced Intelligent Mechatronics
+SN  - 2159-6255
+SN  - 978-1-4244-2852-6
+PY  - 2009
+SP  - 905
+EP  - 910
+DO  - 10.1109/AIM.2009.5229896
+AN  - WOS:000277062800154
+ER  -
+
+TY  - CPAPER
+AU  - Gatsoulis, Y
+AU  - Siradjuddin, I
+AU  - McGinnity, TM
+A1  - IEEE
+TI  - Primitive action learning using fuzzy neural networks
+T2  - 2012 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND BIOMIMETICS (ROBIO 2012)
+CP  - IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SN  - 978-1-4673-2127-3
+SN  - 978-1-4673-2125-9
+PY  - 2012
+AN  - WOS:000321004000257
+ER  -
+
+TY  - CPAPER
+AU  - French, K
+AU  - Wu, SY
+AU  - Pan, TY
+AU  - Zhou, ZM
+AU  - Jenkins, OC
+A1  - IEEE
+ED  - Howard, A
+ED  - Althoefer, K
+ED  - Arai, F
+ED  - Arrichiello, F
+ED  - Caputo, B
+ED  - Castellanos, J
+ED  - Hauser, K
+ED  - Isler, V
+ED  - Kim, J
+ED  - Liu, H
+ED  - Oh, P
+ED  - Santos, V
+ED  - Scaramuzza, D
+ED  - Ude, A
+ED  - Voyles, R
+ED  - Yamane, K
+ED  - Okamura, A
+TI  - Learning Behavior Trees From Demonstration
+T2  - 2019 INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-5386-6026-3
+PY  - 2019
+SP  - 7784
+EP  - 7790
+DO  - 10.1109/icra.2019.8794104
+AN  - WOS:000494942305099
+ER  -
+
+TY  - JOUR
+AU  - Clegg, A
+AU  - Tan, J
+AU  - Turk, G
+AU  - Liu, CK
+TI  - Animating Human Dressing
+T2  - ACM TRANSACTIONS ON GRAPHICS
+CP  - ACM SIGGRAPH Conference
+SN  - 0730-0301
+SN  - 1557-7368
+DA  - AUG
+PY  - 2015
+VL  - 34
+IS  - 4
+C7  - 116
+DO  - 10.1145/2766986
+AN  - WOS:000358786600082
+ER  -
+
+TY  - JOUR
+AU  - Xiao, YC
+AU  - Tan, WH
+AU  - Hoffman, J
+AU  - Xia, T
+AU  - Amato, C
+TI  - Asynchronous multi-agent deep reinforcement learning under partial observability
+T2  - INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH
+SN  - 0278-3649
+SN  - 1741-3176
+DA  - 2025 FEB 6
+PY  - 2025
+DO  - 10.1177/02783649241306124
+C6  - FEB 2025
+AN  - WOS:001415412000001
+ER  -
+
+TY  - JOUR
+AU  - Kokkinaki, AI
+AU  - Valavanis, KP
+TI  - A distributed task planning system for computer-integrated manufacturing systems
+T2  - JOURNAL OF INTELLIGENT MANUFACTURING
+SN  - 0956-5515
+DA  - AUG
+PY  - 1996
+VL  - 7
+IS  - 4
+SP  - 293
+EP  - 309
+DO  - 10.1007/BF00124830
+AN  - WOS:A1996VF32200003
+ER  -
+
+TY  - CPAPER
+AU  - Allen, J
+AU  - Anderson, J
+AU  - Baltes, J
+ED  - Vadakkepat, P
+ED  - Kim, JH
+ED  - Jesse, N
+ED  - AlMamun, A
+ED  - Kiong, TK
+ED  - Baltes, J
+ED  - anderson, J
+ED  - Verner, I
+ED  - Ahlgren, D
+TI  - Imitation Learning from Humanoids in a Heterogeneous Setting
+T2  - TRENDS IN INTELLIGENT ROBOTICS
+CP  - 13th Federation-of-International-Robot-Soccer-Association Robot World Congress
+SN  - 1865-0929
+SN  - 1865-0937
+SN  - 978-3-642-15809-4
+PY  - 2010
+VL  - 103
+SP  - 106
+EP  - 113
+AN  - WOS:000288473800014
+ER  -
+
+TY  - CPAPER
+AU  - Vo, NN
+AU  - Bobick, AF
+A1  - IEEE
+TI  - From Stochastic Grammar to Bayes Network: Probabilistic Parsing of Complex Activity
+T2  - 2014 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)
+CP  - 27th IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SN  - 1063-6919
+SN  - 978-1-4799-5117-8
+PY  - 2014
+SP  - 2641
+EP  - 2648
+DO  - 10.1109/CVPR.2014.338
+AN  - WOS:000361555602087
+ER  -
+
+TY  - JOUR
+AU  - SU, SF
+AU  - LEE, CSG
+TI  - MANIPULATION AND PROPAGATION OF UNCERTAINTY AND VERIFICATION OF APPLICABILITY OF ACTIONS IN ASSEMBLY TASKS
+T2  - IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS
+SN  - 0018-9472
+DA  - NOV-DEC
+PY  - 1992
+VL  - 22
+IS  - 6
+SP  - 1376
+EP  - 1389
+DO  - 10.1109/21.199463
+AN  - WOS:A1992KN76300010
+ER  -
+
+TY  - JOUR
+AU  - Namikawa, J
+AU  - Nishimoto, R
+AU  - Tani, J
+TI  - A Neurodynamic Account of Spontaneous Behaviour
+T2  - PLOS COMPUTATIONAL BIOLOGY
+SN  - 1553-7358
+DA  - OCT
+PY  - 2011
+VL  - 7
+IS  - 10
+C7  - e1002221
+DO  - 10.1371/journal.pcbi.1002221
+AN  - WOS:000297262700043
+ER  -
+
+TY  - CPAPER
+AU  - Yang, YZ
+AU  - Fermüller, C
+AU  - Aloimonos, Y
+A1  - IEEE
+TI  - Detection of Manipulation Action Consequences (MAC)
+T2  - 2013 IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR)
+CP  - 26th IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SN  - 1063-6919
+SN  - 978-0-7695-4989-7
+PY  - 2013
+SP  - 2563
+EP  - 2570
+DO  - 10.1109/CVPR.2013.331
+AN  - WOS:000331094302079
+ER  -
+
+TY  - CPAPER
+AU  - Yuan, Y
+AU  - Tian, GH
+AU  - Zhang, MY
+A1  - IEEE
+TI  - Autonomous Planning of Service Robot Based on Natural Language Tasks in Intelligent Space
+T2  - 2017 CHINESE AUTOMATION CONGRESS (CAC)
+CP  - Chinese Automation Congress (CAC)
+SN  - 2688-092X
+SN  - 2688-0938
+SN  - 978-1-5386-3524-7
+PY  - 2017
+SP  - 5437
+EP  - 5442
+AN  - WOS:000427816105096
+ER  -
+
+TY  - CPAPER
+AU  - Mohseni-Kabir, A
+AU  - Wu, V
+AU  - Chernova, S
+AU  - Rich, C
+A1  - IEEE
+TI  - What's in a Primitive? Identifying Reusable Motion Trajectories in Narrated Demonstrations
+T2  - 2016 25TH IEEE INTERNATIONAL SYMPOSIUM ON ROBOT AND HUMAN INTERACTIVE COMMUNICATION (RO-MAN)
+CP  - 25th IEEE International Symposium on Robot and Human Interactive Communication (IEEE RO-MAN)
+SN  - 1944-9445
+SN  - 978-1-5090-3929-6
+PY  - 2016
+SP  - 267
+EP  - 272
+AN  - WOS:000390682500038
+ER  -
+
+TY  - CPAPER
+AU  - Martínez, D
+AU  - Kragic, D
+A1  - IEEE
+TI  - Modeling and recognition of actions through motor primitives
+T2  - 2008 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, VOLS 1-9
+CP  - IEEE International Conference on Robotics and Automation
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4244-1646-2
+PY  - 2008
+SP  - 1704
+EP  - 1709
+DO  - 10.1109/ROBOT.2008.4543446
+AN  - WOS:000258095001058
+ER  -
+
+TY  - CPAPER
+AU  - Katz, EP
+AU  - Scholar, V
+A1  - IEEE
+A1  - IEEE
+A1  - IEEE
+A1  - IEEE
+TI  - A simplifying diagrammatic representation of crisp and fuzzy Teleo-Reactive semantic circuitry for application in robotic agent task control
+T2  - 1998 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS, VOLS 1-5
+CP  - IEEE International Conference on Systems, Man, and Cybernetics - Intelligent Systems for Humans in a Cyberworld (SMC 98)
+SN  - 1062-922X
+SN  - 0-7803-4778-1
+PY  - 1998
+SP  - 2120
+EP  - 2125
+AN  - WOS:000077033700372
+ER  -
+
+TY  - CPAPER
+AU  - Gholami, A
+AU  - Bigham, BS
+A1  - IEEE
+TI  - A Learned Soccer Goalkeeper Petri Net Model
+T2  - 2017 ARTIFICIAL INTELLIGENCE AND ROBOTICS (IRANOPEN)
+CP  - 7th Conference on Artificial Intelligence and Robotics (IRANOPEN)
+SN  - 978-1-5386-2862-1
+PY  - 2017
+SP  - 102
+EP  - 108
+AN  - WOS:000413084500017
+ER  -
+
+TY  - JOUR
+AU  - Milighetti, G
+AU  - Bauer, C
+AU  - Mikut, R
+AU  - Kuntze, HB
+TI  - Flexible Discrete-Continuous Supervisory Control for Humanoid Robots
+T2  - AT-AUTOMATISIERUNGSTECHNIK
+SN  - 0178-2312
+DA  - JAN
+PY  - 2013
+VL  - 61
+IS  - 1
+SP  - 16
+EP  - 26
+DO  - 10.1524/auto.2013.0004
+AN  - WOS:000323924500003
+ER  -
+
+TY  - CPAPER
+AU  - Liu, NL
+AU  - Liu, ZM
+AU  - Cui, L
+ED  - Yu, H
+ED  - Liu, J
+ED  - Liu, L
+ED  - Ju, Z
+ED  - Liu, Y
+ED  - Zhou, D
+TI  - A Modified Cartesian Space DMPs Model for Robot Motion Generation
+T2  - INTELLIGENT ROBOTICS AND APPLICATIONS, ICIRA 2019, PART VI
+CP  - 12th International Conference on Intelligent Robotics and Applications (ICIRA)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-030-27529-7
+SN  - 978-3-030-27528-0
+PY  - 2019
+VL  - 11745
+SP  - 76
+EP  - 85
+DO  - 10.1007/978-3-030-27529-7_7
+AN  - WOS:000719783200007
+ER  -
+
+TY  - CPAPER
+AU  - Medromi, H
+AU  - Zaafrani, E
+AU  - Deckneuvel, E
+AU  - El Hassani, A
+AU  - Thomas, MC
+A1  - IEEE
+TI  - Intelligent control architecture for mobile robot based on fusion methods
+T2  - ISIE '97 - PROCEEDINGS OF THE IEEE INTERNATIONAL SYMPOSIUM ON INDUSTRIAL ELECTRONICS, VOLS 1-3
+CP  - IEEE International Symposium on Industrial Electronics
+SN  - 0-7803-3936-3
+PY  - 1997
+SP  - 691
+EP  - 696
+AN  - WOS:000072310300187
+ER  -
+
+TY  - CPAPER
+AU  - Sung, JY
+AU  - Selman, B
+AU  - Saxena, A
+A1  - IEEE
+TI  - Synthesizing Manipulation Sequences for Under-Specified Tasks using Unrolled Markov Random Fields
+T2  - 2014 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS 2014)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-4799-6934-0
+PY  - 2014
+SP  - 2970
+EP  - 2977
+AN  - WOS:000349834603012
+ER  -
+
+TY  - CPAPER
+AU  - Martinson, E
+AU  - Stoytchev, A
+AU  - Arkin, R
+A1  - IEEE
+A1  - IEEE
+TI  - Robot behavioral selection using Q-learning
+T2  - 2002 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, VOLS 1-3, PROCEEDINGS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2002)
+SN  - 0-7803-7398-7
+PY  - 2002
+SP  - 970
+EP  - 977
+AN  - WOS:000179289100158
+ER  -
+
+TY  - CPAPER
+AU  - Bacon, PL
+AU  - Balle, B
+AU  - Precup, D
+ED  - Meila, M
+ED  - Heskes, T
+TI  - Learning and Planning with Timing Information in Markov Decision Processes
+T2  - UNCERTAINTY IN ARTIFICIAL INTELLIGENCE
+CP  - 31st Conference on Uncertainty in Artificial Intelligence (UAI)
+SN  - 978-0-9966431-0-8
+PY  - 2015
+SP  - 111
+EP  - 120
+AN  - WOS:000493121100012
+ER  -
+
+TY  - CPAPER
+AU  - Ren, DF
+AU  - Wu, S
+AU  - Wang, XF
+AU  - Peng, Y
+AU  - Ren, XQ
+A1  - IEEE
+TI  - Learning Bifunctional Push-grasping Synergistic Strategy for Goal-agnostic and Goal-oriented Tasks
+T2  - 2023 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, IROS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-9190-7
+PY  - 2023
+SP  - 2909
+EP  - 2916
+DO  - 10.1109/IROS55552.2023.10342533
+AN  - WOS:001133658802022
+ER  -
+
+TY  - JOUR
+AU  - Ye, X
+AU  - Lin, Z
+AU  - Yang, YZ
+TI  - Robot learning of manipulation activities with overall planning through precedence graph
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - JUN
+PY  - 2019
+VL  - 116
+SP  - 126
+EP  - 135
+DO  - 10.1016/j.robot.2019.03.011
+AN  - WOS:000466820600009
+ER  -
+
+TY  - JOUR
+AU  - Zhao, YS
+AU  - Fillatreau, P
+AU  - Elmhadhbi, L
+AU  - Karray, MH
+AU  - Archimede, B
+TI  - Semantic coupling of path planning and a primitive action of a task plan for the simulation of manipulation tasks in a virtual 3D environment
+T2  - ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+SN  - 0736-5845
+SN  - 1879-2537
+DA  - FEB
+PY  - 2022
+VL  - 73
+C7  - 102255
+DO  - 10.1016/j.rcim.2021.102255
+C6  - SEP 2021
+AN  - WOS:000702807900001
+ER  -
+
+TY  - CPAPER
+AU  - Fernández, JL
+AU  - Sanz, R
+AU  - Paz, E
+AU  - Alonso, C
+A1  - IEEE
+TI  - Using hierarchical binary Petri nets to build robust mobile robot applications:: RoboGraph
+T2  - 2008 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, VOLS 1-9
+CP  - IEEE International Conference on Robotics and Automation
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4244-1646-2
+PY  - 2008
+SP  - 1372
+EP  - 1377
+DO  - 10.1109/ROBOT.2008.4543394
+AN  - WOS:000258095001006
+ER  -
+
+TY  - CPAPER
+AU  - Gamarra-Sampén, A
+AU  - Perleche-Amaya, JL
+ED  - Garcia-Escudero, D
+ED  - Mila, BBI
+TI  - Actions
+T2  - IX JORNADAS SOBRE INNOVACION DOCENTE EN ARQUITECTURA (JIDA'21)
+CP  - 9th Workshop on Educational Innovation in Architecture (JIDA)
+SN  - 2564-8497
+SN  - 2462-571X
+SN  - 978-84-9880-969-5
+PY  - 2021
+SP  - 462
+EP  - 475
+DO  - 10.5821/jida.2021.10570
+AN  - WOS:000934063400037
+ER  -
+
+TY  - CPAPER
+AU  - Kolbert, R
+AU  - Chavan-Dafle, N
+AU  - Rodriguez, A
+ED  - Kulic, D
+ED  - Nakamura, Y
+ED  - Khatib, O
+ED  - Venture, G
+TI  - Experimental Validation of Contact Dynamics for In-Hand Manipulation
+T2  - 2016 INTERNATIONAL SYMPOSIUM ON EXPERIMENTAL ROBOTICS
+CP  - 15th International Symposium on Experimental Robotics (ISER)
+SN  - 2511-1256
+SN  - 2511-1264
+SN  - 978-3-319-50115-4
+SN  - 978-3-319-50114-7
+PY  - 2017
+VL  - 1
+SP  - 633
+EP  - 645
+DO  - 10.1007/978-3-319-50115-4_55
+AN  - WOS:000418796400055
+ER  -
+
+TY  - CPAPER
+AU  - Kroemer, O
+AU  - Ugur, E
+AU  - Oztop, E
+AU  - Peters, J
+A1  - IEEE
+TI  - A Kernel-based Approach to Direct Action Perception
+T2  - 2012 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4673-1405-3
+PY  - 2012
+SP  - 2605
+EP  - 2610
+AN  - WOS:000309406702093
+ER  -
+
+TY  - CPAPER
+AU  - Agudo, A
+AU  - Moreno-Noguer, F
+A1  - IEEE
+TI  - DUST: Dual Union of Spatio-Temporal Subspaces for Monocular Multiple Object 3D Reconstruction
+T2  - 30TH IEEE CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION (CVPR 2017)
+CP  - 30th IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SN  - 1063-6919
+SN  - 978-1-5386-0457-1
+PY  - 2017
+SP  - 1513
+EP  - 1521
+DO  - 10.1109/CVPR.2017.165
+AN  - WOS:000418371401060
+ER  -
+
+TY  - CPAPER
+AU  - She, LB
+AU  - Chai, JY
+ED  - Erk, K
+ED  - Smith, NA
+TI  - Incremental Acquisition of Verb Hypothesis Space towards Physical World Interaction
+T2  - PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS, VOL 1
+CP  - 54th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-945626-00-5
+PY  - 2016
+SP  - 108
+EP  - 117
+AN  - WOS:000493806800011
+ER  -
+
+TY  - CPAPER
+AU  - Santa Cruz, R
+AU  - Cherian, A
+AU  - Fernando, B
+AU  - Campbell, D
+AU  - Gould, S
+A1  - IEEE COMP SOC
+TI  - Inferring Temporal Compositions of Actions Using Probabilistic Automata
+T2  - 2020 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION WORKSHOPS (CVPRW 2020)
+CP  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SN  - 2160-7508
+SN  - 978-1-7281-9360-1
+PY  - 2020
+SP  - 1514
+EP  - 1522
+DO  - 10.1109/CVPRW50498.2020.00192
+AN  - WOS:000788279001070
+ER  -
+
+TY  - CPAPER
+AU  - Baldassarre, G
+A1  - IEEE
+A1  - IEEE
+TI  - Coarse planning for landmark navigation in a neural-network reinforcement-learning robot
+T2  - IROS 2001: PROCEEDINGS OF THE 2001 IEEE/RJS INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, VOLS 1-4: EXPANDING THE SOCIETAL ROLE OF ROBOTICS IN THE NEXT MILLENNIUM
+CP  - IEEE Conference on Intelligent Robots and Systems (IROS 2001)
+SN  - 0-7803-6612-3
+PY  - 2001
+SP  - 2398
+EP  - 2403
+AN  - WOS:000176593900378
+ER  -
+
+TY  - CPAPER
+AU  - Oikonomou, P
+AU  - Dometios, A
+AU  - Khamassi, M
+AU  - Tzafestas, CS
+A1  - IEEE
+TI  - Online prediction of novel trajectories using a library of movement primitives
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON DEVELOPMENT AND LEARNING, ICDL 2024
+CP  - IEEE International Conference on Development and Learning (ICDL)
+SN  - 979-8-3503-4856-9
+SN  - 979-8-3503-4855-2
+PY  - 2024
+DO  - 10.1109/ICDL61372.2024.10644595
+AN  - WOS:001338553000016
+ER  -
+
+TY  - JOUR
+AU  - Miyamoto, H
+AU  - Morimoto, J
+AU  - Doya, K
+AU  - Kawato, M
+TI  - Reinforcement learning with via-point representation
+T2  - NEURAL NETWORKS
+SN  - 0893-6080
+SN  - 1879-2782
+DA  - APR
+PY  - 2004
+VL  - 17
+IS  - 3
+SP  - 299
+EP  - 305
+DO  - 10.1016/j.neunet.2003.11.004
+AN  - WOS:000220552900001
+ER  -
+
+TY  - JOUR
+AU  - Vien, NA
+AU  - Ngo, H
+AU  - Lee, S
+AU  - Chung, T
+TI  - Approximate planning for bayesian hierarchical reinforcement learning
+T2  - APPLIED INTELLIGENCE
+SN  - 0924-669X
+SN  - 1573-7497
+DA  - OCT
+PY  - 2014
+VL  - 41
+IS  - 3
+SP  - 808
+EP  - 819
+DO  - 10.1007/s10489-014-0565-6
+AN  - WOS:000342426700010
+ER  -
+
+TY  - CPAPER
+AU  - Tehrani, AM
+AU  - Kamel, MS
+ED  - Jamshidi, M
+ED  - Reuter, M
+ED  - Andina, D
+ED  - Jamshidi, JS
+TI  - A methodology for specifying and designing behaviors for mobile robots
+T2  - Soft Computing with Industrial Applications, Vol 17
+CP  - 5th International Symposium on Soft Computing for Industry held at the 6th Biannual World Automation Congress
+SN  - 1-889335-23-1
+PY  - 2004
+VL  - 17
+SP  - 55
+EP  - 61
+AN  - WOS:000230424800010
+ER  -
+
+TY  - JOUR
+AU  - Lin, FZ
+AU  - Levesque, HJ
+TI  - What robots can do: robot programs and effective achievability
+T2  - ARTIFICIAL INTELLIGENCE
+SN  - 0004-3702
+SN  - 1872-7921
+DA  - MAY
+PY  - 1998
+VL  - 101
+IS  - 1-2
+SP  - 201
+EP  - 226
+DO  - 10.1016/S0004-3702(98)00041-1
+AN  - WOS:000074452200007
+ER  -
+
+TY  - JOUR
+AU  - Wang, Z
+AU  - Garretti, CR
+AU  - Kaelbling, LP
+AU  - Lozano-Pérez, T
+TI  - Learning compositional models of robot skills for task and motion planning
+T2  - INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH
+SN  - 0278-3649
+SN  - 1741-3176
+DA  - JUN
+PY  - 2021
+VL  - 40
+IS  - 6-7
+SP  - 866
+EP  - 894
+DO  - 10.1177/02783649211004615
+AN  - WOS:000648638600003
+ER  -
+
+TY  - JOUR
+AU  - De Giacomo, G
+AU  - Lespérance, Y
+AU  - Levesque, HJ
+TI  - ConGolog, a concurrent programming language based on the situation calculus
+T2  - ARTIFICIAL INTELLIGENCE
+SN  - 0004-3702
+SN  - 1872-7921
+DA  - AUG
+PY  - 2000
+VL  - 121
+IS  - 1-2
+SP  - 109
+EP  - 169
+DO  - 10.1016/S0004-3702(00)00031-X
+AN  - WOS:000089542800004
+ER  -
+
+TY  - CPAPER
+AU  - Wang, YH
+AU  - Wang, Q
+AU  - Liu, RP
+ED  - Luo, Q
+ED  - Yi, J
+ED  - Bin, C
+TI  - A Rule-based Decision Subsystem Design Approach for Intelligent Robot
+T2  - 2009 ISECS INTERNATIONAL COLLOQUIUM ON COMPUTING, COMMUNICATION, CONTROL, AND MANAGEMENT, VOL II
+CP  - 2nd ISECS International Colloquium on Computing, Communication, Control and Management (CCCM 2009)
+SN  - 978-1-4244-4246-1
+PY  - 2009
+SP  - 525
+EP  - 528
+AN  - WOS:000274016200131
+ER  -
+
+TY  - CHAP
+AU  - Hähnel, D
+AU  - Burgard, W
+AU  - Lakemeyer, G
+ED  - Herzog, O
+ED  - Gunter, A
+TI  - GOLEX -: Bridging the gap between logic (GOLOG) and a real robot
+T2  - KI-98: ADVANCES IN ARTIFICIAL INTELLIGENCE
+CP  - 22nd Annual German Conference on Artificial Intelligence (KI-98)
+SN  - 0302-9743
+SN  - 3-540-65080-6
+PY  - 1998
+VL  - 1504
+SP  - 165
+EP  - 176
+AN  - WOS:000082113200015
+ER  -
+
+TY  - CPAPER
+AU  - Lee, Y
+AU  - Cai, PP
+AU  - Hsu, D
+ED  - Shell, DA
+ED  - Toussaint, M
+ED  - Hsieh, MA
+TI  - MAGIC: Learning Macro-Actions for Online POMDP Planning
+T2  - ROBOTICS: SCIENCE AND SYSTEM XVII
+CP  - Conference on Robotics - Science and Systems
+SN  - 2330-7668
+SN  - 2330-765X
+SN  - 978-0-9923747-7-8
+PY  - 2021
+AN  - WOS:000684604200041
+ER  -
+
+TY  - CPAPER
+AU  - Liu, X
+AU  - Fu, J
+A1  - IEEE
+TI  - Compositional planning in Markov decision processes: Temporal abstraction meets generalized logic composition
+T2  - 2019 AMERICAN CONTROL CONFERENCE (ACC)
+CP  - American Control Conference (ACC)
+SN  - 0743-1619
+SN  - 2378-5861
+SN  - 978-1-5386-7926-5
+PY  - 2019
+SP  - 559
+EP  - 566
+DO  - 10.23919/acc.2019.8814646
+AN  - WOS:000589452900089
+ER  -
+
+TY  - CPAPER
+AU  - Kim, H
+AU  - Yamada, M
+AU  - Miyoshi, K
+AU  - Iwata, T
+AU  - Yamakawa, H
+A1  - IEEE
+TI  - Reinforcement Learning in Latent Action Sequence Space
+T2  - 2020 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-7281-6212-6
+PY  - 2020
+SP  - 5497
+EP  - 5503
+DO  - 10.1109/IROS45743.2020.9341629
+AN  - WOS:000714033803038
+ER  -
+
+TY  - CPAPER
+AU  - Cowley, A
+AU  - Taylor, CJ
+A1  - IEEE
+TI  - Towards Language-Based Verification of Robot Behaviors
+T2  - 2011 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SN  - 2153-0858
+SN  - 978-1-61284-455-8
+PY  - 2011
+AN  - WOS:000297477505021
+ER  -
+
+TY  - CPAPER
+AU  - She, LB
+AU  - Chai, JY
+ED  - Barzilay, R
+ED  - Kan, MY
+TI  - Interactive Learning of Grounded Verb Semantics towards Human-Robot Communication
+T2  - PROCEEDINGS OF THE 55TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2017), VOL 1
+CP  - 55th Annual Meeting of the Association-for-Computational-Linguistics (ACL)
+SN  - 978-1-945626-75-3
+PY  - 2017
+SP  - 1634
+EP  - 1644
+DO  - 10.18653/v1/P17-1150
+AN  - WOS:000493984800150
+ER  -
+
+TY  - JOUR
+AU  - Hwang, KS
+AU  - Lo, CY
+AU  - Liu, WL
+TI  - A Modular Agent Architecture for an Autonomous Robot
+T2  - IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT
+CP  - IEEE International Symposium on Intelligent Signal Processing
+SN  - 0018-9456
+SN  - 1557-9662
+DA  - AUG
+PY  - 2009
+VL  - 58
+IS  - 8
+SP  - 2797
+EP  - 2806
+DO  - 10.1109/TIM.2009.2016301
+AN  - WOS:000268033000051
+ER  -
+
+TY  - JOUR
+AU  - Hao, C
+AU  - Weaver, C
+AU  - Tang, C
+AU  - Kawamoto, K
+AU  - Tomizuka, M
+AU  - Zhan, W
+TI  - Skill-Critic: Refining Learned Skills for Hierarchical Reinforcement Learning
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - APR
+PY  - 2024
+VL  - 9
+IS  - 4
+SP  - 3625
+EP  - 3632
+DO  - 10.1109/LRA.2024.3368231
+AN  - WOS:001180758700018
+ER  -
+
+TY  - CPAPER
+AU  - Song, YH
+AU  - Wang, JY
+AU  - Lukasiewicz, T
+AU  - Xu, ZH
+AU  - Xu, M
+A1  - AAAI
+TI  - Diversity-Driven Extensible Hierarchical Reinforcement Learning
+T2  - THIRTY-THIRD AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE / THIRTY-FIRST INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE / NINTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
+CP  - 33rd AAAI Conference on Artificial Intelligence / 31st Innovative Applications of Artificial Intelligence Conference / 9th AAAI Symposium on Educational Advances in Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+SN  - 978-1-57735-809-1
+PY  - 2019
+SP  - 4992
+EP  - 4999
+AN  - WOS:000485292605003
+ER  -
+
+TY  - CPAPER
+AU  - Natarajan, P
+AU  - Nevatia, R
+A1  - IEEE
+TI  - Online, real-time tracking and recognition of human actions
+T2  - 2008 IEEE WORKSHOP ON MOTION AND VIDEO COMPUTING
+CP  - IEEE Workshop on Motion and Video Computing
+SN  - 978-1-4244-2000-1
+PY  - 2008
+SP  - 87
+EP  - +
+AN  - WOS:000259022200013
+ER  -
+
+TY  - CPAPER
+AU  - Ramesh, R
+AU  - Tomar, M
+AU  - Ravindran, B
+ED  - Kraus, S
+TI  - Successor Options: An Option Discovery Framework for Reinforcement Learning
+T2  - PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE
+CP  - 28th International Joint Conference on Artificial Intelligence
+SN  - 978-0-9992411-4-1
+PY  - 2019
+SP  - 3304
+EP  - 3310
+AN  - WOS:000761735103063
+ER  -
+
+TY  - JOUR
+AU  - Li, CC
+AU  - Tian, GH
+TI  - Transferring the semantic constraints in human manipulation behaviors to robots
+T2  - APPLIED INTELLIGENCE
+SN  - 0924-669X
+SN  - 1573-7497
+DA  - JUN
+PY  - 2020
+VL  - 50
+IS  - 6
+SP  - 1711
+EP  - 1724
+DO  - 10.1007/s10489-019-01580-8
+C6  - FEB 2020
+AN  - WOS:000518169000001
+ER  -
+
+TY  - JOUR
+AU  - Akrour, R
+AU  - Tateo, D
+AU  - Peters, J
+TI  - Continuous Action Reinforcement Learning From a Mixture of Interpretable Experts
+T2  - IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+SN  - 0162-8828
+SN  - 1939-3539
+DA  - OCT 1
+PY  - 2022
+VL  - 44
+IS  - 10
+SP  - 6795
+EP  - 6806
+DO  - 10.1109/TPAMI.2021.3103132
+AN  - WOS:000853875300069
+ER  -
+
+TY  - CPAPER
+AU  - Haustein, JA
+AU  - King, J
+AU  - Srinivasa, SS
+AU  - Asfour, T
+A1  - IEEE
+TI  - Kinodynamic Randomized Rearrangement Planning via Dynamic Transitions Between Statically Stable States
+T2  - 2015 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 978-1-4799-6923-4
+PY  - 2015
+SP  - 3075
+EP  - 3082
+AN  - WOS:000370974903011
+ER  -
+
+TY  - CPAPER
+AU  - Kirsch, M
+AU  - Mataré, V
+AU  - Ferrein, A
+AU  - Schiffer, S
+ED  - Rocha, AP
+ED  - Steels, L
+ED  - VanDenHerik, J
+TI  - Integrating golog plus plus and ROS for Practical and Portable High-level Control
+T2  - ICAART: PROCEEDINGS OF THE 12TH INTERNATIONAL CONFERENCE ON AGENTS AND ARTIFICIAL INTELLIGENCE, VOL 2
+CP  - 12th International Conference on Agents and Artificial Intelligence (ICAART)
+SN  - 978-989-758-395-7
+PY  - 2020
+SP  - 692
+EP  - 699
+DO  - 10.5220/0008984406920699
+AN  - WOS:000570769000075
+ER  -
+
+TY  - CPAPER
+AU  - Hosseini, B
+AU  - Ahmadabadi, MN
+AU  - Araabi, BN
+ED  - Jusoff, K
+ED  - Mahmoud, SS
+ED  - Sivakumar, R
+TI  - Abstract Concept Learning Approach based on Behavioural Feature Extraction
+T2  - SECOND INTERNATIONAL CONFERENCE ON COMPUTER AND ELECTRICAL ENGINEERING, VOL 1, PROCEEDINGS
+CP  - 2nd International Conference on Computer and Electrical Engineering
+SN  - 978-0-7695-3925-6
+PY  - 2009
+SP  - 574
+EP  - 579
+DO  - 10.1109/ICCEE.2009.223
+AN  - WOS:000276905000119
+ER  -
+
+TY  - CPAPER
+AU  - Wang, Z
+AU  - Garrett, CR
+AU  - Kaelbling, LP
+AU  - Lozano-Pérez, T
+A1  - Kosecka, J
+ED  - Maciejewski, AA
+ED  - Okamura, A
+ED  - Bicchi, A
+ED  - Stachniss, C
+ED  - Song, DZ
+ED  - Lee, DH
+ED  - Chaumette, F
+ED  - Ding, H
+ED  - Li, JS
+ED  - Wen, J
+ED  - Roberts, J
+ED  - Masamune, K
+ED  - Chong, NY
+ED  - Amato, N
+ED  - Tsagwarakis, N
+ED  - Rocco, P
+ED  - Asfour, T
+ED  - Chung, WK
+ED  - Yasuyoshi, Y
+ED  - Sun, Y
+ED  - Maciekeski, T
+ED  - Althoefer, K
+ED  - AndradeCetto, J
+ED  - Chung, WK
+ED  - Demircan, E
+ED  - Dias, J
+ED  - Fraisse, P
+ED  - Gross, R
+ED  - Harada, H
+ED  - Hasegawa, Y
+ED  - Hayashibe, M
+ED  - Kiguchi, K
+ED  - Kim, K
+ED  - Kroeger, T
+ED  - Li, Y
+ED  - Ma, S
+ED  - Mochiyama, H
+ED  - Monje, CA
+ED  - Rekleitis, I
+ED  - Roberts, R
+ED  - Stulp, F
+ED  - Tsai, CHD
+ED  - Zollo, L
+TI  - Active model learning and diverse action sampling for task and motion planning
+T2  - 2018 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - 25th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-5386-8094-0
+PY  - 2018
+SP  - 4107
+EP  - 4114
+AN  - WOS:000458872703114
+ER  -
+
+TY  - JOUR
+AU  - YASUDA, G
+AU  - TACHIBANA, K
+TI  - A PARALLEL DISTRIBUTED CONTROL ARCHITECTURE FOR MULTIPLE ROBOT SYSTEMS USING A NETWORK OF MICROCOMPUTERS
+T2  - COMPUTERS & INDUSTRIAL ENGINEERING
+CP  - 16th International Conference on Computers and Industrial Engineering (ICC&IE-94)
+SN  - 0360-8352
+DA  - SEP
+PY  - 1994
+VL  - 27
+IS  - 1-4
+SP  - 63
+EP  - 66
+DO  - 10.1016/0360-8352(94)90238-0
+AN  - WOS:A1994QL18400017
+ER  -
+
+TY  - JOUR
+AU  - Al-Shanoon, A
+AU  - Lang, HX
+AU  - Wang, Y
+AU  - Zhang, YF
+AU  - Hong, WX
+TI  - Learn to grasp unknown objects in robotic manipulation
+T2  - INTELLIGENT SERVICE ROBOTICS
+SN  - 1861-2776
+SN  - 1861-2784
+DA  - SEP
+PY  - 2021
+VL  - 14
+IS  - 4
+SP  - 571
+EP  - 582
+DO  - 10.1007/s11370-021-00380-9
+C6  - AUG 2021
+AN  - WOS:000686055200001
+ER  -
+
+TY  - CPAPER
+AU  - Classen, J
+AU  - Liebenberg, M
+AU  - Lakemeyer, G
+AU  - Zarriess, B
+A1  - AAAI
+TI  - Exploring the Boundaries of Decidable Verification of Non-Terminating Golog Programs
+T2  - PROCEEDINGS OF THE TWENTY-EIGHTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE
+CP  - 28th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2014
+SP  - 1012
+EP  - 1019
+AN  - WOS:000485439701002
+ER  -
+
+TY  - JOUR
+AU  - Wang, H
+AU  - Man, HY
+AU  - Cui, WX
+AU  - Lu, RY
+AU  - Cai, CX
+AU  - Fan, XP
+TI  - GeneWorker: An end-to-end robotic reinforcement learning approach with collaborative generator and worker networks
+T2  - NEURAL NETWORKS
+SN  - 0893-6080
+SN  - 1879-2782
+DA  - OCT
+PY  - 2024
+VL  - 178
+C7  - 106472
+DO  - 10.1016/j.neunet.2024.106472
+C6  - JUN 2024
+AN  - WOS:001261170600001
+ER  -
+
+TY  - JOUR
+AU  - Stone, P
+AU  - Sridharan, M
+AU  - Stronger, D
+AU  - Kuhlmann, G
+AU  - Kohl, N
+AU  - Fidelman, P
+AU  - Jong, NK
+TI  - From pixels to multi-robot decision-making: A study in uncertainty
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - NOV 30
+PY  - 2006
+VL  - 54
+IS  - 11
+SP  - 933
+EP  - 943
+DO  - 10.1016/j.robot.2006.05.010
+AN  - WOS:000242359100006
+ER  -
+
+TY  - JOUR
+AU  - Kiatos, M
+AU  - Sarantopoulos, I
+AU  - Koutras, L
+AU  - Malassiotis, S
+AU  - Doulgeri, Z
+TI  - Learning Push-Grasping in Dense Clutter
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - OCT
+PY  - 2022
+VL  - 7
+IS  - 4
+SP  - 8783
+EP  - 8790
+DO  - 10.1109/LRA.2022.3188437
+AN  - WOS:000838567100029
+ER  -
+
+TY  - JOUR
+AU  - Min, HQ
+AU  - Yi, CA
+AU  - Luo, RH
+AU  - Bi, S
+AU  - Shen, XW
+AU  - Yan, YG
+TI  - Affordance Learning Based on Subtask's Optimal Strategy
+T2  - INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS
+SN  - 1729-8814
+DA  - AUG 20
+PY  - 2015
+VL  - 12
+DO  - 10.5772/61087
+AN  - WOS:000359998800001
+ER  -
+
+TY  - CPAPER
+AU  - Gräve, K
+AU  - Behnke, S
+ED  - Amato, N
+TI  - Learning Sequential Tasks Interactively from Demonstrations and Own Experience
+T2  - 2013 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-4673-6358-7
+PY  - 2013
+SP  - 3237
+EP  - 3243
+AN  - WOS:000331367403045
+ER  -
+
+TY  - CPAPER
+AU  - Agarwal, A
+AU  - Muelling, K
+AU  - Fragkiadaki, K
+A1  - AAAI
+TI  - Model Learning for Look-Ahead Exploration in Continuous Control
+T2  - THIRTY-THIRD AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE / THIRTY-FIRST INNOVATIVE APPLICATIONS OF ARTIFICIAL INTELLIGENCE CONFERENCE / NINTH AAAI SYMPOSIUM ON EDUCATIONAL ADVANCES IN ARTIFICIAL INTELLIGENCE
+CP  - 33rd AAAI Conference on Artificial Intelligence / 31st Innovative Applications of Artificial Intelligence Conference / 9th AAAI Symposium on Educational Advances in Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+SN  - 978-1-57735-809-1
+PY  - 2019
+SP  - 3151
+EP  - 3158
+AN  - WOS:000485292603021
+ER  -
+
+TY  - CPAPER
+AU  - Gemignani, G
+AU  - Bastianelli, E
+AU  - Nardi, D
+A1  - ACM
+TI  - Teaching Robots Parametrized Executable Plans Through Spoken Interaction
+T2  - PROCEEDINGS OF THE 2015 INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS & MULTIAGENT SYSTEMS (AAMAS'15)
+CP  - 14th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+SN  - 978-1-4503-3413-6
+PY  - 2015
+SP  - 851
+EP  - 859
+AN  - WOS:000461455000090
+ER  -
+
+TY  - CPAPER
+AU  - Jentzsch, S
+AU  - Gaschler, A
+AU  - Khatib, O
+AU  - Knoll, A
+A1  - IEEE
+TI  - MOPL: A Multi-Modal Path Planner for Generic Manipulation Tasks
+T2  - 2015 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-4799-9994-1
+PY  - 2015
+SP  - 6208
+EP  - 6214
+AN  - WOS:000371885406050
+ER  -
+
+TY  - JOUR
+AU  - Yan, JY
+AU  - Luo, B
+AU  - Xu, XD
+TI  - Hierarchical reinforcement learning for handling sparse rewards in multi-goal navigation
+T2  - ARTIFICIAL INTELLIGENCE REVIEW
+SN  - 0269-2821
+SN  - 1573-7462
+DA  - MAY 28
+PY  - 2024
+VL  - 57
+IS  - 6
+C7  - 156
+DO  - 10.1007/s10462-024-10794-3
+AN  - WOS:001233960000001
+ER  -
+
+TY  - JOUR
+AU  - He, R
+AU  - Brunskill, E
+AU  - Roy, N
+TI  - Efficient Planning under Uncertainty with Macro-actions
+T2  - JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH
+SN  - 1076-9757
+SN  - 1943-5037
+PY  - 2011
+VL  - 40
+SP  - 523
+EP  - 570
+DO  - 10.1613/jair.3171
+AN  - WOS:000287819800004
+ER  -
+
+TY  - JOUR
+AU  - Ge, YG
+AU  - Zhang, SL
+AU  - Cai, YH
+AU  - Lu, T
+AU  - Wang, HT
+AU  - Hui, XL
+AU  - Wang, S
+TI  - Ontology based autonomous robot task processing framework
+T2  - FRONTIERS IN NEUROROBOTICS
+SN  - 1662-5218
+DA  - MAY 7
+PY  - 2024
+VL  - 18
+C7  - 1401075
+DO  - 10.3389/fnbot.2024.1401075
+AN  - WOS:001227545200001
+ER  -
+
+TY  - JOUR
+AU  - Paolillo, A
+AU  - Gergondet, P
+AU  - Cherubini, A
+AU  - Vendittelli, M
+AU  - Kheddar, A
+TI  - Autonomous car driving by a humanoid robot
+T2  - JOURNAL OF FIELD ROBOTICS
+SN  - 1556-4959
+SN  - 1556-4967
+DA  - MAR
+PY  - 2018
+VL  - 35
+IS  - 2
+SP  - 169
+EP  - 186
+DO  - 10.1002/rob.21731
+AN  - WOS:000424259400001
+ER  -
+
+TY  - CPAPER
+AU  - Liang, YC
+AU  - Kurniawati, H
+A1  - IEEE
+TI  - Recurrent Macro Actions Generator for POMDP Planning
+T2  - 2023 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, IROS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-9190-7
+PY  - 2023
+SP  - 2026
+EP  - 2033
+DO  - 10.1109/IROS55552.2023.10341759
+AN  - WOS:001133658801074
+ER  -
+
+TY  - JOUR
+AU  - Sutton, RS
+AU  - Precup, D
+AU  - Singh, S
+TI  - Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning
+T2  - ARTIFICIAL INTELLIGENCE
+SN  - 0004-3702
+SN  - 1872-7921
+DA  - AUG
+PY  - 1999
+VL  - 112
+IS  - 1-2
+SP  - 181
+EP  - 211
+DO  - 10.1016/S0004-3702(99)00052-1
+AN  - WOS:000083115200005
+ER  -
+
+TY  - JOUR
+AU  - Zhang, HK
+AU  - Huang, YY
+AU  - Han, W
+AU  - Chen, HB
+AU  - Xiong, D
+AU  - Zhang, CF
+AU  - Medeiros, EP
+AU  - de Albuquerque, VHC
+TI  - A novel teacher-student hierarchical approach for learning primitive information
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+SN  - 0957-4174
+SN  - 1873-6793
+DA  - JUL 15
+PY  - 2024
+VL  - 246
+C7  - 123129
+DO  - 10.1016/j.eswa.2023.123129
+C6  - JAN 2024
+AN  - WOS:001164169600001
+ER  -
+
+TY  - CPAPER
+AU  - Goo, W
+AU  - Niekum, S
+A1  - IEEE
+ED  - Howard, A
+ED  - Althoefer, K
+ED  - Arai, F
+ED  - Arrichiello, F
+ED  - Caputo, B
+ED  - Castellanos, J
+ED  - Hauser, K
+ED  - Isler, V
+ED  - Kim, J
+ED  - Liu, H
+ED  - Oh, P
+ED  - Santos, V
+ED  - Scaramuzza, D
+ED  - Ude, A
+ED  - Voyles, R
+ED  - Yamane, K
+ED  - Okamura, A
+TI  - One-Shot Learning of Multi-Step Tasks from Observation via Activity Localization in Auxiliary Video
+T2  - 2019 INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-5386-6026-3
+PY  - 2019
+SP  - 7791
+EP  - 7797
+DO  - 10.1109/icra.2019.8793515
+AN  - WOS:000494942305100
+ER  -
+
+TY  - JOUR
+AU  - Zhang, TL
+AU  - Liu, Z
+AU  - Pu, ZQ
+AU  - Yi, JQ
+AU  - Liang, YY
+AU  - Zhang, D
+TI  - Robot Subgoal-guided Navigation in Dynamic Crowded Environments with Hierarchical Deep Reinforcement Learning
+T2  - INTERNATIONAL JOURNAL OF CONTROL AUTOMATION AND SYSTEMS
+SN  - 1598-6446
+SN  - 2005-4092
+DA  - JUL
+PY  - 2023
+VL  - 21
+IS  - 7
+SP  - 2350
+EP  - 2362
+DO  - 10.1007/s12555-022-0171-z
+C6  - MAY 2023
+AN  - WOS:000982815800004
+ER  -
+
+TY  - JOUR
+AU  - Lin, JL
+AU  - Hwang, KS
+AU  - Shi, HB
+AU  - Pan, W
+TI  - An ensemble method for inverse reinforcement learning
+T2  - INFORMATION SCIENCES
+SN  - 0020-0255
+SN  - 1872-6291
+DA  - FEB
+PY  - 2020
+VL  - 512
+SP  - 518
+EP  - 532
+DO  - 10.1016/j.ins.2019.09.066
+AN  - WOS:000504778300034
+ER  -
+
+TY  - JOUR
+AU  - Agudo, A
+AU  - Lepetit, V
+AU  - Moreno-Noguer, F
+TI  - Simultaneous completion and spatiotemporal grouping of corrupted motion tracks
+T2  - VISUAL COMPUTER
+SN  - 0178-2789
+SN  - 1432-2315
+DA  - NOV
+PY  - 2022
+VL  - 38
+IS  - 11
+SP  - 3937
+EP  - 3952
+DO  - 10.1007/s00371-021-02238-8
+C6  - JUL 2021
+AN  - WOS:000674546600002
+ER  -
+
+TY  - JOUR
+AU  - Setyawan, GE
+AU  - Hartono, P
+AU  - Sawada, H
+TI  - Cooperative Multi-Robot Hierarchical Reinforcement Learning
+T2  - INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+SN  - 2158-107X
+SN  - 2156-5570
+DA  - SEP
+PY  - 2022
+VL  - 13
+IS  - 9
+SP  - 35
+EP  - 44
+AN  - WOS:000874044800001
+ER  -
+
+TY  - JOUR
+AU  - Kuipers, BJ
+AU  - Beeson, P
+AU  - Modayil, J
+AU  - Provost, J
+TI  - Bootstrap learning of foundational representations
+T2  - CONNECTION SCIENCE
+SN  - 0954-0091
+SN  - 1360-0494
+DA  - JUN
+PY  - 2006
+VL  - 18
+IS  - 2
+SP  - 145
+EP  - 158
+DO  - 10.1080/09540090600768484
+AN  - WOS:000239500800004
+ER  -
+
+TY  - JOUR
+AU  - Zhu, LA
+AU  - Cheng, JY
+AU  - Zhang, H
+AU  - Zhang, W
+AU  - Liu, YH
+TI  - Multi-Robot Environmental Coverage With a Two-Stage Coordination Strategy via Deep Reinforcement Learning
+T2  - IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+SN  - 1524-9050
+SN  - 1558-0016
+DA  - JUN
+PY  - 2024
+VL  - 25
+IS  - 6
+SP  - 5022
+EP  - 5033
+DO  - 10.1109/TITS.2023.3333409
+C6  - JAN 2024
+AN  - WOS:001137404800001
+ER  -
+
+TY  - CPAPER
+AU  - Bihlmaier, A
+AU  - Schreiter, L
+AU  - Raczkowsky, J
+AU  - Wörn, H
+ED  - Menegatti, E
+ED  - Michael, N
+ED  - Berns, K
+ED  - Yamaguchi, H
+TI  - Hierarchical Task Networks as Domain-Specific Language for Planning Surgical Interventions
+T2  - INTELLIGENT AUTONOMOUS SYSTEMS 13
+CP  - 13th International Conference on Intelligent Autonomous Systems (IAS)
+SN  - 2194-5357
+SN  - 2194-5365
+SN  - 978-3-319-08338-4
+SN  - 978-3-319-08337-7
+PY  - 2016
+VL  - 302
+SP  - 1095
+EP  - 1105
+DO  - 10.1007/978-3-319-08338-4_79
+AN  - WOS:000377956900079
+ER  -
+
+TY  - CHAP
+AU  - Kemke, C
+ED  - Shi, ZZ
+ED  - Sadananda, R
+TI  - Natural language communication between human and artificial agents
+T2  - AGENT COMPUTING AND MULTI-AGENT SYSTEMS
+CP  - 9th Pacific Rim International Workshop on Multi-Agents
+SN  - 0302-9743
+SN  - 3-540-36707-1
+PY  - 2006
+VL  - 4088
+SP  - 84
+EP  - 93
+AN  - WOS:000239626100011
+ER  -
+
+TY  - CPAPER
+AU  - Mavrogiannis, A
+AU  - Mavrogiannis, C
+AU  - Aloimonos, Y
+A1  - IEEE
+TI  - Cook2LTL: Translating Cooking Recipes to LTL Formulae using Large Language Models
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2024)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 979-8-3503-8458-1
+SN  - 979-8-3503-8457-4
+PY  - 2024
+SP  - 17679
+EP  - 17686
+DO  - 10.1109/ICRA57147.2024.10611086
+AN  - WOS:001369728006064
+ER  -
+
+TY  - JOUR
+AU  - Fu, QX
+AU  - Qiu, TH
+AU  - Yi, JQ
+AU  - Pu, ZQ
+AU  - Ai, XL
+TI  - Self-Clustering Hierarchical Multi-Agent Reinforcement Learning With Extensible Cooperation Graph
+T2  - IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTATIONAL INTELLIGENCE
+SN  - 2471-285X
+DA  - 2024 SEP 4
+PY  - 2024
+DO  - 10.1109/TETCI.2024.3449873
+C6  - SEP 2024
+AN  - WOS:001308146000001
+ER  -
+
+TY  - CPAPER
+AU  - Pertsch, K
+AU  - Lee, Y
+AU  - Wu, Y
+AU  - Lim, JJ
+ED  - Faust, A
+ED  - Hsu, D
+ED  - Neumann, G
+TI  - Demonstration-Guided Reinforcement Learning with Learned Skills
+T2  - CONFERENCE ON ROBOT LEARNING, VOL 164
+CP  - 5th Conference on Robot Learning (CoRL)
+SN  - 2640-3498
+PY  - 2021
+VL  - 164
+SP  - 729
+EP  - 739
+AN  - WOS:001234872300066
+ER  -
+
+TY  - JOUR
+AU  - Zhou, XM
+AU  - Bai, T
+AU  - Gao, YB
+AU  - Han, YT
+TI  - Vision-Based Robot Navigation through Combining Unsupervised Learning and Hierarchical Reinforcement Learning
+T2  - SENSORS
+SN  - 1424-8220
+DA  - APR 1
+PY  - 2019
+VL  - 19
+IS  - 7
+C7  - 1576
+DO  - 10.3390/s19071576
+AN  - WOS:000465570700095
+ER  -
+
+TY  - JOUR
+AU  - Ghavamzadeh, M
+AU  - Mahadevan, S
+AU  - Makar, R
+TI  - Hierarchical multi-agent reinforcement learning
+T2  - AUTONOMOUS AGENTS AND MULTI-AGENT SYSTEMS
+SN  - 1387-2532
+SN  - 1573-7454
+DA  - SEP
+PY  - 2006
+VL  - 13
+IS  - 2
+SP  - 197
+EP  - 229
+DO  - 10.1007/s10458-006-7035-4
+AN  - WOS:000239103300003
+ER  -
+
+TY  - JOUR
+AU  - Agudo, A
+AU  - Moreno-Noguer, F
+TI  - Robust Spatio-Temporal Clustering and Reconstruction of Multiple Deformable Bodies
+T2  - IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+SN  - 0162-8828
+SN  - 1939-3539
+DA  - APR
+PY  - 2019
+VL  - 41
+IS  - 4
+SP  - 971
+EP  - 984
+DO  - 10.1109/TPAMI.2018.2823717
+AN  - WOS:000460583500014
+ER  -
+
+TY  - JOUR
+AU  - López, J
+AU  - Pérez, D
+AU  - Zalama, E
+TI  - A framework for building mobile single and multi-robot applications
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - MAR-APR
+PY  - 2011
+VL  - 59
+IS  - 3-4
+SP  - 151
+EP  - 162
+DO  - 10.1016/j.robot.2011.01.004
+AN  - WOS:000288844200001
+ER  -
+
+TY  - JOUR
+AU  - Zeng, A
+AU  - Song, SR
+AU  - Yu, KT
+AU  - Donlon, E
+AU  - Hogan, FR
+AU  - Bauza, M
+AU  - Ma, DL
+AU  - Taylor, O
+AU  - Liu, M
+AU  - Romo, E
+AU  - Fazeli, N
+AU  - Alet, F
+AU  - Dafle, NC
+AU  - Holladay, R
+AU  - Morona, I
+AU  - Nair, PQ
+AU  - Green, D
+AU  - Taylor, I
+AU  - Liu, W
+AU  - Funkhouser, T
+AU  - Rodriguez, A
+TI  - Robotic pick-and-place of novel objects in clutter with multi-affordance grasping and cross-domain image matching
+T2  - INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH
+SN  - 0278-3649
+SN  - 1741-3176
+DA  - JUN
+PY  - 2022
+VL  - 41
+IS  - 7
+SP  - 690
+EP  - 705
+C7  - 0278364919868017
+DO  - 10.1177/0278364919868017
+C6  - AUG 2019
+AN  - WOS:000479794500001
+ER  -
+
+TY  - JOUR
+AU  - ERDMANN, M
+TI  - RANDOMIZATION FOR ROBOT TASKS - USING DYNAMIC-PROGRAMMING IN THE SPACE OF KNOWLEDGE STATES
+T2  - ALGORITHMICA
+SN  - 0178-4617
+SN  - 1432-0541
+DA  - AUG-OCT
+PY  - 1993
+VL  - 10
+IS  - 2-4
+SP  - 248
+EP  - 291
+DO  - 10.1007/BF01891842
+AN  - WOS:A1993LM78600008
+ER  -
+
+TY  - CPAPER
+AU  - Omrcen, D
+AU  - Ude, A
+AU  - Kos, A
+A1  - IEEE
+TI  - Learning Primitive Actions through Object Exploration
+T2  - 2008 8TH IEEE-RAS INTERNATIONAL CONFERENCE ON HUMANOID ROBOTS (HUMANOIDS 2008)
+CP  - 8th IEEE/RAS International Conference on Humanoid Robots
+SN  - 2164-0572
+SN  - 978-1-4244-2821-2
+PY  - 2008
+SP  - 368
+EP  - 373
+AN  - WOS:000267052300056
+ER  -
+
+TY  - JOUR
+AU  - Arie, H
+AU  - Arakaki, T
+AU  - Sugano, S
+AU  - Tani, J
+TI  - Imitating others by composition of primitive actions: A neuro-dynamic model
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - MAY
+PY  - 2012
+VL  - 60
+IS  - 5
+SP  - 729
+EP  - 741
+DO  - 10.1016/j.robot.2011.11.005
+AN  - WOS:000303082300010
+ER  -
+
+TY  - CPAPER
+AU  - Li, W
+AU  - Zhang, XH
+AU  - Cheng, HT
+A1  - IEEE
+TI  - Primitive Action Segmentation and Encoding during Gesture based Demonstration
+T2  - 2019 9TH IEEE ANNUAL INTERNATIONAL CONFERENCE ON CYBER TECHNOLOGY IN AUTOMATION, CONTROL, AND INTELLIGENT SYSTEMS (IEEE-CYBER 2019)
+CP  - 9th IEEE Annual International Conference on Cyber Technology in Automation, Control, and Intelligent Systems (IEEE-CYBER)
+SN  - 2379-7711
+SN  - 978-1-7281-0770-7
+PY  - 2019
+SP  - 1552
+EP  - 1557
+AN  - WOS:000569550300272
+ER  -
+
+TY  - JOUR
+AU  - Jeon, J
+AU  - Jung, HR
+AU  - Yumbla, F
+AU  - Luong, TA
+AU  - Moon, H
+TI  - Primitive Action Based Combined Task and Motion Planning for the Service Robot
+T2  - FRONTIERS IN ROBOTICS AND AI
+SN  - 2296-9144
+DA  - FEB 10
+PY  - 2022
+VL  - 9
+C7  - 713470
+DO  - 10.3389/frobt.2022.713470
+AN  - WOS:000761061500001
+ER  -
+
+TY  - JOUR
+AU  - Nah, MC
+AU  - Krotov, A
+AU  - Russo, M
+AU  - Sternad, D
+AU  - Hogan, N
+TI  - Learning to manipulate a whip with simple primitive actions - A simulation study
+T2  - ISCIENCE
+SN  - 2589-0042
+DA  - AUG 18
+PY  - 2023
+VL  - 26
+IS  - 8
+C7  - 107395
+DO  - 10.1016/j.isci.2023.107395
+C6  - JUL 2023
+AN  - WOS:001056407200001
+ER  -
+
+TY  - JOUR
+AU  - Lin, N
+AU  - Li, YX
+AU  - Tang, KK
+AU  - Zhu, YJ
+AU  - Zhang, XY
+AU  - Wang, RL
+AU  - Ji, JM
+AU  - Chen, XP
+AU  - Zhang, XM
+TI  - Manipulation Planning From Demonstration Via Goal-Conditioned Prior Action Primitive Decomposition and Alignment
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - APR
+PY  - 2022
+VL  - 7
+IS  - 2
+SP  - 1387
+EP  - 1394
+DO  - 10.1109/LRA.2021.3140127
+AN  - WOS:000742180000014
+ER  -
+
+TY  - JOUR
+AU  - Wang, H
+AU  - Zhang, H
+AU  - Li, L
+AU  - Kan, Z
+AU  - Song, YD
+TI  - Task-Driven Reinforcement Learning With Action Primitives for Long-Horizon Manipulation Skills
+T2  - IEEE TRANSACTIONS ON CYBERNETICS
+SN  - 2168-2267
+SN  - 2168-2275
+DA  - AUG
+PY  - 2024
+VL  - 54
+IS  - 8
+SP  - 4513
+EP  - 4526
+DO  - 10.1109/TCYB.2023.3298195
+C6  - AUG 2023
+AN  - WOS:001051286100001
+ER  -
+
+TY  - CPAPER
+AU  - Grigore, EC
+AU  - Scassellati, B
+ED  - Amato, N
+ED  - Srinivasa, S
+ED  - Ayanian, N
+ED  - Kuindersma, S
+TI  - Discovering Action Primitive Granularity from Human Motion for Human-Robot Collaboration
+T2  - ROBOTICS: SCIENCE AND SYSTEMS XIII
+CP  - 13th Conference on Robotics - Science and Systems
+SN  - 978-0-9923747-3-0
+PY  - 2017
+AN  - WOS:000570976600065
+ER  -
+
+TY  - JOUR
+AU  - Nagatani, K
+AU  - Yuta, S
+TI  - Door-opening behavior of an autonomous mobile manipulator by sequence of action primitives
+T2  - JOURNAL OF ROBOTIC SYSTEMS
+CP  - 2nd World Automation Congress (WAC 96)
+SN  - 0741-2223
+DA  - NOV
+PY  - 1996
+VL  - 13
+IS  - 11
+SP  - 709
+EP  - 721
+AN  - WOS:A1996VL83200004
+ER  -
+
+TY  - CPAPER
+AU  - Nagatani, K
+AU  - Tanaka, Y
+A1  - IEEE
+A1  - IEEE
+TI  - Motion design for autonomous mobile manipulator based on programming style "action primitive"
+T2  - IECON 2000: 26TH ANNUAL CONFERENCE OF THE IEEE INDUSTRIAL ELECTRONICS SOCIETY, VOLS 1-4: 21ST CENTURY TECHNOLOGIES AND INDUSTRIAL OPPORTUNITIES
+CP  - 26th Annual Conference of the IEEE-Industrial-Electronics-Society
+SN  - 1553-572X
+SN  - 0-7803-6456-2
+PY  - 2000
+SP  - 399
+EP  - 404
+AN  - WOS:000176916400067
+ER  -
+
+TY  - CPAPER
+AU  - Gizzi, E
+AU  - Castro, MG
+AU  - Sinapov, J
+A1  - IEEE
+TI  - Creative Problem Solving by Robots Using Action Primitive Discovery
+T2  - 2019 JOINT IEEE 9TH INTERNATIONAL CONFERENCE ON DEVELOPMENT AND LEARNING AND EPIGENETIC ROBOTICS (ICDL-EPIROB)
+CP  - 9th Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+SN  - 2161-9484
+SN  - 978-1-5386-8128-2
+PY  - 2019
+SP  - 228
+EP  - 233
+DO  - 10.1109/devlrn.2019.8850711
+AN  - WOS:000564518200034
+ER  -
+
+TY  - JOUR
+AU  - Wang, XY
+AU  - Santos, VJ
+TI  - Gaze-Based Shared Autonomy Framework With Real-Time Action Primitive Recognition for Robot Manipulators
+T2  - IEEE TRANSACTIONS ON NEURAL SYSTEMS AND REHABILITATION ENGINEERING
+SN  - 1534-4320
+SN  - 1558-0210
+PY  - 2023
+VL  - 31
+SP  - 4306
+EP  - 4317
+DO  - 10.1109/TNSRE.2023.3328888
+AN  - WOS:001098745800003
+ER  -
+
+TY  - JOUR
+AU  - Wang, XY
+AU  - Fathaliyan, AH
+AU  - Santos, VJ
+TI  - Toward Shared Autonomy Control Schemes for Human-Robot Systems: Action Primitive Recognition Using Eye Gaze Features
+T2  - FRONTIERS IN NEUROROBOTICS
+SN  - 1662-5218
+DA  - OCT 15
+PY  - 2020
+VL  - 14
+C7  - 567571
+DO  - 10.3389/fnbot.2020.567571
+AN  - WOS:000584792400001
+ER  -
+
+TY  - JOUR
+AU  - Wu, Y
+AU  - Su, YY
+AU  - Demiris, Y
+TI  - A morphable template framework for robot learning by demonstration: Integrating one-shot and incremental learning approaches
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - OCT
+PY  - 2014
+VL  - 62
+IS  - 10
+SP  - 1517
+EP  - 1530
+DO  - 10.1016/j.robot.2014.05.010
+AN  - WOS:000341464300015
+ER  -
+
+TY  - JOUR
+AU  - Vicente, IS
+AU  - Kyrki, V
+AU  - Kragic, D
+AU  - Larsson, M
+TI  - Action recognition and understanding through motor primitives
+T2  - ADVANCED ROBOTICS
+SN  - 0169-1864
+SN  - 1568-5535
+DA  - NOV
+PY  - 2007
+VL  - 21
+IS  - 15
+SP  - 1687
+EP  - 1707
+DO  - 10.1163/156855307782506156
+AN  - WOS:000251176700002
+ER  -
+
+TY  - CPAPER
+AU  - Brouwer, D
+AU  - Citron, J
+AU  - Choi, H
+AU  - Lepert, M
+AU  - Lin, M
+AU  - Bohg, J
+AU  - Cutkosky, M
+A1  - IEEE
+TI  - Tactile-Informed Action Primitives Mitigate Jamming in Dense Clutter
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA 2024
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 979-8-3503-8458-1
+SN  - 979-8-3503-8457-4
+PY  - 2024
+SP  - 7991
+EP  - 7997
+DO  - 10.1109/ICRA57147.2024.10610224
+AN  - WOS:001294576205123
+ER  -
+
+TY  - CPAPER
+AU  - Aksoy, EE
+AU  - Zhou, Y
+AU  - Wächter, M
+AU  - Asfour, T
+ED  - Asfour, T
+ED  - Billard, A
+ED  - Harada, K
+ED  - Kulic, D
+ED  - Ude, A
+ED  - Venture, G
+ED  - Yamane, K
+ED  - Yokoi, K
+ED  - Yoshida, E
+TI  - Enriched Manipulation Action Semantics for Robot Execution of Time Constrained Tasks
+T2  - 2016 IEEE-RAS 16TH INTERNATIONAL CONFERENCE ON HUMANOID ROBOTS (HUMANOIDS)
+CP  - 16th IEEE-RAS International Conference on Humanoid Robots (Humanoids)
+SN  - 2164-0572
+SN  - 978-1-5090-4718-5
+PY  - 2016
+SP  - 109
+EP  - 116
+AN  - WOS:000403009300017
+ER  -
+
+TY  - CPAPER
+AU  - D'Orazio, T
+AU  - Cicirelli, G
+AU  - Distante, C
+ED  - Casasent, DP
+TI  - A vision-based approach for learning an elementary navigation behavior
+T2  - INTELLIGENT ROBOTS AND COMPUTER VISION XVII: ALGORITHMS, TECHNIQUES, AND ACTIVE VISION
+CP  - Conference on Intelligent Robots and Computer Vision XVII - Algorithms, Techniques, and Active Vision
+SN  - 0277-786X
+SN  - 0-8194-2983-X
+PY  - 1998
+VL  - 3522
+SP  - 320
+EP  - 326
+DO  - 10.1117/12.325778
+AN  - WOS:000077140600033
+ER  -
+
+TY  - CPAPER
+AU  - Son, D
+AU  - Kim, M
+AU  - Sim, J
+AU  - Shin, W
+A1  - IEEE
+TI  - Reinforcement Learning for Vision-based Object Manipulation with Non-parametric Policy and Action Primitives
+T2  - 2021 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-1714-3
+PY  - 2021
+SP  - 5756
+EP  - 5763
+DO  - 10.1109/IROS51168.2021.9636563
+AN  - WOS:000755125504086
+ER  -
+
+TY  - CPAPER
+AU  - Lea, C
+AU  - Vidal, R
+AU  - Hager, GD
+ED  - Okamura, A
+ED  - Menciassi, A
+ED  - Ude, A
+ED  - Burschka, D
+ED  - Lee, D
+ED  - Arrichiello, F
+ED  - Liu, H
+ED  - Moon, H
+ED  - Neira, J
+ED  - Sycara, K
+ED  - Yokoi, K
+ED  - Martinet, P
+ED  - Oh, P
+ED  - Valdastri, P
+ED  - Krovi, V
+TI  - Learning Convolutional Action Primitives for Fine-grained Action Recognition
+T2  - 2016 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4673-8026-3
+PY  - 2016
+SP  - 1642
+EP  - 1649
+AN  - WOS:000389516201068
+ER  -
+
+TY  - CPAPER
+AU  - Queisser, JF
+AU  - Ishihara, H
+AU  - Hammer, B
+AU  - Steil, JJ
+AU  - Asada, M
+A1  - IEEE
+TI  - Skill Memories for Parameterized Dynamic Action Primitives on the Pneumatically Driven Humanoid Robot Child Affetto
+T2  - 2018 JOINT IEEE 8TH INTERNATIONAL CONFERENCE ON DEVELOPMENT AND LEARNING AND EPIGENETIC ROBOTICS (ICDL-EPIROB)
+CP  - 8th Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+SN  - 2161-9484
+SN  - 978-1-5386-6110-9
+PY  - 2018
+SP  - 39
+EP  - 45
+AN  - WOS:000492050700006
+ER  -
+
+TY  - JOUR
+AU  - Cui, Z
+AU  - Kou, L
+AU  - Chen, ZH
+AU  - Bao, P
+AU  - Qian, DH
+AU  - Xie, L
+AU  - Tang, Y
+TI  - Research on LFD System of Humanoid Dual-Arm Robot
+T2  - SYMMETRY-BASEL
+SN  - 2073-8994
+DA  - APR
+PY  - 2024
+VL  - 16
+IS  - 4
+C7  - 396
+DO  - 10.3390/sym16040396
+AN  - WOS:001210121400001
+ER  -
+
+TY  - CPAPER
+AU  - Patel, M
+AU  - Ek, CH
+AU  - Kyriazis, N
+AU  - Argyros, A
+AU  - Miro, JV
+AU  - Kragic, D
+A1  - IEEE
+TI  - Language for Learning Complex Human-Object Interactions
+T2  - 2013 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4673-5641-1
+SN  - 978-1-4673-5643-5
+PY  - 2013
+SP  - 4997
+EP  - 5002
+AN  - WOS:000337617305003
+ER  -
+
+TY  - CPAPER
+AU  - Pang, JC
+AU  - Yang, SH
+AU  - Chen, XH
+AU  - Yang, XY
+AU  - Yu, Y
+AU  - Ma, M
+AU  - Guo, ZQ
+AU  - Yang, H
+AU  - Huang, B
+A1  - IEEE
+TI  - Object-Oriented Option Framework for Robotics Manipulation in Clutter
+T2  - 2023 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, IROS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-9190-7
+PY  - 2023
+SP  - 1230
+EP  - 1237
+DO  - 10.1109/IROS55552.2023.10342335
+AN  - WOS:001133658800128
+ER  -
+
+TY  - CPAPER
+AU  - Dalal, M
+AU  - Pathak, D
+AU  - Salakhutdinov, R
+ED  - Ranzato, M
+ED  - Beygelzimer, A
+ED  - Dauphin, Y
+ED  - Liang, PS
+ED  - Vaughan, JW
+TI  - Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives
+T2  - ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 34 (NEURIPS 2021)
+CP  - 35th Conference on Neural Information Processing Systems (NeurIPS)
+SN  - 1049-5258
+PY  - 2021
+VL  - 34
+AN  - WOS:000901616400016
+ER  -
+
+TY  - JOUR
+AU  - Lahiri, U
+AU  - Labadie, RF
+AU  - Liu, CC
+AU  - Balachandran, R
+AU  - Majdani, O
+AU  - Sarkar, N
+TI  - A Step Toward Identification of Surgical Actions in Mastoidectomy
+T2  - IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING
+SN  - 0018-9294
+SN  - 1558-2531
+DA  - FEB
+PY  - 2010
+VL  - 57
+IS  - 2
+SP  - 479
+EP  - 487
+DO  - 10.1109/TBME.2009.2031982
+AN  - WOS:000273764600027
+ER  -
+
+TY  - JOUR
+AU  - Patel, M
+AU  - Miro, JV
+AU  - Kragic, D
+AU  - Ek, CH
+AU  - Dissanayake, G
+TI  - Learning object, grasping and manipulation activities using hierarchical HMMs
+T2  - AUTONOMOUS ROBOTS
+SN  - 0929-5593
+SN  - 1573-7527
+DA  - OCT
+PY  - 2014
+VL  - 37
+IS  - 3
+SP  - 317
+EP  - 331
+DO  - 10.1007/s10514-014-9392-1
+AN  - WOS:000340409000006
+ER  -
+
+TY  - CPAPER
+AU  - Matsumura, A
+AU  - Iwai, Y
+AU  - Yachida, M
+ED  - Arai, T
+ED  - Yamamoto, S
+ED  - Makino, K
+TI  - Tracking people and action recognition from onmidirectional images
+T2  - Systems and Human Science - For Safety, Security and Dependability
+CP  - 1st International Symposium on Systems and Human Science for Safety, Security, and Dependability
+SN  - 0-444-51813-4
+PY  - 2005
+SP  - 501
+EP  - +
+DO  - 10.1016/B978-044451813-2/50039-7
+AN  - WOS:000230002200037
+ER  -
+
+TY  - CPAPER
+AU  - Figueroa, N
+AU  - Ureche, ALP
+AU  - Billard, A
+A1  - ACM
+TI  - Learning Complex Sequential Tasks from Demonstration: A Pizza Dough Rolling Case Study
+T2  - ELEVENTH ACM/IEEE INTERNATIONAL CONFERENCE ON HUMAN ROBOT INTERACTION (HRI'16)
+CP  - 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SN  - 2167-2121
+SN  - 2167-2148
+SN  - 978-1-4673-8369-1
+PY  - 2016
+SP  - 611
+EP  - 612
+AN  - WOS:000389809100156
+ER  -
+
+TY  - CPAPER
+AU  - Shah, BC
+AU  - Svec, P
+AU  - Bertaska, IR
+AU  - Klinger, W
+AU  - Sinisterra, AJ
+AU  - von Ellenrieder, K
+AU  - Dhanak, M
+AU  - Gupta, SK
+A1  - IEEE
+TI  - Trajectory Planning with Adaptive Control Primitives for Autonomous Surface Vehicles Operating in Congested Civilian Traffic
+T2  - 2014 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS 2014)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-4799-6934-0
+PY  - 2014
+SP  - 2312
+EP  - 2318
+AN  - WOS:000349834602064
+ER  -
+
+TY  - CPAPER
+AU  - Kotsovolis, S
+AU  - Demiris, Y
+A1  - IEEE
+TI  - Bi-Manual Manipulation of Multi-Component Garments towards Robot-Assisted Dressing
+T2  - 2023 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2023)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 979-8-3503-2365-8
+PY  - 2023
+SP  - 9865
+EP  - 9871
+DO  - 10.1109/ICRA48891.2023.10161335
+AN  - WOS:001048371102079
+ER  -
+
+TY  - CPAPER
+AU  - Dermy, O
+AU  - Charpillet, F
+AU  - Ivaldi, S
+ED  - Ficuciello, F
+ED  - Ruggiero, F
+ED  - Finzi, A
+TI  - Multi-modal Intention Prediction with Probabilistic Movement Primitives
+T2  - HUMAN FRIENDLY ROBOTICS
+CP  - 10th International Workshop on Human Friendly Robotics (HFR)
+SN  - 2511-1256
+SN  - 2511-1264
+SN  - 978-3-319-89327-3
+SN  - 978-3-319-89326-6
+PY  - 2019
+VL  - 7
+SP  - 181
+EP  - 196
+DO  - 10.1007/978-3-319-89327-3_14
+AN  - WOS:000455354000014
+ER  -
+
+TY  - CPAPER
+AU  - Lou, XB
+AU  - Yu, HJ
+AU  - Worobel, R
+AU  - Yang, Y
+AU  - Choi, CH
+A1  - IEEE
+TI  - Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks
+T2  - 2023 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, IROS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-9190-7
+PY  - 2023
+SP  - 1008
+EP  - 1015
+DO  - 10.1109/IROS55552.2023.10342412
+AN  - WOS:001133658800106
+ER  -
+
+TY  - JOUR
+AU  - Luo, SQ
+AU  - Cheng, M
+AU  - Ding, RQ
+AU  - Wang, F
+AU  - Xu, B
+AU  - Chen, BK
+TI  - Human-Robot Shared Control Based on Locally Weighted Intent Prediction for a Teleoperated Hydraulic Manipulator System
+T2  - IEEE-ASME TRANSACTIONS ON MECHATRONICS
+SN  - 1083-4435
+SN  - 1941-014X
+DA  - DEC
+PY  - 2022
+VL  - 27
+IS  - 6
+SP  - 4462
+EP  - 4474
+DO  - 10.1109/TMECH.2022.3157852
+C6  - MAR 2022
+AN  - WOS:000777272500001
+ER  -
+
+TY  - JOUR
+AU  - Jeong, S
+AU  - Arie, H
+AU  - Lee, M
+AU  - Tani, J
+TI  - Neuro-robotics study on integrative learning of proactive visual attention and motor behaviors
+T2  - COGNITIVE NEURODYNAMICS
+SN  - 1871-4080
+SN  - 1871-4099
+DA  - FEB
+PY  - 2012
+VL  - 6
+IS  - 1
+SP  - 43
+EP  - 59
+DO  - 10.1007/s11571-011-9176-7
+AN  - WOS:000299000300005
+ER  -
+
+TY  - CPAPER
+AU  - Saegusa, R
+AU  - Metta, G
+AU  - Sandini, G
+AU  - Natale, L
+A1  - IEEE
+TI  - Developmental Action Perception for Manipulative Interaction
+T2  - 2013 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4673-5641-1
+SN  - 978-1-4673-5643-5
+PY  - 2013
+SP  - 4967
+EP  - 4972
+AN  - WOS:000337617304149
+ER  -
+
+TY  - CPAPER
+AU  - Choi, TA
+ED  - Hamza, MH
+TI  - Scenario based robot programming
+T2  - PROCEEDINGS OF THE 12TH IASTED INTERNATIONAL CONFERENCE ON ROBOTICS AND APPLICATIONS
+CP  - 12th IASTED International Conference on Robotics and Applications (ICRA)
+SN  - 1027-264X
+SN  - 978-0-88986-595-2
+PY  - 2006
+SP  - 55
+EP  - 60
+AN  - WOS:000244035500010
+ER  -
+
+TY  - JOUR
+AU  - Lim, H
+AU  - Kang, Y
+AU  - Lee, J
+AU  - Kim, J
+AU  - You, BJ
+TI  - SOFTWARE ARCHITECTURE AND TASK DEFINITION OF A MULTIPLE HUMANOID COOPERATIVE CONTROL SYSTEM
+T2  - INTERNATIONAL JOURNAL OF HUMANOID ROBOTICS
+SN  - 0219-8436
+SN  - 1793-6942
+DA  - JUN
+PY  - 2009
+VL  - 6
+IS  - 2
+SP  - 173
+EP  - 203
+DO  - 10.1142/S0219843609001747
+AN  - WOS:000268109300002
+ER  -
+
+TY  - JOUR
+AU  - Ma, WY
+AU  - Zhang, B
+AU  - Han, LJ
+AU  - Huo, SZ
+AU  - Wang, HS
+AU  - Navarro-Alarcon, D
+TI  - Action Planning for Packing Long Linear Elastic Objects Into Compact Boxes With Bimanual Robotic Manipulation
+T2  - IEEE-ASME TRANSACTIONS ON MECHATRONICS
+SN  - 1083-4435
+SN  - 1941-014X
+DA  - JUN
+PY  - 2023
+VL  - 28
+IS  - 3
+SP  - 1718
+EP  - 1729
+DO  - 10.1109/TMECH.2022.3223990
+C6  - DEC 2022
+AN  - WOS:000900018500001
+ER  -
+
+TY  - JOUR
+AU  - Lou, JB
+AU  - Shi, RY
+AU  - Lin, YX
+AU  - Wang, QB
+AU  - Wu, WJ
+TI  - TALKER: A Task-Activated Language Model Based Knowledge-Extension Reasoning System
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - FEB
+PY  - 2025
+VL  - 10
+IS  - 2
+SP  - 1026
+EP  - 1033
+DO  - 10.1109/LRA.2024.3511434
+AN  - WOS:001383062500021
+ER  -
+
+TY  - CPAPER
+AU  - Stramandinoli, F
+AU  - Cangelosi, A
+AU  - Marocco, D
+A1  - IEEE
+TI  - Towards the Grounding of Abstract Words: A Neural Network Model for Cognitive Robots
+T2  - 2011 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN)
+CP  - International Joint Conference on Neural Networks (IJCNN)
+SN  - 978-1-4244-9636-5
+PY  - 2011
+SP  - 467
+EP  - 474
+AN  - WOS:000297541200068
+ER  -
+
+TY  - CPAPER
+AU  - Maske, H
+AU  - Kieson, E
+AU  - Chowdhary, G
+AU  - Abramson, C
+A1  - IEEE
+TI  - Learning Task-Based Instructional Policy for Excavator-Like Robots
+T2  - 2018 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 978-1-5386-3081-5
+PY  - 2018
+SP  - 1962
+EP  - 1969
+AN  - WOS:000446394501078
+ER  -
+
+TY  - JOUR
+AU  - Chu, FJ
+AU  - Xu, RN
+AU  - Seguin, L
+AU  - Vela, PA
+TI  - Toward Affordance Detection and Ranking on Novel Objects for Real-World Robotic Manipulation
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - OCT
+PY  - 2019
+VL  - 4
+IS  - 4
+SP  - 4070
+EP  - 4077
+DO  - 10.1109/LRA.2019.2930364
+AN  - WOS:000480658700007
+ER  -
+
+TY  - CPAPER
+AU  - Kaiser, P
+AU  - Kanoulas, D
+AU  - Grotz, M
+AU  - Muratore, L
+AU  - Rocchi, A
+AU  - Hoffman, EM
+AU  - Tsagarakis, NG
+AU  - Asfour, T
+ED  - Asfour, T
+ED  - Billard, A
+ED  - Harada, K
+ED  - Kulic, D
+ED  - Ude, A
+ED  - Venture, G
+ED  - Yamane, K
+ED  - Yokoi, K
+ED  - Yoshida, E
+TI  - An Affordance-Based Pilot Interface for High-Level Control of Humanoid Robots in Supervised Autonomy
+T2  - 2016 IEEE-RAS 16TH INTERNATIONAL CONFERENCE ON HUMANOID ROBOTS (HUMANOIDS)
+CP  - 16th IEEE-RAS International Conference on Humanoid Robots (Humanoids)
+SN  - 2164-0572
+SN  - 978-1-5090-4718-5
+PY  - 2016
+SP  - 621
+EP  - 628
+AN  - WOS:000403009300094
+ER  -
+
+TY  - CPAPER
+AU  - Gori, I
+AU  - Fanello, SR
+AU  - Odone, F
+AU  - Metta, G
+A1  - IEEE
+TI  - A Compositional Approach for 3D Arm-Hand Action Recognition
+T2  - 2013 IEEE WORKSHOP ON ROBOT VISION (WORV)
+CP  - IEEE Workshop on Robot Vision (WORV)
+SN  - 978-1-4673-5648-0
+SN  - 978-1-4673-5646-6
+PY  - 2013
+SP  - 126
+EP  - 131
+AN  - WOS:000325279400020
+ER  -
+
+TY  - CPAPER
+AU  - Peng, YL
+AU  - Wang, ZG
+AU  - Zhang, YS
+AU  - Zhang, SM
+AU  - Cai, N
+AU  - Wu, F
+AU  - Chen, M
+A1  - IEEE
+TI  - Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1)
+T2  - 2024 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, IROS 2024
+CP  - 2024 International Conference on Intelligent Robots and Systems
+SN  - 2153-0858
+SN  - 979-8-3503-7771-2
+SN  - 979-8-3503-7770-5
+PY  - 2024
+SP  - 6367
+EP  - 6374
+DO  - 10.1109/IROS58592.2024.10802225
+AN  - WOS:001411890000620
+ER  -
+
+TY  - JOUR
+AU  - Bugur, S
+AU  - Oztop, E
+AU  - Nagai, Y
+AU  - Ugur, E
+TI  - Effect Regulated Projection of Robot's Action Space for Production and Prediction of Manipulation Primitives Through Learning Progress and Predictability-Based Exploration
+T2  - IEEE TRANSACTIONS ON COGNITIVE AND DEVELOPMENTAL SYSTEMS
+SN  - 2379-8920
+SN  - 2379-8939
+DA  - JUN
+PY  - 2021
+VL  - 13
+IS  - 2
+SP  - 286
+EP  - 297
+DO  - 10.1109/TCDS.2019.2933900
+AN  - WOS:000659548600006
+ER  -
+
+TY  - JOUR
+AU  - Stramandinoli, F
+AU  - Marocco, D
+AU  - Cangelosi, A
+TI  - The grounding of higher order concepts in action and language: A cognitive robotics model
+T2  - NEURAL NETWORKS
+SN  - 0893-6080
+SN  - 1879-2782
+DA  - AUG
+PY  - 2012
+VL  - 32
+SP  - 165
+EP  - 173
+DO  - 10.1016/j.neunet.2012.02.012
+AN  - WOS:000306162600018
+ER  -
+
+TY  - CPAPER
+AU  - Avigal, Y
+AU  - Berscheid, L
+AU  - Asfour, T
+AU  - Kröger, T
+AU  - Goldberg, K
+A1  - IEEE
+TI  - SpeedFolding: Learning Efficient Bimanual Folding of Garments
+T2  - 2022 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-7927-1
+PY  - 2022
+SP  - 1
+EP  - 8
+DO  - 10.1109/IROS47612.2022.9981402
+AN  - WOS:000908368200001
+ER  -
+
+TY  - CPAPER
+AU  - Schwaner, KL
+AU  - Dall'Alba, D
+AU  - Jensen, PT
+AU  - Fiorini, P
+AU  - Savarimuthu, TR
+A1  - IEEE
+TI  - Autonomous Needle Manipulation for Robotic Surgical Suturing Based on Skills Learned from Demonstration
+T2  - 2021 IEEE 17TH INTERNATIONAL CONFERENCE ON AUTOMATION SCIENCE AND ENGINEERING (CASE)
+CP  - 17th IEEE International Conference on Automation Science and Engineering (CASE)
+SN  - 2161-8070
+SN  - 978-1-6654-1873-7
+PY  - 2021
+SP  - 235
+EP  - 241
+DO  - 10.1109/CASE49439.2021.9551569
+AN  - WOS:000878693200031
+ER  -
+
+TY  - CPAPER
+AU  - Ogawara, K
+AU  - Takamatsu, J
+AU  - Kimura, H
+AU  - Ikeuchi, K
+A1  - IEEE
+A1  - IEEE
+TI  - Modeling manipulation interactions by hidden Markov models
+T2  - 2002 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, VOLS 1-3, PROCEEDINGS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2002)
+SN  - 0-7803-7398-7
+PY  - 2002
+SP  - 1096
+EP  - 1101
+AN  - WOS:000179289100178
+ER  -
+
+TY  - JOUR
+AU  - Chen, BT
+AU  - Zhang, Y
+AU  - Xia, XH
+AU  - Martinez-Garcia, M
+AU  - Jombo, G
+TI  - Knowledge Sharing Enabled Multirobot Collaboration for Preventive Maintenance in Mixed Model Assembly
+T2  - IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+SN  - 1551-3203
+SN  - 1941-0050
+DA  - NOV
+PY  - 2022
+VL  - 18
+IS  - 11
+SP  - 8098
+EP  - 8107
+DO  - 10.1109/TII.2022.3158978
+AN  - WOS:000856145200073
+ER  -
+
+TY  - JOUR
+AU  - Huo, SZ
+AU  - Duan, AQ
+AU  - Li, CX
+AU  - Zhou, P
+AU  - Ma, WY
+AU  - Wang, HS
+AU  - Navarro-Alarcon, D
+TI  - Keypoint-Based Planar Bimanual Shaping of Deformable Linear Objects Under Environmental Constraints With Hierarchical Action Framework
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - APR
+PY  - 2022
+VL  - 7
+IS  - 2
+SP  - 5222
+EP  - 5229
+DO  - 10.1109/LRA.2022.3154842
+AN  - WOS:000770005100009
+ER  -
+
+TY  - JOUR
+AU  - Duminy, N
+AU  - Nguyen, SM
+AU  - Zhu, JS
+AU  - Duhaut, D
+AU  - Kerdreux, J
+TI  - Intrinsically Motivated Open-Ended Multi-Task Learning Using Transfer Learning to Discover Task Hierarchy
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - FEB
+PY  - 2021
+VL  - 11
+IS  - 3
+C7  - 975
+DO  - 10.3390/app11030975
+AN  - WOS:000614946800001
+ER  -
+
+TY  - CPAPER
+AU  - Park, HW
+A1  - ACM
+TI  - Task-Learning Policies for Collaborative Task Solving in Human-Robot Interaction
+T2  - ICMI '12: PROCEEDINGS OF THE ACM INTERNATIONAL CONFERENCE ON MULTIMODAL INTERACTION
+CP  - 14th ACM International Conference on Multimodal Interaction (ICMI)
+SN  - 978-1-4503-1467-1
+PY  - 2012
+SP  - 341
+EP  - 344
+AN  - WOS:000321926300064
+ER  -
+
+TY  - CPAPER
+AU  - Zenkri, O
+AU  - Vien, NA
+AU  - Neumann, G
+A1  - IEEE
+TI  - Hierarchical Policy Learning for Mechanical Search
+T2  - 2022 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2022)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 978-1-7281-9681-7
+PY  - 2022
+SP  - 1954
+EP  - 1960
+DO  - 10.1109/ICRA46639.2022.9811572
+AN  - WOS:000941265701041
+ER  -
+
+TY  - JOUR
+AU  - Qian, K
+AU  - Liu, H
+AU  - Miro, JV
+AU  - Jing, XS
+AU  - Zhou, B
+TI  - Hierarchical and parameterized learning of pick-and-place manipulation from under-specified human demonstrations
+T2  - ADVANCED ROBOTICS
+SN  - 0169-1864
+SN  - 1568-5535
+DA  - JUL 2
+PY  - 2020
+VL  - 34
+IS  - 13
+SP  - 858
+EP  - 872
+DO  - 10.1080/01691864.2020.1778523
+C6  - JUN 2020
+AN  - WOS:000545764900001
+ER  -
+
+TY  - CPAPER
+AU  - Stuke, T
+AU  - Rauschenbach, T
+AU  - Bartsch, T
+ED  - Niggemann, O
+ED  - Beyerer, J
+ED  - Krantz, M
+ED  - Kuhnert, C
+TI  - Development of a Robotic Bin Picking Approach Based on Reinforcement Learning
+T2  - MACHINE LEARNING FOR CYBER-PHYSICAL SYSTEMS, ML4CPS 2023
+CP  - 6th International Conference on Machine Learning for Cyber-Physical Systems (ML4CPS)
+SN  - 978-3-031-47061-5
+SN  - 978-3-031-47062-2
+PY  - 2024
+SP  - 41
+EP  - 49
+DO  - 10.1007/978-3-031-47062-2_5
+AN  - WOS:001284714500005
+ER  -
+
+TY  - CPAPER
+AU  - Luo, H
+AU  - Demiris, Y
+A1  - IEEE
+TI  - Bi-Manual Robot Shoe Lacing
+T2  - 2023 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-9190-7
+PY  - 2023
+SP  - 8772
+EP  - 8777
+DO  - 10.1109/IROS55552.2023.10341934
+AN  - WOS:001136907802129
+ER  -
+
+TY  - JOUR
+AU  - Rasheed, N
+AU  - Amin, SHM
+AU  - Sultana, U
+AU  - Bhatti, AR
+TI  - Hopfield Net spreading activation for grounding of abstract action words in cognitive robot
+T2  - BIOLOGICALLY INSPIRED COGNITIVE ARCHITECTURES
+SN  - 2212-683X
+SN  - 2212-6848
+DA  - JUL
+PY  - 2017
+VL  - 21
+SP  - 37
+EP  - 46
+DO  - 10.1016/j.bica.2017.07.004
+AN  - WOS:000411772900004
+ER  -
+
+TY  - JOUR
+AU  - Aarno, D
+AU  - Kragic, D
+TI  - Motion intention recognition in robot assisted applications
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - AUG 31
+PY  - 2008
+VL  - 56
+IS  - 8
+SP  - 692
+EP  - 705
+DO  - 10.1016/j.robot.2007.11.005
+AN  - WOS:000258562600005
+ER  -
+
+TY  - CPAPER
+AU  - Paolillo, A
+AU  - Cherubini, A
+AU  - Keith, F
+AU  - Kheddar, A
+AU  - Vendittelli, M
+A1  - IEEE
+TI  - Toward Autonomous Car Driving by a Humanoid Robot: A Sensor-Based Framework
+T2  - 2014 14TH IEEE-RAS INTERNATIONAL CONFERENCE ON HUMANOID ROBOTS (HUMANOIDS)
+CP  - 14th IEEE-RAS International Conference on Humanoid Robots (Humanoids)
+SN  - 2164-0572
+SN  - 978-1-4799-7174-9
+PY  - 2014
+SP  - 451
+EP  - 456
+AN  - WOS:000392843800073
+ER  -
+
+TY  - CPAPER
+AU  - Liu, Z
+AU  - Wang, ZW
+AU  - Huang, SC
+AU  - Zhou, J
+AU  - Lu, JW
+A1  - IEEE
+TI  - GE-Grasp: Efficient Target-Oriented Grasping in Dense Clutter
+T2  - 2022 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-7927-1
+PY  - 2022
+SP  - 1388
+EP  - 1395
+DO  - 10.1109/IROS47612.2022.9981499
+AN  - WOS:000908368201053
+ER  -
+
+TY  - CPAPER
+AU  - Rysbek, Z
+AU  - Oh, KH
+AU  - Abbasi, B
+AU  - Zefran, M
+AU  - Di Eugenio, B
+A1  - IEEE
+TI  - Physical Action Primitives for Collaborative Decision Making in Human-Human Manipulation
+T2  - 2021 30TH IEEE INTERNATIONAL CONFERENCE ON ROBOT AND HUMAN INTERACTIVE COMMUNICATION (RO-MAN)
+CP  - 30th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+SN  - 1944-9445
+SN  - 978-1-6654-0492-1
+PY  - 2021
+SP  - 1319
+EP  - 1325
+DO  - 10.1109/RO-MAN50785.2021.9515363
+AN  - WOS:000709817200191
+ER  -
+
+TY  - CPAPER
+AU  - Radi, M
+AU  - Reiter, A
+AU  - Zäh, MF
+AU  - Müller, T
+AU  - Knoll, A
+ED  - Kappers, AML
+ED  - VanErp, JBF
+ED  - Tiest, WMB
+ED  - VanDerHelm, FCT
+TI  - Telepresence Technology for Production: From Manual to Automated Assembly
+T2  - HAPTICS: GENERATING AND PERCEIVING TANGIBLE SENSATIONS, PT I, PROCEEDINGS
+CP  - EuroHaptics International Conference on Generating and Perceiving Tangible Sensations
+SN  - 0302-9743
+SN  - 978-3-642-14063-1
+PY  - 2010
+VL  - 6191
+SP  - 256
+EP  - +
+AN  - WOS:000281598200037
+ER  -
+
+TY  - CPAPER
+AU  - Mihelj, M
+AU  - Novak, D
+AU  - Munih, M
+A1  - IEEE
+TI  - Emotion-Aware System for Upper Extremity Rehabilitation
+T2  - 2009 VIRTUAL REHABILITATION INTERNATIONAL CONFERENCE
+CP  - Virtual Rehabilitation International Conference
+SN  - 978-1-4244-4188-4
+PY  - 2009
+SP  - 160
+EP  - 165
+DO  - 10.1109/ICVR.2009.5174225
+AN  - WOS:000270715900029
+ER  -
+
+TY  - CHAP
+AU  - Li, Z
+AU  - Fritsch, J
+AU  - Wachsmuth, S
+AU  - Sagerer, G
+ED  - Franke, K
+ED  - Muller, KR
+ED  - Nickolay, B
+ED  - Schafer, R
+TI  - An object-oriented approach using a top-down and bottom-up process for manipulative action recognition
+T2  - PATTERN RECOGNITION, PROCEEDINGS
+CP  - 28th Annual Symposium of the German-Association-for-Pattern-Recognition
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-44412-2
+PY  - 2006
+VL  - 4174
+SP  - 212
+EP  - 221
+AN  - WOS:000241486800022
+ER  -
+
+TY  - BOOK
+AU  - Koh, NW
+AU  - Ang, MH
+AU  - Lim, SY
+ED  - DeSilva, CW
+TI  - Robotic Tasks Using Discrete Event Controller
+T2  - MECHATRONIC SYSTEMS: DEVICES, DESIGN, CONTROL, OPERATION AND MONITORING
+SN  - 978-0-8493-0775-1
+PY  - 2008
+AN  - WOS:000267376200015
+ER  -
+
+TY  - JOUR
+AU  - Sarantopoulos, I
+AU  - Kiatos, M
+AU  - Doulgeri, Z
+AU  - Malassiotis, S
+TI  - Total Singulation With Modular Reinforcement Learning
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - APR
+PY  - 2021
+VL  - 6
+IS  - 2
+SP  - 4118
+EP  - 4125
+DO  - 10.1109/LRA.2021.3062295
+AN  - WOS:000638400900029
+ER  -
+
+TY  - JOUR
+AU  - Shah, BC
+AU  - Svec, P
+AU  - Bertaska, IR
+AU  - Sinisterra, AJ
+AU  - Klinger, W
+AU  - von Ellenrieder, K
+AU  - Dhanak, M
+AU  - Gupta, SK
+TI  - Resolution-adaptive risk-aware trajectory planning for surface vehicles operating in congested civilian traffic
+T2  - AUTONOMOUS ROBOTS
+SN  - 0929-5593
+SN  - 1573-7527
+DA  - OCT
+PY  - 2016
+VL  - 40
+IS  - 7
+SP  - 1139
+EP  - 1163
+DO  - 10.1007/s10514-015-9529-x
+AN  - WOS:000385157300005
+ER  -
+
+TY  - JOUR
+AU  - Ahad, MAR
+AU  - Tan, JK
+AU  - Kim, HS
+AU  - Ishikawa, S
+TI  - Temporal Motion Recognition and Segmentation Approach
+T2  - INTERNATIONAL JOURNAL OF IMAGING SYSTEMS AND TECHNOLOGY
+CP  - 12th International Workshop on Combinatorial Image Analysis
+SN  - 0899-9457
+SN  - 1098-1098
+PY  - 2009
+VL  - 19
+IS  - 2
+SP  - 91
+EP  - 99
+DO  - 10.1002/ima.20183
+AN  - WOS:000266505900006
+ER  -
+
+TY  - CPAPER
+AU  - Okada, K
+AU  - Tokutsu, S
+AU  - Ogura, T
+AU  - Kojima, M
+AU  - Mori, Y
+AU  - Maki, T
+AU  - Inaba, M
+ED  - Burgard, W
+ED  - Dillmann, R
+ED  - Plagemann, C
+ED  - Vahrenkamp, N
+TI  - Scenario controller for daily assistive humanoid using visual verification, task planning and situation reasoning
+T2  - IAS-10: INTELLIGENT AUTONOMOUS SYSTEMS 10
+CP  - 10th International Conference on Intelligent Autonomous Systems
+SN  - 978-1-58603-887-8
+PY  - 2008
+SP  - 398
+EP  - 405
+DO  - 10.3233/978-1-58603-887-8-398
+AN  - WOS:000279575000047
+ER  -
+
+TY  - CPAPER
+AU  - Schwaner, KL
+AU  - Iturrate, I
+AU  - Andersen, JKH
+AU  - Jensen, PT
+AU  - Savarimuthu, TR
+A1  - IEEE
+TI  - Autonomous Bi-Manual Surgical Suturing Based on Skills Learned from Demonstration
+T2  - 2021 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-1714-3
+PY  - 2021
+SP  - 4017
+EP  - 4024
+DO  - 10.1109/IROS51168.2021.9636432
+AN  - WOS:000755125503025
+ER  -
+
+TY  - CPAPER
+AU  - Mazzaglia, P
+AU  - Cohen, T
+AU  - Dijkman, D
+A1  - IEEE
+TI  - Information-driven Affordance Discovery for Efficient Robotic Manipulation
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA 2024
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 979-8-3503-8458-1
+SN  - 979-8-3503-8457-4
+PY  - 2024
+SP  - 7780
+EP  - 7787
+DO  - 10.1109/ICRA57147.2024.10611170
+AN  - WOS:001294576205105
+ER  -
+
+TY  - CPAPER
+AU  - Zhao, C
+AU  - Tong, ZK
+AU  - Rojas, J
+AU  - Seo, J
+A1  - IEEE
+TI  - Learning to Pick by Digging: Data-Driven Dig-Grasping for Bin Picking from Clutter
+T2  - 2022 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2022)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 978-1-7281-9681-7
+PY  - 2022
+DO  - 10.1109/ICRA46639.2022.9811736
+AN  - WOS:000941265700065
+ER  -
+
+TY  - JOUR
+AU  - Chen, BT
+AU  - Tong, X
+AU  - Wan, JF
+AU  - Wang, L
+AU  - Duan, XY
+AU  - Wang, ZH
+AU  - Xia, XH
+TI  - Knowledge sharing-enabled low-code program for collaborative robots in mix-model assembly
+T2  - JOURNAL OF INDUSTRIAL INFORMATION INTEGRATION
+SN  - 2467-964X
+SN  - 2452-414X
+DA  - MAY
+PY  - 2025
+VL  - 45
+C7  - 100824
+DO  - 10.1016/j.jii.2025.100824
+AN  - WOS:001452200100001
+ER  -
+
+TY  - JOUR
+AU  - Le Goff, LK
+AU  - Yaakoubi, O
+AU  - Coninx, A
+AU  - Doncieux, S
+TI  - Building an Affordances Map With Interactive Perception
+T2  - FRONTIERS IN NEUROROBOTICS
+SN  - 1662-5218
+DA  - MAY 10
+PY  - 2022
+VL  - 16
+C7  - 504459
+DO  - 10.3389/fnbot.2022.504459
+AN  - WOS:000802270300001
+ER  -
+
+TY  - CPAPER
+AU  - Lallée, S
+AU  - Pattacini, U
+AU  - Boucher, JD
+AU  - Lemaignan, S
+AU  - Lenz, A
+AU  - Melhuish, C
+AU  - Natale, L
+AU  - Skachek, S
+AU  - Hamann, K
+AU  - Steinwender, J
+AU  - Sisbot, EA
+AU  - Metta, G
+AU  - Alami, R
+AU  - Warnier, M
+AU  - Guitton, J
+AU  - Warneken, F
+AU  - Dominey, PF
+A1  - IEEE
+TI  - Towards a Platform-Independent Cooperative Human-Robot Interaction System: II. Perception, Execution and Imitation of Goal Directed Actions
+T2  - 2011 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SN  - 2153-0858
+SN  - 978-1-61284-455-8
+PY  - 2011
+SP  - 2895
+EP  - 2902
+AN  - WOS:000297477503038
+ER  -
+
+TY  - JOUR
+AU  - Asada, M
+AU  - Noda, S
+AU  - Hosoda, K
+TI  - Action-based sensor space segmentation for soccer robot learning
+T2  - APPLIED ARTIFICIAL INTELLIGENCE
+SN  - 0883-9514
+SN  - 1087-6545
+DA  - MAR-MAY
+PY  - 1998
+VL  - 12
+IS  - 2-3
+SP  - 149
+EP  - 164
+DO  - 10.1080/088395198117802
+AN  - WOS:000072754600003
+ER  -
+
+TY  - JOUR
+AU  - Racinskis, P
+AU  - Vismanis, O
+AU  - Zinars, TE
+AU  - Arents, J
+AU  - Greitans, M
+TI  - Towards Open-Set NLP-Based Multi-Level Planning for Robotic Tasks
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - NOV
+PY  - 2024
+VL  - 14
+IS  - 22
+C7  - 10717
+DO  - 10.3390/app142210717
+AN  - WOS:001366694700001
+ER  -
+
+TY  - CPAPER
+AU  - Lim, H
+AU  - Kang, Y
+AU  - Lee, J
+AU  - Kim, J
+AU  - You, BJ
+A1  - IEEE
+TI  - Multiple Humanoid Cooperative Control System for Heterogeneous Humanoid Team
+T2  - 2008 17TH IEEE INTERNATIONAL SYMPOSIUM ON ROBOT AND HUMAN INTERACTIVE COMMUNICATION, VOLS 1 AND 2
+CP  - 17th IEEE International Symposium on Robot and Human Interactive Communications
+SN  - 978-1-4244-2212-8
+PY  - 2008
+SP  - 231
+EP  - +
+AN  - WOS:000261700900039
+ER  -
+
+TY  - JOUR
+AU  - Hart, S
+AU  - Grupen, R
+TI  - Learning Generalizable Control Programs
+T2  - IEEE TRANSACTIONS ON AUTONOMOUS MENTAL DEVELOPMENT
+SN  - 1943-0604
+SN  - 1943-0612
+DA  - SEP
+PY  - 2011
+VL  - 3
+IS  - 3
+SP  - 216
+EP  - 231
+DO  - 10.1109/TAMD.2010.2103311
+AN  - WOS:000294906800004
+ER  -
+
+TY  - JOUR
+AU  - Bandera, JP
+AU  - Marfil, R
+AU  - Romero-Garcés, A
+AU  - Voilmy, D
+TI  - A new paradigm for autonomous human motion description and evaluation: Application to the Get Up & Go test use case
+T2  - PATTERN RECOGNITION LETTERS
+SN  - 0167-8655
+SN  - 1872-7344
+DA  - FEB 1
+PY  - 2019
+VL  - 118
+SP  - 51
+EP  - 60
+DO  - 10.1016/j.patrec.2018.02.003
+AN  - WOS:000457976400007
+ER  -
+
+TY  - CPAPER
+AU  - Sharma, S
+AU  - Tuli, S
+AU  - Paul, R
+A1  - IEEE
+TI  - Unsupervised Learning of Neuro-symbolic Rules for Generalizable Context-aware Planning in Object Arrangement Tasks
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2024)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 979-8-3503-8458-1
+SN  - 979-8-3503-8457-4
+PY  - 2024
+SP  - 12865
+EP  - 12872
+DO  - 10.1109/ICRA57147.2024.10610696
+AN  - WOS:001369728003015
+ER  -
+
+TY  - JOUR
+AU  - Fischer, T
+AU  - Demiris, Y
+TI  - Computational Modeling of Embodied Visual Perspective Taking
+T2  - IEEE TRANSACTIONS ON COGNITIVE AND DEVELOPMENTAL SYSTEMS
+SN  - 2379-8920
+SN  - 2379-8939
+DA  - DEC
+PY  - 2020
+VL  - 12
+IS  - 4
+SP  - 723
+EP  - 732
+DO  - 10.1109/TCDS.2019.2949861
+AN  - WOS:000597148300004
+ER  -
+
+TY  - CPAPER
+AU  - Frasca, T
+AU  - Han, Z
+AU  - Allspaw, J
+AU  - Yanco, H
+AU  - Scheutz, M
+A1  - IEEE
+TI  - Going Cognitive: A Demonstration of the Utility of Task-General Cognitive Architectures for Adaptive Robotic Task Performance
+T2  - 2020 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-7281-6212-6
+PY  - 2020
+SP  - 8110
+EP  - 8116
+DO  - 10.1109/IROS45743.2020.9340863
+AN  - WOS:000724145802058
+ER  -
+
+TY  - JOUR
+AU  - Wen, RS
+AU  - Wang, Q
+AU  - Li, ZB
+TI  - Human hand movement recognition using infinite hidden Markov model based sEMG classification
+T2  - BIOMEDICAL SIGNAL PROCESSING AND CONTROL
+SN  - 1746-8094
+SN  - 1746-8108
+DA  - JUL
+PY  - 2021
+VL  - 68
+C7  - 102592
+DO  - 10.1016/j.bspc.2021.102592
+C6  - APR 2021
+AN  - WOS:000674565400007
+ER  -
+
+TY  - CPAPER
+AU  - Aein, MJ
+AU  - Aksoy, EE
+AU  - Tamosiunaite, M
+AU  - Papon, J
+AU  - Ude, A
+AU  - Wörgötter, F
+ED  - Amato, N
+TI  - Toward a library of manipulation actions based on semantic object-action relations
+T2  - 2013 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-4673-6358-7
+PY  - 2013
+SP  - 4555
+EP  - 4562
+AN  - WOS:000331367404092
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, YS
+AU  - Zhang, HW
+AU  - Wang, ZG
+AU  - Zhang, SM
+AU  - Li, HC
+AU  - Chen, M
+A1  - IEEE
+TI  - Development of an Autonomous, Explainable, Robust Robotic System for Electric Vehicle Battery Disassembly
+T2  - 2023 IEEE/ASME INTERNATIONAL CONFERENCE ON ADVANCED INTELLIGENT MECHATRONICS, AIM
+CP  - IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+SN  - 2159-6255
+SN  - 978-1-6654-7633-1
+PY  - 2023
+SP  - 409
+EP  - 414
+DO  - 10.1109/AIM46323.2023.10196256
+AN  - WOS:001051263900053
+ER  -
+
+TY  - CPAPER
+AU  - Gao, M
+AU  - Zöllner, JM
+A1  - IEEE
+TI  - Local Contextual Trajectory Estimation with Demonstration for Assisting Mobile Robot Teleoperation
+T2  - 2017 EUROPEAN CONFERENCE ON MOBILE ROBOTS (ECMR)
+CP  - European Conference on Mobile Robots (ECMR)
+SN  - 978-1-5386-1096-1
+PY  - 2017
+AN  - WOS:000426455100001
+ER  -
+
+TY  - CPAPER
+AU  - Pirk, S
+AU  - Hausman, K
+AU  - Toshev, A
+AU  - Khansari, M
+ED  - Kober, J
+ED  - Ramos, F
+ED  - Tomlin, C
+TI  - Modeling Long-horizon Tasks as Sequential Interaction Landscapes
+T2  - CONFERENCE ON ROBOT LEARNING, VOL 155
+CP  - 4th Conference on Robot Learning (CoRL)
+SN  - 2640-3498
+PY  - 2020
+VL  - 155
+SP  - 471
+EP  - 484
+AN  - WOS:001237128900036
+ER  -
+
+TY  - CPAPER
+AU  - Walsman, A
+AU  - Zhang, MR
+AU  - Kotar, K
+AU  - Desingh, K
+AU  - Farhadi, A
+AU  - Fox, D
+ED  - Avidan, S
+ED  - Brostow, G
+ED  - Cisse, M
+ED  - Farinella, GM
+ED  - Hassner, T
+TI  - Break and Make: Interactive Structural Understanding Using LEGO Bricks
+T2  - COMPUTER VISION - ECCV 2022, PT XXVIII
+CP  - 17th European Conference on Computer Vision (ECCV)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-19814-4
+SN  - 978-3-031-19815-1
+PY  - 2022
+VL  - 13688
+SP  - 90
+EP  - 107
+DO  - 10.1007/978-3-031-19815-1_6
+AN  - WOS:000903608700006
+ER  -
+
+TY  - CPAPER
+AU  - Asada, M
+AU  - Noda, S
+AU  - Hosoda, K
+A1  - IEEE
+TI  - Action-based sensor space categorization for robot learning
+T2  - IROS 96 - PROCEEDINGS OF THE 1996 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS - ROBOTIC INTELLIGENCE INTERACTING WITH DYNAMIC WORLDS, VOLS 1-3
+CP  - 1996 IEEE/RSJ International Conference on Intelligent Robots and Systems - Robotic Intelligence Interacting with Dynamic Worlds (IROS 96)
+SN  - 0-7803-3214-8
+PY  - 1996
+SP  - 1502
+EP  - 1509
+AN  - WOS:A1996BH13L00205
+ER  -
+
+TY  - CPAPER
+AU  - Wen, RS
+AU  - Wang, Q
+AU  - Ma, X
+AU  - Li, ZB
+A1  - IEEE
+TI  - Human Hand Movement Recognition based on HMM with Hyperparameters Optimized by Maximum Mutual Information
+T2  - 2020 ASIA-PACIFIC SIGNAL AND INFORMATION PROCESSING ASSOCIATION ANNUAL SUMMIT AND CONFERENCE (APSIPA ASC)
+CP  - Asia-Pacific-Signal-and-Information-Processing-Association Annual Summit and Conference (APSIPA ASC)
+SN  - 2309-9402
+SN  - 978-988-14768-8-3
+PY  - 2020
+SP  - 944
+EP  - 951
+AN  - WOS:000678729400162
+ER  -
+
+TY  - CPAPER
+AU  - Fanello, SRF
+AU  - Gori, I
+AU  - Pirri, F
+ED  - Bebis, G
+ED  - Boyle, R
+ED  - Parvin, B
+ED  - Koracin, D
+ED  - Chung, R
+ED  - Hammound, R
+ED  - Hussain, M
+ED  - Han, TK
+ED  - Crawfis, R
+ED  - Thalmann, D
+ED  - Kao, D
+ED  - Avila, L
+TI  - Arm-Hand Behaviours Modelling: From Attention to Imitation
+T2  - ADVANCES IN VISUAL COMPUTING, PT II
+CP  - 6th International Symposium on Visual Computing
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-642-17273-1
+PY  - 2010
+VL  - 6454
+SP  - 616
+EP  - 627
+AN  - WOS:000290547200060
+ER  -
+
+TY  - CPAPER
+AU  - Yuan, WT
+AU  - Murali, A
+AU  - Mousavian, A
+AU  - Fox, D
+ED  - Tan, J
+ED  - Toussaint, M
+ED  - Darvish, K
+TI  - M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place
+T2  - CONFERENCE ON ROBOT LEARNING, VOL 229
+CP  - 7th Conference on Robot Learning (CoRL)
+SN  - 2640-3498
+PY  - 2023
+VL  - 229
+AN  - WOS:001221201503036
+ER  -
+
+TY  - CPAPER
+AU  - Jamgochian, A
+AU  - Buurmeijer, H
+AU  - Wray, KH
+AU  - Corso, A
+AU  - Kochenderfer, MJ
+A1  - IEEE
+TI  - Constrained Hierarchical Monte Carlo Belief-State Planning
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA 2024
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 979-8-3503-8458-1
+SN  - 979-8-3503-8457-4
+PY  - 2024
+SP  - 2368
+EP  - 2374
+DO  - 10.1109/ICRA57147.2024.10611223
+AN  - WOS:001294576202002
+ER  -
+
+TY  - JOUR
+AU  - Asada, M
+AU  - Noda, S
+AU  - Tawaratsumida, S
+AU  - Hosoda, K
+TI  - Purposive behavior acquisition for a real robot by vision-based reinforcement learning
+T2  - MACHINE LEARNING
+SN  - 0885-6125
+DA  - MAY-JUN
+PY  - 1996
+VL  - 23
+IS  - 2-3
+SP  - 279
+EP  - 303
+DO  - 10.1023/A:1018237008823
+AN  - WOS:A1996UV95500007
+ER  -
+
+TY  - CPAPER
+AU  - Aarno, D
+AU  - Kragic, D
+A1  - IEEE
+TI  - Layered HMM for motion intention recognition
+T2  - 2006 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, VOLS 1-12
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SN  - 978-1-4244-0258-8
+PY  - 2006
+SP  - 5130
+EP  - +
+DO  - 10.1109/IROS.2006.282606
+AN  - WOS:000245452405034
+ER  -
+
+TY  - JOUR
+AU  - Liu, SC
+AU  - Zhang, YC
+AU  - Chen, WB
+AU  - Wu, PL
+TI  - DASP: Hierarchical Offline Reinforcement Learning <roman>v</roman>ia Diffusion Autodecoder and Skill Primitive
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - FEB
+PY  - 2025
+VL  - 10
+IS  - 2
+SP  - 1649
+EP  - 1655
+DO  - 10.1109/LRA.2024.3522842
+AN  - WOS:001395277500012
+ER  -
+
+TY  - JOUR
+AU  - Zech, P
+AU  - Renaudo, E
+AU  - Haller, S
+AU  - Zhang, X
+AU  - Piater, J
+TI  - Action representations in robotics: A taxonomy and systematic classification
+T2  - INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH
+SN  - 0278-3649
+SN  - 1741-3176
+DA  - APR
+PY  - 2019
+VL  - 38
+IS  - 5
+SP  - 518
+EP  - 562
+DO  - 10.1177/0278364919835020
+AN  - WOS:000465025200002
+ER  -
+
+TY  - CPAPER
+AU  - Nair, V
+AU  - Hemeren, P
+AU  - Vignolo, A
+AU  - Noceti, N
+AU  - Nicora, E
+AU  - Sciutti, A
+AU  - Rea, F
+AU  - Billing, E
+AU  - Odone, F
+AU  - Sandini, G
+A1  - IEEE
+TI  - Action similarity judgment based on kinematic primitives
+T2  - 10TH IEEE INTERNATIONAL CONFERENCE ON DEVELOPMENT AND LEARNING AND EPIGENETIC ROBOTICS (ICDL-EPIROB 2020)
+CP  - 10th Joint IEEE International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+SN  - 2161-9484
+SN  - 978-1-7281-7306-1
+PY  - 2020
+DO  - 10.1109/icdl-epirob48136.2020.9278047
+AN  - WOS:000692524300007
+ER  -
+
+TY  - JOUR
+AU  - Cao, XG
+AU  - Lu, T
+AU  - Zheng, LM
+AU  - Cai, YH
+AU  - Wang, S
+TI  - PLOT: Human-Like Push-Grasping Synergy Learning in Clutter With One-Shot Target Recognition
+T2  - IEEE TRANSACTIONS ON COGNITIVE AND DEVELOPMENTAL SYSTEMS
+SN  - 2379-8920
+SN  - 2379-8939
+DA  - AUG
+PY  - 2024
+VL  - 16
+IS  - 4
+SP  - 1391
+EP  - 1404
+DO  - 10.1109/TCDS.2024.3357084
+AN  - WOS:001292741200019
+ER  -
+
+TY  - JOUR
+AU  - Vuga, R
+AU  - Aksoy, EE
+AU  - Wörgötter, F
+AU  - Ude, A
+TI  - Probabilistic semantic models for manipulation action representation and extraction
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - MAR
+PY  - 2015
+VL  - 65
+SP  - 40
+EP  - 56
+DO  - 10.1016/j.robot.2014.11.012
+AN  - WOS:000349724400004
+ER  -
+
+TY  - JOUR
+AU  - Krüger, V
+AU  - Herzog, DL
+AU  - Baby, S
+AU  - Ude, A
+AU  - Kragic, D
+TI  - Learning Actions from observations Primitive-Based Modeling and Grammar
+T2  - IEEE ROBOTICS & AUTOMATION MAGAZINE
+SN  - 1070-9932
+SN  - 1558-223X
+DA  - JUN
+PY  - 2010
+VL  - 17
+IS  - 2
+SP  - 30
+EP  - 43
+DO  - 10.1109/MRA.2010.936961
+AN  - WOS:000281777800007
+ER  -
+

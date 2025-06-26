@@ -1,0 +1,780 @@
+%0 Conference Paper
+%T Fracture reduction trajectory imitation learning based on dynamic movement primitive for a redundant parallel bone-setting robot
+%@ 9798400717826
+%U https://doi.org/10.1145/3706890.3706916
+%R 10.1145/3706890.3706916
+%B Proceedings of the 2024 5th International Symposium on Artificial Intelligence for Medicine Science
+%I Association for Computing Machinery
+%A Zhao Tan
+%A Yahui Zhang
+%A Hailin Xu
+%A Jiahui Yuan
+%A Xu Song
+%A Yang Tian
+%A Yingbing Sun
+%A Guilin Wen
+%D 2025
+%P 153–157
+%K Chinese bone-setting, ankle fracture, dynamic movement primitive, redundant parallel robot
+%C 
+
+
+%0 Conference Paper
+%T Lessons Learned from Designing and Evaluating a Robot-assisted Feeding System for Out-of-lab Use
+%B Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction
+%I IEEE Press
+%A Amal Nanavati
+%A Ethan K. Gordon
+%A Taylor A. Kessler Faulkner
+%A Yuxin (Ray) Song
+%A Jonathan Ko
+%A Tyler Schrenk
+%A Vy Nguyen
+%A Bernie Hao Zhu
+%A Haya Bolotski
+%A Atharva Kashyap
+%A Sriram Kutty
+%A Raida Karim
+%A Liander Rainbolt
+%A Rosario Scalise
+%A Hanjun Song
+%A Ramon Qu
+%A Maya Cakmak
+%A Siddhartha S. Srinivasa
+%D 2025
+%P 696–707
+%K human-robot interaction, robot-assisted feeding
+%C Melbourne, Australia
+
+%0 Conference Paper
+%T RABBIT: A Robot-Assisted Bed Bathing System with Multimodal Perception and Integrated Compliance
+%@ 9798400703225
+%U https://doi.org/10.1145/3610977.3634989
+%R 10.1145/3610977.3634989
+%B Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Rishabh Madan
+%A Skyler Valdez
+%A David Kim
+%A Sujie Fang
+%A Luoyan Zhong
+%A Diego T. Virtue
+%A Tapomayukh Bhattacharjee
+%D 2024
+%P 472–481
+%K assistive technologies, robot-assisted bed bathing
+%C Boulder, CO, USA
+
+%0 Journal Article
+%T What Can a Robot’s Skin Be? Designing Texture-changing Skin for Human–Robot Social Interaction
+%V 12
+%U https://doi.org/10.1145/3532772
+%R 10.1145/3532772
+%N 2
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Yuhan Hu
+%A Guy Hoffman
+%D 2023
+%P Article 26
+%K Robot skin, texture change, human–robot interaction, soft robots, bio-inspired design, pneumatics
+
+%0 Conference Paper
+%T Detecting Volatile Force for Robot Learning from Human Demonstration
+%@ 9781450376228
+%U https://doi.org/10.1145/3372047.3372106
+%R 10.1145/3372047.3372106
+%B Proceedings of the 2019 The 2nd International Conference on Robotics, Control and Automation Engineering
+%I Association for Computing Machinery
+%A Weixin Yang
+%A Xiang Zhang
+%D 2020
+%P 1–5
+%K Change Point Detection, Interaction Force, Learning from Demonstration, Segmentation
+%C Lanzhou, China
+
+%0 Conference Paper
+%T Autonomous robot dancing driven by beats and emotions of music
+%@ 0981738117
+%B Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems - Volume 1
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Guangyu Xia
+%A Junyun Tay
+%A Roger Dannenberg
+%A Manuela Veloso
+%D 2012
+%P 205–212
+%K autonomous robot dancing, motion-emotion mapping, real-time synchronization, scheduling
+%C Valencia, Spain
+
+%0 Proceeding
+%T Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction
+%@ 9798400703225
+%I Association for Computing Machinery
+%D 2024
+%C Boulder, CO, USA
+
+%0 Conference Paper
+%T Action Classification in Human Robot Interaction Cells in Manufacturing: Moving Towards Mutual Performance Monitoring Capacity
+%@ 9781450398329
+%U https://doi.org/10.1145/3589883.3589916
+%R 10.1145/3589883.3589916
+%B Proceedings of the 2023 8th International Conference on Machine Learning Technologies
+%I Association for Computing Machinery
+%A Shakra Mehak
+%A Maria Chiara Leva
+%A Jhon De Kelleher
+%A Michael Guilfoyle
+%D 2023
+%P 214–220
+%K Fluent HRI, Machine Learning Algorithms
+%C Stockholm, Sweden
+
+%0 Conference Paper
+%T Safe and Robust Robot Learning from Demonstration through Conceptual Constraints
+%@ 9781450370578
+%U https://doi.org/10.1145/3371382.3377428
+%R 10.1145/3371382.3377428
+%B Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Carl L. Mueller
+%A Bradley Hayes
+%D 2020
+%P 588–590
+%K human-robot interaction, learning from demonstrations, robotic learning
+%C Cambridge, United Kingdom
+
+%0 Conference Paper
+%T Intelligent Distributed Human Motion Simulation in Human-Robot Collaboration Environments
+%@ 9781450360135
+%U https://doi.org/10.1145/3267851.3267867
+%R 10.1145/3267851.3267867
+%B Proceedings of the 18th International Conference on Intelligent Virtual Agents
+%I Association for Computing Machinery
+%A André Antakli
+%A Erik Hermann
+%A Ingo Zinnikus
+%A Han Du
+%A Klaus Fischer
+%D 2018
+%P 319–324
+%K Human-Robot Collaboration, Motion Synthesis, MultiAgent System, Worker Support
+%C Sydney, NSW, Australia
+
+%0 Conference Paper
+%T Importance of effective teaching in robot motor skill learning
+%@ 9781450362320
+%U https://doi.org/10.1145/3316782.3322775
+%R 10.1145/3316782.3322775
+%B Proceedings of the 12th ACM International Conference on PErvasive Technologies Related to Assistive Environments
+%I Association for Computing Machinery
+%A Joe Cloud
+%A Michail Theofanidis
+%A James Brady
+%A Fillia Makedon
+%D 2019
+%P 489–492
+%K dynamic movement primitives, human-robot interaction, kinesthetic teaching, learning from demonstration, machine learning
+%C Rhodes, Greece
+
+%0 Conference Paper
+%T Easy humanoid motion generation from user demonstration using wearable interface
+%@ 9781605583938
+%U https://doi.org/10.1145/1501750.1501785
+%R 10.1145/1501750.1501785
+%B Proceedings of the 2008 International Conference on Advances in Computer Entertainment Technology
+%I Association for Computing Machinery
+%A Ilwoong Jeong
+%A Hyun S. Yang
+%D 2008
+%P 151–154
+%K humanoids, motion generation
+%C Yokohama, Japan
+
+%0 Conference Paper
+%T Modeling Player Activity in a Physical Interactive Robot Game Scenario
+%@ 9781450351133
+%U https://doi.org/10.1145/3125739.3132608
+%R 10.1145/3125739.3132608
+%B Proceedings of the 5th International Conference on Human Agent Interaction
+%I Association for Computing Machinery
+%A Ewerton Oliveira
+%A Davide Orrù
+%A Tiago Nascimento
+%A Andrea Bonarini
+%D 2017
+%P 411–414
+%K human-robot interaction, player modeling, robogame, user modeling
+%C Bielefeld, Germany
+
+%0 Journal Article
+%T Multi-Robot Assembly Strategies and Metrics
+%V 51
+%@ 0360-0300
+%U https://doi.org/10.1145/3150225
+%R 10.1145/3150225
+%N 1
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Jeremy A. Marvel
+%A Roger Bostelman
+%A Joe Falco
+%D 2018
+%P Article 14
+%K Robot assembly, assembly performance metrics, manufacturing robotics, multi-robot coordination
+
+%0 Conference Paper
+%T Fusion of Dynamic Movement Primitives and Interaction Intention: Enhancing Robotic Adaptive Behavioral Interactions
+%@ 9798400712883
+%U https://doi.org/10.1145/3712623.3712663
+%R 10.1145/3712623.3712663
+%B Proceedings of the 2024 2nd International Conference on Advances in Artificial Intelligence and Applications
+%I Association for Computing Machinery
+%A Miao He
+%A Xurong Mou
+%A Qian Zong
+%A Linfeng Jiang
+%A Guilin Xu
+%A Seng Deng
+%A Fangchao Hu
+%D 2025
+%P 231–237
+%K Human-Robot Interaction; Behavioral interactions; Neural Networks; Dynamic movement primitives
+%C 
+
+
+%0 Conference Paper
+%T Trajectory synthesis by hierarchical spatio-temporal correspondence: comparison of different methods
+%@ 1595931392
+%U https://doi.org/10.1145/1080402.1080406
+%R 10.1145/1080402.1080406
+%B Proceedings of the 2nd symposium on Applied perception in graphics and visualization
+%I Association for Computing Machinery
+%A Johannes Mezger
+%A Winfried Ilg
+%A Martin A. Giese
+%D 2005
+%P 25–32
+%K character animation, linear combination, motion capture, motion morphing, movement primitive, perceptual dimension, realism
+%C A Coroña, Spain
+
+%0 Journal Article
+%T Learning the Correct Robot Trajectory in Real-Time from Physical Human Interactions
+%V 9
+%U https://doi.org/10.1145/3354139
+%R 10.1145/3354139
+%N 1
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Dylan P. Losey
+%A Marcia K. O'Malley
+%D 2019
+%P Article 1
+%K Learning from demonstrations, optimal control, physical human-robot interaction
+
+%0 Conference Paper
+%T Rhocop: receding horizon multi-robot coverage
+%@ 9781538653012
+%U https://doi.org/10.1109/ICCPS.2018.00025
+%R 10.1109/ICCPS.2018.00025
+%B Proceedings of the 9th ACM/IEEE International Conference on Cyber-Physical Systems
+%I IEEE Press
+%A Sankar Narayan Das
+%A Indranil Saha
+%D 2018
+%P 174–185
+%K clustering, coverage, mobile-robots, multi-robot systems, planning, receding horizon
+%C Porto, Portugal
+
+%0 Journal Article
+%T Antlab: A Multi-Robot Task Server
+%V 16
+%@ 1539-9087
+%U https://doi.org/10.1145/3126513
+%R 10.1145/3126513
+%N 5s
+%J ACM Trans. Embed. Comput. Syst.
+%I Association for Computing Machinery
+%A Ivan Gavran
+%A Rupak Majumdar
+%A Indranil Saha
+%D 2017
+%P Article 190
+%K Cyber-physical systems, multi-robot systems, planning, programming abstractions for robotics
+
+%0 Conference Paper
+%T Robotic Improvisers: Rule-Based Improvisation and Emergent Behaviour in HRI
+%B Proceedings of the 2022 ACM/IEEE International Conference on Human-Robot Interaction
+%I IEEE Press
+%A Irene Alcubilla Troughton
+%A Kim Baraka
+%A Koen Hindriks
+%A Maaike Bleeker
+%D 2022
+%P 561–569
+%K dance, human-robot interaction, improvisation, movement, rules, theatre
+%C Sapporo, Hokkaido, Japan
+
+%0 Conference Paper
+%T PGCD: robot programming and verification with geometry, concurrency, and dynamics
+%@ 9781450362856
+%U https://doi.org/10.1145/3302509.3311052
+%R 10.1145/3302509.3311052
+%B Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical Systems
+%I Association for Computing Machinery
+%A Gregor B. Banusić
+%A Rupak Majumdar
+%A Marcus Pirron
+%A Anne-Kathrin Schmuck
+%A Damien Zufferey
+%D 2019
+%P 57–66
+%K communication, composition, cyber-physical systems, domain specific language, geometry, verification
+%C Montreal, Quebec, Canada
+
+%0 Journal Article
+%T Robust black-box optimization for stochastic search and episodic reinforcement learning
+%V 25
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Maximilian Hüttenrauch
+%A Gerhard Neumann
+%D 2024
+%P Article 153
+%K black-box optimization, stochastic search, derivative-free optimization, evolution strategies, episodic reinforcement learning
+
+%0 Journal Article
+%T Multiparty motion coordination: from choreographies to robotics programs
+%V 4
+%U https://doi.org/10.1145/3428202
+%R 10.1145/3428202
+%N OOPSLA
+%J Proc. ACM Program. Lang.
+%I Association for Computing Machinery
+%A Rupak Majumdar
+%A Nobuko Yoshida
+%A Damien Zufferey
+%D 2020
+%P Article 134
+%K Continuous-time Motion Primitives, Message-passing, Robotics, Session Types and Choreography
+
+%0 Conference Paper
+%T Implan: scalable incremental motion planning for multi-robot systems
+%B Proceedings of the 7th International Conference on Cyber-Physical Systems
+%I IEEE Press
+%A Indranil Saha
+%A Rattanachai Ramaithitima
+%A Vijay Kumar
+%A George J. Pappas
+%A Sanjit A. Seshia
+%D 2016
+%P Article 43
+%C Vienna, Austria
+
+%0 Conference Paper
+%T MagSurface: Design and Fabrication of Conductive Composites for Motion Effects on Paper
+%@ 9798400706325
+%U https://doi.org/10.1145/3656156.3665421
+%R 10.1145/3656156.3665421
+%B Companion Publication of the 2024 ACM Designing Interactive Systems Conference
+%I Association for Computing Machinery
+%A Yijun Zhao
+%A Sizhou Zhang
+%A Jiacheng Cao
+%A Jiarong Zhang
+%D 2024
+%P 359–363
+%K Interaction Design, Paper Interface, Personal Fabrication, Printed Electronics, Shape-changing
+%C IT University of Copenhagen, Denmark
+
+%0 Conference Paper
+%T Stylistic Locomotion Modeling and Synthesis using Variational Generative Models
+%@ 9781450369947
+%U https://doi.org/10.1145/3359566.3360083
+%R 10.1145/3359566.3360083
+%B Proceedings of the 12th ACM SIGGRAPH Conference on Motion, Interaction and Games
+%I Association for Computing Machinery
+%A Han Du
+%A Erik Herrmann
+%A Janis Sprenger
+%A Klaus Fischer
+%A Philipp Slusallek
+%D 2019
+%P Article 32
+%K Generative Model, Motion Style Transfer, Motion Synthesis
+%C Newcastle upon Tyne, United Kingdom
+
+%0 Conference Paper
+%T Online Adaptive Teleoperation via Incremental Intent Modeling
+%@ 9781450348850
+%U https://doi.org/10.1145/3029798.3038370
+%R 10.1145/3029798.3038370
+%B Proceedings of the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Xuning Yang
+%A Koushil Sreenath
+%A Nathan Michael
+%D 2017
+%P 329–330
+%K adaptive teleoperation, teleoperation, user intent prediction
+%C Vienna, Austria
+
+%0 Conference Paper
+%T Towards A Framework For Dancing Beyond Demonstration
+%@ 9781450387163
+%U https://doi.org/10.1145/3537972.3537981
+%R 10.1145/3537972.3537981
+%B Proceedings of the 8th International Conference on Movement and Computing
+%I Association for Computing Machinery
+%A Patrick Martin
+%A Kate Sicchio
+%A Charles Dietzel
+%A Alicia Olivo
+%D 2022
+%P Article 6
+%K autonomous robotics, choreography, learning-from-demonstration
+%C Chicago, IL, USA
+
+%0 Conference Paper
+%T Effect of repetitive motion intervention on self-avatar on the sense of self-individuality
+%@ 9781450393232
+%U https://doi.org/10.1145/3527188.3561916
+%R 10.1145/3527188.3561916
+%B Proceedings of the 10th International Conference on Human-Agent Interaction
+%I Association for Computing Machinery
+%A Tetsunari Inamura
+%A Shinichirou Eitoku
+%A Iwaki Toshima
+%A Shinya Shimizu
+%A Atsushi Fukayama
+%A Shiro Ozawa
+%A Takao Nakamura
+%D 2022
+%P 167–175
+%K Behavior modification, Digital Twin of human, Self-individuality, Virtual agent
+%C Christchurch, New Zealand
+
+%0 Conference Paper
+%T Incrementally Assisted Kinesthetic Teaching for Programming by Demonstration
+%@ 9781467383707
+%B The Eleventh ACM/IEEE International Conference on Human Robot Interaction
+%I IEEE Press
+%A Martin Tykal
+%A Alberto Montebelli
+%A Ville Kyrki
+%D 2016
+%P 205–212
+%K dynamic time warping, incremental learning, kinesthetic teaching, virtual tool dynamics
+%C Christchurch, New Zealand
+
+%0 Conference Paper
+%T Learning object-manipulation verbs for human-robot communication
+%@ 9781595938695
+%U https://doi.org/10.1145/1330572.1330577
+%R 10.1145/1330572.1330577
+%B Proceedings of the 2007 workshop on Multimodal interfaces in semantic interaction
+%I Association for Computing Machinery
+%A Komei Sugiura
+%A Naoto Iwahashi
+%D 2007
+%P 32–38
+%K HMM, human-robot interaction, motion generation
+%C Nagoya, Japan
+
+%0 Journal Article
+%T Hierarchical Planning and Control for Box Loco-Manipulation
+%V 6
+%U https://doi.org/10.1145/3606931
+%R 10.1145/3606931
+%N 3
+%J Proc. ACM Comput. Graph. Interact. Tech.
+%I Association for Computing Machinery
+%A Zhaoming Xie
+%A Jonathan Tseng
+%A Sebastian Starke
+%A Michiel van de Panne
+%A C. Karen Liu
+%D 2023
+%P Article 31
+%K character animation, loco-manipulation
+
+%0 Conference Paper
+%T Teaching and Learning using Semantic Labels
+%@ 9781450348850
+%U https://doi.org/10.1145/3029798.3038335
+%R 10.1145/3029798.3038335
+%B Proceedings of the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Sayanti Roy
+%A Harshal Maske
+%A Girish Chowdhary
+%A Christopher Crick
+%D 2017
+%P 271–272
+%K hierarchical learning, learning from demonstration, semantic labels
+%C Vienna, Austria
+
+%0 Conference Paper
+%T Learning Visuomotor Policies with Deep Movement Primitives
+%@ 9781450387927
+%U https://doi.org/10.1145/3453892.3453899
+%R 10.1145/3453892.3453899
+%B Proceedings of the 14th PErvasive Technologies Related to Assistive Environments Conference
+%I Association for Computing Machinery
+%A Michail Theofanidis
+%A Asil Bozcuoglu
+%A Maria Kyrarini
+%D 2021
+%P 140–146
+%C Corfu, Greece
+
+%0 Conference Paper
+%T A review of path planning and mapping technologies for autonomous mobile robot systems
+%@ 9781450314404
+%U https://doi.org/10.1145/2459118.2459121
+%R 10.1145/2459118.2459121
+%B Proceedings of the 5th ACM COMPUTE Conference: Intelligent &amp; scalable system technologies
+%I Association for Computing Machinery
+%A Nitin Kumar Dhiman
+%A Dipti Deodhare
+%A Deepak Khemani
+%D 2012
+%P Article 3
+%K SLAM, anytime search algorithm, hippocampus, hybrid map, incremental search algorithm, localization, mapping, path planning, topological map
+%C Pune, India
+
+%0 Journal Article
+%T A Comprehensive Review on Autonomous Navigation
+%@ 0360-0300
+%U https://doi.org/10.1145/3727642
+%R 10.1145/3727642
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Saeid Nahavandi
+%A Roohallah Alizadehsani
+%A Darius Nahavandi
+%A Shady Mohamed
+%A Navid Mohajer
+%A Mohammad Rokonuzzaman
+%A Ibrahim Hossain
+%D 2025
+%Z Just Accepted
+%K Autonomous navigation, SLAM, Obstacle avoidance, Sensor fusion, Path planning, Robotic simulation
+
+%0 Journal Article
+%T Expected 1.x Makespan-Optimal Multi-Agent Path Finding on Grid Graphs in Low Polynomial Time
+%V 81
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.16299
+%R 10.1613/jair.1.16299
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Teng Guo
+%A Jingjin Yu
+%D 2025
+%P 37
+
+%0 Conference Paper
+%T DRONA: a framework for safe distributed mobile robotics
+%@ 9781450349659
+%U https://doi.org/10.1145/3055004.3055022
+%R 10.1145/3055004.3055022
+%B Proceedings of the 8th International Conference on Cyber-Physical Systems
+%I Association for Computing Machinery
+%A Ankush Desai
+%A Indranil Saha
+%A Jianqiao Yang
+%A Shaz Qadeer
+%A Sanjit A. Seshia
+%D 2017
+%P 239–248
+%K distributed robotics, multi-robot motion planning, programming language for robotics, safe mobile robotics, verification
+%C Pittsburgh, Pennsylvania
+
+%0 Conference Paper
+%T Trajectory planning in the presence of dynamic obstacles for Anguilliform-inspired robots
+%@ 9781450389716
+%U https://doi.org/10.1145/3478586.3480641
+%R 10.1145/3478586.3480641
+%B Proceedings of the 2021 5th International Conference on Advances in Robotics
+%I Association for Computing Machinery
+%A Atul Thakur
+%D 2022
+%P Article 27
+%K Anguilliform-inspired robots, D*Lite, Dynamic Obstacles, Fish-inspired robots, Trajectory planning
+%C Kanpur, India
+
+%0 Conference Paper
+%T User adaptable tasks for differential teaching with applications to robotic autism therapy
+%@ 9781450334525
+%U https://doi.org/10.1145/2769493.2775129
+%R 10.1145/2769493.2775129
+%B Proceedings of the 8th ACM International Conference on PErvasive Technologies Related to Assistive Environments
+%I Association for Computing Machinery
+%A Isura Ranatunga
+%A Namrata Balakrishnan
+%A Indika Wijayasinghe
+%A Dan O. Popa
+%D 2015
+%P Article 73
+%K autism, dynamic movement primitives, robotic therapy
+%C Corfu, Greece
+
+%0 Conference Paper
+%T Towards realistic walk path simulation of single subjects: presenting a probabilistic motion planning algorithm
+%@ 9781450360159
+%U https://doi.org/10.1145/3274247.3274504
+%R 10.1145/3274247.3274504
+%B Proceedings of the 11th ACM SIGGRAPH Conference on Motion, Interaction and Games
+%I Association for Computing Machinery
+%A Philipp Agethen
+%A Felix Gaisbauer
+%A Martin Manns
+%A Max Link
+%A Enrico Rukzio
+%D 2018
+%P Article 17
+%K automotive production, motion planning, probabilistic motion model, spaghetti chart, walk path planning
+%C Limassol, Cyprus
+
+%0 Conference Paper
+%T Human-guided Trajectory Adaptation for Tool Transfer
+%@ 9781450363099
+%B Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Tesca Fitzgerald
+%A Elaine Short
+%A Ashok Goel
+%A Andrea Thomaz
+%D 2019
+%P 1350–1358
+%K human-robot interaction, interactive learning, transfer learning
+%C Montreal QC, Canada
+
+%0 Conference Paper
+%T LAP: A Human-in-the-loop Adaptation Approach for Industrial Robots
+%@ 9781450345088
+%U https://doi.org/10.1145/2974804.2974805
+%R 10.1145/2974804.2974805
+%B Proceedings of the Fourth International Conference on Human Agent Interaction
+%I Association for Computing Machinery
+%A Wilson K.H. Ko
+%A Yan Wu
+%A Keng Peng Tee
+%D 2016
+%P 313–319
+%K automation, human-robot interaction, imitation learning, industrial robotics, industrial robots, intuitive teaching, robot learning from demonstration
+%C Biopolis, Singapore
+
+%0 Conference Paper
+%T Learning intelligent controllers for path-following skills on snake-like robots
+%@ 9783642254888
+%U https://doi.org/10.1007/978-3-642-25489-5_51
+%R 10.1007/978-3-642-25489-5_51
+%B Proceedings of the 4th international conference on Intelligent Robotics and Applications - Volume Part II
+%I Springer-Verlag
+%A Francisco Javier Marín
+%A Jorge Casillas
+%A Manuel Mucientes
+%A Aksel Andreas Transeth
+%A Sigurd Aksnes Fjerdingen
+%A Ingrid Schjølberg
+%D 2011
+%P 525–535
+%K fuzzy control, multi-link mobile robot, path-following, snake-like robot
+%C Aachen, Germany
+
+%0 Journal Article
+%T Agents of Autonomy: A Systematic Study of Robotics on Modern Hardware
+%V 7
+%U https://doi.org/10.1145/3626774
+%R 10.1145/3626774
+%N 3
+%J Proc. ACM Meas. Anal. Comput. Syst.
+%I Association for Computing Machinery
+%A Mohammad Bakhshalipour
+%A Phillip B. Gibbons
+%D 2023
+%P Article 43
+%K benchmarking, computer architecture, robotics
+
+%0 Conference Paper
+%T Communication of intent in assistive free flyers
+%@ 9781450326582
+%U https://doi.org/10.1145/2559636.2559672
+%R 10.1145/2559636.2559672
+%B Proceedings of the 2014 ACM/IEEE international conference on Human-robot interaction
+%I Association for Computing Machinery
+%A Daniel Szafir
+%A Bilge Mutlu
+%A Terrence Fong
+%D 2014
+%P 358–365
+%K assistive free-flyer (aff), design, flying robot, human factors, intent, micro air vehicle (mav), motion, usability
+%C Bielefeld, Germany
+
+%0 Journal Article
+%T Added Value of Gaze-Exploiting Semantic Representation to Allow Robots Inferring Human Behaviors
+%V 7
+%@ 2160-6455
+%U https://doi.org/10.1145/2939381
+%R 10.1145/2939381
+%N 1
+%J ACM Trans. Interact. Intell. Syst.
+%I Association for Computing Machinery
+%A Karinne Ramirez-Amaro
+%A Humera Noor Minhas
+%A Michael Zehetleitner
+%A Michael Beetz
+%A Gordon Cheng
+%D 2017
+%P Article 5
+%K Robot learning by observation, egocentric analysis, human activity recognition, semantic reasoning
+
+%0 Journal Article
+%T Multimodal concepts for social robots
+%V 3
+%U https://doi.org/10.1145/3054837.3054844
+%R 10.1145/3054837.3054844
+%N 1
+%J AI Matters
+%I Association for Computing Machinery
+%A Olivier Mangin
+%D 2017
+%P 19–20
+
+%0 Journal Article
+%T A probabilistic interpretation of self-paced learning with applications to reinforcement learning
+%V 22
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Pascal Klink
+%A Hany Abdulsamad
+%A Boris Belousov
+%A Carlo D'Eramo
+%A Jan Peters
+%A Joni Pajarinen
+%D 2021
+%P Article 182
+%K curriculum learning, reinforcement learning, self-paced learning, tempered inference, rl-as-inference
+
+%0 Conference Paper
+%T Symbolic reach-avoid control of multi-agent systems
+%@ 9781450383530
+%U https://doi.org/10.1145/3450267.3450548
+%R 10.1145/3450267.3450548
+%B Proceedings of the ACM/IEEE 12th International Conference on Cyber-Physical Systems
+%I Association for Computing Machinery
+%A Rupak Majumdar
+%A Kaushik Mallik
+%A Mahmoud Salamati
+%A Sadegh Soudjani
+%A Mehrdad Zareian
+%D 2021
+%P 209–220
+%C Nashville, Tennessee
+

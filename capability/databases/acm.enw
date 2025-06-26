@@ -1,0 +1,312 @@
+%0 Conference Paper
+%T UbiCap: A Capability-based Run-time Model for Heterogeneous Sensors Management in Ubiquitous Operating System
+%@ 9798400708947
+%U https://doi.org/10.1145/3609437.3609448
+%R 10.1145/3609437.3609448
+%B Proceedings of the 14th Asia-Pacific Symposium on Internetware
+%I Association for Computing Machinery
+%A Xiaojuan Li
+%A Yu Zhang
+%A Zhengyan Zhu
+%A Yuan Yao
+%A Xingshe Zhou
+%D 2023
+%P 134–143
+%K run-time, adaptive, Ubiquitous Operating System, Heterogeneous Sensors Management, Capability
+%C Hangzhou, China
+
+%0 Conference Paper
+%T A Capability-based Framework for Programming Small Domestic Service Robots
+%@ 9781450336147
+%U https://doi.org/10.1145/2802059.2802065
+%R 10.1145/2802059.2802065
+%B Proceedings of the 2015 Joint MORSE/VAO Workshop on Model-Driven Robot Software Engineering and View-based Software-Engineering
+%I Association for Computing Machinery
+%A Ronny Seiger
+%A Christoph Seidl
+%A Uwe Aßmann
+%A Thomas Schlegel
+%D 2015
+%P 49–54
+%K Service robots, High-level API, Capability-based abstraction
+%C L'Aquila, Italy
+
+%0 Conference Paper
+%T Mutual state capability-based role assignment model
+%@ 9780982657119
+%B Proceedings of the 9th International Conference on Autonomous Agents and Multiagent Systems: volume 1 - Volume 1
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Somchaya Liemhetcharat
+%A Manuela Veloso
+%D 2010
+%P 1509–1510
+%K role assignment, multi-agent, heterogeneous teams, capability
+%C Toronto, Canada
+
+%0 Conference Paper
+%T Hopper: Per-Device Nano Segmentation for the Industrial IoT
+%@ 9781450391405
+%U https://doi.org/10.1145/3488932.3501277
+%R 10.1145/3488932.3501277
+%B Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security
+%I Association for Computing Machinery
+%A Piet De Vaere
+%A Andrea Tulimiero
+%A Adrian Perrig
+%D 2022
+%P 279–293
+%K network segmentation, network security, nano segmentation, key distribution, industrial iot, capability-based networking
+%C Nagasaki, Japan
+
+%0 Conference Paper
+%T Adaptive Overhead Glass Curtain Wall Cleaning Robot Design
+%@ 9798400711268
+%U https://doi.org/10.1145/3707402.3707413
+%R 10.1145/3707402.3707413
+%B Proceedings of the 2024 International Conference on Industrial Automation and Robotics
+%I Association for Computing Machinery
+%A Tao Jiang
+%A Huadong Chen
+%A Zixi Yang
+%A Haolin Zhou
+%D 2025
+%P 58–63
+%K Adaptive Cleaning, Curved glass curtain wall, Multiple culverts, Slip mold control, Static analysis
+%C 
+
+
+%0 Conference Paper
+%T Anthropocentric Attribution Bias in Human Prediction of Robot Behavior
+%@ 9781450370578
+%U https://doi.org/10.1145/3371382.3378347
+%R 10.1145/3371382.3378347
+%B Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Sam Thellman
+%A Annika Silvervarg
+%A Tom Ziemke
+%D 2020
+%P 476–478
+%K mental state attribution, human-robot interaction, belief-tracking
+%C Cambridge, United Kingdom
+
+%0 Conference Paper
+%T Interfacing Agents with an Industrial Assembly System for "Plug and Produce": (Demonstration)
+%@ 9781450334136
+%B Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Nikolas Antzoulatos
+%A Elkin Castro
+%A Lavindra de Silva
+%A Svetan Ratchev
+%D 2015
+%P 1957–1958
+%K production reconfiguration, plug and produce, manufacturing, capability-based framework
+%C Istanbul, Turkey
+
+%0 Conference Paper
+%T Research on Robot Motion Attitude Recognition Models Based on Computer Vision and Re-Unet Networks
+%@ 9798400710223
+%U https://doi.org/10.1145/3695080.3695172
+%R 10.1145/3695080.3695172
+%B Proceedings of the 2024 International Conference on Cloud Computing and Big Data
+%I Association for Computing Machinery
+%A Zheng-Jun Yu
+%D 2024
+%P 535–539
+%C Dali, China
+
+%0 Conference Paper
+%T A neurorobotics approach to investigating the emergence of communication in robots
+%@ 9781538685556
+%B Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction
+%I IEEE Press
+%A Jungsik Hwang
+%A Nadine Wirkuttis
+%A Jun Tani
+%D 2020
+%P 622–623
+%K social cognition and interaction, prediction error minimization, neurorobotics
+%C Daegu, Republic of Korea
+
+%0 Conference Paper
+%T Comparing a Mentalist and an Interactionist Approach for Trust Analysis in Human-Robot Interaction
+%@ 9798400708244
+%U https://doi.org/10.1145/3623809.3623840
+%R 10.1145/3623809.3623840
+%B Proceedings of the 11th International Conference on Human-Agent Interaction
+%I Association for Computing Machinery
+%A Marc Hulcelle
+%A Giovanna Varni
+%A Nicolas Rollet
+%A Chloe Clavel
+%D 2023
+%P 273–280
+%K HRI, Interactional Sociology, Methodologies, Psychology, Trust
+%C Gothenburg, Sweden
+
+%0 Conference Paper
+%T Deconstructed Trustee Theory: Disentangling Trust in Body and Identity in Multi-Robot Distributed Systems
+%@ 9781450382892
+%U https://doi.org/10.1145/3434073.3444644
+%R 10.1145/3434073.3444644
+%B Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Tom Williams
+%A Daniel Ayers
+%A Camille Kaufman
+%A Jon Serrano
+%A Sayanti Roy
+%D 2021
+%P 262–271
+%K trust, identity, human-robot interaction, blame
+%C Boulder, CO, USA
+
+%0 Conference Paper
+%T MagKnitic: Machine-knitted Passive and Interactive Haptic Textiles with Integrated Binary Sensing
+%@ 9798400701320
+%U https://doi.org/10.1145/3586183.3606765
+%R 10.1145/3586183.3606765
+%B Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
+%I Association for Computing Machinery
+%A Yiyue Luo
+%A Junyi Zhu
+%A Kui Wu
+%A Cedric Honnet
+%A Stefanie Mueller
+%A Wojciech Matusik
+%D 2023
+%P Article 66
+%K Machine knitting, Passive Haptics, Personal Fabrication, Rapid Function Prototyping, eTextiles
+%C San Francisco, CA, USA
+
+%0 Journal Article
+%T Converging Measures and an Emergent Model: A Meta-Analysis of Human-Machine Trust Questionnaires
+%V 13
+%U https://doi.org/10.1145/3677614
+%R 10.1145/3677614
+%N 4
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Yosef S. Razin
+%A Karen M. Feigh
+%D 2024
+%P Article 58
+%K Human-Robot Trust, Shared Mental Models
+
+%0 Conference Paper
+%T Research on Dynamic Decision-making of Post-disaster Rescue Based on GCC Framework
+%@ 9781450362429
+%U https://doi.org/10.1145/3366715.3366743
+%R 10.1145/3366715.3366743
+%B Proceedings of the 2019 International Conference on Robotics Systems and Vehicle Technology
+%I Association for Computing Machinery
+%A Longlong Xu
+%A Wei Liu
+%A Jingzhi Guo
+%D 2019
+%P 164–170
+%K multi-agent, collaboration of agents, RCRSS, GCC, CAS
+%C Wuhan, China
+
+%0 Journal Article
+%T Neural rendering in a room: amodal 3D understanding and free-viewpoint rendering for the closed scene composed of pre-captured objects
+%V 41
+%@ 0730-0301
+%U https://doi.org/10.1145/3528223.3530163
+%R 10.1145/3528223.3530163
+%N 4
+%J ACM Trans. Graph.
+%I Association for Computing Machinery
+%A Bangbang Yang
+%A Yinda Zhang
+%A Yijin Li
+%A Zhaopeng Cui
+%A Sean Fanello
+%A Hujun Bao
+%A Guofeng Zhang
+%D 2022
+%P Article 101
+%K 3D scene understanding, amodel perception, neural rendering
+
+%0 Conference Paper
+%T Automated Planning for Peer-to-peer Teaming and its Evaluation in Remote Human-Robot Interaction
+%@ 9781450333184
+%U https://doi.org/10.1145/2701973.2702042
+%R 10.1145/2701973.2702042
+%B Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts
+%I Association for Computing Machinery
+%A Vignesh Narayanan
+%A Yu Zhang
+%A Nathaniel Mendoza
+%A Subbarao Kambhampati
+%D 2015
+%P 161–162
+%K user study/evaluation, teamwork &amp; group dynamics, robot design principles, autonomous robot capabilities
+%C Portland, Oregon, USA
+
+%0 Conference Paper
+%T Unmanned and autonomous systems mission based test and evaluation
+%@ 9781605587479
+%U https://doi.org/10.1145/1865909.1865926
+%R 10.1145/1865909.1865926
+%B Proceedings of the 9th Workshop on Performance Metrics for Intelligent Systems
+%I Association for Computing Machinery
+%A Philipp A. Djang
+%A Frank Lopez
+%D 2009
+%P 81–85
+%K unmanned and autonomous system test and evaluation, simulation based test and evaluation, mission based test and evaluation, mission and means framework, measures of performance, measures of effectiveness, capability based evaluation
+%C Gaithersburg, Maryland
+
+%0 Conference Paper
+%T CARDinality: Interactive Card-shaped Robots with Locomotion and Haptics using Vibration
+%@ 9798400706288
+%U https://doi.org/10.1145/3654777.3676421
+%R 10.1145/3654777.3676421
+%B Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology
+%I Association for Computing Machinery
+%A Aditya Retnanto
+%A Emilie Faracci
+%A Anup Sathya
+%A Yu-Kai Hung
+%A Ken Nakagaki
+%D 2024
+%P Article 17
+%K actuated tangible interface, card robot, cards, flat, interaction design, robot learning
+%C Pittsburgh, PA, USA
+
+%0 Conference Paper
+%T CapaCon: access control mechanism for inter-device communications through TCP connections
+%@ 9781605586397
+%U https://doi.org/10.1145/1774088.1774233
+%R 10.1145/1774088.1774233
+%B Proceedings of the 2010 ACM Symposium on Applied Computing
+%I Association for Computing Machinery
+%A Mitsuhiro Mabuchi
+%A Yasushi Shinjo
+%A Koji Hasebe
+%A Akira Sato
+%A Kazuhiko Kato
+%D 2010
+%P 706–712
+%K network security, inter-device communications, capabilities, access control
+%C Sierre, Switzerland
+
+%0 Conference Paper
+%T Assessing the Effectiveness of Using Chatbots for Positive Psychological Intervention: A Randomized Control Study
+%@ 9781450398695
+%U https://doi.org/10.1145/3565698.3565789
+%R 10.1145/3565698.3565789
+%B Proceedings of the Tenth International Symposium of Chinese CHI
+%I Association for Computing Machinery
+%A Ivan Liu
+%A Yuting Xiao
+%A Fangyuan Liu
+%A Shuming Wu
+%A Shiguang Ni
+%D 2024
+%P 227–234
+%K Chatbot, Human-computer interaction, Positive psychology exercise, Positive psychology intervention
+%C Guangzhou, China and Online, China
+

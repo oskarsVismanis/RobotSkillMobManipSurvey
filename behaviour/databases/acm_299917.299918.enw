@@ -1,0 +1,14 @@
+%0 Journal Article
+%T Efficient algorithms for geometric optimization
+%V 30
+%@ 0360-0300
+%U https://doi.org/10.1145/299917.299918
+%R 10.1145/299917.299918
+%N 4
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Pankaj K. Agarwal
+%A Micha Sharir
+%D 1998
+%P 412–458
+%K randomized algorithms, prune-and-search, proximity problems, parametric searching, matrix searching, linear programming, collision detection, clustering
