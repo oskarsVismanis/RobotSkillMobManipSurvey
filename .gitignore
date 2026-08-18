@@ -1,1 +1,3 @@
 *.png
+.vscode/
+skill_review_env/*

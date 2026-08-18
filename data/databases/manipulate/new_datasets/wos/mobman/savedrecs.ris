@@ -1,0 +1,74 @@
+﻿TY  - CPAPER
+AU  - Kotecha, P
+AU  - Sinha, P
+AU  - Govindan, N
+A1  - IEEE
+TI  - A Hierarchical Manipulation Planning Framework Combining Striking, Pushing, and Pick & Place Motion Primitives
+T2  - 2024 IEEE 20TH INTERNATIONAL CONFERENCE ON AUTOMATION SCIENCE AND ENGINEERING, CASE 2024
+CP  - IEEE 20th International Conference on Automation Science and Engineering (CASE)
+SN  - 2161-8070
+SN  - 979-8-3503-5851-3
+SN  - 979-8-3503-5852-0
+PY  - 2024
+SP  - 956
+EP  - 961
+DO  - 10.1109/CASE59546.2024.10711645
+AN  - WOS:001361783100120
+ER  -
+
+TY  - CPAPER
+AU  - Vasilopoulos, V
+AU  - Kantaros, Y
+AU  - Pappas, GJ
+AU  - Koditschek, DE
+A1  - IEEE
+TI  - Reactive Planning for Mobile Manipulation Tasks in Unexplored Semantic Environments
+T2  - 2021 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2021)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-7281-9077-8
+PY  - 2021
+SP  - 6385
+EP  - 6392
+DO  - 10.1109/ICRA48506.2021.9561958
+AN  - WOS:000765738804112
+ER  -
+
+TY  - CPAPER
+AU  - Rigo, A
+AU  - Chen, YY
+AU  - Gupta, SK
+AU  - Nguyen, Q
+A1  - IEEE
+TI  - Contact Optimization for Non-Prehensile Loco-Manipulation via Hierarchical Model Predictive Control
+T2  - 2023 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2023)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 979-8-3503-2365-8
+PY  - 2023
+SP  - 9945
+EP  - 9951
+DO  - 10.1109/ICRA48891.2023.10160507
+AN  - WOS:001048371102090
+ER  -
+
+TY  - JOUR
+AU  - Garrett, CR
+AU  - Lozano-Pérez, T
+AU  - Kaelbling, LP
+TI  - FFRob: Leveraging symbolic planning for efficient task and motion planning
+T2  - INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH
+SN  - 0278-3649
+SN  - 1741-3176
+DA  - JAN
+PY  - 2018
+VL  - 37
+IS  - 1
+SP  - 104
+EP  - 136
+DO  - 10.1177/0278364917739114
+AN  - WOS:000423752800007
+ER  -
+

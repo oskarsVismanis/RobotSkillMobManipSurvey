@@ -1,0 +1,723 @@
+TY  - JOUR
+AU  - Zhou, Y.
+AU  - Zhou, Y.
+AU  - Jin, K.
+AU  - Wang, H.
+TI  - Hierarchical Reinforcement Learning With Model Guidance for Mobile Manipulation
+PY  - 2025
+T2  - IEEE/ASME Transactions on Mechatronics
+VL  - 30
+IS  - 6
+SP  - 6155
+EP  - 6163
+DO  - 10.1109/TMECH.2025.3552677
+UR  - https://www.scopus.com/pages/publications/105002465464?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Mitrevski, A.
+AU  - Padalkar, A.
+AU  - Nguyen, M.
+AU  - Plöger, P.G.
+TI  - “Lucy, Take the Noodle Box!”: Domestic Object Manipulation Using Movement Primitives and Whole Body Motion
+PY  - 2019
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 11531 LNAI
+SP  - 189
+EP  - 200
+DO  - 10.1007/978-3-030-35699-6_15
+UR  - https://www.scopus.com/pages/publications/85076890579?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Niekum, S.
+AU  - Osentoski, S.
+AU  - Konidaris, G.
+AU  - Barto, A.G.
+TI  - Learning and generalization of complex tasks from unstructured demonstrations
+PY  - 2012
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 6386006
+SP  - 5239
+EP  - 5246
+DO  - 10.1109/IROS.2012.6386006
+UR  - https://www.scopus.com/pages/publications/84872355921?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 160
+ER  -
+
+TY  - JOUR
+AU  - Liu, W.
+AU  - Chen, D.
+AU  - Zhang, L.
+TI  - Learning from demonstration based obstacle avoidance algorithm to plan the trajectory of a mobile manipulator
+ST  - 利用示教学习的移动机械臂轨迹避障算法
+PY  - 2018
+T2  - Harbin Gongcheng Daxue Xuebao/Journal of Harbin Engineering University
+VL  - 39
+IS  - 9
+SP  - 1546
+EP  - 1553
+DO  - 10.11990/jheu.201703030
+UR  - https://www.scopus.com/pages/publications/85056891826?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 2
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Karumanchi, S.
+AU  - Edelberg, K.
+AU  - Baldwin, I.
+AU  - Nash, J.
+AU  - Satzinger, B.
+AU  - Reid, J.
+AU  - Bergh, C.
+AU  - Lau, C.
+AU  - Leichty, J.
+AU  - Carpenter, K.
+AU  - Shekels, M.
+AU  - Gildner, M.
+AU  - Newill-Smith, D.
+AU  - Carlton, J.
+AU  - Koehler, J.
+AU  - Dobreva, T.
+AU  - Frost, M.
+AU  - Hebert, P.
+AU  - Borders, J.
+AU  - Ma, J.
+AU  - Douillard, B.
+AU  - Shankar, K.
+AU  - Byl, K.
+AU  - Burdick, J.
+AU  - Backes, P.
+AU  - Kennedy, B.
+TI  - Team robosimian: Semi-autonomous mobile manipulation at the 2015 DARPA robotics challenge finals
+PY  - 2018
+T2  - Springer Tracts in Advanced Robotics
+VL  - 121
+SP  - 191
+EP  - 235
+DO  - 10.1007/978-3-319-74666-1_6
+UR  - https://www.scopus.com/pages/publications/85045380984?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Li, Z.
+AU  - Zhao, T.
+AU  - Chen, F.
+AU  - Hu, Y.
+AU  - Su, C.-Y.
+AU  - Fukuda, T.
+TI  - Reinforcement Learning of Manipulation and Grasping Using Dynamical Movement Primitives for a Humanoidlike Mobile Manipulator
+PY  - 2018
+T2  - IEEE/ASME Transactions on Mechatronics
+VL  - 23
+IS  - 1
+SP  - 121
+EP  - 131
+DO  - 10.1109/TMECH.2017.2717461
+UR  - https://www.scopus.com/pages/publications/85021781497?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 198
+ER  -
+
+TY  - CONF
+AU  - Hadfield-Menell, D.
+AU  - Lin, C.
+AU  - Chitnis, R.
+AU  - Russell, S.
+AU  - Abbeel, P.
+TI  - Sequential quadratic programming for task plan optimization
+PY  - 2016
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2016-November
+C7  - 7759740
+SP  - 5040
+EP  - 5047
+DO  - 10.1109/IROS.2016.7759740
+UR  - https://www.scopus.com/pages/publications/85006446500?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 14
+ER  -
+
+TY  - CONF
+AU  - Shi, J.
+AU  - Hamner, B.
+AU  - Simmons, R.
+AU  - Singh, S.
+TI  - Mobile robotic assembly on a moving vehicle
+PY  - 2012
+T2  - ASME/ISCIE 2012 International Symposium on Flexible Automation, ISFA 2012
+SP  - 117
+EP  - 123
+DO  - 10.1115/ISFA2012-7193
+UR  - https://www.scopus.com/pages/publications/84892640848?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Yang, Z.
+AU  - Li, M.
+AU  - Zha, F.
+AU  - Wang, X.
+AU  - Wang, P.
+AU  - Guo, W.
+TI  - Imitation learning of a wheeled mobile manipulator based on dynamical movement primitives
+PY  - 2021
+T2  - Industrial Robot
+VL  - 48
+IS  - 4
+SP  - 556
+EP  - 568
+DO  - 10.1108/IR-11-2020-0255
+UR  - https://www.scopus.com/pages/publications/85108165322?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Finean, M.N.
+AU  - Merkt, W.
+AU  - Havoutis, I.
+TI  - Where Should i Look? Optimised Gaze Control for Whole-Body Collision Avoidance in Dynamic Environments
+PY  - 2022
+T2  - IEEE Robotics and Automation Letters
+VL  - 7
+IS  - 2
+SP  - 1095
+EP  - 1102
+DO  - 10.1109/LRA.2021.3137545
+UR  - https://www.scopus.com/pages/publications/85122085654?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 10
+ER  -
+
+TY  - CONF
+AU  - Settimi, A.
+AU  - Caporale, D.
+AU  - Kryczka, P.
+AU  - Ferrati, M.
+AU  - Pallottino, L.
+TI  - Motion primitive based random planning for loco-manipulation tasks
+PY  - 2016
+T2  - IEEE-RAS International Conference on Humanoid Robots
+C7  - 7803402
+SP  - 1059
+EP  - 1066
+DO  - 10.1109/HUMANOIDS.2016.7803402
+UR  - https://www.scopus.com/pages/publications/85010204750?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 15
+ER  -
+
+TY  - CONF
+AU  - Lee, S.
+AU  - Chun, C.
+AU  - Kim, J.
+AU  - Park, F.C.
+TI  - An architecture and motion description language for mobile manipulation of service robots
+PY  - 2008
+T2  - 39th International Symposium on Robotics, ISR 2008
+SP  - 152
+EP  - 157
+UR  - https://www.scopus.com/pages/publications/84876751291?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Karumanchi, S.
+AU  - Edelberg, K.
+AU  - Baldwin, I.
+AU  - Nash, J.
+AU  - Reid, J.
+AU  - Bergh, C.
+AU  - Leichty, J.
+AU  - Carpenter, K.
+AU  - Shekels, M.
+AU  - Gildner, M.
+AU  - Newill-Smith, D.
+AU  - Carlton, J.
+AU  - Koehler, J.
+AU  - Dobreva, T.
+AU  - Frost, M.
+AU  - Hebert, P.
+AU  - Borders, J.
+AU  - Ma, J.
+AU  - Douillard, B.
+AU  - Backes, P.
+AU  - Kennedy, B.
+AU  - Satzinger, B.
+AU  - Lau, C.
+AU  - Byl, K.
+AU  - Shankar, K.
+AU  - Burdick, J.
+TI  - Team RoboSimian: Semi-autonomous Mobile Manipulation at the 2015 DARPA Robotics Challenge Finals
+PY  - 2017
+T2  - Journal of Field Robotics
+VL  - 34
+IS  - 2
+SP  - 305
+EP  - 332
+DO  - 10.1002/rob.21676
+UR  - https://www.scopus.com/pages/publications/84991736434?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 74
+ER  -
+
+TY  - JOUR
+AU  - Nagatani, K.
+AU  - Yuta, S.
+TI  - Door-opening behavior of an autonomous mobile manipulator by sequence of action primitives
+PY  - 1996
+T2  - Journal of Robotic Systems
+VL  - 13
+IS  - 11
+SP  - 709
+EP  - 721
+DO  - 10.1002/(SICI)1097-4563(199611)13:11<709::AID-ROB3>3.0.CO;2-Z
+UR  - https://www.scopus.com/pages/publications/0030283139?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 15
+ER  -
+
+TY  - JOUR
+AU  - Ding, L.
+AU  - Xing, H.
+AU  - Torabi, A.
+AU  - Mehr, J.K.
+AU  - Sharifi, M.
+AU  - Gao, H.
+AU  - Mushahwar, V.K.
+AU  - Tavakoli, M.
+TI  - Intelligent assistance for older adults via an admittance-controlled wheeled mobile manipulator with task-dependent end-effectors
+PY  - 2022
+T2  - Mechatronics
+VL  - 85
+C7  - 102821
+DO  - 10.1016/j.mechatronics.2022.102821
+UR  - https://www.scopus.com/pages/publications/85130959118?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 29
+ER  -
+
+TY  - JOUR
+AU  - Yang, Y.
+AU  - Li, Z.
+AU  - Hu, Z.
+TI  - Vision-Language-Action Model-Based Event-Triggered Admittance Control of a Mobile Manipulator for Power Substation Live-Maintaining
+PY  - 2026
+T2  - IEEE Transactions on Fuzzy Systems
+VL  - 34
+IS  - 3
+SP  - 881
+EP  - 895
+DO  - 10.1109/TFUZZ.2025.3647919
+UR  - https://www.scopus.com/pages/publications/105031846230?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Cohen, B.J.
+AU  - Subramanian, G.
+AU  - Chitta, S.
+AU  - Likhachev, M.
+TI  - Planning for manipulation with adaptive motion primitives
+PY  - 2011
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 5980550
+SP  - 5478
+EP  - 5485
+DO  - 10.1109/ICRA.2011.5980550
+UR  - https://www.scopus.com/pages/publications/84862286092?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 63
+ER  -
+
+TY  - CONF
+AU  - Cohen, B.J.
+AU  - Chitta, S.
+AU  - Likhachev, M.
+TI  - Search-based planning for manipulation with motion primitives
+PY  - 2010
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 5509685
+SP  - 2902
+EP  - 2908
+DO  - 10.1109/ROBOT.2010.5509685
+UR  - https://www.scopus.com/pages/publications/77955798119?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 121
+ER  -
+
+TY  - JOUR
+AU  - Kim, H.
+AU  - Oh, C.
+AU  - Jang, I.
+AU  - Park, S.
+AU  - Seo, H.
+AU  - Kim, H.J.
+TI  - Learning and Generalizing Cooperative Manipulation Skills Using Parametric Dynamic Movement Primitives
+PY  - 2022
+T2  - IEEE Transactions on Automation Science and Engineering
+VL  - 19
+IS  - 4
+SP  - 3968
+EP  - 3979
+DO  - 10.1109/TASE.2022.3141460
+UR  - https://www.scopus.com/pages/publications/85123349609?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 21
+ER  -
+
+TY  - JOUR
+AU  - Konidaris, G.
+AU  - Kuindersma, S.
+AU  - Grupen, R.
+AU  - Barto, A.
+TI  - Robot learning from demonstration by constructing skill trees
+PY  - 2012
+T2  - International Journal of Robotics Research
+VL  - 31
+IS  - 3
+SP  - 360
+EP  - 375
+DO  - 10.1177/0278364911428653
+UR  - https://www.scopus.com/pages/publications/84857832945?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 250
+ER  -
+
+TY  - CONF
+AU  - Singh, A.K.
+AU  - Krishna, K.M.
+TI  - Coordinating mobile manipulator's motion to produce stable trajectories on uneven terrain based on feasible acceleration count
+PY  - 2013
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 6697080
+SP  - 5009
+EP  - 5014
+DO  - 10.1109/IROS.2013.6697080
+UR  - https://www.scopus.com/pages/publications/84893754729?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Rovida, F.
+AU  - Krüger, V.
+TI  - Design and development of a software architecture for autonomous mobile manipulators in industrial environments
+PY  - 2015
+T2  - Proceedings of the IEEE International Conference on Industrial Technology
+VL  - 2015-June
+IS  - June
+C7  - 7125585
+SP  - 3288
+EP  - 3295
+DO  - 10.1109/ICIT.2015.7125585
+UR  - https://www.scopus.com/pages/publications/84937710896?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 24
+ER  -
+
+TY  - CONF
+AU  - Confente, A.
+AU  - Jin, T.
+AU  - Kobayashi, T.
+AU  - Guadarrama-Olvera, J.R.
+AU  - Cheng, G.
+TI  - Skin-Machine Interface with Multimodal Contact Motion Classifier
+PY  - 2025
+T2  - IEEE-RAS International Conference on Humanoid Robots
+SP  - 381
+EP  - 388
+DO  - 10.1109/Humanoids65713.2025.11203047
+UR  - https://www.scopus.com/pages/publications/105022193740?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Lee, H.
+AU  - Kim, H.
+AU  - Kim, W.
+AU  - Jin Kim, H.
+TI  - An Integrated Framework for Cooperative Aerial Manipulators in Unknown Environments
+PY  - 2018
+T2  - IEEE Robotics and Automation Letters
+VL  - 3
+IS  - 3
+SP  - 2307
+EP  - 2314
+DO  - 10.1109/LRA.2018.2807486
+UR  - https://www.scopus.com/pages/publications/85063305793?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 51
+ER  -
+
+TY  - CONF
+AU  - Deng, M.
+AU  - Hu, Y.
+AU  - Li, Z.
+TI  - Reinforcement learning of dual-arm cooperation for a mobile manipulator with sequences of dynamical movement primitives
+PY  - 2017
+T2  - 2017 2nd International Conference on Advanced Robotics and Mechatronics, ICARM 2017
+VL  - 2018-January
+SP  - 196
+EP  - 201
+DO  - 10.1109/ICARM.2017.8273159
+UR  - https://www.scopus.com/pages/publications/85050738087?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+TI  - 22th Annual Conference Towards Autonomous Robotic Systems, TAROS 2021
+PY  - 2021
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 13054 LNAI
+UR  - https://www.scopus.com/pages/publications/85119350383?origin=resultslist
+M3  - Conference review
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Guo, K.
+AU  - Lu, Z.
+AU  - Tan, Z.
+TI  - Adaptive Stiffness Control for Series Elastic Actuators in Robotic Systems Using Dynamic Systems
+PY  - 2026
+T2  - Computational Intelligence
+VL  - 42
+IS  - 1
+C7  - e70163
+DO  - 10.1111/coin.70163
+UR  - https://www.scopus.com/pages/publications/105026274807?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Toner, T.
+AU  - Tilbury, D.M.
+AU  - Barton, K.
+TI  - PRF: A Program Reuse Framework for Automated Programming by Learning from Existing Robot Programs
+PY  - 2024
+T2  - Robotics
+VL  - 13
+IS  - 8
+C7  - 118
+DO  - 10.3390/robotics13080118
+UR  - https://www.scopus.com/pages/publications/85202601163?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Zhao, J.
+AU  - Tassi, F.
+AU  - Huang, Y.
+AU  - De Momi, E.
+AU  - Ajoudani, A.
+TI  - A combined learning and optimization framework to transfer human whole-body loco-manipulation skills to mobile manipulators
+PY  - 2025
+T2  - Robotics and Autonomous Systems
+VL  - 189
+C7  - 104958
+DO  - 10.1016/j.robot.2025.104958
+UR  - https://www.scopus.com/pages/publications/86000509006?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Qin, D.
+AU  - Liu, A.
+AU  - Xu, J.
+AU  - Zhang, W.-A.
+AU  - Yu, L.
+TI  - Learning From Human Demonstrations for Wheel Mobile Manipulator: An Unscented Model Predictive Control Approach
+PY  - 2023
+T2  - IEEE Transactions on Neural Networks and Learning Systems
+VL  - 34
+IS  - 12
+SP  - 10864
+EP  - 10874
+DO  - 10.1109/TNNLS.2022.3171595
+UR  - https://www.scopus.com/pages/publications/85132526109?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Nagatani, Keiji
+AU  - Yuta, Shin'ichi
+TI  - Designing strategy and implementation of mobile manipulator control system for opening door
+PY  - 1996
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 3
+SP  - 2828
+EP  - 2834
+UR  - https://www.scopus.com/pages/publications/0029720626?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 52
+ER  -
+
+TY  - JOUR
+AU  - Liao, Z.
+AU  - Lorenzini, M.
+AU  - Leonori, M.
+AU  - Zhao, F.
+AU  - Jiang, G.
+AU  - Ajoudani, A.
+TI  - An Ergo-Interactive Framework for Human-Robot Collaboration Via Learning from Demonstration
+PY  - 2024
+T2  - IEEE Robotics and Automation Letters
+VL  - 9
+IS  - 1
+SP  - 359
+EP  - 366
+DO  - 10.1109/LRA.2023.3328366
+UR  - https://www.scopus.com/pages/publications/85179626016?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Metzen, J.H.
+AU  - Fabisch, A.
+AU  - Senger, L.
+AU  - de Gea Fernández, J.
+AU  - Kirchner, E.A.
+TI  - Towards Learning of Generic Skills for Robotic Manipulation
+PY  - 2014
+T2  - KI - Kunstliche Intelligenz
+VL  - 28
+IS  - 1
+SP  - 15
+EP  - 20
+DO  - 10.1007/s13218-013-0280-1
+UR  - https://www.scopus.com/pages/publications/85087961578?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 18
+ER  -
+
+TY  - JOUR
+AU  - Khatib, O.
+AU  - Quinlan, S.
+AU  - Williams, D.
+TI  - Robot planning and control
+PY  - 1997
+T2  - Robotics and Autonomous Systems
+VL  - 21
+IS  - 3
+SP  - 249
+EP  - 261
+DO  - 10.1016/S0921-8890(96)00078-4
+UR  - https://www.scopus.com/pages/publications/0031223420?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Zhao, J.
+AU  - Teng, T.
+AU  - De Momi, E.
+AU  - Ajoudani, A.
+TI  - Reactive Whole-body Locomotion-integrated Manipulation Based on Combined Learning and Optimization
+PY  - 2025
+T2  - Machine Intelligence Research
+VL  - 22
+IS  - 4
+SP  - 627
+EP  - 640
+DO  - 10.1007/s11633-024-1538-9
+UR  - https://www.scopus.com/pages/publications/105009218936?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Kotecha, P.
+AU  - Sinha, P.
+AU  - Govindan, N.
+TI  - A Hierarchical Manipulation Planning Framework Combining Striking, Pushing, and Pick & Place Motion Primitives
+PY  - 2024
+T2  - IEEE International Conference on Automation Science and Engineering
+SP  - 956
+EP  - 961
+DO  - 10.1109/CASE59546.2024.10711645
+UR  - https://www.scopus.com/pages/publications/85208249596?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Schwarz, M.
+AU  - Droeschel, D.
+AU  - Lenz, C.
+AU  - Periyasamy, A.S.
+AU  - Puang, E.Y.
+AU  - Razlaw, J.
+AU  - Rodriguez, D.
+AU  - Schüller, S.
+AU  - Schreiber, M.
+AU  - Behnke, S.
+TI  - Team NimbRo at MBZIRC 2017: Autonomous valve stem turning using a wrench
+PY  - 2019
+T2  - Journal of Field Robotics
+VL  - 36
+IS  - 1
+SP  - 170
+EP  - 182
+DO  - 10.1002/rob.21826
+UR  - https://www.scopus.com/pages/publications/85059024138?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 12
+ER  -
+

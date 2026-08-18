@@ -1,0 +1,432 @@
+\begin{table}[!h]
+\thispagestyle{empty}
+
+\caption{Full list of identified primitives.}
+\label{tab_primitives}
+\centering
+\begin{tabular}{|p{4cm}|p{5cm}|p{15cm}|}
+\hline
+\textbf{Grouping} & \textbf{Primitive} & \textbf{Reference} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Manipulator Primitives}} \\
+\hline
+\multirow{4}{*}{\parbox{3cm}{General Motions}}
+    & direction motion primitive      & \cite{Mitrevski2019LucyTT}, \cite{Nguyen2012AutonomouslyLT}, \cite{Huang2013BehaviorB}, \cite{Cohen2011PlanningFM}, \cite{Tsay2018BehavioristicIP}, \cite{Singh2013CoordinatingMM}, \cite{Andersen2017IntegrationOA}, \cite{Ding2022IntelligentAF}, \cite{Rodehutskors2015IntuitiveBT}, \cite{Pedersen2014IntuitiveSP}, \cite{Orsula2022LearningTG}, \cite{Li2019ManipulationSA}, \cite{Shi2012MobileRA}, \cite{Groth2013MultitaskingOC}, \cite{Bouachari2018ObjectPC}, \cite{Partovi2017ReactiveIM}, \cite{Pedersen2016RobotSF}, \cite{Cohen2012SearchbasedPF}, \cite{Cohen2010SearchbasedPF}, \cite{Huang2023SkillTA}, \cite{Lim2019SkillbasedAA}, \cite{Amaral2017SkillbasedAA}, \cite{Diab2020SkillMaNA}, \cite{Schwarz2018TeamNA}, \cite{Karumanchi2017TeamRS}, \cite{Thakar2018TowardsTT}, \cite{MacKenzie1996BehaviorbasedMM}, \cite{Hentout2007BehaviourbasedAF}, \cite{Sequeira2000BehaviourbasedCB}, \cite{Aarno2008MotionIR}, \cite{Confente2025SkinMachineIW}, \cite{Guo2025AdaptiveSC}, \cite{engelbracht2024spotlightroboticsceneunderstanding}, \cite{Lopes2026CARGOAM}, \cite{Gupta2025PreciseMM}, \cite{Wu2024InTW}, \cite{Caro2025PushSN}, \cite{Xiao2025AutonomousBC}, \cite{Williams2012ARA}, \cite{Shan2026DockAnywhereDV}, \cite{Mounsif2020BAMBA}, \cite{Watanabe2025IntegratingBP} \\
+\cline{2-3}
+    & move along plane                & \cite{Groth2013MultitaskingOC}, \cite{Li2020PatternAA}, \cite{Waarsing2003BehaviorbasedMM}, \cite{Gller2024APB}, \cite{Fu2024MobileAL} \\
+\cline{2-3}
+    & reach                           & \cite{Lopera2012ComparingMG}, \cite{Youngquist2022EvaluatingSA}, \cite{Orsula2022LearningTG}, \cite{Beetz2016OpenRR}, \cite{Zhao2025ReactiveWL}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO}, \cite{Jauhri2022RobotLO}, \cite{Akkaladevi2024TowardsAB}, \cite{Mounsif2020BAMBA} \\
+\cline{2-3}
+    & execute predefined trajectory   & \cite{Rodehutskors2015IntuitiveBT}, \cite{Andersen2015IntuitiveTP}, \cite{Settimi2016MotionPB}, \cite{Zhao2025ReactiveWL}, \cite{Schwarz2018TeamNA}, \cite{Waarsing2003BehaviorbasedMM}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO}, \cite{Waarsing2005FromBI} \\
+\hline
+\multirow{5}{*}{\parbox{3cm}{Object Interaction}}
+    & control gripper                 & \cite{Mitrevski2019LucyTT}, \cite{Zhao2025ACL}, \cite{Nguyen2012AutonomouslyLT}, \cite{Stckler2013IncreasingFO}, \cite{Andersen2017IntegrationOA}, \cite{Rodehutskors2015IntuitiveBT}, \cite{Pedersen2014IntuitiveSP}, \cite{Orsula2022LearningTG}, \cite{Pohl2024MAkEableMA}, \cite{Groth2013MultitaskingOC}, \cite{Toner2024PRFAP}, \cite{Zhao2025ReactiveWL}, \cite{Huang2023SkillTA}, \cite{Diab2020SkillMaNA}, \cite{Schwarz2018TeamNA}, \cite{Thakar2018TowardsTT}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO}, \cite{Choi2009HandIO}, \cite{Zsoldos2025TowardsRL}, \cite{Knobbe2022CorePI}, \cite{Akkaladevi2024TowardsAB}, \cite{Confente2025SkinMachineIW}, \cite{Lopes2026CARGOAM}, \cite{Wu2024InTW}, \cite{Williams2012ARA}, \cite{Shan2026DockAnywhereDV}, \cite{Shi2021MaximizingTU}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & pull                            & \cite{Huang2013BehaviorB}, \cite{Schmalstieg2023LearningHI}, \cite{Shi2012MobileRA}, \cite{Lim2008MultipleHC}, \cite{Diab2020SkillMaNA}, \cite{Huang2008ACB}, \cite{Petersson1999AHC}, \cite{Knobbe2022CorePI}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & push                            & \cite{Weser2009AutonomousPF}, \cite{Li2022BEHAVIOR1KAB}, \cite{Schmalstieg2023LearningHI}, \cite{Shi2012MobileRA}, \cite{Lim2008MultipleHC}, \cite{Huang2008ACB}, \cite{Kotecha2024AHM}, \cite{Watanabe2024ImprovingRS}, \cite{Gupta2025PreciseMM}, \cite{Wu2024InTW}, \cite{Caro2025PushSN}, \cite{Williams2012ARA}, \cite{Shi2021MaximizingTU}, \cite{Watanabe2025IntegratingBP}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & touch                           & \cite{Orsula2022LearningTG}, \cite{Gller2024APB}, \cite{Fu2024MobileAL} \\
+\cline{2-3}
+    & dip                             & \cite{Li2022BEHAVIOR1KAB}, \cite{Knobbe2022CorePI} \\
+\hline
+\multirow{2}{*}{\parbox{2cm}{Control Mode}}
+    & sensor based motion             & \cite{Tsay2018BehavioristicIP}, \cite{Shi2012MobileRA}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Peng2024RevolutionizingBD}, \cite{Wasik2002AFB}, \cite{Petersson1999AHC}, \cite{MacKenzie1996BehaviorbasedMM}, \cite{Beetz2011GeneralityAL} \\
+\cline{2-3}
+    & teleoperation blending          & \cite{Maeda2022BlendingPP} \\
+\hline
+% \multirow{2}{*}{Constraint \& Compliance}
+\multirow{2}{*}{\parbox{4cm}{Constraint \& Compliance}}
+    & move arm with force sensitivity & \cite{Forster2020AutomaticEO}, \cite{Huang2013BehaviorB}, \cite{Youngquist2022EvaluatingSA}, \cite{Pohl2024MAkEableMA}, \cite{Li2019ManipulationSA}, \cite{Beetz2016OpenRR}, \cite{Karumanchi2017TeamRS}, \cite{Huang2008ACB}, \cite{Waarsing2001IntroducingRI}, \cite{Kotecha2024AHM}, \cite{Gller2024APB}, \cite{Knobbe2022CorePI}, \cite{Guo2025AdaptiveSC} \\
+\cline{2-3}
+    & rotate EE until constraint      & \cite{Koch2017ASR}, \cite{Knobbe2022CorePI} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Learned Motion}}
+    & learned EE trajectory tracking  & \cite{Zhao2025ACL}, \cite{Ning2023InverseKA}, \cite{Gmez2012KinestheticTV}, \cite{Niekum2012LearningAG}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Short2019SAILSA}, \cite{Kiyokawa2025SelfSupervisedLO}, \cite{Yang2023LearnTC}, \cite{Kim2022LearningAG}, \cite{Carvalho2025ParameterFreeSO}, \cite{Caro2025PushSN} \\
+\cline{2-3}
+    & tool-specific motion primitive  & \cite{Stckler2014AdaptiveTS}, \cite{Yamazaki2012HomeAssistantRF} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Mobile Base Primitives}} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{General Motions}}
+    & direction motion primitive            & \cite{Gray2013ASP}, \cite{Donald2024AnAF}, \cite{Huang2013BehaviorB}, \cite{Scholz2011CartPW}, \cite{Singh2013CoordinatingMM}, \cite{Laaksonen2010EmbodimentIM}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Ding2022IntelligentAF}, \cite{Pedersen2014IntuitiveSP}, \cite{Settimi2016MotionPB}, \cite{Bouachari2018ObjectPC}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Huang2023SkillTA}, \cite{Schwarz2018TeamNA}, \cite{Karumanchi2017TeamRS}, \cite{Finean2021WhereSI}, \cite{Chang2006ABB}, \cite{Huang2008ACB}, \cite{Stroupe2005BehaviorbasedMC}, \cite{Sequeira2000BehaviourbasedCB}, \cite{Aarno2008MotionIR}, \cite{Pimentel2002OnTD}, \cite{Knobbe2022CorePI}, \cite{Watanabe2024ImprovingRS}, \cite{Confente2025SkinMachineIW}, \cite{engelbracht2024spotlightroboticsceneunderstanding}, \cite{Lopes2026CARGOAM}, \cite{Lee2025LearningCL}, \cite{Gupta2025PreciseMM}, \cite{Bertoncelli2020LinearTM}, \cite{Xiao2025AutonomousBC}, \cite{Williams2012ARA}, \cite{Dadiotis2025DynamicOG}, \cite{Shan2026DockAnywhereDV}, \cite{Mounsif2020BAMBA}, \cite{Watanabe2025IntegratingBP}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & path following                        & \cite{Arrais2019ApplicationOT}, \cite{Forster2020AutomaticEO}, \cite{Youngquist2022EvaluatingSA}, \cite{Tsay2010MaterialHO}, \cite{Zsoldos2025TowardsRL} \\
+\hline
+\multirow{2}{*}{\parbox{4cm}{Perception-conditioned Motion}}
+    & perception conditioned path following & \cite{Arrais2019ApplicationOT}, \cite{Andersen2017IntegrationOA}, \cite{Waarsing2001IntroducingRI} \\
+\cline{2-3}
+    & obstacle avoidance                    & \cite{Forster2020AutomaticEO}, \cite{Bruemmer2010BehaviorBC}, \cite{Sayyaadi2014ControlON}, \cite{Stckler2013IncreasingFO}, \cite{Stckler2009IntegratingIM}, \cite{Tsay2010MaterialHO}, \cite{Lee2018PlanningAC}, \cite{Lin2010ResearchOO}, \cite{Hentout2008MultiagentAM}, \cite{Chang2006ABB}, \cite{Chang2006AnalysisOA}, \cite{MacKenzie1996BehaviorbasedMM}, \cite{Hentout2007BehaviourbasedAF}, \cite{Sequeira2000BehaviourbasedCB}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO}, \cite{Andrian2005EmbeddedCI}, \cite{Waarsing2001IntroducingRI}, \cite{Pimentel2002OnTD}, \cite{Qin2022LearningFH} \\
+\hline
+\multirow{3}{*}{\parbox{3cm}{Adapting Motion}}
+    & reactive stabilization motion         & \cite{Mitrevski2019LucyTT}, \cite{Huang2013BehaviorB}, \cite{Schwarz2016HybridDL}, \cite{Klamt2018SupervisedAL}, \cite{Thakar2018TowardsTT} \\
+\cline{2-3}
+    & maintain distance                     & \cite{Lee2018PlanningAC}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO} \\
+\cline{2-3}
+    & stepping                              & \cite{Schwarz2016HybridDL}, \cite{Klamt2018SupervisedAL} \\
+\hline
+\multirow{1}{*}{\parbox{2cm}{Control Mode}}
+    & teleoperation blending                & \cite{Maeda2022BlendingPP}, \cite{Klamt2018SupervisedAL} \\
+\hline
+\multirow{1}{*}{\parbox{3cm}{Learned Motion}}
+    & learned trajectory tracking           & \cite{Zhao2025ACL}, \cite{Schmalstieg2023LearningHI}, \cite{Zhao2025ReactiveWL}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Kiyokawa2025SelfSupervisedLO}, \cite{Qin2022LearningFH} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Perception Primitives}} \\
+\hline
+\multirow{4}{*}{\parbox{4cm}{Scene and Object Perception}}
+    & detect target          & \cite{Weser2009AutonomousPF}, \cite{Frasca2020GoingCA}, \cite{Stckler2013IncreasingFO}, \cite{Stckler2009IntegratingIM}, \cite{Kenney2009InteractiveSF}, \cite{Pedersen2014IntuitiveSP}, \cite{Pohl2024MAkEableMA}, \cite{Li2019ManipulationSA}, \cite{Shi2012MobileRA}, \cite{Partovi2017ReactiveIM}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Peng2024RevolutionizingBD}, \cite{Lim2008MultipleHC}, \cite{Kiyokawa2025SelfSupervisedLO}, \cite{Lim2019SkillbasedAA}, \cite{Amaral2017SkillbasedAA}, \cite{Chang2006ABB}, \cite{MacKenzie1996BehaviorbasedMM}, \cite{Choi2009HandIO}, \cite{Nagatani2000MotionDF}, \cite{Beetz2011GeneralityAL}, \cite{Yang2026VisionLanguageActionME}, \cite{Lee2023DevelopmentAV}, \cite{Akkaladevi2024TowardsAB}, \cite{engelbracht2024spotlightroboticsceneunderstanding}, \cite{Lopes2026CARGOAM}, \cite{Gupta2025PreciseMM}, \cite{Xiao2025AutonomousBC}, \cite{Williams2012ARA}, \cite{Fu2024MobileAL}, \cite{Yokoyama2023ASCAS} \\
+\cline{2-3}
+    & perceive target        & \cite{Holz2015ASS}, \cite{Stckler2014AdaptiveTS}, \cite{Weser2009AutonomousPF}, \cite{Bruemmer2010BehaviorBC}, \cite{Pedersen2015GestureBasedEO}, \cite{Frasca2020GoingCA}, \cite{Stckler2013IncreasingFO}, \cite{Stckler2009IntegratingIM}, \cite{Pedersen2014IntuitiveSP}, \cite{Tsay2010MaterialHO}, \cite{Kostavelis2022RoboticAI}, \cite{Lim2019SkillbasedAA}, \cite{Stroupe2005BehaviorbasedMC}, \cite{Choi2009HandIO}, \cite{Lee2025LearningCL}, \cite{Gupta2025PreciseMM}, \cite{Wu2024InTW}, \cite{Shi2021MaximizingTU} \\
+\cline{2-3}
+    & perceive workspace     & \cite{Holz2015ASS}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Schwarz2016HybridDL}, \cite{Pimentel2002OnTD}, \cite{Knobbe2022CorePI} \\
+\cline{2-3}
+    & detect target motion   & \cite{Kenney2009InteractiveSF}, \cite{Lim2019SkillbasedAA} \\
+\hline
+\multirow{3}{*}{\parbox{3cm}{Pose Estimation}}
+    & detect pick pose       & \cite{Mitrevski2019LucyTT}, \cite{Holz2015ASS}, \cite{Stckler2014EfficientDR}, \cite{Youngquist2022EvaluatingSA}, \cite{Toner2024PRFAP}, \cite{Andrian2005EmbeddedCI}, \cite{Gupta2025PreciseMM}, \cite{Fu2024MobileAL} \\
+\cline{2-3}
+    & detect place pose      & \cite{Forster2020AutomaticEO} \\
+\cline{2-3}
+    & detect approach pose   & \cite{Weser2009AutonomousPF}, \cite{Lopes2026CARGOAM}, \cite{Lee2025LearningCL} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Sensor Operation}}
+    & point sensor on target & \cite{Weser2009AutonomousPF}, \cite{Bruemmer2010BehaviorBC}, \cite{Youngquist2022EvaluatingSA}, \cite{Tsay2010MaterialHO}, \cite{Hornung2012NavigationIT}, \cite{Lim2019SkillbasedAA}, \cite{Finean2021WhereSI} \\
+\cline{2-3}
+    & sensor calibration     & \cite{Bruemmer2010BehaviorBC}, \cite{Partovi2017ReactiveIM} \\
+\hline
+Other Modalities & speech    & \cite{Stckler2013IncreasingFO}, \cite{Choi2009HandIO} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Mobile Manipulator Primitives}} \\
+\hline
+\multirow{3}{*}{\parbox{3cm}{Coordinated Contact Motions}}
+    & optimize contact                     & \cite{Rigo2022ContactOF}, \cite{Bertoncelli2020LinearTM}, \cite{Meng2023AerialMS} \\
+\cline{2-3}
+    & contact loco-manipulation            & \cite{Rigo2022ContactOF}, \cite{Arm2024PedipulateEM}, \cite{Dadiotis2025DynamicOG} \\
+\cline{2-3}
+    & reachability-conditioned positioning & \cite{Jauhri2022RobotLO} \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[p]
+\thispagestyle{empty}
+\caption{Full list of identified skills.}
+\label{tab_skills}
+\centering
+\begin{tabular}{|p{4cm}|p{5cm}|p{15cm}|}
+\hline
+\textbf{Grouping} & \textbf{Skill}    & \textbf{Reference} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Manipulator Skills}} \\
+\hline
+\multirow{6}{*}{\parbox{3cm}{Object Manipulation}}
+    & pick                            & \cite{Mitrevski2019LucyTT}, \cite{Holz2015ASS}, \cite{Stckler2014AdaptiveTS}, \cite{Arrais2019ApplicationOT}, \cite{Forster2020AutomaticEO}, \cite{Weser2009AutonomousPF}, \cite{Li2022BEHAVIOR1KAB}, \cite{Sayyaadi2014ControlON}, \cite{Laaksonen2010EmbodimentIM}, \cite{Garrett2016FFRobLS}, \cite{Pedersen2015GestureBasedEO}, \cite{Frasca2020GoingCA}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Stckler2013IncreasingFO}, \cite{Andersen2017IntegrationOA}, \cite{Pedersen2014IntuitiveSP}, \cite{Stulp2009LearningAP}, \cite{Orsula2022LearningTG}, \cite{Pohl2024MAkEableMA}, \cite{Tsay2010MaterialHO}, \cite{Bouachari2018ObjectPC}, \cite{Lee2018PlanningAC}, \cite{Toner2024PRFAP}, \cite{Partovi2017ReactiveIM}, \cite{Zhao2025ReactiveWL}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Peng2024RevolutionizingBD}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Pedersen2016RobotSF}, \cite{Short2019SAILSA}, \cite{Cohen2012SearchbasedPF}, \cite{Lim2008MultipleHC}, \cite{Kiyokawa2025SelfSupervisedLO}, \cite{Huang2023SkillTA}, \cite{Lim2019SkillbasedAA}, \cite{Amaral2017SkillbasedAA}, \cite{Diab2020SkillMaNA}, \cite{Rosen2023SynthesizingNA}, \cite{Thakar2018TowardsTT}, \cite{Yang2022VariableIS}, \cite{Wasik2002AFB}, \cite{Petersson1999AHC}, \cite{Stroupe2005BehaviorbasedMC}, \cite{Andrian2005EmbeddedCI}, \cite{Nagatani2000MotionDF}, \cite{Zsoldos2025TowardsRL}, \cite{Jauhri2022RobotLO}, \cite{Yang2026VisionLanguageActionME}, \cite{Kotecha2024AHM}, \cite{Lee2023DevelopmentAV}, \cite{Watanabe2024ImprovingRS}, \cite{Kim2022LearningAG}, \cite{Akkaladevi2024TowardsAB}, \cite{Zhao2020CooperativeMF}, \cite{Lopes2026CARGOAM}, \cite{Carvalho2025ParameterFreeSO}, \cite{Wu2024InTW}, \cite{Xiao2025AutonomousBC}, \cite{Zhang2025ARM}, \cite{Williams2012ARA}, \cite{Shan2026DockAnywhereDV}, \cite{Fu2024MobileAL}, \cite{Shi2021MaximizingTU}, \cite{Mounsif2020BAMBA}, \cite{Yokoyama2023ASCAS}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & place                           & \cite{Holz2015ASS}, \cite{Arrais2019ApplicationOT}, \cite{Forster2020AutomaticEO}, \cite{Weser2009AutonomousPF}, \cite{Li2022BEHAVIOR1KAB}, \cite{Garrett2016FFRobLS}, \cite{Pedersen2015GestureBasedEO}, \cite{Frasca2020GoingCA}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Stckler2013IncreasingFO}, \cite{Andersen2017IntegrationOA}, \cite{Pedersen2014IntuitiveSP}, \cite{Stulp2009LearningAP}, \cite{Pohl2024MAkEableMA}, \cite{Toner2024PRFAP}, \cite{Partovi2017ReactiveIM}, \cite{Zhao2025ReactiveWL}, \cite{Peng2024RevolutionizingBD}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Pedersen2016RobotSF}, \cite{Short2019SAILSA}, \cite{Cohen2012SearchbasedPF}, \cite{Lim2008MultipleHC}, \cite{Huang2023SkillTA}, \cite{Lim2019SkillbasedAA}, \cite{Amaral2017SkillbasedAA}, \cite{Diab2020SkillMaNA}, \cite{Rosen2023SynthesizingNA}, \cite{Yang2022VariableIS}, \cite{Wasik2002AFB}, \cite{Stroupe2005BehaviorbasedMC}, \cite{Choi2009HandIO}, \cite{Nagatani2000MotionDF}, \cite{Kotecha2024AHM}, \cite{Lee2023DevelopmentAV}, \cite{Watanabe2024ImprovingRS}, \cite{Zhao2020CooperativeMF}, \cite{Carvalho2025ParameterFreeSO}, \cite{Zhang2025ARM}, \cite{Williams2012ARA}, \cite{Shan2026DockAnywhereDV}, \cite{Fu2024MobileAL}, \cite{Mounsif2020BAMBA}, \cite{Yokoyama2023ASCAS}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & handle                          & \cite{Yamazaki2012HomeAssistantRF}, \cite{Stckler2013IncreasingFO}, \cite{Rodehutskors2015IntuitiveBT}, \cite{Schmalstieg2023LearningHI}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Konidaris2012RobotLF}, \cite{Diab2020SkillMaNA}, \cite{Schwarz2018TeamNA}, \cite{Karumanchi2017TeamRS}, \cite{Petersson1999AHC}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO}, \cite{Pettinger2022AVA}, \cite{Fu2024MobileAL}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & lift                            & \cite{Ding2022IntelligentAF}, \cite{Stulp2009LearningAP}, \cite{Orsula2022LearningTG} \\
+\cline{2-3}
+    & hand over                       & \cite{Kostavelis2022RoboticAI}, \cite{Diab2020SkillMaNA}, \cite{Choi2009HandIO}, \cite{Akkaladevi2024TowardsAB} \\
+\cline{2-3}
+    & throw                       & \cite{Metzen2014TowardsLO} \\
+\hline
+% \multirow{2}{*}{\parbox{2cm}{Constraint \& Compliance}}
+\multirow{7}{*}{\parbox{4cm}{Task-Specific Manipulation}}
+    & articulated object manipulation & \cite{Nguyen2012AutonomouslyLT}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Pohl2024MAkEableMA}, \cite{Beetz2016OpenRR}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Konidaris2012RobotLF}, \cite{Diab2020SkillMaNA}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO}, \cite{Gupta2025PreciseMM}, \cite{Pettinger2022AVA} \\
+\cline{2-3}
+    & pour                            & \cite{Stckler2014AdaptiveTS}, \cite{Pohl2024MAkEableMA}, \cite{Groth2013MultitaskingOC}, \cite{Short2019SAILSA}, \cite{Diab2020SkillMaNA}, \cite{Rosen2023SynthesizingNA}, \cite{Zhang2025ARM}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & use switch                      & \cite{Nguyen2012AutonomouslyLT}, \cite{Konidaris2012RobotLF}, \cite{Rosen2023SynthesizingNA}, \cite{Guo2025AdaptiveSC}, \cite{engelbracht2024spotlightroboticsceneunderstanding}, \cite{Gupta2025PreciseMM}, \cite{Zhang2025ARM}, \cite{Fu2024MobileAL}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & sweep                           & \cite{Stckler2014AdaptiveTS}, \cite{Yamazaki2012HomeAssistantRF} \\
+\cline{2-3}
+    & use a pair of tongs             & \cite{Stckler2014AdaptiveTS}, \cite{Stckler2013IncreasingFO} \\
+\cline{2-3}
+    & fastening                       & \cite{Li2019ManipulationSA} \\
+\cline{2-3}
+    & welding                         & \cite{Andersen2015IntuitiveTP} \\
+\hline
+\multirow{3}{*}{\parbox{4cm}{Sensing / Control Modes}}
+    & trajectory blending             & \cite{Waarsing2003BehaviorbasedMM}, \cite{Waarsing2005FromBI}, \cite{Aarno2008MotionIR}, \cite{Carvalho2025ParameterFreeSO} \\
+\cline{2-3}
+    & combined teleoperation blending & \cite{Maeda2022BlendingPP} \\
+\cline{2-3}
+    & tactile sensing                 & \cite{Weser2009AutonomousPF} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Mobile Base Skills}} \\
+\hline
+\multirow{4}{*}{\parbox{2cm}{Navigation}}
+    & move to position                & \cite{Weser2009AutonomousPF}, \cite{Bruemmer2010BehaviorBC}, \cite{Li2022BEHAVIOR1KAB}, \cite{Garrett2016FFRobLS}, \cite{Pedersen2015GestureBasedEO}, \cite{Frasca2020GoingCA}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Stckler2013IncreasingFO}, \cite{Stckler2009IntegratingIM}, \cite{Andersen2017IntegrationOA}, \cite{Pedersen2014IntuitiveSP}, \cite{Stulp2009LearningAP}, \cite{Schmalstieg2023LearningHI}, \cite{Bouachari2018ObjectPC}, \cite{Cohen2011PlanningFM}, \cite{Toner2024PRFAP}, \cite{Partovi2017ReactiveIM}, \cite{Vasilopoulos2020ReactivePF}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Lin2010ResearchOO}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Konidaris2012RobotLF}, \cite{Pedersen2016RobotSF}, \cite{Hentout2008MultiagentAM}, \cite{Huang2023SkillTA}, \cite{Karumanchi2017TeamRS}, \cite{Thakar2018TowardsTT}, \cite{Chang2006ABB}, \cite{Wasik2002AFB}, \cite{MacKenzie1996BehaviorbasedMM}, \cite{Hentout2007BehaviourbasedAF}, \cite{Sequeira2000BehaviourbasedCB}, \cite{Andrian2005EmbeddedCI}, \cite{Nagatani2000MotionDF}, \cite{Zsoldos2025TowardsRL}, \cite{Lee2023DevelopmentAV}, \cite{Akkaladevi2024TowardsAB}, \cite{Gupta2025PreciseMM}, \cite{Fu2024MobileAL}, \cite{Mounsif2020BAMBA}, \cite{Yokoyama2023ASCAS}, \cite{Meng2023AerialMS} \\
+\cline{2-3}
+    & exploration                     & \cite{Schmalstieg2023LearningHI}, \cite{Chang2006ABB}, \cite{Wasik2002AFB}, \cite{Chang2006AnalysisOA}, \cite{Nagatani2000MotionDF} \\
+\cline{2-3}
+    & gait                            & \cite{Arm2024PedipulateEM}, \cite{Lim2008MultipleHC}, \cite{Xiao2025AutonomousBC}, \cite{Kumbhar2025MPCQPBasedCF}, \cite{Dadiotis2025DynamicOG}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & shared navigation               & \cite{Bruemmer2010BehaviorBC} \\
+\hline
+\multirow{1}{*}{\parbox{2cm}{Control Mode}}
+    & combined teleoperation blending & \cite{Maeda2022BlendingPP} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Challenging Terrain}}
+    & traverse uneven terrain         & \cite{Singh2013CoordinatingMM}, \cite{Schwarz2016HybridDL}, \cite{Karumanchi2017TeamRS} \\
+\cline{2-3}
+    & climb stairs                    & \cite{Schwarz2016HybridDL}, \cite{Karumanchi2017TeamRS} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Perception Skills}} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Target Identification}}
+    & target marking           & \cite{Bruemmer2010BehaviorBC} \\
+\cline{2-3}
+    & interactive perception & \cite{Kenney2009InteractiveSF}, \cite{engelbracht2024spotlightroboticsceneunderstanding} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Mobile Manipulator Skills}} \\
+\hline
+\multirow{2}{*}{\parbox{4cm}{Environment-perceptive Skills}}
+    & approach target                          & \cite{Gray2013ASP}, \cite{Weser2009AutonomousPF}, \cite{Sayyaadi2014ControlON}, \cite{Laaksonen2010EmbodimentIM}, \cite{Frasca2020GoingCA}, \cite{Stulp2009LearningAP}, \cite{Tsay2010MaterialHO}, \cite{Toner2024PRFAP}, \cite{Kostavelis2022RoboticAI}, \cite{Lim2008MultipleHC}, \cite{Chang2006ABB}, \cite{Wasik2002AFB}, \cite{MacKenzie1996BehaviorbasedMM}, \cite{Stroupe2005BehaviorbasedMC}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO}, \cite{Choi2009HandIO}, \cite{Nagatani2000MotionDF}, \cite{Zsoldos2025TowardsRL}, \cite{Beetz2011GeneralityAL}, \cite{Yang2026VisionLanguageActionME}, \cite{Kotecha2024AHM}, \cite{Lopes2026CARGOAM}, \cite{Lee2025LearningCL}, \cite{Gupta2025PreciseMM}, \cite{Shan2026DockAnywhereDV}, \cite{Fu2024MobileAL}, \cite{Watanabe2025IntegratingBP} \\
+\cline{2-3}
+    & track target                             & \cite{Donald2024AnAF}, \cite{Weser2009AutonomousPF}, \cite{Pedersen2015GestureBasedEO}, \cite{Stckler2009IntegratingIM}, \cite{Kenney2009InteractiveSF}, \cite{Pedersen2014IntuitiveSP}, \cite{Arm2024PedipulateEM}, \cite{Lim2019SkillbasedAA}, \cite{Chang2006ABB} \\
+\hline
+\multirow{6}{*}{\parbox{4cm}{Environment-adaptive Skills}}
+    & move tool along plane                    & \cite{Li2022BEHAVIOR1KAB}, \cite{Huang2013BehaviorB}, \cite{Groth2013MultitaskingOC}, \cite{Li2020PatternAA}, \cite{Lim2008MultipleHC}, \cite{Kotecha2024AHM}, \cite{Fu2024MobileAL} \\
+\cline{2-3}
+    & reactive motion                          & \cite{Zhao2025ReactiveWL} \\
+\cline{2-3}
+    & balance                                  & \cite{Schwarz2016HybridDL} \\
+\cline{2-3}
+    & change height                            & \cite{Ding2022IntelligentAF} \\
+\cline{2-3}
+    & constrained navigation                   & \cite{Hornung2012NavigationIT} \\
+\cline{2-3}
+    & footprint adaptive navigation            & \cite{Hornung2012NavigationIT} \\
+\hline
+\multirow{3}{*}{\parbox{4cm}{Environment-interactive Skills}}
+    & simultaneous navigation and articulation & \cite{Scholz2011CartPW}, \cite{Rigo2022ContactOF}, \cite{Stckler2009IntegratingIM}, \cite{Settimi2016MotionPB}, \cite{Confente2025SkinMachineIW}, \cite{Bertoncelli2020LinearTM}, \cite{Dadiotis2025DynamicOG}, \cite{Fu2024MobileAL} \\
+\cline{2-3}
+    & articulated object manipulation          & \cite{Huang2013BehaviorB}, \cite{Arm2024PedipulateEM}, \cite{Lim2008MultipleHC}, \cite{Huang2023SkillTA}, \cite{Karumanchi2017TeamRS}, \cite{Huang2008ACB}, \cite{Petersson1999AHC}, \cite{Huang2008AnAB}, \cite{engelbracht2024spotlightroboticsceneunderstanding}, \cite{Shan2026DockAnywhereDV}, \cite{Fu2024MobileAL}, \cite{Zhang2025AgentWorldAI} \\
+\cline{2-3}
+    & pass through dynamic doors               & \cite{Gray2013ASP} \\
+\hline
+\multirow{5}{*}{\parbox{3cm}{Object Manipulation / Transport}}
+    & carry                                    & \cite{Yamazaki2012HomeAssistantRF}, \cite{Ding2022IntelligentAF}, \cite{Arm2024PedipulateEM}, \cite{Lee2018PlanningAC}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Cohen2012SearchbasedPF}, \cite{Lim2008MultipleHC}, \cite{Sequeira2000BehaviourbasedCB}, \cite{Waarsing2001IntroducingRI}, \cite{Pimentel2002OnTD}, \cite{Kim2022LearningAG}, \cite{Urbaniak2025ObstacleAU}, \cite{Kumbhar2025MPCQPBasedCF} \\
+\cline{2-3}
+    & pick at non-zero velocity                & \cite{Zhao2025ACL}, \cite{Yang2023LearnTC} \\
+\cline{2-3}
+    & place at non-zero velocity               & \cite{Zhao2025ACL} \\
+\cline{2-3}
+    & cooperative formation                    & \cite{Sayyaadi2014ControlON}, \cite{Chang2006ABB}, \cite{Chang2006AnalysisOA}, \cite{Pimentel2002OnTD}, \cite{Kim2022LearningAG}, \cite{Wahba2025pcdbCBSKM} \\
+\cline{2-3}
+    & assist                                   & \cite{Ding2022IntelligentAF} \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[p]
+\thispagestyle{empty}
+\caption{Full list of identified tasks.}
+\label{tab_tasks}
+\centering
+\begin{tabular}{|p{4cm}|p{5cm}|p{15cm}|}
+\hline
+\textbf{Grouping} & \textbf{Task} & \textbf{Reference} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Manipulator Tasks}} \\
+\hline
+\multirow{2}{*}{\parbox{4cm}{Household / Daily Activities}}
+    &  sweeping up dust       & \cite{Stckler2014AdaptiveTS}, \cite{Yamazaki2012HomeAssistantRF} \\
+\cline{2-3}
+    & water plants            & \cite{Stckler2014AdaptiveTS} \\
+\hline
+\multirow{4}{*}{\parbox{3cm}{Object / Tool Handling}}
+    & pick parts from pallets & \cite{Holz2015ASS} \\
+\cline{2-3}
+    & open bottle             & \cite{Stckler2013IncreasingFO} \\
+\cline{2-3}
+    & screw and unscrew       & \cite{Koch2017ASR} \\
+\cline{2-3}
+    & fill out survey         & \cite{Niekum2012LearningAG} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Mobile Manipulator Tasks}} \\
+\hline
+\multirow{4}{*}{\parbox{3cm}{Mobile Manipulation}}
+    & static pick and place                                          & \cite{Forster2020AutomaticEO}, \cite{Tsay2018BehavioristicIP}, \cite{Laaksonen2010EmbodimentIM}, \cite{Garrett2016FFRobLS}, \cite{Pedersen2015GestureBasedEO}, \cite{Stckler2013IncreasingFO}, \cite{Stckler2009IntegratingIM}, \cite{Niekum2012LearningAG}, \cite{Stulp2009LearningAP}, \cite{Pohl2024MAkEableMA}, \cite{Beetz2016OpenRR}, \cite{Li2020PatternAA}, \cite{Partovi2017ReactiveIM}, \cite{Vasilopoulos2020ReactivePF}, \cite{Zhao2025ReactiveWL}, \cite{Short2019SAILSA}, \cite{Hentout2008MultiagentAM}, \cite{Kiyokawa2025SelfSupervisedLO}, \cite{Lim2019SkillbasedAA}, \cite{Amaral2017SkillbasedAA}, \cite{Klamt2018SupervisedAL}, \cite{Hentout2007BehaviourbasedAF}, \cite{Kotecha2024AHM}, \cite{Akkaladevi2024TowardsAB}, \cite{Zhao2020CooperativeMF}, \cite{Urbaniak2025ObstacleAU}, \cite{Carvalho2025ParameterFreeSO}, \cite{Fu2024MobileAL}, \cite{Mounsif2020BAMBA} \\
+\cline{2-3}
+    & mobile pick and place                                          & \cite{Li2022BEHAVIOR1KAB}, \cite{Sayyaadi2014ControlON}, \cite{Youngquist2022EvaluatingSA}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Stckler2009IntegratingIM}, \cite{Schmalstieg2023LearningHI}, \cite{Orsula2022LearningTG}, \cite{Pohl2024MAkEableMA}, \cite{Tsay2010MaterialHO}, \cite{Arm2024PedipulateEM}, \cite{Lee2018PlanningAC}, \cite{Toner2024PRFAP}, \cite{Partovi2017ReactiveIM}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Pedersen2016RobotSF}, \cite{Kostavelis2022RoboticAI}, \cite{Lim2008MultipleHC}, \cite{Kiyokawa2025SelfSupervisedLO}, \cite{Huang2023SkillTA}, \cite{Rosen2023SynthesizingNA}, \cite{Karumanchi2017TeamRS}, \cite{Thakar2018TowardsTT}, \cite{Choi2009HandIO}, \cite{Nagatani2000MotionDF}, \cite{Jauhri2022RobotLO}, \cite{Yang2023LearnTC}, \cite{Lopes2026CARGOAM}, \cite{Wu2024InTW}, \cite{Shan2026DockAnywhereDV}, \cite{Mounsif2020BAMBA}, \cite{Yokoyama2023ASCAS} \\
+\cline{2-3}
+    & cooperative mobile manipulation                                & \cite{Sayyaadi2014ControlON}, \cite{Lee2018PlanningAC}, \cite{Chang2006AnalysisOA}, \cite{Stroupe2005BehaviorbasedMC}, \cite{Kim2022LearningAG} \\
+\cline{2-3}
+    & push object along trajectory                                   & \cite{Rigo2022ContactOF}, \cite{Arm2024PedipulateEM} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Interactive Navigation}}
+    & opening and passing through doors                              & \cite{Gray2013ASP}, \cite{Schwarz2016HybridDL}, \cite{Karumanchi2017TeamRS}, \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO} \\
+\cline{2-3}
+    & interactive navigation                                         & \cite{Konidaris2012RobotLF} \\
+\hline
+\multirow{2}{*}{\parbox{4cm}{Manufacturing-related Tasks}}
+    & assembly / disassembly                                           & \cite{Partovi2017ReactiveIM}, \cite{Peng2024RevolutionizingBD}, \cite{Pedersen2016RobotSF}, \cite{Lim2019SkillbasedAA}, \cite{Amaral2017SkillbasedAA}, \cite{Yang2022VariableIS}, \cite{Stroupe2005BehaviorbasedMC}, \cite{Lee2023DevelopmentAV}, \cite{Shi2021MaximizingTU} \\
+\cline{2-3}
+    & machine tending                                                & \cite{Arrais2019ApplicationOT}, \cite{Andersen2017IntegrationOA}, \cite{Partovi2017ReactiveIM}, \cite{Pedersen2016RobotSF}, \cite{Knobbe2022CorePI} \\
+\hline
+\multirow{4}{*}{\parbox{3cm}{Inspection Tasks}}
+    & quality control                                                & \cite{Partovi2017ReactiveIM}, \cite{Pedersen2016RobotSF}, \cite{MacKenzie1996BehaviorbasedMM} \\
+\cline{2-3}
+    & static inspection of a dynamic object                          & \cite{Donald2024AnAF}, \cite{Kenney2009InteractiveSF}, \cite{Yang2026VisionLanguageActionME} \\
+\cline{2-3}
+    & dynamic inspection of a static object                          & \cite{Donald2024AnAF} \\
+\cline{2-3}
+    & detecting, interrogating and neutralizing above ground hazards & \cite{Bruemmer2010BehaviorBC} \\
+\hline
+\multirow{4}{*}{\parbox{3cm}{Human Interaction / Assistance}}
+    & user controlled teleoperation                                  & \cite{Maeda2022BlendingPP}, \cite{Klamt2018SupervisedAL} \\
+\cline{2-3}
+    & move and talk                                                  & \cite{Stckler2009IntegratingIM} \\
+\cline{2-3}
+    & object manipulation support                                    & \cite{Ding2022IntelligentAF}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Kumbhar2025MPCQPBasedCF} \\
+\cline{2-3}
+    & make food                                                      & \cite{Beetz2016OpenRR}, \cite{Rosen2023SynthesizingNA}, \cite{Confente2025SkinMachineIW} \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[!h]
+\thispagestyle{empty}
+\caption{Modeled capability implementation methods.}
+\label{tab_method_modeled}
+\centering
+\begin{tabular}{|p{4cm}|p{5cm}|p{15cm}|}
+\hline
+\textbf{Method Group} & \textbf{Method} & \textbf{Reference} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Control}} \\
+\hline
+\multirow{4}{*}{\parbox{3cm}{Kinematic Control}}
+    & Differential IK                                      & \cite{Stckler2014AdaptiveTS}, \cite{Knobbe2022CorePI}, \cite{Shi2021MaximizingTU}, \cite{Watanabe2025IntegratingBP} \\
+\cline{2-3}
+    & Resolved Motion Rate Control (RMRC)                  & \cite{Shi2012MobileRA} \\
+\cline{2-3}
+    & Velocity Control                                     & \cite{Laaksonen2010EmbodimentIM}, \cite{Sequeira2000BehaviourbasedCB} \\
+\cline{2-3}
+    & Visual Servoing                                      & \cite{Tsay2010MaterialHO}, \cite{Shi2012MobileRA}, \cite{Wasik2002AFB}, \cite{Andrian2005EmbeddedCI}, \cite{Lee2023DevelopmentAV}, \cite{Gupta2025PreciseMM}, \cite{Fu2024MobileAL} \\
+\hline
+\multirow{1}{*}{\parbox{4cm}{Dynamic / Interaction Control}}
+    & Force-Torque Velocity Control                        & \cite{Stroupe2005BehaviorbasedMC}, \cite{Aarno2008MotionIR}, \cite{Gller2024APB}, \cite{Lee2023DevelopmentAV}, \cite{Shi2021MaximizingTU}, \cite{Meng2023AerialMS} \\
+\hline
+\multirow{4}{*}{\parbox{4cm}{Optimization-Based Control}}
+    & Model Predictive Control (MPC)                       & \cite{Arrais2019ApplicationOT}, \cite{Rigo2022ContactOF}, \cite{Gller2024APB}, \cite{Qin2022LearningFH}, \cite{Bertoncelli2020LinearTM}, \cite{Kumbhar2025MPCQPBasedCF} \\
+\cline{2-3}
+    & Optimization-Based Controller                        & \cite{Singh2013CoordinatingMM}, \cite{Beetz2016OpenRR} \\
+\cline{2-3}
+    & Constraint-Based controller                          & \cite{Beetz2016OpenRR} \\
+\cline{2-3}
+    & Hierarchical Quadratic Programming (HQP) & \cite{Zhao2025ACL}, \cite{Zhao2025ReactiveWL} \\
+\hline
+\multirow{3}{*}{\parbox{4cm}{Classical Feedback Control}}
+    & Ultrasonic Absolute Positioning                      & \cite{Lin2010ResearchOO} \\
+\cline{2-3}
+    & PID                                                  & \cite{Groth2013MultitaskingOC}, \cite{Waarsing2003BehaviorbasedMM}, \cite{Waarsing2005FromBI}, \cite{Williams2012ARA} \\
+\cline{2-3}
+    & Direct Joint Control                                 & \cite{Koch2017ASR}, \cite{Stckler2014AdaptiveTS}, \cite{Forster2020AutomaticEO}, \cite{Scholz2011CartPW}, \cite{Waarsing2001IntroducingRI}, \cite{Mounsif2020BAMBA} \\
+\hline
+Hybrid Control     & Discrete Controller                    & \cite{Vasilopoulos2020ReactivePF} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Trajectory Generation}} \\
+\hline
+\multirow{4}{*}{\parbox{3cm}{Primitive-Based}}
+    & Predefined Poses                      & \cite{Holz2015ASS}, \cite{Arrais2019ApplicationOT}, \cite{Pedersen2016RobotSF}, \cite{Lim2019SkillbasedAA}, \cite{Chang2006ABB} \\
+\cline{2-3}
+    & Predefined Trajectories               & \cite{Nagatani1996DesigningSA}, \cite{Nagatani1996DooropeningBO} \\
+\cline{2-3}
+    & Parameterized Motion Primitives       & \cite{Stckler2014AdaptiveTS}, \cite{Garrett2016FFRobLS}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Schwarz2016HybridDL}, \cite{Stckler2009IntegratingIM}, \cite{Andersen2017IntegrationOA}, \cite{Rodehutskors2015IntuitiveBT}, \cite{Pohl2024MAkEableMA}, \cite{Settimi2016MotionPB}, \cite{Groth2013MultitaskingOC}, \cite{Hornung2012NavigationIT}, \cite{Beetz2016OpenRR}, \cite{Partovi2017ReactiveIM}, \cite{Stuckler2012RoboCupHomeDE}, \cite{Petersson1999AHC}, \cite{Aarno2008MotionIR} \\
+\cline{2-3}
+    & Policy Blending with Primitives (PBP) & \cite{Maeda2022BlendingPP} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Function-Based}}
+    & Parameterized Functions               & \cite{Forster2020AutomaticEO}, \cite{Weser2009AutonomousPF}, \cite{Bruemmer2010BehaviorBC}, \cite{Li2022BEHAVIOR1KAB}, \cite{Sayyaadi2014ControlON}, \cite{Pedersen2015GestureBasedEO}, \cite{Frasca2020GoingCA}, \cite{Yamazaki2012HomeAssistantRF}, \cite{Stckler2013IncreasingFO}, \cite{Rodehutskors2015IntuitiveBT}, \cite{Amaral2017SkillbasedAA} \\
+\cline{2-3}
+    & Fuzzy Logic                           & \cite{Tsay2018BehavioristicIP}, \cite{Lin2010ResearchOO}, \cite{Wasik2002AFB} \\
+\hline
+\multirow{1}{*}{\parbox{3cm}{Human-in-the-loop}}
+    & Teleoperated Trajectories             & \cite{Huang2013BehaviorB}, \cite{Stulp2009LearningAP}, \cite{Pohl2024MAkEableMA}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Short2019SAILSA}, \cite{Klamt2018SupervisedAL} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Trajectory Planning}} \\
+\hline
+\multirow{2}{*}{\parbox{2cm}{Search-Based}}
+    & Sampling-Based                       & \cite{Lee2018PlanningAC}, \cite{Peng2024RevolutionizingBD}, \cite{Karumanchi2017TeamRS}, \cite{Zsoldos2025TowardsRL}, \cite{Kotecha2024AHM}, \cite{Wahba2025pcdbCBSKM}, \cite{Wu2024InTW} \\
+\cline{2-3}
+    & Graph Search                         & \cite{Cohen2011PlanningFM}, \cite{Partovi2017ReactiveIM}, \cite{Cohen2012SearchbasedPF}, \cite{Cohen2010SearchbasedPF}, \cite{Williams2012ARA} \\
+\hline
+\multirow{3}{*}{\parbox{3cm}{Heuristic Planning}}
+    & Random Walk                          & \cite{Chang2006ABB}, \cite{Chang2006AnalysisOA} \\
+\cline{2-3}
+    & Vector Field Histogram (VFH)         & \cite{Tsay2010MaterialHO} \\
+\cline{2-3}
+    & Finite State Machines (FSM)         & \cite{Lim2008MultipleHC} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Data-Driven Planning}}
+    & Deformable Registration Method (DRM) & \cite{Stckler2014EfficientDR} \\
+\cline{2-3}
+    & Image comparison                     & \cite{Kenney2009InteractiveSF} \\
+\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[ht]
+\thispagestyle{empty}
+\caption{Learned capability implementation methods.}
+\label{tab_method_learn}
+\centering
+\begin{tabular}{|p{4cm}|p{5cm}|p{15cm}|}
+\hline
+\textbf{Method Group} & \textbf{Method} & \textbf{Reference} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Trajectory learning}} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{DMP-Based methods}}
+    & Learning from Demonstration (LfD)              & \cite{Mitrevski2019LucyTT}, \cite{Zhao2025ACL}, \cite{Lopera2012ComparingMG}, \cite{Niekum2012LearningAG}, \cite{Li2020PatternAA}, \cite{Toner2024PRFAP}, \cite{Zhao2025ReactiveWL}, \cite{Deng2017ReinforcementLO}, \cite{Li2017ReinforcementLO}, \cite{Beetz2011GeneralityAL}, \cite{Yang2023LearnTC}, \cite{Kim2022LearningAG}, \cite{Qin2022LearningFH}, \cite{Metzen2014TowardsLO}, \cite{Zhao2020CooperativeMF}, \cite{Urbaniak2025ObstacleAU}, \cite{Shan2026DockAnywhereDV} \\
+\cline{2-3}
+    & LfD as kinesthetic teaching                    & \cite{Donald2024AnAF}, \cite{Ding2022IntelligentAF}, \cite{Gmez2012KinestheticTV}, \cite{Pohl2024MAkEableMA}, \cite{Pedersen2016RobotSF}, \cite{Short2019SAILSA}, \cite{Guo2025AdaptiveSC}, \cite{Carvalho2025ParameterFreeSO} \\
+\hline
+\parbox{3cm}{Trajectory Adaptation / Editing}  & LfD                 & \cite{Donald2024AnAF}, \cite{Konidaris2012RobotLF} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Statistical Models}}
+    & LfD                                            & \cite{Ding2022IntelligentAF}, \cite{Zhao2025ReactiveWL}, \cite{Watanabe2024ImprovingRS}, \cite{Guo2025AdaptiveSC}, \cite{Lee2025LearningCL}, \cite{Gupta2025PreciseMM}, \cite{Fu2024MobileAL}, \cite{Mounsif2020BAMBA} \\
+\cline{2-3}
+    & combined with Bayesian Non-Parametric approach & \cite{Beetz2016OpenRR} \\
+\hline
+\multirow{2}{*}{\parbox{4cm}{Supervised Learning (SL)}}
+    & combined with Support Vector Machines (SVM)    & \cite{Nguyen2012AutonomouslyLT}, \cite{Huang2013BehaviorB}, \cite{Stulp2009LearningAP}, \cite{Rosen2023SynthesizingNA}, \cite{Beetz2011GeneralityAL} \\
+\cline{2-3}
+    & as Skill Transformer                           & \cite{Huang2023SkillTA} \\
+\hline
+\multirow{2}{*}{\parbox{4cm}{Representation Learning Approaches}}
+    & Unsupervised Learning (UL)                     & \cite{Short2019SAILSA} \\
+\cline{2-3}
+    & Self-Supervised Learning (SSL)                 & \cite{Kiyokawa2025SelfSupervisedLO} \\
+\hline
+\multirow{6}{*}{\parbox{4cm}{Reinforcement Learning (RL) variants}}
+    & unspecified RL                                 & \cite{Watanabe2024ImprovingRS}, \cite{Caro2025PushSN}, \cite{Dadiotis2025DynamicOG}, \cite{Mounsif2020BAMBA}, \cite{Watanabe2025IntegratingBP}, \cite{Yokoyama2023ASCAS} \\
+\cline{2-3}
+    & VisuoMotor Control (VMC)                       & \cite{Li2022BEHAVIOR1KAB}, \cite{Yang2022VariableIS} \\
+\cline{2-3}
+    & Hybrid RL (HyRL), Boosted HyRL (BHyRL)         & \cite{Jauhri2022RobotLO} \\
+\cline{2-3}
+    & DeepRL combinations                            & \cite{Orsula2022LearningTG}, \cite{Li2019ManipulationSA}, \cite{Arm2024PedipulateEM} \\
+\cline{2-3}
+    & as Curriculum Learning combinations            & \cite{Youngquist2022EvaluatingSA} \\
+\hline
+\multicolumn{3}{|c|}{\textbf{Skill sequencing}} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Demonstration-based Sequencing}}
+    & LfD                                                          & \cite{Forster2020AutomaticEO}, \cite{Pedersen2016RobotSF}, \cite{Niekum2012LearningAG}, \cite{Gller2024APB}, \cite{Watanabe2024ImprovingRS}, \cite{Yokoyama2023ASCAS}, \cite{10363049} \\
+\cline{2-3}
+    & TbD                                                          & \cite{Pedersen2015GestureBasedEO} \\
+\hline
+\multirow{2}{*}{\parbox{3cm}{Symbolic Approaches}}
+     & NeuralSymbolic AI                        & \cite{Peng2024RevolutionizingBD} \\
+\cline{2-3}
+    & LLM-based                                 &
+    \cite{Xiao2025AutonomousBC} \\
+\hline
+\end{tabular}
+\end{table}

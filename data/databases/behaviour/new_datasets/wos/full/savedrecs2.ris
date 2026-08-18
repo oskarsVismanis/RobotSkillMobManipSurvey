@@ -1,0 +1,3332 @@
+﻿TY  - CPAPER
+AU  - Tsay, TIJ
+AU  - Lai, YF
+AU  - Hsiao, YL
+A1  - IEEE
+TI  - Material Handling of a Mobile Manipulator Using an Eye-in-Hand Vision System
+T2  - IEEE/RSJ 2010 INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS 2010)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SN  - 2153-0858
+SN  - 978-1-4244-6675-7
+PY  - 2010
+SP  - 4743
+EP  - 4748
+DO  - 10.1109/IROS.2010.5649578
+AN  - WOS:000287672006043
+ER  -
+
+TY  - JOUR
+AU  - Ali, ZA
+AU  - Alkhammash, EH
+AU  - Hasan, R
+TI  - State-of-the-Art Flocking Strategies for the Collective Motion of Multi-Robots
+T2  - MACHINES
+SN  - 2075-1702
+DA  - OCT
+PY  - 2024
+VL  - 12
+IS  - 10
+C7  - 739
+DO  - 10.3390/machines12100739
+AN  - WOS:001342003000001
+ER  -
+
+TY  - CPAPER
+AU  - Antich, J
+AU  - Ortiz, A
+ED  - Lopez, B
+ED  - Melendez, J
+ED  - Radeva, P
+ED  - Vitria, J
+TI  - Bug-based T2: A New Globally Convergent Approach to Reactive Navigation
+T2  - ARTIFICIAL INTELLIGENCE RESEARCH AND DEVELOPMENT
+CP  - 8th Catalan Conference on Artificial Intelligence
+SN  - 0922-6389
+SN  - 978-1-58603-560-0
+PY  - 2005
+VL  - 131
+SP  - 331
+EP  - 338
+AN  - WOS:000284916800041
+ER  -
+
+TY  - CPAPER
+AU  - Perumal, DG
+AU  - Subathra, B
+AU  - Saravanakumar, G
+AU  - Srinivasan, S
+TI  - Extended Kalman Filter Based Path-Planning Algorithm for Autonomous Vehicles with I2V Communication
+T2  - IFAC PAPERSONLINE
+CP  - 4th IFAC Conference on Advances in Control and Optimization of Dynamical Systems (ACODS 2016)
+SN  - 2405-8963
+PY  - 2016
+VL  - 49
+IS  - 1
+SP  - 652
+EP  - 657
+DO  - 10.1016/j.ifacol.2016.03.130
+AN  - WOS:000375856400113
+ER  -
+
+TY  - CPAPER
+AU  - Utsumi, A
+AU  - Tada, M
+AU  - Yamamoto, N
+AU  - Matsuo, N
+AU  - Torii, T
+AU  - Shidoji, K
+A1  - IEEE
+TI  - Active Safety with Enhanced Communication among Traffic Participants
+T2  - 2013 16TH INTERNATIONAL IEEE CONFERENCE ON INTELLIGENT TRANSPORTATION SYSTEMS - (ITSC)
+CP  - 16th International IEEE Conference on Intelligent Transportation Systems (ITSC)
+SN  - 2153-0009
+SN  - 978-1-4799-2914-6
+PY  - 2013
+SP  - 1167
+EP  - 1172
+AN  - WOS:000346481000188
+ER  -
+
+TY  - CPAPER
+AU  - De Carolis, B
+AU  - Gena, C
+AU  - Lieto, A
+AU  - Rossi, S
+AU  - Sciutti, A
+A1  - ACM
+TI  - 5th Workshop on Adapted intEraction with SociAl Robots
+T2  - ADJUNCT PROCEEDINGS OF THE 32ND ACM CONFERENCE ON USER MODELING, ADAPTATION AND PERSONALIZATION, UMAP 2024
+CP  - 32nd ACM Conference on User Modeling, Adaptation and Personalization (ACM UMAP)
+SN  - 979-8-4007-0466-6
+PY  - 2024
+SP  - 201
+EP  - 204
+DO  - 10.1145/3631700.3658525
+AN  - WOS:001263797000039
+ER  -
+
+TY  - JOUR
+AU  - Lay, FS
+AU  - Dömel, A
+AU  - Lii, NY
+AU  - Stulp, F
+TI  - Orchestrating Method Ensembles to Adapt to Resource Requirements and Constraints During Robotic Task Execution
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - FEB
+PY  - 2025
+VL  - 10
+IS  - 2
+SP  - 1186
+EP  - 1193
+DO  - 10.1109/LRA.2024.3518077
+AN  - WOS:001383062500019
+ER  -
+
+TY  - JOUR
+AU  - Kubitz, O
+AU  - Berger, MO
+AU  - Stenzel, R
+TI  - Client-server-based mobile robot control
+T2  - IEEE-ASME TRANSACTIONS ON MECHATRONICS
+CP  - 1997 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM 97)
+SN  - 1083-4435
+DA  - JUN
+PY  - 1998
+VL  - 3
+IS  - 2
+SP  - 82
+EP  - 90
+DO  - 10.1109/3516.686675
+AN  - WOS:000074244500002
+ER  -
+
+TY  - JOUR
+AU  - Caccavale, R
+AU  - Arpenti, P
+AU  - Paduano, G
+AU  - Fontanelli, GA
+AU  - Lippiello, V
+AU  - Luigi, V
+AU  - Siciliano, B
+TI  - A Flexible Robotic Depalletizing System for Supermarket Logistics
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - JUL
+PY  - 2020
+VL  - 5
+IS  - 3
+SP  - 4471
+EP  - 4476
+DO  - 10.1109/LRA.2020.3000427
+AN  - WOS:000542879400003
+ER  -
+
+TY  - CPAPER
+AU  - Adachi, Y
+AU  - Goto, K
+AU  - Matsumoto, Y
+AU  - Ogasawara, T
+A1  - IEEE
+A1  - IEEE
+TI  - Development of control assistant system for robotic wheelchair - Estimation of user's behavior based on measurements of gaze and environment
+T2  - 2003 IEEE INTERNATIONAL SYMPOSIUM ON COMPUTATIONAL INTELLIGENCE IN ROBOTICS AND AUTOMATION, VOLS I-III, PROCEEDINGS
+CP  - IEEE International Symposium on Computational Intelligence in Robotics and Automation
+SN  - 0-7803-7866-0
+PY  - 2003
+SP  - 538
+EP  - 543
+AN  - WOS:000185096600094
+ER  -
+
+TY  - CPAPER
+AU  - Jeon, SY
+AU  - Kim, HJ
+AU  - Hong, KS
+AU  - Kim, BK
+ED  - Wei, Y
+ED  - Chong, KT
+ED  - Takahashi, T
+ED  - Liu, S
+ED  - Li, Z
+ED  - Jiang, Z
+ED  - Chol, C
+TI  - Reactive layer control architecture for autonomous mobile robots
+T2  - ICMIT 2005: CONTROL SYSTEMS AND ROBOTICS, PTS 1 AND 2
+CP  - 3rd International Conference on Mechatronics and Information Technology (ICMIT 05)
+SN  - 0277-786X
+SN  - 1996-756X
+SN  - 0-8194-6074-5
+PY  - 2005
+VL  - 6042
+C7  - 60423T
+DO  - 10.1117/12.664778
+AN  - WOS:000235304400139
+ER  -
+
+TY  - JOUR
+AU  - Ögren, P
+TI  - Convergence Analysis of Hybrid Control Systems in the Form of Backward Chained Behavior Trees
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - OCT
+PY  - 2020
+VL  - 5
+IS  - 4
+SP  - 6073
+EP  - 6080
+DO  - 10.1109/LRA.2020.3010747
+AN  - WOS:000557351600005
+ER  -
+
+TY  - JOUR
+AU  - Zhao, YH
+AU  - Qu, ZS
+AU  - Liu, HC
+AU  - Zhu, RW
+TI  - Bio-inspired robot swarm path formation with local sensor scope
+T2  - APPLIED INTELLIGENCE
+SN  - 0924-669X
+SN  - 1573-7497
+DA  - JUL
+PY  - 2023
+VL  - 53
+IS  - 14
+SP  - 17310
+EP  - 17326
+DO  - 10.1007/s10489-022-04356-9
+C6  - DEC 2022
+AN  - WOS:000905828900001
+ER  -
+
+TY  - JOUR
+AU  - Beraldo, G
+AU  - Tonin, L
+AU  - Millán, JD
+AU  - Menegatti, E
+TI  - Shared Intelligence for Robot Teleoperation via BMI
+T2  - IEEE TRANSACTIONS ON HUMAN-MACHINE SYSTEMS
+SN  - 2168-2291
+SN  - 2168-2305
+DA  - JUN
+PY  - 2022
+VL  - 52
+IS  - 3
+SP  - 400
+EP  - 409
+DO  - 10.1109/THMS.2021.3137035
+C6  - JAN 2022
+AN  - WOS:000745432300001
+ER  -
+
+TY  - CPAPER
+AU  - MURPHY, TG
+AU  - LYONS, DM
+AU  - HENDRIKS, AJ
+ED  - Casasent, DP
+TI  - VISUALLY GUIDED STABLE GRASPING WITH A MULTIFINGERED ROBOT HAND - A BEHAVIOR-BASED APPROACH
+T2  - INTELLIGENT ROBOTS AND COMPUTER VISION XII : ACTIVE VISION AND 3D METHODS
+CP  - 12TH CONF ON INTELLIGENT ROBOTS AND COMPUTER VISION : ACTIVE VISION AND 3D METHODS
+SN  - 0-8194-1321-6
+PY  - 1993
+VL  - 2056
+SP  - 252
+EP  - 263
+DO  - 10.1117/12.150204
+AN  - WOS:A1993BY85W00025
+ER  -
+
+TY  - JOUR
+AU  - Cox, BR
+AU  - Krichmar, JL
+TI  - Neuromodulation as a Robot Controller A Brain-Inspired Strategy for Controlling Autonomous Robots
+T2  - IEEE ROBOTICS & AUTOMATION MAGAZINE
+SN  - 1070-9932
+DA  - SEP
+PY  - 2009
+VL  - 16
+IS  - 3
+SP  - 72
+EP  - 80
+DO  - 10.1109/MRA.2009.933628
+AN  - WOS:000269716200011
+ER  -
+
+TY  - CPAPER
+AU  - Ishibashi, M
+AU  - Okuwa, M
+AU  - Doi, S
+AU  - Akarnatsu, M
+A1  - IEEE
+TI  - Indices for characterizing driving style and their relevance to car following behavior
+T2  - PROCEEDINGS OF SICE ANNUAL CONFERENCE, VOLS 1-8
+CP  - Annual Conference on the Society-of-Instrument-and-Control-Engineers
+SN  - 978-4-907764-28-9
+PY  - 2007
+SP  - 1128
+EP  - +
+AN  - WOS:000255608501069
+ER  -
+
+TY  - JOUR
+AU  - Tehrani, AM
+AU  - Kamel, MS
+AU  - Khamis, AM
+TI  - Fuzzy reinforcement learning for embedded soccer agents in a multi-agent context
+T2  - INTERNATIONAL JOURNAL OF ROBOTICS & AUTOMATION
+CP  - Workshop of Agents Meet Robots held in Conjunction with 17th Canadian Conference on Artificial Intelligence
+SN  - 0826-8185
+SN  - 1925-7090
+PY  - 2006
+VL  - 21
+IS  - 2
+SP  - 110
+EP  - 119
+AN  - WOS:000237788300006
+ER  -
+
+TY  - JOUR
+AU  - Schneider-Fontán, M
+TI  - Plan execution based on active perception: Adding hints to plans
+T2  - AUTONOMOUS ROBOTS
+SN  - 0929-5593
+SN  - 1573-7527
+DA  - JAN
+PY  - 1999
+VL  - 6
+IS  - 1
+SP  - 53
+EP  - 68
+DO  - 10.1023/A:1008872509483
+AN  - WOS:000078994400004
+ER  -
+
+TY  - CPAPER
+AU  - Woolley, BG
+AU  - Peterson, GL
+A1  - ACM
+TI  - Genetic Evolution of Hierarchical Behavior Structures
+T2  - GECCO 2007: GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE, VOL 1 AND 2
+CP  - Annual Conference of Genetic and Evolutionary Computation Conference
+SN  - 978-1-59593-697-4
+PY  - 2007
+SP  - 1731
+EP  - 1738
+AN  - WOS:000268226900315
+ER  -
+
+TY  - JOUR
+AU  - Orozco-Rosas, U
+AU  - Picos, K
+AU  - Montiel, O
+TI  - Hybrid Path Planning Algorithm Based on Membrane Pseudo-Bacterial Potential Field for Autonomous Mobile Robots
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2019
+VL  - 7
+SP  - 156787
+EP  - 156803
+DO  - 10.1109/ACCESS.2019.2949835
+AN  - WOS:000510435600001
+ER  -
+
+TY  - JOUR
+AU  - Bicho, E
+AU  - Schoner, G
+TI  - The dynamic approach to autonomous robotics demonstrated on a low-level vehicle platform
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+CP  - 4th International Symposium on Intelligent Robotic Systems (SIRS96)
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - JUL
+PY  - 1997
+VL  - 21
+IS  - 1
+SP  - 23
+EP  - 35
+DO  - 10.1016/S0921-8890(97)00004-3
+AN  - WOS:A1997YD34300003
+ER  -
+
+TY  - CPAPER
+AU  - Correll, N
+AU  - Martinoli, A
+ED  - Ang, MH
+ED  - Khatib, O
+TI  - Collective inspection of regular structures using a swarm of miniature robots
+T2  - EXPERIMENTAL ROBOTICS IX
+CP  - 9th International Symposium on Experimental Robotics (ISER)
+SN  - 1610-7438
+SN  - 1610-742X
+SN  - 3-540-28816-3
+PY  - 2006
+VL  - 21
+SP  - 375
+EP  - +
+AN  - WOS:000236887500036
+ER  -
+
+TY  - CPAPER
+AU  - Martinez-Baselga, D
+AU  - de Groot, O
+AU  - Knoedler, L
+AU  - Alonso-Mora, J
+AU  - Riazuelo, L
+AU  - Montano, L
+ED  - Ott, C
+TI  - Hey Robot! Personalizing Robot Navigation through Model Predictive Control with a Large Language Model
+T2  - 2025 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - 2025 International Conference on Robotics and Automation-ICRA-Annual
+SN  - 979-8-3315-4140-8
+SN  - 979-8-3315-4139-2
+PY  - 2025
+SP  - 11002
+EP  - 11009
+DO  - 10.1109/ICRA55743.2025.11128826
+AN  - WOS:001614845800493
+ER  -
+
+TY  - JOUR
+AU  - Colledanchise, M
+AU  - Natale, L
+TI  - Handling Concurrency in Behavior Trees
+T2  - IEEE TRANSACTIONS ON ROBOTICS
+SN  - 1552-3098
+SN  - 1941-0468
+DA  - AUG
+PY  - 2022
+VL  - 38
+IS  - 4
+SP  - 2557
+EP  - 2576
+DO  - 10.1109/TRO.2021.3125863
+AN  - WOS:000836666300038
+ER  -
+
+TY  - CPAPER
+AU  - Pires, G
+AU  - Araújo, R
+AU  - Nunes, U
+AU  - de Almeida, AT
+A1  - IEEE, IND ELECTR SOC
+A1  - IEEE, IND ELECTR SOC
+A1  - IEEE, IND ELECTR SOC
+TI  - RobChair -: A powered wheelchair using a behaviour-based navigation
+T2  - 1998 5TH INTERNATIONAL WORKSHOP ON ADVANCED MOTION CONTROL - PROCEEDINGS: AMC '98 - COIMBRA
+CP  - 5th International Workshop on Advanced Motion Control
+SN  - 0-7803-4484-7
+PY  - 1998
+SP  - 536
+EP  - 541
+DO  - 10.1109/AMC.1998.743593
+AN  - WOS:000077727300091
+ER  -
+
+TY  - CPAPER
+AU  - Dong, X
+AU  - Clark, JA
+AU  - Jacob, JL
+ED  - Ganzha, M
+ED  - Paprzycki, M
+ED  - PelechPilichowski, T
+TI  - User Behaviour Based Phishing Websites Detection
+T2  - 2008 INTERNATIONAL MULTICONFERENCE ON COMPUTER SCIENCE AND INFORMATION TECHNOLOGY (IMCSIT), VOLS 1 AND 2
+CP  - International Multiconference on Computer Science and Information Technology
+SN  - 978-8-36-8-1014-9
+PY  - 2008
+SP  - 728
+EP  - 735
+AN  - WOS:000268848500114
+ER  -
+
+TY  - CPAPER
+AU  - Monteiro, S
+AU  - Bicho, E
+A1  - IEEE
+A1  - IEEE
+A1  - IEEE
+TI  - A dynamical systems approach to behavior-based formation control
+T2  - 2002 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, VOLS I-IV, PROCEEDINGS
+CP  - 19th IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 0-7803-7272-7
+PY  - 2002
+SP  - 2606
+EP  - 2611
+AN  - WOS:000178573200411
+ER  -
+
+TY  - BOOK
+AU  - Wallgrün, JO
+A1  - Wallgrun, JO
+TI  - Hierarchical Voronoi Graphs Spatial Representation and Reasoning for Mobile Robots Introduction
+T2  - HIERARCHICAL VORONOI GRAPHS: SPATIAL REPRESENTATION AND REASONING FOR MOBILE ROBOTS
+SN  - 978-3-642-10302-5
+PY  - 2010
+SP  - 1
+EP  - +
+DO  - 10.1007/978-3-642-10345-2_1
+DO  - 10.1007/978-3-642-10345-2
+AN  - WOS:000274340000001
+ER  -
+
+TY  - JOUR
+AU  - Stojanovic, MN
+TI  - PHYS 258-Behavior-based molecular robotics: Is there such a thing?
+T2  - ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY
+CP  - 236th National Meeting of the American-Chemical-Society
+SN  - 0065-7727
+DA  - AUG 17
+PY  - 2008
+VL  - 236
+MA  - 258-PHYS
+AN  - WOS:000270256307167
+ER  -
+
+TY  - JOUR
+AU  - Rosenblatt, JK
+TI  - Optimal selection of uncertain actions by maximizing expected utility
+T2  - AUTONOMOUS ROBOTS
+CP  - 1999 IEEE International Symposium on Computational Intelligence in Robotics and Automation (CIRA 99)
+SN  - 0929-5593
+SN  - 1573-7527
+DA  - AUG
+PY  - 2000
+VL  - 9
+IS  - 1
+SP  - 17
+EP  - 25
+DO  - 10.1023/A:1008916000526
+AN  - WOS:000087705800003
+ER  -
+
+TY  - JOUR
+AU  - Santos, JM
+AU  - Touzet, C
+TI  - Exploration tuned reinforcement function
+T2  - NEUROCOMPUTING
+SN  - 0925-2312
+DA  - OCT
+PY  - 1999
+VL  - 28
+SP  - 93
+EP  - 105
+DO  - 10.1016/S0925-2312(98)00117-9
+AN  - WOS:000082665400008
+ER  -
+
+TY  - JOUR
+AU  - Santos, JM
+AU  - Touzet, C
+TI  - Dynamic update of the reinforcement function during learning
+T2  - CONNECTION SCIENCE
+SN  - 0954-0091
+SN  - 1360-0494
+DA  - DEC
+PY  - 1999
+VL  - 11
+IS  - 3-4
+SP  - 267
+EP  - 289
+DO  - 10.1080/095400999116250
+AN  - WOS:000084643800004
+ER  -
+
+TY  - JOUR
+AU  - Stolle, M
+AU  - Atkeson, C
+TI  - Finding and transferring policies using stored behaviors
+T2  - AUTONOMOUS ROBOTS
+SN  - 0929-5593
+SN  - 1573-7527
+DA  - AUG
+PY  - 2010
+VL  - 29
+IS  - 2
+SP  - 169
+EP  - 200
+DO  - 10.1007/s10514-010-9191-2
+AN  - WOS:000278810500003
+ER  -
+
+TY  - JOUR
+AU  - Ayers, J
+AU  - Rulkov, N
+AU  - Knudsen, D
+AU  - Kim, YB
+AU  - Volkovskii, A
+AU  - Selverston, A
+TI  - Controlling underwater robots with electronic nervous systems
+T2  - APPLIED BIONICS AND BIOMECHANICS
+SN  - 1176-2322
+SN  - 1754-2103
+PY  - 2010
+VL  - 7
+IS  - 1
+SP  - 57
+EP  - 67
+DO  - 10.1080/11762320903244843
+AN  - WOS:000208348200006
+ER  -
+
+TY  - CPAPER
+AU  - Lyons, DM
+AU  - Arkin, RC
+AU  - Jiang, S
+AU  - O'Brien, M
+AU  - Tang, F
+AU  - Tang, P
+ED  - Bourbakis, N
+ED  - Esposito, A
+ED  - Mali, A
+ED  - Alamaniotis, M
+TI  - Formal Performance Guarantees for Behavior-based Localization Missions
+T2  - 2016 IEEE 28TH INTERNATIONAL CONFERENCE ON TOOLS WITH ARTIFICIAL INTELLIGENCE (ICTAI 2016)
+CP  - 28th Annual IEEE International Conference on Tools with Artificial Intelligence (ICTAI)
+SN  - 1082-3409
+SN  - 978-1-5090-4459-7
+PY  - 2016
+SP  - 98
+EP  - 105
+DO  - 10.1109/ICTAI.2016.22
+AN  - WOS:000404437500014
+ER  -
+
+TY  - CPAPER
+AU  - Bushuev, AB
+AU  - Grigoriev, VV
+AU  - Petrov, VA
+A1  - IEEE
+TI  - Biological Algorithms of Control of a Flying Robot
+T2  - PROCEEDINGS OF THE 2017 INTERNATIONAL CONFERENCE QUALITY MANAGEMENT,TRANSPORT AND INFORMATION SECURITY, INFORMATION TECHNOLOGIES (IT&QM&IS)
+CP  - International Conference on Quality Management,Transport and Information Security, Information Technologies (IT and QM and IS)
+SN  - 978-1-5386-0703-9
+PY  - 2017
+SP  - 363
+EP  - 368
+AN  - WOS:000425868400083
+ER  -
+
+TY  - JOUR
+AU  - Tehrani, AM
+AU  - Kamel, MS
+TI  - Behavior arbitration using a fuzzy reinforcement learning approach
+T2  - INTELLIGENT AUTOMATION AND SOFT COMPUTING
+SN  - 1079-8587
+SN  - 2326-005X
+PY  - 2005
+VL  - 11
+IS  - 3
+SP  - 179
+EP  - 193
+DO  - 10.1080/10798587.2005.10642903
+AN  - WOS:000233098400004
+ER  -
+
+TY  - JOUR
+AU  - Dax, VM
+AU  - Li, JC
+AU  - Sachdeva, E
+AU  - Agarwal, N
+AU  - Kochenderfer, MJ
+TI  - Disentangled Neural Relational Inference for Interpretable Motion Prediction
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - FEB
+PY  - 2024
+VL  - 9
+IS  - 2
+SP  - 1452
+EP  - 1459
+DO  - 10.1109/LRA.2023.3342554
+AN  - WOS:001138708600011
+ER  -
+
+TY  - CHAP
+AU  - Lund, HH
+AU  - Pagliarini, L
+ED  - Asada, M
+ED  - Kitano, H
+TI  - Robot soccer with LEGO mindstorms
+T2  - ROBOCUP-98: ROBOT SOCCER WORLD CUP II
+CP  - 2nd Robot World Cup Conference (RoboCup-98), at the FIFA World Cup
+SN  - 0302-9743
+SN  - 3-540-66320-7
+PY  - 1999
+VL  - 1604
+SP  - 141
+EP  - 151
+AN  - WOS:000087616500011
+ER  -
+
+TY  - CPAPER
+AU  - Peddi, R
+AU  - Bezzo, N
+A1  - IEEE
+TI  - Interpretable Run-Time Prediction and Planning in Co-Robotic Environments
+T2  - 2021 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-1714-3
+PY  - 2021
+SP  - 2504
+EP  - 2510
+DO  - 10.1109/IROS51168.2021.9636282
+AN  - WOS:000755125502011
+ER  -
+
+TY  - CPAPER
+AU  - Nicolescu, MN
+AU  - Mataric, MJ
+A1  - IEEE
+A1  - IEEE
+TI  - Experience-based representation construction: learning from human and robot teachers
+T2  - IROS 2001: PROCEEDINGS OF THE 2001 IEEE/RJS INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, VOLS 1-4: EXPANDING THE SOCIETAL ROLE OF ROBOTICS IN THE NEXT MILLENNIUM
+CP  - IEEE Conference on Intelligent Robots and Systems (IROS 2001)
+SN  - 0-7803-6612-3
+PY  - 2001
+SP  - 740
+EP  - 745
+AN  - WOS:000176593900117
+ER  -
+
+TY  - JOUR
+AU  - Gall, AJ
+AU  - Shuboni-Mulligan, DD
+TI  - Keep Your Mask On: The Benefits of Masking for Behavior and the Contributions of Aging and Disease on Dysfunctional Masking Pathways
+T2  - FRONTIERS IN NEUROSCIENCE
+SN  - 1662-453X
+DA  - AUG 9
+PY  - 2022
+VL  - 16
+C7  - 911153
+DO  - 10.3389/fnins.2022.911153
+AN  - WOS:000843790700001
+ER  -
+
+TY  - JOUR
+AU  - Luan, PG
+AU  - Thinh, NT
+TI  - Self-Organized Aggregation Behavior Based on Virtual Expectation of Individuals with Wave-Based Communication
+T2  - ELECTRONICS
+SN  - 2079-9292
+DA  - MAY 13
+PY  - 2023
+VL  - 12
+IS  - 10
+C7  - 2220
+DO  - 10.3390/electronics12102220
+AN  - WOS:000998136000001
+ER  -
+
+TY  - CPAPER
+AU  - Golovan, AV
+AU  - Shevtsova, NA
+AU  - Klepatch, A
+ED  - Casasent, DP
+TI  - Neural network system for purposeful behavior based on foveal visual preprocessor
+T2  - INTELLIGENT ROBOTS AND COMPUTER VISION XV: ALGORITHMS, TECHNIQUES, ACTIVE VISION, AND MATERIALS HANDLING
+CP  - Conference on Intelligent Robots and Computer Vision XV: Algorithms, Techniques, Active Vision, and Materials Handling
+SN  - 0-8194-2306-8
+PY  - 1996
+VL  - 2904
+SP  - 256
+EP  - 262
+DO  - 10.1117/12.256283
+AN  - WOS:A1996BG67H00028
+ER  -
+
+TY  - JOUR
+AU  - Fernandez-Leon, JA
+AU  - Acosta, GG
+AU  - Mayosky, MA
+TI  - From network-to-antibody robustness in a bio-inspired immune system
+T2  - BIOSYSTEMS
+SN  - 0303-2647
+SN  - 1872-8324
+DA  - MAY-JUN
+PY  - 2011
+VL  - 104
+IS  - 2-3
+SP  - 109
+EP  - 117
+DO  - 10.1016/j.biosystems.2011.01.007
+AN  - WOS:000290194500005
+ER  -
+
+TY  - CPAPER
+AU  - Papageorgiou, XS
+AU  - Chalvatzaki, G
+AU  - Tzafestas, CS
+AU  - Maragos, P
+A1  - IEEE
+TI  - Hidden Markov Modeling of Human Normal Gait using Laser Range Finder for a Mobility Assistance Robot
+T2  - 2014 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4799-3685-4
+PY  - 2014
+SP  - 482
+EP  - 487
+AN  - WOS:000377221100071
+ER  -
+
+TY  - JOUR
+AU  - Pettersson, J
+AU  - Wahde, M
+TI  - Application of the utility function method for behavioral organization in a locomotion task
+T2  - IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION
+SN  - 1089-778X
+SN  - 1941-0026
+DA  - OCT
+PY  - 2005
+VL  - 9
+IS  - 5
+SP  - 506
+EP  - 521
+DO  - 10.1109/TEVC.2005.850262
+AN  - WOS:000232412900005
+ER  -
+
+TY  - JOUR
+AU  - Laureano-Cruces, AL
+AU  - De Arriaga-Gómez, F
+AU  - Sánchez, MGA
+TI  - Cognitive task analysis:: a proposal to model reactive behaviours
+T2  - JOURNAL OF EXPERIMENTAL & THEORETICAL ARTIFICIAL INTELLIGENCE
+SN  - 0952-813X
+DA  - JUL
+PY  - 2001
+VL  - 13
+IS  - 3
+SP  - 227
+EP  - 239
+DO  - 10.1080/09528130110063092
+AN  - WOS:000171161300005
+ER  -
+
+TY  - CPAPER
+AU  - Abielmona, R
+AU  - Petriu, EM
+AU  - Whalen, T
+A1  - IEEE
+TI  - Heterogeneous multi-agent framework for environment monitoring applications
+T2  - PROCEEDINGS OF THE 2005 IEEE INTERNATIONAL CONFERENCE ON VIRTUAL ENVIRONMENTS, HUMAN-COMPUTER INTERFACES AND MEASUREMENT SYSTEMS
+CP  - IEEE International Symposium on Virtual Environments, Human-Computer Interfaces and Measurement Systems (VECIMS 2005)
+SN  - 0-7803-9041-5
+PY  - 2005
+SP  - 151
+EP  - 156
+AN  - WOS:000236373300027
+ER  -
+
+TY  - CPAPER
+AU  - Dong, J
+AU  - Chen, HT
+AU  - Liu, S
+ED  - Jiang, Z
+ED  - Li, Y
+ED  - Zhang, X
+ED  - Wang, J
+ED  - Sun, W
+TI  - A Behavior-based Policy for Multirobot Formation Control
+T2  - ADVANCES IN MANUFACTURING TECHNOLOGY, PTS 1-4
+CP  - 2nd International Conference on Advanced Design and Manufacturing Engineering (ADME 2012)
+SN  - 1660-9336
+SN  - 978-3-03785-503-4
+PY  - 2012
+VL  - 220-223
+SP  - 1181
+EP  - 1185
+DO  - 10.4028/www.scientific.net/AMM.220-223.1181
+AN  - WOS:000316033600239
+ER  -
+
+TY  - BOOK
+AU  - Ambassa, PL
+AU  - Kayem, AVDM
+AU  - Wolthusen, SD
+AU  - Meinel, C
+ED  - Kayem, AVDM
+ED  - Wolthusen, SD
+ED  - Meinel, C
+TI  - Inferring Private User Behaviour Based on Information Leakage
+T2  - SMART MICRO-GRID SYSTEMS SECURITY AND PRIVACY
+SN  - 978-3-319-91427-5
+SN  - 978-3-319-91426-8
+PY  - 2018
+VL  - 71
+SP  - 145
+EP  - 159
+DO  - 10.1007/978-3-319-91427-5_7
+DO  - 10.1007/978-3-319-91427-5
+AN  - WOS:000456853500008
+ER  -
+
+TY  - CPAPER
+AU  - Cardona, GA
+AU  - Yanguas-Rojas, D
+AU  - Arevalo-Castiblanco, MF
+AU  - Mojica-Nava, E
+A1  - IEEE
+TI  - Ant-Based Multi-Robot Exploration in Non-Convex Space without Global-Connectivity Constraints
+T2  - 2019 18TH EUROPEAN CONTROL CONFERENCE (ECC)
+CP  - 18th European Control Conference (ECC)
+SN  - 978-3-907144-00-8
+PY  - 2019
+SP  - 2065
+EP  - 2070
+DO  - 10.23919/ecc.2019.8796034
+AN  - WOS:000490488302015
+ER  -
+
+TY  - JOUR
+AU  - Tahboub, KA
+TI  - A semi-autonomous reactive control architecture
+T2  - JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+SN  - 0921-0296
+SN  - 1573-0409
+DA  - DEC
+PY  - 2001
+VL  - 32
+IS  - 4
+SP  - 445
+EP  - 459
+DO  - 10.1023/A:1014295529170
+AN  - WOS:000173989900005
+ER  -
+
+TY  - JOUR
+AU  - Dupuis, B
+AU  - Dawson, MRW
+TI  - Modules, maps, and the robots who shun them: A behaviour-based model of navigation
+T2  - CANADIAN JOURNAL OF EXPERIMENTAL PSYCHOLOGY-REVUE CANADIENNE DE PSYCHOLOGIE EXPERIMENTALE
+SN  - 1196-1961
+DA  - DEC
+PY  - 2011
+VL  - 65
+IS  - 4
+SP  - 305
+EP  - 305
+AN  - WOS:000297667400085
+ER  -
+
+TY  - CPAPER
+AU  - Semwal, VB
+AU  - Katiyar, SA
+AU  - Chakraborty, P
+AU  - Nandi, GC
+A1  - IEEE
+TI  - Biped Model Based on Human Gait Pattern Parameters for Sagittal Plane Movement
+T2  - 2013 INTERNATIONAL CONFERENCE ON CONTROL, AUTOMATION, ROBOTICS AND EMBEDDED SYSTEMS (CARE-2013)
+CP  - IEEE International Conference on Control, Automation, Robotics and Embedded Systems (CARE)
+SN  - 978-1-4673-6153-8
+PY  - 2013
+AN  - WOS:000347643800060
+ER  -
+
+TY  - JOUR
+AU  - Xiao, P
+AU  - Vadakkepat, P
+AU  - Lee, TH
+TI  - Context-dependent DNA coding with redundancy and introns
+T2  - IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART B-CYBERNETICS
+SN  - 1083-4419
+SN  - 1941-0492
+DA  - APR
+PY  - 2008
+VL  - 38
+IS  - 2
+SP  - 331
+EP  - 341
+DO  - 10.1109/TSMCB.2007.912741
+AN  - WOS:000254029400006
+ER  -
+
+TY  - JOUR
+AU  - Naredo, E
+AU  - Trujillo, L
+AU  - Legrand, P
+AU  - Silva, S
+AU  - Muñoz, L
+TI  - Evolving genetic programming classifiers with novelty search
+T2  - INFORMATION SCIENCES
+SN  - 0020-0255
+SN  - 1872-6291
+DA  - NOV 10
+PY  - 2016
+VL  - 369
+SP  - 347
+EP  - 367
+DO  - 10.1016/j.ins.2016.06.044
+AN  - WOS:000383292500024
+ER  -
+
+TY  - JOUR
+AU  - Arena, P
+AU  - Fortuna, L
+AU  - Frasca, M
+AU  - Lombardo, D
+AU  - Patané, L
+AU  - Crucitti, P
+TI  - Turing patterns in RD-CNNS for the emergence of perceptual states in roving robots
+T2  - INTERNATIONAL JOURNAL OF BIFURCATION AND CHAOS
+SN  - 0218-1274
+SN  - 1793-6551
+DA  - JAN
+PY  - 2007
+VL  - 17
+IS  - 1
+SP  - 107
+EP  - 127
+DO  - 10.1142/S0218127407017203
+AN  - WOS:000250844800005
+ER  -
+
+TY  - JOUR
+AU  - Shaikh, D
+AU  - Manoonpong, P
+TI  - A neuroplasticity-inspired neural circuit for acoustic navigation with obstacle avoidance that learns smooth motion paths
+T2  - NEURAL COMPUTING & APPLICATIONS
+CP  - 18th International Conference on Engineering Applications of Neural Networks (EANN)
+SN  - 0941-0643
+SN  - 1433-3058
+DA  - JUN
+PY  - 2019
+VL  - 31
+IS  - 6
+SP  - 1765
+EP  - 1781
+DO  - 10.1007/s00521-018-3845-y
+AN  - WOS:000470746700007
+ER  -
+
+TY  - CPAPER
+AU  - Nagata, F
+AU  - Otsuka, A
+AU  - Watanabe, K
+A1  - IEEE
+TI  - Network-Based Subsumption Architecture for Multiple Mobile Robots System
+T2  - 6TH INTERNATIONAL CONFERENCE ON SOFT COMPUTING AND INTELLIGENT SYSTEMS, AND THE 13TH INTERNATIONAL SYMPOSIUM ON ADVANCED INTELLIGENT SYSTEMS
+CP  - 6th International Conference on Soft Computing and Intelligent Systems (SCIS) / 13th International Symposium on Advanced Intelligence Systems (ISIS)
+SN  - 2377-6870
+SN  - 978-1-4673-2743-5
+SN  - 978-1-4673-2742-8
+PY  - 2012
+SP  - 187
+EP  - 192
+AN  - WOS:000392950200036
+ER  -
+
+TY  - JOUR
+AU  - Eguchi, Y
+AU  - Kadone, H
+AU  - Suzuki, K
+TI  - Standing Mobility Device With Passive Lower Limb Exoskeleton for Upright Locomotion
+T2  - IEEE-ASME TRANSACTIONS ON MECHATRONICS
+SN  - 1083-4435
+SN  - 1941-014X
+DA  - AUG
+PY  - 2018
+VL  - 23
+IS  - 4
+SP  - 1608
+EP  - 1618
+DO  - 10.1109/TMECH.2018.2799865
+AN  - WOS:000442347800012
+ER  -
+
+TY  - CPAPER
+AU  - McCall, JC
+AU  - Trivedi, MM
+A1  - IEEE
+TI  - Human behavior based predictive brake assistance
+T2  - 2006 IEEE INTELLIGENT VEHICLES SYMPOSIUM
+CP  - IEEE Intelligent Vehicles Symposium
+SN  - 4-9011-2286-X
+PY  - 2006
+SP  - 8
+EP  - +
+DO  - 10.1109/IVS.2006.1689597
+AN  - WOS:000242043800037
+ER  -
+
+TY  - JOUR
+AU  - Amarie, D
+AU  - Oprisan, SA
+AU  - Ignat, M
+TI  - Random walk system's behavior based on record function
+T2  - PHYSICS LETTERS A
+SN  - 0375-9601
+DA  - APR 5
+PY  - 1999
+VL  - 254
+IS  - 1-2
+SP  - 112
+EP  - 118
+DO  - 10.1016/S0375-9601(99)00053-5
+AN  - WOS:000079555300017
+ER  -
+
+TY  - JOUR
+AU  - Cicirelli, G
+AU  - D'Orazio, T
+AU  - Distante, A
+TI  - Different learning methodologies for vision-based navigation behaviors
+T2  - INTERNATIONAL JOURNAL OF PATTERN RECOGNITION AND ARTIFICIAL INTELLIGENCE
+SN  - 0218-0014
+SN  - 1793-6381
+DA  - DEC
+PY  - 2005
+VL  - 19
+IS  - 8
+SP  - 949
+EP  - 975
+DO  - 10.1142/S021800140500440X
+AN  - WOS:000234753600001
+ER  -
+
+TY  - CPAPER
+AU  - Takenaka, K
+AU  - Bando, T
+AU  - Nagasaka, S
+AU  - Taniguchi, T
+AU  - Hitomi, K
+A1  - IEEE
+A1  - Robotics Society of Japan
+TI  - Contextual Scene Segmentation of Driving Behavior based on Double Articulation Analyzer
+T2  - 2012 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - 25th IEEE\RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-4673-1736-8
+PY  - 2012
+SP  - 4847
+EP  - 4852
+AN  - WOS:000317042705068
+ER  -
+
+TY  - JOUR
+AU  - Wang, LT
+AU  - Sun, LT
+AU  - Tomizuka, M
+AU  - Zhan, W
+TI  - Socially-Compatible Behavior Design of Autonomous Vehicles With Verification on Real Human Data
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - APR
+PY  - 2021
+VL  - 6
+IS  - 2
+SP  - 3421
+EP  - 3428
+DO  - 10.1109/LRA.2021.3061350
+AN  - WOS:000633394300034
+ER  -
+
+TY  - CPAPER
+AU  - Moshkina, L
+ED  - Syrmos, VL
+ED  - Hamza, MH
+TI  - An integrative framework for time-varying affective agent behavior
+T2  - Proceedings of the Ninth IASTED International Conference on Intelligent Systems and Control
+CP  - 9th IASTED International Conference on Intelligent Systems and Control
+SN  - 978-0-88986-591-4
+PY  - 2006
+SP  - 30
+EP  - 35
+AN  - WOS:000246298100006
+ER  -
+
+TY  - JOUR
+AU  - LANGER, D
+AU  - ROSENBLATT, JK
+AU  - HEBERT, M
+TI  - A BEHAVIOR-BASED SYSTEM FOR OFF-ROAD NAVIGATION
+T2  - IEEE TRANSACTIONS ON ROBOTICS AND AUTOMATION
+SN  - 1042-296X
+DA  - DEC
+PY  - 1994
+VL  - 10
+IS  - 6
+SP  - 776
+EP  - 783
+DO  - 10.1109/70.338532
+AN  - WOS:A1994PY30300006
+ER  -
+
+TY  - CPAPER
+AU  - Recchia, T
+AU  - Chung, J
+AU  - Pochiraju, K
+A1  - ASME
+TI  - COMBAT ROBOT STRATEGY ADAPTATION USING MULTIPLE LEARNING AGENTS
+T2  - INTERNATIONAL MECHANICAL ENGINEERING CONGRESS AND EXPOSITION - 2012, VOL 4, PTS A AND B
+CP  - ASME International Mechanical Engineering Congress and Exposition
+SN  - 978-0-7918-4520-2
+PY  - 2013
+SP  - 305
+EP  - 313
+AN  - WOS:000350070300037
+ER  -
+
+TY  - JOUR
+AU  - Mitsunaga, N
+AU  - Izumi, T
+AU  - Asada, M
+TI  - Cooperative behavior based on a subjective map with shared information in a dynamic environment
+T2  - ADVANCED ROBOTICS
+SN  - 0169-1864
+SN  - 1568-5535
+PY  - 2005
+VL  - 19
+IS  - 2
+SP  - 207
+EP  - 218
+DO  - 10.1163/1568553053148637
+AN  - WOS:000227724700005
+ER  -
+
+TY  - JOUR
+AU  - Meyers, G
+AU  - Van Hoyweghen, I
+TI  - 'Happy failures': Experimentation with behaviour-based personalisation in car insurance
+T2  - BIG DATA & SOCIETY
+SN  - 2053-9517
+DA  - JAN
+PY  - 2020
+VL  - 7
+IS  - 1
+C7  - 2053951720914650
+DO  - 10.1177/2053951720914650
+AN  - WOS:000523511600001
+ER  -
+
+TY  - JOUR
+AU  - Tong, F
+AU  - Sun, YB
+AU  - Chen, L
+AU  - Lin, HY
+TI  - Versatile responses beyond photomechanical behavior based on dynamic molecular crystals
+T2  - CRYSTENGCOMM
+SN  - 1466-8033
+DA  - JUL 28
+PY  - 2025
+VL  - 27
+IS  - 30
+SP  - 5070
+EP  - 5086
+DO  - 10.1039/d5ce00397k
+C6  - JUN 2025
+AN  - WOS:001516692800001
+ER  -
+
+TY  - JOUR
+AU  - Röfer, T
+AU  - Lankenau, A
+TI  - Architecture and applications of the Bremen Autonomous Wheelchair
+T2  - INFORMATION SCIENCES
+SN  - 0020-0255
+SN  - 1872-6291
+DA  - JUL
+PY  - 2000
+VL  - 126
+IS  - 1-4
+SP  - 1
+EP  - 20
+DO  - 10.1016/S0020-0255(00)00020-7
+AN  - WOS:000088056100001
+ER  -
+
+TY  - CPAPER
+AU  - MALCOLM, C
+ED  - Hallam, J
+TI  - The SOMASS system: A hybrid symbolic and behaviour-based system to plan and execute assemblies by robot
+T2  - HYBRID PROBLEMS, HYBRID SOLUTIONS
+CP  - 10th Biennial Conference on Artificial Intelligence and the Simulation of Behaviour (AISB95)
+SN  - 0922-6389
+SN  - 90-5199-216-5
+PY  - 1995
+VL  - 27
+SP  - 157
+EP  - 168
+AN  - WOS:A1995BD65P00014
+ER  -
+
+TY  - CPAPER
+AU  - Meng, Q
+AU  - Lee, MH
+A1  - IEEE
+TI  - Learning and control in assistive robotics for the elderly
+T2  - 2004 IEEE CONFERENCE ON ROBOTICS, AUTOMATION AND MECHATRONICS, VOLS 1 AND 2
+CP  - IEEE Conference on Robotics, Automation and Mechatronics
+SN  - 0-7803-8645-0
+PY  - 2004
+SP  - 71
+EP  - 76
+AN  - WOS:000227005400013
+ER  -
+
+TY  - CHAP
+AU  - Xie, GM
+AU  - Wang, L
+AU  - Hu, YH
+ED  - Du, R
+ED  - Li, Z
+ED  - YoucefToumi, K
+ED  - Alvarado, PV
+TI  - Multiple Autonomous Robotic Fish Collaboration
+T2  - ROBOT FISH: BIO-INSPIRED FISHLIKE UNDERWATER ROBOTS
+SN  - 2195-9870
+SN  - 978-3-662-46870-8
+SN  - 978-3-662-46869-2
+PY  - 2015
+SP  - 315
+EP  - 357
+DO  - 10.1007/978-3-662-46870-8_11
+AN  - WOS:000385217000012
+ER  -
+
+TY  - JOUR
+AU  - Capiola, A
+AU  - Hamdan, IA
+AU  - Lyons, JB
+AU  - Lewis, M
+AU  - Alarcon, GM
+AU  - Sycara, K
+TI  - The Effect of Asset Degradation on Trust in Swarms: A Reexamination of System-Wide Trust in Human-Swarm Interaction
+T2  - HUMAN FACTORS
+SN  - 0018-7208
+SN  - 1547-8181
+DA  - MAY
+PY  - 2024
+VL  - 66
+IS  - 5
+SP  - 1475
+EP  - 1489
+DO  - 10.1177/00187208221145261
+C6  - DEC 2022
+AN  - WOS:000897914100001
+ER  -
+
+TY  - JOUR
+AU  - Akanyeti, O
+AU  - Kyriacou, T
+AU  - Nehmow, U
+AU  - Iglesias, R
+AU  - Billings, SA
+TI  - Visual task identification and characterization using polynomial models
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+CP  - 9th British Conference on Mobile Robotics - Towards Autonomous Robotic Systems (TAROS 2006)
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - SEP 30
+PY  - 2007
+VL  - 55
+IS  - 9
+SP  - 711
+EP  - 719
+DO  - 10.1016/j.robot.2007.05.016
+AN  - WOS:000249771900008
+ER  -
+
+TY  - CPAPER
+AU  - Magyar, B
+AU  - Förhécz, Z
+AU  - Korondi, P
+A1  - IEEE
+A1  - IEEE
+TI  - Developing an efficient mobile robot control algorithm in the webots simulation environment
+T2  - 2003 IEEE INTERNATIONAL CONFERENCE ON INDUSTRIAL TECHNOLOGY, VOLS 1 AND 2, PROCEEDINGS
+CP  - IEEE International Conference on Industrial Technology
+SN  - 0-7803-7852-0
+PY  - 2003
+SP  - 179
+EP  - 184
+AN  - WOS:000221383100035
+ER  -
+
+TY  - CPAPER
+AU  - Takagi, K
+AU  - Sakamoto, T
+AU  - Ichikawa, J
+AU  - Takeuchi, Y
+A1  - ACM
+TI  - Analysis of Behaviors that Promote New Participation Based on Body Torque of Others in Robot-Human Interactions
+T2  - PROCEEDINGS OF THE 11TH CONFERENCE ON HUMAN-AGENT INTERACTION, HAI 2023
+CP  - 11th International Conference on Human-Agent Interaction (HAI)
+SN  - 979-8-4007-0824-4
+PY  - 2023
+SP  - 335
+EP  - 342
+DO  - 10.1145/3623809.3623845
+AN  - WOS:001148034200040
+ER  -
+
+TY  - CPAPER
+AU  - Lai, C
+ED  - Sugisaka, M
+ED  - Tanaka, H
+TI  - An intelligent human behavior based automatic accessing control system
+T2  - PROCEEDINGS OF THE SEVENTEENTH INTERNATIONAL SYMPOSIUM ON ARTIFICIAL LIFE AND ROBOTICS (AROB 17TH '12)
+CP  - 17th International Symposium on Artificial Life and Robotics (AROB)
+SN  - 978-4-9902880-6-8
+PY  - 2012
+SP  - 1147
+EP  - 1150
+AN  - WOS:000387807100269
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, YJ
+AU  - Cai, WQ
+AU  - Pang, XY
+A1  - IEEE
+TI  - Electric Modulation of Extraordinary Optical Transmission Behavior Based on Graphene Metasurface
+T2  - 2024 IEEE 10TH INTERNATIONAL SYMPOSIUM ON MICROWAVE, ANTENNA, PROPAGATION AND EMC TECHNOLOGIES FOR WIRELESS COMMUNICATIONS, MAPE 2024
+CP  - 10th International Symposium on Microwave Antenna Propagation and ElectroMagnetic Compatibility Technologies
+SN  - 2995-195X
+SN  - 979-8-3315-3393-9
+SN  - 979-8-3315-3392-2
+PY  - 2024
+DO  - 10.1109/MAPE62875.2024.10813778
+AN  - WOS:001449127000099
+ER  -
+
+TY  - JOUR
+AU  - Dürr, V
+AU  - Schmitz, J
+AU  - Cruse, H
+TI  - Behaviour-based modelling of hexapod locomotion: linking biology and technical application
+T2  - ARTHROPOD STRUCTURE & DEVELOPMENT
+SN  - 1467-8039
+SN  - 1873-5495
+DA  - JUL
+PY  - 2004
+VL  - 33
+IS  - 3
+SP  - 237
+EP  - 250
+DO  - 10.1016/j.asd.2004.05.004
+AN  - WOS:000224261700005
+ER  -
+
+TY  - CPAPER
+AU  - Sohn, WJ
+AU  - Tamba, TA
+AU  - Hong, KS
+AU  - Kim, RK
+A1  - IEEE
+TI  - Control architecture and obstacle avoidance for acquiring the realtimeness
+T2  - 2007 INTERNATIONAL CONFERENCE ON CONTROL, AUTOMATION AND SYSTEMS, VOLS 1-6
+CP  - International Conference on Control, Automation and Systems
+SN  - 978-89-950038-7-9
+PY  - 2007
+SP  - 1965
+EP  - 1970
+AN  - WOS:000256464302005
+ER  -
+
+TY  - JOUR
+AU  - Mogilny, A
+AU  - Basan, E
+AU  - Nekrasov, A
+TI  - Evaluation of the Cyber-Physical System State Under Destructive Impact Conditions Based on a Comprehensive Analysis of Parameters
+T2  - ROBOTICS
+SN  - 2218-6581
+DA  - JAN
+PY  - 2025
+VL  - 14
+IS  - 1
+C7  - 6
+DO  - 10.3390/robotics14010006
+AN  - WOS:001404684300001
+ER  -
+
+TY  - CPAPER
+AU  - Liu, H
+AU  - Zhang, Y
+AU  - Tu, LP
+AU  - Wang, Y
+ED  - Chen, X
+ED  - Zhao, QC
+TI  - Human Behavior-Based Particle Swarm Optimization: Stability Analysis
+T2  - 2018 37TH CHINESE CONTROL CONFERENCE (CCC)
+CP  - 37th Chinese Control Conference (CCC)
+SN  - 2161-2927
+SN  - 978-9-8815-6395-8
+PY  - 2018
+SP  - 3139
+EP  - 3144
+AN  - WOS:000468622103028
+ER  -
+
+TY  - JOUR
+AU  - Kam, M
+AU  - Zhu, XX
+AU  - Kalata, P
+TI  - Sensor fusion for mobile robot navigation
+T2  - PROCEEDINGS OF THE IEEE
+SN  - 0018-9219
+SN  - 1558-2256
+DA  - JAN
+PY  - 1997
+VL  - 85
+IS  - 1
+SP  - 108
+EP  - 119
+DO  - 10.1109/JPROC.1997.554212
+AN  - WOS:A1997WB96600009
+ER  -
+
+TY  - JOUR
+AU  - Tani, J
+TI  - Model-based learning for mobile robot navigation from the dynamical systems perspective
+T2  - IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART B-CYBERNETICS
+SN  - 1083-4419
+DA  - JUN
+PY  - 1996
+VL  - 26
+IS  - 3
+SP  - 421
+EP  - 436
+DO  - 10.1109/3477.499793
+AN  - WOS:A1996UL27600006
+ER  -
+
+TY  - JOUR
+AU  - Pierpaoli, P
+AU  - Li, AQ
+AU  - Srinivasan, M
+AU  - Cai, XY
+AU  - Coogan, S
+AU  - Egerstedt, M
+TI  - A Sequential Composition Framework for Coordinating Multirobot Behaviors
+T2  - IEEE TRANSACTIONS ON ROBOTICS
+SN  - 1552-3098
+SN  - 1941-0468
+DA  - JUN
+PY  - 2021
+VL  - 37
+IS  - 3
+SP  - 864
+EP  - 876
+DO  - 10.1109/TRO.2020.3036628
+AN  - WOS:000658341900011
+ER  -
+
+TY  - JOUR
+AU  - Hegde, C
+AU  - Mysa, RC
+AU  - Chooi, A
+AU  - Dontu, S
+AU  - Tan, JMR
+AU  - Wong, LH
+AU  - Alvarado, PVY
+AU  - Magdassi, S
+TI  - 3D-Printed Mechano-Optic Force Sensor for Soft Robotic Gripper Enabled by Programmable Structural Metamaterials
+T2  - ADVANCED INTELLIGENT SYSTEMS
+SN  - 2640-4567
+DA  - SEP
+PY  - 2024
+VL  - 6
+IS  - 9
+DO  - 10.1002/aisy.202400057
+C6  - JUN 2024
+AN  - WOS:001237410900001
+ER  -
+
+TY  - CPAPER
+AU  - Jose, J
+AU  - Singh, D
+AU  - Patel, A
+AU  - Hayatnagarkar, HG
+A1  - IEEE
+TI  - SIMULATING RE-CONFIGURABLE MULTI-ROVERS FOR PLANETARY EXPLORATION USING BEHAVIOR-BASED ONTOLOGY
+T2  - 2020 WINTER SIMULATION CONFERENCE (WSC)
+CP  - Winter Simulation Conference
+SN  - 0891-7736
+SN  - 978-1-7281-9499-8
+PY  - 2020
+SP  - 254
+EP  - 265
+DO  - 10.1109/WSC48552.2020.9383998
+AN  - WOS:000679196300021
+ER  -
+
+TY  - JOUR
+AU  - Kong, DC
+AU  - Xue, K
+AU  - Wang, P
+AU  - Xu, ZY
+AU  - Huang, ZQ
+TI  - Emergence of longitudinal queue behavior based on topological interaction and asynchronous dynamics
+T2  - JOURNAL OF THEORETICAL BIOLOGY
+SN  - 0022-5193
+SN  - 1095-8541
+DA  - FEB 7
+PY  - 2026
+VL  - 618
+C7  - 112318
+DO  - 10.1016/j.jtbi.2025.112318
+C6  - NOV 2025
+AN  - WOS:001622052400001
+ER  -
+
+TY  - CPAPER
+AU  - Wang, YM
+AU  - Zhao, KY
+AU  - Li, Y
+AU  - Leong, HU
+ED  - Kwok, J
+TI  - BILE: An Effective Behavior-based Latent Exploration Scheme for Deep Reinforcement Learning
+T2  - PROCEEDINGS OF THE THIRTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI 2025)
+CP  - 34th International Joint Conference on Artificial Intelligence-IJCAI
+SN  - 978-1-956792-06-5
+PY  - 2025
+SP  - 6497
+EP  - 6505
+AN  - WOS:001634925300081
+ER  -
+
+TY  - CPAPER
+AU  - Wen, CH
+AU  - Du, W
+AU  - Zhu, J
+AU  - Zhang, GN
+AU  - Shen, SL
+A1  - IEEE
+TI  - Analysis of CGF Entity's Behavior Based on Personality Characteristics
+T2  - 2017 2ND INTERNATIONAL CONFERENCE ON CYBERNETICS, ROBOTICS AND CONTROL (CRC 2017)
+CP  - 2nd International Conference on Cybernetics, Robotics and Control (CRC)
+SN  - 978-1-5386-0677-3
+PY  - 2017
+SP  - 134
+EP  - 138
+DO  - 10.1109/CRC.2017.26
+AN  - WOS:000463729400027
+ER  -
+
+TY  - JOUR
+AU  - Alhazbi, S
+TI  - Behavior-Based Machine Learning Approaches to Identify State-Sponsored Trolls on Twitter
+T2  - IEEE ACCESS
+SN  - 2169-3536
+PY  - 2020
+VL  - 8
+SP  - 195132
+EP  - 195141
+DO  - 10.1109/ACCESS.2020.3033666
+AN  - WOS:000587879600001
+ER  -
+
+TY  - JOUR
+AU  - Glogan, E
+AU  - Gatzounis, R
+AU  - Bennett, MP
+AU  - Holthausen, K
+AU  - Meulders, A
+TI  - Generalization of pain-related avoidance behavior based on de novo categorical knowledge
+T2  - PAIN
+SN  - 0304-3959
+SN  - 1872-6623
+DA  - APR
+PY  - 2023
+VL  - 164
+IS  - 4
+SP  - 895
+EP  - 904
+DO  - 10.1097/j.pain.0000000000002786
+AN  - WOS:000953320300032
+ER  -
+
+TY  - JOUR
+AU  - Suresh, A
+AU  - Martínez, S
+TI  - Planning Under Non-Rational Perception of Uncertain Spatial Costs
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - APR
+PY  - 2021
+VL  - 6
+IS  - 2
+SP  - 4133
+EP  - 4140
+DO  - 10.1109/LRA.2021.3067272
+AN  - WOS:000639767600002
+ER  -
+
+TY  - CHAP
+AU  - Steels, L
+ED  - Lungarella, M
+ED  - Iida, F
+ED  - Bongard, J
+ED  - Pfeifer, R
+TI  - Fifty Years of AI: From Symbols to Embodiment - and Back
+T2  - 50 YEARS OF ARTIFICIAL INTELLIGENCE: ESSAYS DEDICATED TO THE 50TH ANNIVERSARY OF ARTIFICIAL INTELLIGENCE
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-3-540-77295-8
+PY  - 2007
+VL  - 4850
+SP  - 18
+EP  - 28
+DO  - 10.1007/978-3-540-77296-5
+AN  - WOS:000268398100003
+ER  -
+
+TY  - JOUR
+AU  - Mali, AD
+TI  - On the evaluation of agent behaviors
+T2  - ARTIFICIAL INTELLIGENCE
+SN  - 0004-3702
+SN  - 1872-7921
+DA  - JAN
+PY  - 2003
+VL  - 143
+IS  - 1
+SP  - 1
+EP  - 17
+C7  - PII S0004-3702(02)00358-2
+DO  - 10.1016/S0004-3702(02)00358-2
+AN  - WOS:000180369800001
+ER  -
+
+TY  - CPAPER
+AU  - Seong, YA
+AU  - Narumi, T
+ED  - Yamamoto, S
+ED  - Mori, H
+TI  - Effect of Attractive Appearance of Intelligent Agents on Acceptance of Uncertain Information
+T2  - HUMAN INTERFACE AND THE MANAGEMENT OF INFORMATION: APPLICATIONS IN COMPLEX TECHNOLOGICAL ENVIRONMENTS, THEMATIC AREA HIMI 2022 HELD AS PART OF HCII 2022, PT II
+CP  - 24th International Conference on Human-Computer Interaction, HCI International 2022 (HCII)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-06509-5
+SN  - 978-3-031-06508-8
+PY  - 2022
+VL  - 13306
+SP  - 146
+EP  - 161
+DO  - 10.1007/978-3-031-06509-5_11
+AN  - WOS:000931950100010
+ER  -
+
+TY  - CHAP
+AU  - Kim, S
+AU  - Jin, T
+AU  - Hashimoto, H
+ED  - King, I
+ED  - Wang, J
+ED  - Chan, L
+ED  - Wang, DL
+TI  - Human hierarchical behavior based mobile agent control in ISpace with distributed network sensors
+T2  - NEURAL INFORMATION PROCESSING, PT 3, PROCEEDINGS
+CP  - 13th International Conference on Neural Informational Processing
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-46484-0
+PY  - 2006
+VL  - 4234
+SP  - 856
+EP  - 865
+AN  - WOS:000241759000094
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, X
+AU  - Xie, H
+ED  - Shi, Z
+ED  - Dong, JH
+ED  - Ma, W
+TI  - Thermodynamic Study of Crystal Growth Behavior Based on Structural Analysis of Chemical Bonds
+T2  - PROGRESS IN MATERIALS AND PROCESSES, PTS 1-3
+CP  - 2nd International Conference on Materials and Products Manufacturing Technology (ICMPMT 2012)
+SN  - 1022-6680
+SN  - 978-3-03785-543-0
+PY  - 2013
+VL  - 602-604
+SP  - 853
+EP  - 856
+DO  - 10.4028/www.scientific.net/AMR.602-604.853
+AN  - WOS:000319233800176
+ER  -
+
+TY  - CPAPER
+AU  - Tian, Y
+AU  - Li, W
+AU  - Zhang, AQ
+AU  - Yu, JC
+AU  - Zhang, QF
+AU  - Li, Y
+A1  - IEEE
+TI  - From Simulation to Validation: Moth-Inspired Chemical Plume Tracing with an Autonomous Underwater Vehicle
+T2  - 2014 OCEANS - ST. JOHN'S
+CP  - Oceans Conference
+SN  - 0197-7385
+SN  - 978-1-4799-4918-2
+PY  - 2014
+AN  - WOS:000369848800023
+ER  -
+
+TY  - CPAPER
+AU  - Tian, Y
+AU  - Li, W
+AU  - Zhang, FM
+A1  - IEEE
+TI  - Moth-Inspired Plume Tracing via Autonomous Underwaer Vehcle with only a pair of Separated Chemical Sensors
+T2  - OCEANS 2015 - MTS/IEEE WASHINGTON
+CP  - OCEANS MTS/IEEE Conference
+SN  - 0197-7385
+SN  - 978-0-933957-43-5
+PY  - 2015
+AN  - WOS:000380550000095
+ER  -
+
+TY  - JOUR
+AU  - Schouten, G
+AU  - Steckel, J
+TI  - A Biomimetic Radar System for Autonomous Navigation
+T2  - IEEE TRANSACTIONS ON ROBOTICS
+SN  - 1552-3098
+SN  - 1941-0468
+DA  - JUN
+PY  - 2019
+VL  - 35
+IS  - 3
+SP  - 539
+EP  - 548
+DO  - 10.1109/TRO.2018.2889577
+AN  - WOS:000517266900001
+ER  -
+
+TY  - CPAPER
+AU  - STEIN, MR
+AU  - PAUL, RP
+A1  - IEEE
+TI  - OPERATOR INTERACTION, FOR TIME-DELAYED TELEOPERATION, WITH A BEHAVIOR-BASED CONTROLLER
+T2  - 1994 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION: PROCEEDINGS, VOLS 1-4
+CP  - 1994 IEEE International Conference on Robotics and Automation
+SN  - 1050-4729
+SN  - 0-8186-5330-2
+PY  - 1994
+SP  - 231
+EP  - 236
+DO  - 10.1109/ROBOT.1994.350983
+AN  - WOS:A1994BA72M00036
+ER  -
+
+TY  - JOUR
+AU  - Wang, X
+TI  - A behavior-based inverse kinematics algorithm to predict arm prehension postures for computer-aided ergonomic evaluation
+T2  - JOURNAL OF BIOMECHANICS
+SN  - 0021-9290
+SN  - 1873-2380
+DA  - MAY
+PY  - 1999
+VL  - 32
+IS  - 5
+SP  - 453
+EP  - 460
+DO  - 10.1016/S0021-9290(99)00023-8
+AN  - WOS:000079982200001
+ER  -
+
+TY  - JOUR
+AU  - Mathai, NJ
+AU  - Zourntos, T
+TI  - Emergent fluctuations in the trajectories of agent collectives
+T2  - FLUCTUATION AND NOISE LETTERS
+SN  - 0219-4775
+DA  - DEC
+PY  - 2007
+VL  - 7
+IS  - 4
+SP  - L429
+EP  - L437
+DO  - 10.1142/S0219477507004057
+AN  - WOS:000252035300009
+ER  -
+
+TY  - JOUR
+AU  - Baron, SG
+AU  - Gobbini, MI
+AU  - Engell, AD
+AU  - Todorov, A
+TI  - Amygdala and dorsomedial prefrontal cortex responses to appearance-based and behavior-based person impressions
+T2  - SOCIAL COGNITIVE AND AFFECTIVE NEUROSCIENCE
+SN  - 1749-5016
+SN  - 1749-5024
+DA  - OCT
+PY  - 2011
+VL  - 6
+IS  - 5
+SP  - 572
+EP  - 581
+DO  - 10.1093/scan/nsq086
+AN  - WOS:000295931000005
+ER  -
+
+TY  - JOUR
+AU  - Wang, Y
+TI  - User online behavior based on big data distributed clustering algorithm
+T2  - INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS
+SN  - 1729-8814
+DA  - MAR
+PY  - 2020
+VL  - 17
+IS  - 2
+DO  - 10.1177/1729881420917293
+AN  - WOS:000535907000001
+ER  -
+
+TY  - CPAPER
+AU  - Nakano, A
+AU  - Okuda, H
+AU  - Suzuki, T
+AU  - Inagaki, S
+AU  - Hayakawa, S
+A1  - IEEE
+TI  - Symbolic Modeling of Driving Behavior based on Hierarchical Segmentation and Formal Grammar
+T2  - 2009 IEEE-RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+CP  - IEEE RSJ International Conference on Intelligent Robots and Systems
+SN  - 978-1-4244-3803-7
+PY  - 2009
+SP  - 5516
+EP  - +
+DO  - 10.1109/IROS.2009.5354579
+AN  - WOS:000285372903065
+ER  -
+
+TY  - JOUR
+AU  - Lang, M
+AU  - Hirche, S
+TI  - Computationally Efficient Rigid-Body Gaussian Process for Motion Dynamics
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - JUL
+PY  - 2017
+VL  - 2
+IS  - 3
+SP  - 1601
+EP  - 1608
+DO  - 10.1109/LRA.2017.2677469
+AN  - WOS:000413739500049
+ER  -
+
+TY  - JOUR
+AU  - Stassi, S
+AU  - Sacco, A
+AU  - Canavese, G
+TI  - Impedance spectroscopy analysis of the tunnelling conduction mechanism in piezoresistive composites
+T2  - JOURNAL OF PHYSICS D-APPLIED PHYSICS
+SN  - 0022-3727
+SN  - 1361-6463
+DA  - AUG 30
+PY  - 2014
+VL  - 47
+IS  - 34
+C7  - 345306
+DO  - 10.1088/0022-3727/47/34/345306
+AN  - WOS:000340236700020
+ER  -
+
+TY  - CPAPER
+AU  - Ozeki, M
+AU  - Nakamura, Y
+A1  - IEEE
+TI  - Evaluation of self-editing based on behaviors-for-attention for desktop manipulation videos
+T2  - 2006 IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO - ICME 2006, VOLS 1-5, PROCEEDINGS
+CP  - IEEE International Conference on Multimedia and Expo (ICME 2006)
+SN  - 978-1-4244-0366-0
+PY  - 2006
+SP  - 329
+EP  - +
+DO  - 10.1109/ICME.2006.262465
+AN  - WOS:000245384800083
+ER  -
+
+TY  - JOUR
+AU  - de Leoni, M
+AU  - van der Aalst, WMP
+AU  - Dees, M
+TI  - A general process mining framework for correlating, predicting and clustering dynamic behavior based on event logs
+T2  - INFORMATION SYSTEMS
+SN  - 0306-4379
+SN  - 1873-6076
+DA  - MAR
+PY  - 2016
+VL  - 56
+SP  - 235
+EP  - 257
+DO  - 10.1016/j.is.2015.07.003
+AN  - WOS:000367634200015
+ER  -
+
+TY  - JOUR
+AU  - van Dam, LCJ
+AU  - Ernst, MO
+TI  - Mapping Shape to Visuomotor Mapping: Learning and Generalisation of Sensorimotor Behaviour Based on Contextual Information
+T2  - PLOS COMPUTATIONAL BIOLOGY
+SN  - 1553-734X
+SN  - 1553-7358
+DA  - MAR
+PY  - 2015
+VL  - 11
+IS  - 3
+C7  - e1004172
+DO  - 10.1371/journal.pcbi.1004172
+AN  - WOS:000352195700050
+ER  -
+
+TY  - JOUR
+AU  - Chae, H
+AU  - Ahn, MS
+AU  - Noh, D
+AU  - Nam, H
+AU  - Hong, DN
+TI  - BALLU2: A Safe and Affordable Buoyancy Assisted Biped
+T2  - FRONTIERS IN ROBOTICS AND AI
+SN  - 2296-9144
+DA  - DEC 8
+PY  - 2021
+VL  - 8
+C7  - 730323
+DO  - 10.3389/frobt.2021.730323
+AN  - WOS:000732725100001
+ER  -
+
+TY  - CPAPER
+AU  - Song, KT
+AU  - Tang, CC
+ED  - Zhang, H
+TI  - Learning for cooperation in multirobot team competitions
+T2  - 2001 IEEE INTERNATIONAL SYMPOSIUM ON COMPUTATIONAL INTELLIGENCE IN ROBOTICS AND AUTOMATION: INTEGRATING INTELLIGENT MACHINES WITH HUMANS FOR A BETTER TOMORROW
+CP  - IEEE International Symposium on Computational Intelligence in Robotics and Automation
+SN  - 0-7803-7203-4
+PY  - 2001
+SP  - 302
+EP  - 307
+DO  - 10.1109/CIRA.2001.1013216
+AN  - WOS:000177016000053
+ER  -
+
+TY  - CPAPER
+AU  - Agrigoroaie, R
+AU  - Ciocirlan, SD
+AU  - Tapus, A
+ED  - Kheddar, A
+ED  - Yoshida, E
+ED  - Ge, SS
+ED  - Suzuki, K
+ED  - Cabibihan, JJ
+ED  - Eyssel, F
+ED  - He, H
+TI  - News Application Adaptation Based on User Sensory Profile
+T2  - SOCIAL ROBOTICS, ICSR 2017
+CP  - 9th International Conference on Social Robotics (ICSR)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-319-70022-9
+SN  - 978-3-319-70021-2
+PY  - 2017
+VL  - 10652
+SP  - 708
+EP  - 717
+DO  - 10.1007/978-3-319-70022-9_70
+AN  - WOS:000449941100070
+ER  -
+
+TY  - JOUR
+AU  - Kemna, S
+AU  - Hamilton, MJ
+AU  - Hughes, DT
+AU  - LePage, KD
+TI  - Adaptive autonomous underwater vehicles for littoral surveillance The GLINT10 field trial results
+T2  - INTELLIGENT SERVICE ROBOTICS
+SN  - 1861-2776
+SN  - 1861-2784
+DA  - OCT
+PY  - 2011
+VL  - 4
+IS  - 4
+SP  - 245
+EP  - 258
+DO  - 10.1007/s11370-011-0097-4
+AN  - WOS:000510892400004
+ER  -
+
+TY  - CPAPER
+AU  - Srinivasan, V
+AU  - Murphy, RR
+A1  - IEEE
+TI  - A Survey of Social Gaze
+T2  - PROCEEDINGS OF THE 6TH ACM/IEEE INTERNATIONAL CONFERENCE ON HUMAN-ROBOT INTERACTIONS (HRI 2011)
+CP  - 6th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SN  - 2167-2121
+SN  - 2167-2148
+SN  - 978-1-4503-0561-7
+PY  - 2011
+SP  - 253
+EP  - 254
+DO  - 10.1145/1957656.1957757
+AN  - WOS:000393313200094
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, HT
+AU  - Ma, Y
+AU  - Wang, XB
+AU  - Mao, R
+AU  - Wang, ML
+A1  - IEEE
+TI  - Lightweight real-time detection model for multi-sheep abnormal behaviour based on yolov7-tiny
+T2  - 2023 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, IROS
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-6654-9190-7
+PY  - 2023
+SP  - 4191
+EP  - 4196
+DO  - 10.1109/IROS55552.2023.10342186
+AN  - WOS:001133658803026
+ER  -
+
+TY  - JOUR
+AU  - Qiu, Y
+AU  - Wang, CJ
+AU  - Lu, XY
+AU  - Wu, HP
+AU  - Ma, XL
+AU  - Hu, JH
+AU  - Qi, HC
+AU  - Tian, Y
+AU  - Zhang, Z
+AU  - Bao, GJ
+AU  - Chai, H
+AU  - Song, JZ
+AU  - Liu, AP
+TI  - A Biomimetic Drosera Capensis with Adaptive Decision-Predation Behavior Based on Multifunctional Sensing and Fast Actuating Capability
+T2  - ADVANCED FUNCTIONAL MATERIALS
+SN  - 1616-301X
+SN  - 1616-3028
+DA  - MAR
+PY  - 2022
+VL  - 32
+IS  - 13
+C7  - 2110296
+DO  - 10.1002/adfm.202110296
+C6  - DEC 2021
+AN  - WOS:000726305700001
+ER  -
+
+TY  - CPAPER
+AU  - Liu, Q
+AU  - Zhao, J
+AU  - Schütz, S
+AU  - Berns, K
+A1  - IEEE
+TI  - Adaptive Motor Patterns and Reflexes for Bipedal Locomotion on Rough Terrain
+T2  - 2015 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-4799-9994-1
+PY  - 2015
+SP  - 3856
+EP  - 3861
+AN  - WOS:000371885404005
+ER  -
+
+TY  - CPAPER
+AU  - Petriu, EM
+AU  - Cretu, AM
+A1  - IEEE
+TI  - Biology-Inspired Artificial Neural Network Solutions for Android Control
+T2  - 2013 IEEE INTERNATIONAL SYMPOSIUM ON MEDICAL MEASUREMENTS AND APPLICATIONS PROCEEDINGS (MEMEA)
+CP  - 8th IEEE International Symposium on Medical Measurements and Applications (MeMeA)
+SN  - 978-1-4673-5197-3
+SN  - 978-1-4673-5195-9
+PY  - 2013
+SP  - 145
+EP  - 150
+AN  - WOS:000326748000031
+ER  -
+
+TY  - CPAPER
+AU  - Najafabadi, AM
+AU  - Khanmirza, E
+AU  - Markazi, AD
+A1  - IEEE
+TI  - Experimental Study and Modeling of Soft Body Behavior Based on the Mass-Spring-Damper Method
+T2  - 2021 9TH RSI INTERNATIONAL CONFERENCE ON ROBOTICS AND MECHATRONICS (ICROM)
+CP  - 9th RSI International Conference on Robotics and Mechatronics (ICRoM)
+SN  - 2377-679X
+SN  - 2572-6889
+SN  - 978-1-6654-2094-5
+PY  - 2021
+SP  - 346
+EP  - 351
+DO  - 10.1109/ICRoM54204.2021.9663490
+AN  - WOS:000787158800052
+ER  -
+
+TY  - JOUR
+AU  - Jiang, LF
+AU  - Zhan, YP
+AU  - Zhu, Y
+TI  - Combining Quantitative Food-intake Assays and Forcibly Activating Neurons to Study Appetite in Drosophila
+T2  - JOVE-JOURNAL OF VISUALIZED EXPERIMENTS
+SN  - 1940-087X
+DA  - APR
+PY  - 2018
+IS  - 134
+C7  - e56900
+DO  - 10.3791/56900
+AN  - WOS:000444051300026
+ER  -
+
+TY  - BOOK
+AU  - Ram, G
+AU  - Kar, R
+AU  - Mandal, D
+AU  - Ghoshal, SP
+A1  - Patnaik, S
+TI  - Collective-Animal-Behaviour-Based Optimized Null Placement in Time-Modulated Linear Antenna Arrays
+T2  - RECENT DEVELOPMENTS IN INTELLIGENT NATURE-INSPIRED COMPUTING
+SN  - 978-1-5225-2323-9
+SN  - 978-1-5225-2322-2
+PY  - 2017
+SP  - 115
+EP  - 132
+DO  - 10.4018/978-1-5225-2322-2.ch005
+DO  - 10.4018/978-1-5225-2322-2
+AN  - WOS:000411592400007
+ER  -
+
+TY  - JOUR
+AU  - Zhou, M
+AU  - Dong, HR
+AU  - Wang, FY
+AU  - Wang, QL
+AU  - Yang, XX
+TI  - Modeling and simulation of pedestrian dynamical behavior based on a fuzzy logic approach
+T2  - INFORMATION SCIENCES
+SN  - 0020-0255
+SN  - 1872-6291
+DA  - SEP 10
+PY  - 2016
+VL  - 360
+SP  - 112
+EP  - 130
+DO  - 10.1016/j.ins.2016.04.018
+AN  - WOS:000377835100007
+ER  -
+
+TY  - CPAPER
+AU  - Shan, YH
+AU  - Zhu, XY
+A1  - IEEE
+TI  - Simulation of automatic addressing behavior based on urban residential land dynamics multi-agents model
+T2  - 2007 IEEE INTERNATIONAL CONFERENCE ON AUTOMATION AND LOGISTICS, VOLS 1-6
+CP  - IEEE International Conference on Automation and Logistics
+SN  - 978-1-4244-1530-4
+PY  - 2007
+SP  - 1358
+EP  - 1363
+DO  - 10.1109/ICAL.2007.4338781
+AN  - WOS:000252380300263
+ER  -
+
+TY  - CPAPER
+AU  - Rüdiger, J
+AU  - Wagner, A
+AU  - Badreddin, E
+ED  - Zaytoon, J
+ED  - Ferrier, JL
+ED  - Cetto, JA
+ED  - Filipe, J
+TI  - Behavior based description of dependability -: Defining a minium set of attributes for a behavioral description of dependability
+T2  - ICINCO 2007: PROCEEDINGS OF THE FOURTH INTERNATIONAL CONFERENCE ON INFORMATICS IN CONTROL, AUTOMATION AND ROBOTICS, VOL RA-2: ROBOTICS AND AUTOMATION, VOL 2
+CP  - 4th International Conference on Informatics in Control, Automation and Robotics
+SN  - 978-972-8865-83-2
+PY  - 2007
+SP  - 341
+EP  - 346
+AN  - WOS:000252643500052
+ER  -
+
+TY  - CPAPER
+AU  - Peco, RL
+AU  - Ruiz, RM
+AU  - Soto-Sánchez, C
+AU  - Fernández, E
+ED  - Vicente, JMF
+ED  - Alvarez-Sanchez, JR
+ED  - Lopez, FD
+ED  - Adeli, H
+TI  - Development and Validation of a Novel Technology for Postural Analysis and Human Kinematics
+T2  - BIO-INSPIRED SYSTEMS AND APPLICATIONS: FROM ROBOTICS TO AMBIENT INTELLIGENCE, PT II
+CP  - 9th International Work-Conference on the Interplay Between Natural and Artificial Computation (IWINAC)
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 978-3-031-06527-9
+SN  - 978-3-031-06526-2
+PY  - 2022
+VL  - 13259
+SP  - 492
+EP  - 504
+DO  - 10.1007/978-3-031-06527-9_49
+AN  - WOS:000874447200049
+ER  -
+
+TY  - CPAPER
+AU  - Pépin, N
+AU  - Simonin, O
+AU  - Charpillet, F
+A1  - Filipe, J
+ED  - Fred, A
+TI  - INTELLIGENT TILES Putting Situated Multi-Agents Models in Real World
+T2  - ICAART 2009: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON AGENTS AND ARTIFICIAL INTELLIGENCE
+CP  - 1st International Conference on Agents and Artificial Intelligence
+SN  - 978-989-8111-66-1
+PY  - 2009
+SP  - 513
+EP  - +
+AN  - WOS:000267058000078
+ER  -
+
+TY  - CPAPER
+AU  - Magnan, M
+AU  - Vauttier, S
+AU  - Oussalah, C
+ED  - Ege, R
+ED  - Singh, M
+ED  - Meyer, B
+TI  - From specification to management of composite object behavior
+T2  - TOOLS 23 - TECHNOLOGY OF OBJECT-ORIENTED LANGUAGES AND SYSTEMS, PROCEEDINGS
+CP  - Conference on Technology of Object-Oriented Languages and Systems (TOOLS 23)
+SN  - 0-8186-8383-X
+PY  - 1998
+SP  - 132
+EP  - 146
+DO  - 10.1109/TOOLS.1997.654714
+AN  - WOS:000072554600012
+ER  -
+
+TY  - JOUR
+AU  - Fu, JL
+AU  - Chen, L
+AU  - Zhang, DX
+AU  - Shao, XW
+TI  - On-Orbit Proximity Operations About Controlled Uncooperative Targets Using Meta-Predictor
+T2  - JOURNAL OF GUIDANCE CONTROL AND DYNAMICS
+SN  - 0731-5090
+SN  - 1533-3884
+DA  - AUG
+PY  - 2024
+VL  - 47
+IS  - 8
+SP  - 1726
+EP  - 1736
+DO  - 10.2514/1.G007718
+C6  - JUN 2024
+AN  - WOS:001256181300001
+ER  -
+
+TY  - JOUR
+AU  - Ruzarovsky, R
+AU  - Horak, T
+AU  - Skypala, R
+AU  - Zelník, R
+AU  - Csekei, M
+AU  - Sido, J
+AU  - Nemlaha, E
+AU  - Kopcek, M
+TI  - Behaviour-Based Digital Twin for Electro-Pneumatic Actuator: Modelling, Simulation, and Validation Through Virtual Commissioning
+T2  - ELECTRONICS
+SN  - 2079-9292
+DA  - JUN 14
+PY  - 2025
+VL  - 14
+IS  - 12
+C7  - 2434
+DO  - 10.3390/electronics14122434
+AN  - WOS:001515341500001
+ER  -
+
+TY  - CPAPER
+AU  - Naumann, M
+AU  - Sun, LT
+AU  - Zhan, W
+AU  - Tomizuka, M
+A1  - IEEE
+TI  - Analyzing the Suitability of Cost Functions for Explaining and Imitating Human Driving Behavior based on Inverse Reinforcement Learning
+T2  - 2020 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-7281-7395-5
+PY  - 2020
+SP  - 5481
+EP  - 5487
+DO  - 10.1109/icra40945.2020.9196795
+AN  - WOS:000712319503115
+ER  -
+
+TY  - CPAPER
+AU  - Marth, K
+AU  - Ren, SP
+A1  - ACM
+TI  - Extending the ARC Model with Generative Coordination
+T2  - APPLIED COMPUTING 2007, VOL 1 AND 2
+CP  - 22nd ACM Symposium on Applied Computing
+SN  - 978-1-59593-480-2
+PY  - 2007
+SP  - 366
+EP  - 367
+AN  - WOS:000268215700073
+ER  -
+
+TY  - JOUR
+AU  - Farrell, JA
+AU  - Pang, S
+AU  - Li, W
+TI  - Chemical plume tracing via an autonomous underwater vehicle
+T2  - IEEE JOURNAL OF OCEANIC ENGINEERING
+SN  - 0364-9059
+SN  - 1558-1691
+DA  - APR
+PY  - 2005
+VL  - 30
+IS  - 2
+SP  - 428
+EP  - 442
+DO  - 10.1109/JOE.2004.838066
+AN  - WOS:000232942300022
+ER  -
+
+TY  - JOUR
+AU  - Wang, J
+AU  - Guo, ZG
+AU  - Fu, FY
+TI  - Locomotion behavior of air bubbles on solid surfaces
+T2  - ADVANCES IN COLLOID AND INTERFACE SCIENCE
+SN  - 0001-8686
+SN  - 1873-3727
+DA  - OCT
+PY  - 2024
+VL  - 332
+C7  - 103266
+DO  - 10.1016/j.cis.2024.103266
+C6  - AUG 2024
+AN  - WOS:001297801200001
+ER  -
+
+TY  - CPAPER
+AU  - Lund, HH
+ED  - Wolf, LJ
+ED  - Strock, JL
+TI  - Neural building blocks
+T2  - 1ST INTERNATIONAL IEEE EMBS CONFERENCE ON NEURAL ENGINEERING 2003, CONFERENCE PROCEEDINGS
+CP  - 1st International IEEE/EMBS Conference on Neural Engineering
+SN  - 1948-3546
+SN  - 0-7803-7579-3
+PY  - 2003
+SP  - 446
+EP  - 449
+DO  - 10.1109/CNE.2003.1196857
+AN  - WOS:000182404500120
+ER  -
+
+TY  - CPAPER
+AU  - Wang, XF
+A1  - TU
+A1  - TU
+TI  - Controlling bifurcation and chaos in Internet congestion control system
+T2  - PROCEEDINGS OF THE 4TH WORLD CONGRESS ON INTELLIGENT CONTROL AND AUTOMATION, VOLS 1-4
+CP  - 4th World Congress on Intelligent Control and Automation
+SN  - 0-7803-7268-9
+PY  - 2002
+SP  - 573
+EP  - 576
+AN  - WOS:000179017500120
+ER  -
+
+TY  - CPAPER
+AU  - Li, TY
+AU  - Sun, SN
+AU  - Aditya, SS
+AU  - Figueroa, N
+ED  - Laugier, C
+ED  - Atanasov, N
+ED  - Birchfield, S
+ED  - Cielniak, G
+ED  - DeMattos, L
+ED  - Fiorini, L
+ED  - Giguere, P
+ED  - Hashimoto, K
+ED  - Ibanez-Guzman, J
+ED  - Kamegawa, T
+ED  - Lee, J
+ED  - Laugier, C
+ED  - Loianno, G
+ED  - Luck, K
+ED  - Maruyama, H
+ED  - Martinet, P
+ED  - Moradi, H
+ED  - Nunes, U
+ED  - Pettre, J
+ED  - Pretto, A
+ED  - Ranzani, T
+ED  - Ronnau, A
+ED  - Rossi, S
+ED  - Rouse, E
+ED  - Ruggiero, F
+ED  - Simonin, O
+ED  - Wang, D
+ED  - Yang, M
+ED  - Yoshida, E
+ED  - Zhao, H
+TI  - Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning
+T2  - 2025 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - 2025 International Conference on Intelligent Robots and Systems-IROS
+SN  - 2153-0858
+SN  - 979-8-3315-4394-5
+SN  - 979-8-3315-4393-8
+PY  - 2025
+SP  - 9846
+EP  - 9853
+DO  - 10.1109/IROS60139.2025.11246142
+AN  - WOS:001734964700285
+ER  -
+
+TY  - JOUR
+AU  - Dai, SY
+AU  - Zhong, Y
+AU  - Xu, C
+AU  - Liu, HZ
+AU  - Yuan, JZ
+AU  - Wang, PF
+TI  - RETRACTED: An Intelligent Security Classification Model of Driver's Driving Behavior Based on V2X in IoT Networks (Retracted Article)
+T2  - SECURITY AND COMMUNICATION NETWORKS
+SN  - 1939-0114
+SN  - 1939-0122
+DA  - MAY 11
+PY  - 2022
+VL  - 2022
+C7  - 6793365
+DO  - 10.1155/2022/6793365
+AN  - WOS:000800315000008
+ER  -
+
+TY  - JOUR
+AU  - Di Nocera, D
+AU  - Finzi, A
+AU  - Rossi, S
+AU  - Staffa, M
+TI  - The role of intrinsic motivations in attention allocation and shifting
+T2  - FRONTIERS IN PSYCHOLOGY
+SN  - 1664-1078
+DA  - APR 1
+PY  - 2014
+VL  - 5
+C7  - 273
+DO  - 10.3389/fpsyg.2014.00273
+AN  - WOS:000333566600001
+ER  -
+
+TY  - JOUR
+AU  - Doerstelmann, M
+AU  - Knippers, J
+AU  - Koslowski, V
+AU  - Menges, A
+AU  - Prado, M
+AU  - Schieber, G
+AU  - Vasey, L
+TI  - ICD/ITKE Research Pavilion 2014-15: Fibre Placement on a Pneumatic Body Based on a Water Spider Web
+T2  - ARCHITECTURAL DESIGN
+SN  - 0003-8504
+SN  - 1554-2769
+DA  - SEP-OCT
+PY  - 2015
+VL  - 85
+IS  - 5
+SP  - 60
+EP  - 65
+DO  - 10.1002/ad.1955
+AN  - WOS:000361061600011
+ER  -
+
+TY  - JOUR
+AU  - Skala, J
+AU  - Kim, K
+TI  - The Use of Eye Gaze Data and Personality Traits: A Scoping Review of the Literature
+T2  - WILEY INTERDISCIPLINARY REVIEWS-COGNITIVE SCIENCE
+SN  - 1939-5078
+SN  - 1939-5086
+DA  - MAY
+PY  - 2025
+VL  - 16
+IS  - 3
+C7  - e70008
+DO  - 10.1002/wcs.70008
+AN  - WOS:001517060600003
+ER  -
+
+TY  - JOUR
+AU  - Mueller, KP
+AU  - Neuhauss, SCF
+TI  - Quantitative measurements of the optokinetic response in adult fish
+T2  - JOURNAL OF NEUROSCIENCE METHODS
+SN  - 0165-0270
+SN  - 1872-678X
+DA  - JAN 30
+PY  - 2010
+VL  - 186
+IS  - 1
+SP  - 29
+EP  - 34
+DO  - 10.1016/j.jneumeth.2009.10.020
+AN  - WOS:000274761200005
+ER  -
+
+TY  - JOUR
+AU  - Bonilla, MDZ
+AU  - Beck, J
+AU  - Jiménez, GA
+AU  - García, LM
+AU  - Romero, MS
+AU  - Medina, AL
+AU  - Carrillo, JE
+AU  - Knipper, C
+TI  - The Deposition of Human Remains Inside Chalcolithic Ditched Enclosures: Ditch 5 at Marroquies (Jaen, Spain)
+T2  - EUROPEAN JOURNAL OF ARCHAEOLOGY
+SN  - 1461-9571
+SN  - 1741-2722
+DA  - AUG
+PY  - 2020
+VL  - 23
+IS  - 3
+SP  - 330
+EP  - 355
+C7  - PII S1461957120000042
+DO  - 10.1017/eaa.2020.4
+AN  - WOS:000567652100002
+ER  -
+
+TY  - JOUR
+AU  - Xiang, HK
+AU  - Zhu, JF
+AU  - Liang, GY
+AU  - Shen, YJ
+TI  - Prediction of Dangerous Driving Behavior Based on Vehicle Motion State and Passenger Feeling Using Cloud Model and Elman Neural Network
+T2  - FRONTIERS IN NEUROROBOTICS
+SN  - 1662-5218
+DA  - APR 29
+PY  - 2021
+VL  - 15
+C7  - 641007
+DO  - 10.3389/fnbot.2021.641007
+AN  - WOS:000649835200001
+ER  -
+
+TY  - JOUR
+AU  - Monninger, T
+AU  - Schmidt, J
+AU  - Rupprecht, J
+AU  - Raba, D
+AU  - Jordan, J
+AU  - Frank, D
+AU  - Staab, S
+AU  - Dietmayer, K
+TI  - SCENE: Reasoning About Traffic Scenes Using Heterogeneous Graph Neural Networks
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - MAR
+PY  - 2023
+VL  - 8
+IS  - 3
+SP  - 1531
+EP  - 1538
+DO  - 10.1109/LRA.2023.3234771
+AN  - WOS:000936534100004
+ER  -
+
+TY  - JOUR
+AU  - Xiong, WM
+AU  - Chen, WJ
+AU  - Zheng, Y
+TI  - Path-dependent Vortex Switching in Ferroelectric Nanoplate Junctions Toward a Memory Device Concept
+T2  - FRONTIERS IN PHYSICS
+SN  - 2296-424X
+DA  - JAN 14
+PY  - 2022
+VL  - 9
+C7  - 791019
+DO  - 10.3389/fphy.2021.791019
+AN  - WOS:000750646200001
+ER  -
+
+TY  - CPAPER
+AU  - Xiao, R
+AU  - Chu, KH
+AU  - Wang, EN
+A1  - ASME
+TI  - CONTROLLED LIQUID DYNAMICS ON THREE-DIMENSIONAL NANOSTRUCTURED SURFACES
+T2  - MNHMT2009, VOL 1
+CP  - ASME Micro/Nanoscale Heat and Mass Transfer International Conference (MNHMT)
+SN  - 978-0-7918-4389-5
+PY  - 2010
+SP  - 271
+EP  - 274
+AN  - WOS:000282724000037
+ER  -
+
+TY  - BOOK
+AU  - Hosseinzadeh, A
+AU  - Edalatpanah, SA
+A1  - Adak, AK
+A1  - Manna, D
+A1  - Bhowmik, M
+TI  - Classification Techniques in Data Mining: Classical and Fuzzy Classifiers
+T2  - EMERGING RESEARCH ON APPLIED FUZZY SETS AND INTUITIONISTIC FUZZY MATRICES
+SN  - 978-1-5225-0915-8
+SN  - 978-1-5225-0914-1
+PY  - 2017
+SP  - 153
+EP  - 188
+DO  - 10.4018/978-1-5225-0914-1.ch007
+DO  - 10.4018/978-1-5225-0914-1
+AN  - WOS:000468638200008
+ER  -
+
+TY  - CPAPER
+AU  - Henderson, TAD
+AU  - Küçük, Y
+AU  - Podgurski, A
+A1  - IEEE
+TI  - Evaluating Automatic Fault Localization Using Markov Processes
+T2  - 2019 19TH IEEE INTERNATIONAL WORKING CONFERENCE ON SOURCE CODE ANALYSIS AND MANIPULATION (SCAM)
+CP  - 19th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)
+SN  - 1942-5430
+SN  - 978-1-7281-4937-0
+PY  - 2019
+SP  - 115
+EP  - 126
+DO  - 10.1109/SCAM.2019.00021
+AN  - WOS:000529322000012
+ER  -
+
+TY  - CPAPER
+AU  - Kober, C
+AU  - Boerner, BI
+AU  - Mori, S
+AU  - Tellez, CB
+AU  - Klarhöfer, M
+AU  - Scheffler, K
+AU  - Sader, R
+AU  - Zeilhofer, HF
+A1  - Weber, S
+ED  - Buzug, TM
+ED  - Holz, D
+ED  - Bongartz, J
+ED  - KohlBareis, M
+ED  - Hartmann, U
+TI  - Stereoscopic 4D-Visualization of craniofacial soft tissue based on dynamic MRI and 256 row 4D-CT
+T2  - ADVANCES IN MEDICAL ENGINEERING
+CP  - 3rd Physics Days Remagen/2nd Workshop on Medical Robotics, Navigation and Visualization (RPT/MRNV 2007)
+SN  - 0930-8989
+SN  - 1867-4941
+SN  - 978-3-540-68763-4
+PY  - 2007
+VL  - 114
+SP  - 175
+EP  - +
+AN  - WOS:000245829000029
+ER  -
+
+TY  - JOUR
+AU  - Fox, AE
+AU  - Reid, AK
+AU  - Kyonka, EGE
+TI  - Behavioral History and Pigeons' "Guiding Cues" Performance
+T2  - PSYCHOLOGICAL RECORD
+SN  - 0033-2933
+SN  - 2163-3452
+DA  - SEP
+PY  - 2014
+VL  - 64
+IS  - 3
+SP  - 403
+EP  - 413
+DO  - 10.1007/s40732-014-0060-9
+AN  - WOS:000340372700006
+ER  -
+
+TY  - JOUR
+AU  - Adi, MPH
+AU  - Nahartyo, E
+TI  - The effect of faultline and incentive schemes on knowledge-sharing behaviour
+T2  - VINE JOURNAL OF INFORMATION AND KNOWLEDGE MANAGEMENT SYSTEMS
+SN  - 2059-5891
+SN  - 2059-5905
+DA  - JAN 2
+PY  - 2025
+VL  - 55
+IS  - 1
+SP  - 223
+EP  - 239
+DO  - 10.1108/VJIKMS-03-2022-0081
+C6  - DEC 2022
+AN  - WOS:000896835800001
+ER  -
+
+TY  - JOUR
+AU  - Du, XW
+AU  - Guo, ZL
+AU  - Meng, Y
+AU  - Zhao, L
+AU  - Li, XY
+AU  - Feng, RR
+AU  - Zhao, WD
+AU  - Zhong, HJ
+TI  - Effects of surface properties of GaN semiconductors on cell behavior
+T2  - HELIYON
+SN  - 2405-8440
+DA  - JUL
+PY  - 2023
+VL  - 9
+IS  - 7
+C7  - e18150
+DO  - 10.1016/j.heliyon.2023.e18150
+C6  - JUL 2023
+AN  - WOS:001048732700001
+ER  -
+
+TY  - JOUR
+AU  - Lange, F
+AU  - Haiduk, M
+AU  - Boos, M
+AU  - Tinschert, P
+AU  - Schwarze, A
+AU  - Eggert, F
+TI  - Road crossing behavior under traffic light conflict: Modulating effects of green light duration and signal congruency
+T2  - ACCIDENT ANALYSIS AND PREVENTION
+SN  - 0001-4575
+SN  - 1879-2057
+DA  - OCT
+PY  - 2016
+VL  - 95
+SP  - 292
+EP  - 298
+DO  - 10.1016/j.aap.2016.07.023
+AN  - WOS:000383527600032
+ER  -
+
+TY  - JOUR
+AU  - Loukas, G
+AU  - Karapistoli, E
+AU  - Panaousis, E
+AU  - Sarigiannidis, P
+AU  - Bezemskij, A
+AU  - Vuong, T
+TI  - A taxonomy and survey of cyber-physical intrusion detection approaches for vehicles
+T2  - AD HOC NETWORKS
+SN  - 1570-8705
+SN  - 1570-8713
+DA  - MAR 1
+PY  - 2019
+VL  - 84
+SP  - 124
+EP  - 147
+DO  - 10.1016/j.adhoc.2018.10.002
+AN  - WOS:000456751400012
+ER  -
+
+TY  - CPAPER
+AU  - Thakar, B
+AU  - Parekh, C
+ED  - Satapathy, SC
+ED  - Joshi, A
+TI  - Reverse Engineering of Botnet (APT)
+T2  - INFORMATION AND COMMUNICATION TECHNOLOGY FOR INTELLIGENT SYSTEMS (ICTIS 2017) - VOL 2
+CP  - 2nd International Conference on Information and Communication Technology for Intelligent Systems (ICTIS)
+SN  - 2190-3018
+SN  - 978-3-319-63645-0
+SN  - 978-3-319-63644-3
+PY  - 2018
+VL  - 84
+SP  - 252
+EP  - 262
+DO  - 10.1007/978-3-319-63645-0_28
+AN  - WOS:000433139900028
+ER  -
+
+TY  - CPAPER
+AU  - Genter, K
+AU  - Stone, P
+A1  - Assoc Comp Machinery
+TI  - 7 Adding Influencing Agents to a Flock
+T2  - AAMAS'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS & MULTIAGENT SYSTEMS
+CP  - 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+SN  - 978-1-4503-4239-1
+PY  - 2016
+SP  - 615
+EP  - 623
+AN  - WOS:000465199800071
+ER  -
+
+TY  - JOUR
+AU  - Salehi, M
+AU  - Bayat-Sarmadi, S
+TI  - PLCDefender: Improving Remote Attestation Techniques for PLCs Using Physical Model
+T2  - IEEE INTERNET OF THINGS JOURNAL
+SN  - 2327-4662
+DA  - MAY 1
+PY  - 2021
+VL  - 8
+IS  - 9
+SP  - 7372
+EP  - 7379
+DO  - 10.1109/JIOT.2020.3040237
+AN  - WOS:000642765500022
+ER  -
+
+TY  - JOUR
+AU  - Zhang, CZ
+AU  - Li, T
+AU  - Zhang, GB
+AU  - Gou, XJ
+AU  - Zhou, Q
+AU  - Ma, Q
+AU  - Zhang, XJ
+AU  - Hou, J
+TI  - A numerical simulation research on fish adaption behavior based on deep reinforcement learning and fluid-structure coupling: Implementation of the "perceive-feedback-memory" control system
+T2  - PHYSICS OF FLUIDS
+SN  - 1070-6631
+SN  - 1089-7666
+DA  - JAN
+PY  - 2024
+VL  - 36
+IS  - 1
+C7  - 011904
+DO  - 10.1063/5.0184690
+AN  - WOS:001261448800016
+ER  -
+
+TY  - JOUR
+AU  - Dufresne, F
+AU  - Dubosc, C
+AU  - Lefrou, T
+AU  - Gorisse, G
+AU  - Christmann, O
+TI  - Am I (Not) a Ghost? Leveraging Affordances to Study the Impact of Avatar/Interaction Coherence on Embodiment and Plausibility in Virtual Reality
+T2  - IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+SN  - 1077-2626
+SN  - 1941-0506
+DA  - MAY
+PY  - 2025
+VL  - 31
+IS  - 5
+SP  - 2611
+EP  - 2621
+DO  - 10.1109/TVCG.2025.3549136
+AN  - WOS:001476532500026
+ER  -
+
+TY  - CPAPER
+AU  - Torre, I
+AU  - Goslin, J
+AU  - White, L
+AU  - Zanatto, D
+A1  - ACM
+TI  - Trust in artificial voices: A "congruency effect" of first impressions and behavioural experience
+T2  - PROCEEDINGS OF THE TECHNOLOGY, MIND, AND SOCIETY CONFERENCE (TECHMINDSOCIETY'18)
+CP  - Technology, Mind, and Society Conference (TechMindSociety)
+SN  - 978-1-4503-5420-2
+PY  - 2018
+DO  - 10.1145/3183654.3183691
+AN  - WOS:000492879300040
+ER  -
+
+TY  - JOUR
+AU  - Shigaki, S
+AU  - Yamada, M
+AU  - Kurabayashi, D
+AU  - Hosoda, K
+TI  - Robust Moth-Inspired Algorithm for Odor Source Localization Using Multimodal Information
+T2  - SENSORS
+SN  - 1424-8220
+DA  - FEB
+PY  - 2023
+VL  - 23
+IS  - 3
+C7  - 1475
+DO  - 10.3390/s23031475
+AN  - WOS:000930219200001
+ER  -
+
+TY  - JOUR
+AU  - Breuner, CW
+AU  - Sprague, RS
+AU  - Patterson, SH
+AU  - Woods, HA
+TI  - Environment, behavior and physiology: do birds use barometric pressure to predict storms?
+T2  - JOURNAL OF EXPERIMENTAL BIOLOGY
+SN  - 0022-0949
+SN  - 1477-9145
+DA  - JUN
+PY  - 2013
+VL  - 216
+IS  - 11
+SP  - 1982
+EP  - 1990
+DO  - 10.1242/jeb.081067
+AN  - WOS:000319117400013
+ER  -
+
+TY  - JOUR
+AU  - Triplett, BI
+AU  - Klein, DJ
+AU  - Morgansen, KA
+TI  - Cooperative Estimation for Coordinated Target Tracking in a Cluttered Environment
+T2  - MOBILE NETWORKS & APPLICATIONS
+CP  - 1st International Conference on Robot Communication and Coordination (ROBOCOMM 2007)
+SN  - 1383-469X
+SN  - 1572-8153
+DA  - JUN
+PY  - 2009
+VL  - 14
+IS  - 3
+SP  - 336
+EP  - 349
+DO  - 10.1007/s11036-008-0151-4
+AN  - WOS:000265045000007
+ER  -
+
+TY  - JOUR
+AU  - Kopisch, AD
+AU  - Schwagmeyer, PL
+AU  - Mock, DW
+TI  - Individual consistency in parental effort across multiple stages of care in the house sparrow, Passer domesticus
+T2  - ETHOLOGY
+SN  - 0179-1613
+SN  - 1439-0310
+DA  - NOV
+PY  - 2005
+VL  - 111
+IS  - 11
+SP  - 1062
+EP  - 1070
+DO  - 10.1111/j.1439-0310.2005.01137.x
+AN  - WOS:000232439200005
+ER  -
+
+TY  - JOUR
+AU  - Scheibner, D
+AU  - Mehner, J
+AU  - Reuter, D
+AU  - Kotarsky, U
+AU  - Gessner, T
+AU  - Dötzel, W
+TI  - Characterization and self-test of electrostatically tunable resonators for frequency selective vibration measurements
+T2  - SENSORS AND ACTUATORS A-PHYSICAL
+CP  - 16th IEEE Annual International Conference on Micro Electro Mechanical Systems
+SN  - 0924-4247
+DA  - MAR 1
+PY  - 2004
+VL  - 111
+IS  - 1
+SP  - 93
+EP  - 99
+DO  - 10.1016/j.sna.2003.10.010
+AN  - WOS:000189081800015
+ER  -
+
+TY  - JOUR
+AU  - Pathak, J
+AU  - Mundra, P
+AU  - Sejpal, Y
+AU  - Mahapatra, T
+AU  - Rajput, AS
+TI  - Early round detection protocols: Strategies against untargeted adversarial attacks in federated learning network
+T2  - COMPUTER NETWORKS
+SN  - 1389-1286
+SN  - 1872-7069
+DA  - APR
+PY  - 2026
+VL  - 279
+C7  - 112098
+DO  - 10.1016/j.comnet.2026.112098
+AN  - WOS:001698951700001
+ER  -
+
+TY  - JOUR
+AU  - Breaux, R
+AU  - Babinski, DE
+AU  - Willoughby, MT
+AU  - Haas, SM
+AU  - Coles, EK
+AU  - Pelham, WE
+AU  - Waxmonsky, JG
+AU  - Waschbusch, DA
+TI  - Examining Psychopathic Traits in Children Using the Child Psychopathy Scale - Revised
+T2  - JOURNAL OF ABNORMAL CHILD PSYCHOLOGY
+SN  - 0091-0627
+SN  - 1573-2835
+DA  - FEB
+PY  - 2020
+VL  - 48
+IS  - 2
+SP  - 251
+EP  - 263
+DO  - 10.1007/s10802-019-00591-w
+C6  - OCT 2019
+AN  - WOS:000494234900002
+ER  -
+
+TY  - JOUR
+AU  - Shi, X
+AU  - Yang, Y
+AU  - Liu, Q
+TI  - I Understand You: Blind 3D Human Attention Inference From the Perspective of Third-Person
+T2  - IEEE TRANSACTIONS ON IMAGE PROCESSING
+SN  - 1057-7149
+SN  - 1941-0042
+PY  - 2021
+VL  - 30
+SP  - 6212
+EP  - 6225
+DO  - 10.1109/TIP.2021.3092842
+AN  - WOS:000671507400007
+ER  -
+
+TY  - JOUR
+AU  - Janssen, R
+AU  - Nolfi, S
+AU  - Haselager, P
+AU  - Sprinkhuizen-Kuyper, I
+TI  - Cyclic Incrementality in Competitive Coevolution: Evolvability through Pseudo-Baldwinian Switching-Genes
+T2  - ARTIFICIAL LIFE
+SN  - 1064-5462
+SN  - 1530-9185
+DA  - SUM
+PY  - 2016
+VL  - 22
+IS  - 3
+SP  - 319
+EP  - 352
+DO  - 10.1162/ARTL_a_00208
+AN  - WOS:000381685400003
+ER  -
+
+TY  - JOUR
+AU  - Yeom, K
+TI  - Bio-inspired self-organization for supporting dynamic reconfiguration of modular agents
+T2  - MATHEMATICAL AND COMPUTER MODELLING
+CP  - 4th International Conference on Bio-Inspired Computing
+SN  - 0895-7177
+DA  - DEC
+PY  - 2010
+VL  - 52
+IS  - 11-12
+SP  - 2097
+EP  - 2117
+DO  - 10.1016/j.mcm.2010.06.018
+AN  - WOS:000281614600022
+ER  -
+
+TY  - JOUR
+AU  - Thill, S
+AU  - Caligiore, D
+AU  - Borghi, AM
+AU  - Ziemke, T
+AU  - Baldassarre, G
+TI  - Theories and computational models of affordance and mirror systems: An integrative review
+T2  - NEUROSCIENCE AND BIOBEHAVIORAL REVIEWS
+SN  - 0149-7634
+SN  - 1873-7528
+DA  - MAR
+PY  - 2013
+VL  - 37
+IS  - 3
+SP  - 491
+EP  - 521
+DO  - 10.1016/j.neubiorev.2013.01.012
+AN  - WOS:000317548100020
+ER  -
+
+TY  - CPAPER
+AU  - Efremov, AV
+AU  - Tjaglik, MS
+AU  - Tiumentzev, UV
+AU  - Wenqian, T
+TI  - Pilot behavior modeling and its application to manual control tasks
+T2  - IFAC PAPERSONLINE
+CP  - 1st IFAC Conference on Cyber-Physical and Human-Systems (CPHS)
+SN  - 2405-8963
+PY  - 2016
+VL  - 49
+IS  - 32
+SP  - 159
+EP  - 164
+DO  - 10.1016/j.ifacol.2016.12.207
+AN  - WOS:000401261600028
+ER  -
+
+TY  - JOUR
+AU  - Antunes, GF
+AU  - Gouveia, FV
+AU  - Rezende, FS
+AU  - Seno, MDD
+AU  - de Carvalho, MC
+AU  - de Oliveira, CC
+AU  - dos Santos, LCT
+AU  - de Castro, MC
+AU  - Kuroki, MA
+AU  - Teixeira, MJ
+AU  - Otoch, JP
+AU  - Brandao, ML
+AU  - Fonoff, ET
+AU  - Martinez, RCR
+TI  - Dopamine modulates individual differences in avoidance behavior: A pharmacological, immunohistochemical, neurochemical and volumetric investigation
+T2  - NEUROBIOLOGY OF STRESS
+SN  - 2352-2895
+DA  - MAY
+PY  - 2020
+VL  - 12
+C7  - 100219
+DO  - 10.1016/j.ynstr.2020.100219
+AN  - WOS:000540238800003
+ER  -
+
+TY  - JOUR
+AU  - Roura, E
+AU  - Baldwin, MW
+AU  - Klasing, KC
+TI  - The avian taste system: Potential implications in poultry nutrition
+T2  - ANIMAL FEED SCIENCE AND TECHNOLOGY
+SN  - 0377-8401
+SN  - 1873-2216
+DA  - MAR 15
+PY  - 2013
+VL  - 180
+IS  - 1-4
+SP  - 1
+EP  - 9
+DO  - 10.1016/j.anifeedsci.2012.11.001
+AN  - WOS:000315839100001
+ER  -
+
+TY  - CPAPER
+AU  - Bajikar, S
+AU  - Gorjestani, A
+AU  - Simpkins, P
+AU  - Donath, M
+A1  - IEEE
+A1  - IEEE
+TI  - Evaluation of in-vehicle GPS-based lane position sensing for preventing road departure
+T2  - IEEE CONFERENCE ON INTELLIGENT TRANSPORTATION SYSTEMS
+CP  - 1997 IEEE Conference on Intelligent Transportation Systems (ITSC 997)
+SN  - 0-7803-4269-0
+PY  - 1997
+SP  - 397
+EP  - 402
+AN  - WOS:000073357200064
+ER  -
+
+TY  - JOUR
+AU  - Rahmati-Holasoo, H
+AU  - Maghsoudi, AS
+AU  - Akbarzade, M
+AU  - Gholami, M
+AU  - Shadboorestan, A
+AU  - Vakhshiteh, F
+AU  - Armandeh, M
+AU  - Hassani, S
+TI  - Oxytocin protective effects on zebrafish larvae models of autism-like spectrum disorder
+T2  - IRANIAN JOURNAL OF BASIC MEDICAL SCIENCES
+SN  - 2008-3866
+SN  - 2008-3874
+DA  - MAR
+PY  - 2023
+VL  - 26
+IS  - 3
+SP  - 316
+EP  - 325
+DO  - 10.22038/IJBMS.2023.68165.14889
+AN  - WOS:000926195700004
+ER  -
+
+TY  - JOUR
+AU  - De Santis, D
+TI  - A Framework for Optimizing Co-adaptation in Body-Machine Interfaces
+T2  - FRONTIERS IN NEUROROBOTICS
+SN  - 1662-5218
+DA  - APR 21
+PY  - 2021
+VL  - 15
+C7  - 662181
+DO  - 10.3389/fnbot.2021.662181
+AN  - WOS:000647004900001
+ER  -
+
+TY  - JOUR
+AU  - Blackwell, BF
+AU  - DeVault, TL
+AU  - Seamans, TW
+AU  - Lima, SL
+AU  - Baumhardt, P
+AU  - Fernández-Juricic, E
+TI  - Exploiting avian vision with aircraft lighting to reduce bird strikes
+T2  - JOURNAL OF APPLIED ECOLOGY
+SN  - 0021-8901
+DA  - AUG
+PY  - 2012
+VL  - 49
+IS  - 4
+SP  - 758
+EP  - 766
+DO  - 10.1111/j.1365-2664.2012.02165.x
+AN  - WOS:000306477000002
+ER  -
+

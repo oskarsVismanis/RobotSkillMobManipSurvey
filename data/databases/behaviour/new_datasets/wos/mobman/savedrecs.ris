@@ -1,0 +1,408 @@
+﻿TY  - JOUR
+AU  - Hentout, A
+AU  - Bouzouia, B
+AU  - Toukal, Z
+TI  - Multi-agent Architecture Model for Driving Mobile Manipulator Robots
+T2  - INTERNATIONAL JOURNAL OF ADVANCED ROBOTIC SYSTEMS
+SN  - 1729-8814
+DA  - SEP
+PY  - 2008
+VL  - 5
+IS  - 3
+SP  - 257
+EP  - 268
+AN  - WOS:000264063000005
+ER  -
+
+TY  - CPAPER
+AU  - Andrian, H
+AU  - Song, KT
+A1  - IEEE
+TI  - Embedded CMOS imaging system for real-time robotic vision
+T2  - 2005 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, VOLS 1-4
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SN  - 0-7803-8912-3
+PY  - 2005
+SP  - 3694
+EP  - 3699
+AN  - WOS:000235632103100
+ER  -
+
+TY  - JOUR
+AU  - Sequeira, J
+AU  - Ribeiro, MI
+TI  - Behaviour-based cooperation between two mobile manipulators
+T2  - INTEGRATED COMPUTER-AIDED ENGINEERING
+SN  - 1069-2509
+SN  - 1875-8835
+PY  - 2000
+VL  - 7
+IS  - 3
+SP  - 193
+EP  - 215
+AN  - WOS:000089743800002
+ER  -
+
+TY  - CPAPER
+AU  - Hentout, A
+AU  - Bouzouia, B
+AU  - Toukal, Z
+A1  - IEEE
+TI  - Behaviour-based architecture for piloting mobile manipulator robots
+T2  - 2007 IEEE INTERNATIONAL SYMPOSIUM ON INDUSTRIAL ELECTRONICS, PROCEEDINGS, VOLS 1-8
+CP  - IEEE International Symposium on Industrial Electronics
+SN  - 978-1-4244-0754-5
+PY  - 2007
+SP  - 2095
+EP  - 2100
+DO  - 10.1109/ISIE.2007.4374931
+AN  - WOS:000252265104063
+ER  -
+
+TY  - JOUR
+AU  - Sayyaadi, H
+AU  - Babaee, M
+TI  - Control of nonholonomic mobile manipulators for cooperative object transportation
+T2  - SCIENTIA IRANICA
+SN  - 1026-3098
+DA  - APR
+PY  - 2014
+VL  - 21
+IS  - 2
+SP  - 347
+EP  - 357
+AN  - WOS:000335632600002
+ER  -
+
+TY  - CPAPER
+AU  - Waarsing, BJW
+AU  - Nuttin, M
+AU  - Van Brussel, H
+A1  - IEEE
+A1  - IEEE
+TI  - Behavior-based mobile manipulation inspired by the human example
+T2  - 2003 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, VOLS 1-3, PROCEEDINGS
+CP  - 20th IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 0-7803-7736-2
+PY  - 2003
+SP  - 268
+EP  - 273
+AN  - WOS:000187419900044
+ER  -
+
+TY  - CPAPER
+AU  - Waarsing, R
+AU  - Nuttin, M
+AU  - Van Brussel, H
+ED  - Berns, K
+ED  - Dillmann, R
+TI  - Introducing robots into a human-centred environment - the behaviour-based approach
+T2  - CLIMBING AND WALKING ROBOTS
+CP  - 4th International Conference on Climbing and Walking Robots (CLAWAR 2001)
+SN  - 1-86058-365-2
+PY  - 2001
+SP  - 465
+EP  - 470
+AN  - WOS:000172548600056
+ER  -
+
+TY  - JOUR
+AU  - Waarsing, BJW
+AU  - Nuttin, M
+AU  - Van Brussel, H
+AU  - Corteville, B
+TI  - From biological inspiration toward next-generation manipulators: Manipulator control focused on human tasks
+T2  - IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART C-APPLICATIONS AND REVIEWS
+SN  - 1094-6977
+SN  - 1558-2442
+DA  - FEB
+PY  - 2005
+VL  - 35
+IS  - 1
+SP  - 53
+EP  - 65
+DO  - 10.1109/TSMCC.2004.840047
+AN  - WOS:000226479600006
+ER  -
+
+TY  - JOUR
+AU  - Beranek, R
+AU  - Ahmadi, M
+TI  - A Learning Behavior Based Controller for Maintaining Balance in Robotic Locomotion
+T2  - JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+SN  - 0921-0296
+SN  - 1573-0409
+DA  - MAY
+PY  - 2016
+VL  - 82
+IS  - 2
+SP  - 189
+EP  - 205
+DO  - 10.1007/s10846-015-0254-7
+AN  - WOS:000373575500003
+ER  -
+
+TY  - CPAPER
+AU  - Huang, S
+AU  - Aertbeliën, E
+AU  - Van Brussel, H
+ED  - Stoica, A
+ED  - Tunstel, E
+ED  - Huntsberger, T
+ED  - Arslan, T
+ED  - Vijayakumar, S
+ED  - ElRayis, AO
+TI  - A constraint-based behavior fusion mechanism on mobile manipulator
+T2  - 2008 ECSIS SYMPOSIUM ON LEARNING AND ADAPTIVE BEHAVIORS FOR ROBOTIC SYSTEMS - LAB-RS 2008, PROCEEDINGS
+CP  - ECSIS Symposium on Learning and Adaptive Behaviors for Robotic Systems
+SN  - 978-0-7695-3272-1
+PY  - 2008
+SP  - 83
+EP  - 88
+DO  - 10.1109/LAB-RS.2008.10
+AN  - WOS:000258995800015
+ER  -
+
+TY  - CPAPER
+AU  - Tsay, TIJ
+AU  - Lai, YF
+AU  - Hsiao, YL
+A1  - IEEE
+TI  - Material Handling of a Mobile Manipulator Using an Eye-in-Hand Vision System
+T2  - IEEE/RSJ 2010 INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS 2010)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SN  - 2153-0858
+SN  - 978-1-4244-6675-7
+PY  - 2010
+SP  - 4743
+EP  - 4748
+DO  - 10.1109/IROS.2010.5649578
+AN  - WOS:000287672006043
+ER  -
+
+TY  - CPAPER
+AU  - Jockel, S
+AU  - Lindner, F
+AU  - Zhang, JW
+A1  - IEEE
+TI  - Sparse Distributed Memory for Experience-Based Robot Manipulation
+T2  - 2008 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND BIOMIMETICS, VOLS 1-4
+CP  - IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SN  - 978-1-4244-2678-2
+PY  - 2009
+SP  - 1298
+EP  - +
+DO  - 10.1109/ROBIO.2009.4913187
+AN  - WOS:000271966900218
+ER  -
+
+TY  - CPAPER
+AU  - Bruemmer, DJ
+AU  - Nielsen, CW
+AU  - Hartley, RS
+AU  - Green, J
+ED  - Harmon, RS
+ED  - Holloway, KH
+ED  - Broach, JT
+TI  - Behavior Based Control of Robotic Payloads for Detection, Neutralization and Interrogation of Explosive Hazards
+T2  - DETECTION AND SENSING OF MINES, EXPLOSIVE OBJECTS, AND OBSCURED TARGETS XV
+CP  - Conference on Detection and Sensing of Mines, Explosive Objects, and Obscured Targets XV
+SN  - 0277-786X
+SN  - 978-0-8194-8128-3
+PY  - 2010
+VL  - 7664
+C7  - 76641F
+DO  - 10.1117/12.855188
+AN  - WOS:000285543100041
+ER  -
+
+TY  - JOUR
+AU  - Nguyen, H
+AU  - Kemp, CC
+TI  - Autonomously learning to visually detect where manipulation will succeed
+T2  - AUTONOMOUS ROBOTS
+SN  - 0929-5593
+SN  - 1573-7527
+DA  - JAN
+PY  - 2014
+VL  - 36
+IS  - 1-2
+SP  - 137
+EP  - 152
+DO  - 10.1007/s10514-013-9363-y
+AN  - WOS:000329294800011
+ER  -
+
+TY  - CPAPER
+AU  - Huang, S
+AU  - Aertbeliën, E
+AU  - Van Brussel, H
+A1  - IEEE
+TI  - An Autonomic Behavior-Based Software Architecture for Mobile Manipulator
+T2  - 2008 IEEE WORKSHOP ON ADVANCED ROBOTICS AND ITS SOCIAL IMPACTS
+CP  - IEEE Workshop on Advanced Robotics and Its Social Impacts
+SN  - 978-1-4244-2674-4
+PY  - 2008
+SP  - 110
+EP  - 115
+AN  - WOS:000262985000020
+ER  -
+
+TY  - JOUR
+AU  - Zhang, ZY
+AU  - Chen, JF
+AU  - Mo, ZB
+AU  - Chen, YT
+AU  - Huang, J
+TI  - Behavior-based Adaptive Dynamic Programming Method for Multiple Mobile Manipulators Coordination Control
+T2  - INTERNATIONAL JOURNAL OF CONTROL AUTOMATION AND SYSTEMS
+SN  - 1598-6446
+SN  - 2005-4092
+DA  - SEP
+PY  - 2023
+VL  - 21
+IS  - 9
+SP  - 3022
+EP  - 3035
+DO  - 10.1007/s12555-021-0904-4
+AN  - WOS:001193383600019
+ER  -
+
+TY  - CPAPER
+AU  - Chang, CF
+AU  - Fu, LC
+A1  - IEEE
+TI  - Analysis of a behavior based nonholonomic wheeled mobile robot control with hybrid system approach
+T2  - 2006 SICE-ICASE INTERNATIONAL JOINT CONFERENCE, VOLS 1-13
+CP  - SICE-ICASE International Joint Conference
+SN  - 978-89-950038-4-8
+PY  - 2006
+SP  - 4384
+EP  - +
+AN  - WOS:000246237604112
+ER  -
+
+TY  - JOUR
+AU  - Zhang, ZY
+AU  - Chen, JF
+AU  - Mo, ZB
+AU  - Chen, YT
+AU  - Huang, J
+TI  - A Behavior-based Adaptive Dynamic Programming Method for Multiple Mobile Manipulators Coordination Control
+T2  - INTERNATIONAL JOURNAL OF CONTROL AUTOMATION AND SYSTEMS
+SN  - 1598-6446
+SN  - 2005-4092
+DA  - 2023 JUL 28
+PY  - 2023
+DO  - 10.1007/s12555-021-0904-4
+C6  - JUL 2023
+AN  - WOS:001040570000020
+ER  -
+
+TY  - JOUR
+AU  - Schneider, S
+AU  - Kalagaturu, V
+AU  - Bruyninckx, H
+AU  - Hochgeschwender, N
+TI  - From Composable Models to Correct-by-Construction Software for Contact-Rich Robotic Mobile-Manipulation Tasks
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - OCT
+PY  - 2025
+VL  - 10
+IS  - 10
+SP  - 9894
+EP  - 9901
+DO  - 10.1109/LRA.2025.3597864
+AN  - WOS:001554444400034
+ER  -
+
+TY  - CPAPER
+AU  - MacKenzie, DC
+AU  - Arkin, RC
+A1  - IEEE, ROBOT & AUTOMAT SOC
+TI  - Behavior-based mobile manipulation for drum sampling
+T2  - 1996 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, PROCEEDINGS, VOLS 1-4
+CP  - 1996 IEEE International Conference on Robotics and Automation
+SN  - 1050-4729
+SN  - 0-7803-2989-9
+PY  - 1996
+SP  - 2389
+EP  - 2395
+AN  - WOS:A1996BF68P00374
+ER  -
+
+TY  - JOUR
+AU  - Garrido, S
+AU  - Moreno, L
+AU  - Blanco, D
+AU  - Munoz, ML
+TI  - Sensor-based global planning for mobile robot navigation
+T2  - ROBOTICA
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SN  - 0263-5747
+SN  - 1469-8668
+DA  - MAR-APR
+PY  - 2007
+VL  - 25
+SP  - 189
+EP  - 199
+DO  - 10.1017/S0263574707003384
+AN  - WOS:000245912600006
+ER  -
+
+TY  - JOUR
+AU  - Chang, CF
+AU  - Fu, LC
+TI  - A behavior based nonlinear multi-agent framework using a hybrid approach
+T2  - JOURNAL OF THE CHINESE INSTITUTE OF ENGINEERS
+SN  - 0253-3839
+SN  - 2158-7299
+DA  - MAR
+PY  - 2006
+VL  - 29
+IS  - 2
+SP  - 347
+EP  - 360
+DO  - 10.1080/02533839.2006.9671130
+AN  - WOS:000236306100018
+ER  -
+
+TY  - CPAPER
+AU  - Choi, YS
+AU  - Chen, T
+AU  - Jain, A
+AU  - Anderson, C
+AU  - Glass, JD
+AU  - Kemp, CC
+A1  - IEEE
+TI  - Hand It Over or Set It Down: A User Study of Object Delivery with an Assistive Mobile Manipulator
+T2  - RO-MAN 2009: THE 18TH IEEE INTERNATIONAL SYMPOSIUM ON ROBOT AND HUMAN INTERACTIVE COMMUNICATION, VOLS 1 AND 2
+CP  - 18th IEEE International Symposium on Robot and Human Interactive Communication
+SN  - 978-1-4244-5080-0
+PY  - 2009
+SP  - 602
+EP  - 609
+AN  - WOS:000279893100100
+ER  -
+
+TY  - JOUR
+AU  - Domínguez, DC
+AU  - Iannotta, M
+AU  - Stork, JA
+AU  - Schaffernicht, E
+AU  - Stoyanov, T
+TI  - A Stack-of-Tasks Approach Combined With Behavior Trees: A New Framework for Robot Control
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - OCT
+PY  - 2022
+VL  - 7
+IS  - 4
+SP  - 12110
+EP  - 12117
+DO  - 10.1109/LRA.2022.3211481
+AN  - WOS:000868319800006
+ER  -
+

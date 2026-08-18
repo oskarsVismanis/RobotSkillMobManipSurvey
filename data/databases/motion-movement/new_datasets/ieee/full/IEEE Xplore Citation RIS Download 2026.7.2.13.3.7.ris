@@ -1,0 +1,2004 @@
+TY  - JOUR
+TI  - DynaMimicGen: A Data Generation Framework for Robot Learning of Dynamic Tasks
+T2  - IEEE Robotics and Automation Letters
+SP  - 9327
+EP  - 9334
+AU  - V. Pomponi
+AU  - P. Franceschi
+AU  - S. Baraldo
+AU  - O. Avram
+AU  - L. Roveda
+AU  - L. M. Gambardella
+AU  - A. Valente
+PY  - 2026
+DO  - 10.1109/LRA.2026.3703978
+JO  - IEEE Robotics and Automation Letters
+IS  - 8
+SN  - 2377-3766
+VO  - 11
+VL  - 11
+JA  - IEEE Robotics and Automation Letters
+Y1  - Aug. 2026
+ER  - 
+
+TY  - CONF
+TI  - Adjutant: A framework for flexible human-machine collaborative systems
+T2  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 1392
+EP  - 1399
+AU  - K. R. Guerin
+AU  - S. D. Riedel
+AU  - J. Bohren
+AU  - G. D. Hager
+PY  - 2014
+DO  - 10.1109/IROS.2014.6942739
+JO  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 14-18 Sept. 2014
+ER  - 
+
+TY  - CONF
+TI  - Skill Generalization for Dual-Arm Robot Flipping Manipulation Using OLC-DMP Method
+T2  - 2022 International Conference on Advanced Robotics and Mechatronics (ICARM)
+SP  - 477
+EP  - 482
+AU  - H. Huang
+AU  - C. Zeng
+AU  - S. Xu
+AU  - C. Yang
+PY  - 2022
+DO  - 10.1109/ICARM54641.2022.9959121
+JO  - 2022 International Conference on Advanced Robotics and Mechatronics (ICARM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Advanced Robotics and Mechatronics (ICARM)
+Y1  - 9-11 July 2022
+ER  - 
+
+TY  - JOUR
+TI  - A Visual Reinforcement Learning-Based Separate Primitive Policy for Peg-in-Hole Tasks
+T2  - IEEE Robotics and Automation Letters
+SP  - 3748
+EP  - 3755
+AU  - Z. Xu
+AU  - Z. Wang
+AU  - Y. Li
+AU  - L. Zhuang
+AU  - Z. Zhao
+AU  - G. Yang
+AU  - J. Zhao
+PY  - 2026
+DO  - 10.1109/LRA.2026.3655305
+JO  - IEEE Robotics and Automation Letters
+IS  - 3
+SN  - 2377-3766
+VO  - 11
+VL  - 11
+JA  - IEEE Robotics and Automation Letters
+Y1  - March 2026
+ER  - 
+
+TY  - JOUR
+TI  - Evaluating the Task Generalization of Temporal Convolutional Networks for Surgical Gesture and Motion Recognition Using Kinematic Data
+T2  - IEEE Robotics and Automation Letters
+SP  - 5132
+EP  - 5139
+AU  - K. Hutchinson
+AU  - I. Reyes
+AU  - Z. Li
+AU  - H. Alemzadeh
+PY  - 2023
+DO  - 10.1109/LRA.2023.3292581
+JO  - IEEE Robotics and Automation Letters
+IS  - 8
+SN  - 2377-3766
+VO  - 8
+VL  - 8
+JA  - IEEE Robotics and Automation Letters
+Y1  - Aug. 2023
+ER  - 
+
+TY  - CONF
+TI  - Various Robot Motor Skills Learning with PI2-GMR
+T2  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+SP  - 246
+EP  - 250
+AU  - J. Fu
+AU  - S. Chen
+PY  - 2016
+DO  - 10.1109/ICIICII.2016.0066
+JO  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+Y1  - 3-4 Dec. 2016
+ER  - 
+
+TY  - CONF
+TI  - Human-Like Motion of the Manipulator for Moving Targets
+T2  - 2023 IEEE 13th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+SP  - 1281
+EP  - 1286
+AU  - Y. Zhang
+AU  - D. Gong
+AU  - J. Yu
+PY  - 2023
+DO  - 10.1109/CYBER59472.2023.10256458
+JO  - 2023 IEEE 13th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+IS  - 
+SN  - 2642-6633
+VO  - 
+VL  - 
+JA  - 2023 IEEE 13th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+Y1  - 11-14 July 2023
+ER  - 
+
+TY  - CONF
+TI  - Development of a power assistive device for self-supported transfer motion
+T2  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 1433
+EP  - 1438 vol.2
+AU  - K. Nagai
+AU  - H. Hanafusa
+AU  - Y. Takahashi
+AU  - H. Bunki
+AU  - I. Nakanishi
+AU  - T. Yoshinaga
+AU  - T. Ehara
+PY  - 2002
+DO  - 10.1109/IRDS.2002.1043956
+JO  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 30 Sept.-4 Oct. 2002
+ER  - 
+
+TY  - CONF
+TI  - Energy Efficient Kinodynamic Motion Planning for Holonomic AGVs in Industrial Applications using State Lattices
+T2  - Proceedings of ISR 2016: 47st International Symposium on Robotics
+SP  - 1
+EP  - 8
+AU  - F. Kuenemund
+AU  - D. Hess
+AU  - C. Roehrig
+PY  - 2016
+DO  - 
+JO  - Proceedings of ISR 2016: 47st International Symposium on Robotics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of ISR 2016: 47st International Symposium on Robotics
+Y1  - 21-22 June 2016
+ER  - 
+
+TY  - JOUR
+TI  - GIDMP-based Gait Generation and Adaptive Switching Control for Lower Limb Exoskeleton
+T2  - IEEE/ASME Transactions on Mechatronics
+SP  - 1
+EP  - 9
+AU  - Y. Long
+AU  - H. Guo
+AU  - Z. Cai
+AU  - L. He
+AU  - W. Dong
+AU  - T. Liu
+AU  - J. Yi
+PY  - 2026
+DO  - 10.1109/TMECH.2026.3656391
+JO  - IEEE/ASME Transactions on Mechatronics
+IS  - 
+SN  - 1941-014X
+VO  - 
+VL  - 
+JA  - IEEE/ASME Transactions on Mechatronics
+Y1  - 
+ER  - 
+
+TY  - JOUR
+TI  - Observer-Based Feedback Control for Stabilization of Collective Motion
+T2  - IEEE Transactions on Control Systems Technology
+SP  - 1846
+EP  - 1857
+AU  - S. Napora
+AU  - D. A. Paley
+PY  - 2013
+DO  - 10.1109/TCST.2012.2205252
+JO  - IEEE Transactions on Control Systems Technology
+IS  - 5
+SN  - 1558-0865
+VO  - 21
+VL  - 21
+JA  - IEEE Transactions on Control Systems Technology
+Y1  - Sept. 2013
+ER  - 
+
+TY  - CONF
+TI  - Online Path Planning for Aircraft De-Icing Trucks with Dynamic Nonholonomic Constraints
+T2  - 2022 19th International Conference on Ubiquitous Robots (UR)
+SP  - 170
+EP  - 176
+AU  - H. S. Hoj
+AU  - S. Hansen
+AU  - E. Svanebjerg
+PY  - 2022
+DO  - 10.1109/UR55393.2022.9826240
+JO  - 2022 19th International Conference on Ubiquitous Robots (UR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 19th International Conference on Ubiquitous Robots (UR)
+Y1  - 4-6 July 2022
+ER  - 
+
+TY  - JOUR
+TI  - A Noninvasive Brain-Actuated Wheelchair Based on a P300 Neurophysiological Protocol and Automated Navigation
+T2  - IEEE Transactions on Robotics
+SP  - 614
+EP  - 627
+AU  - I. Iturrate
+AU  - J. M. Antelis
+AU  - A. Kubler
+AU  - J. Minguez
+PY  - 2009
+DO  - 10.1109/TRO.2009.2020347
+JO  - IEEE Transactions on Robotics
+IS  - 3
+SN  - 1941-0468
+VO  - 25
+VL  - 25
+JA  - IEEE Transactions on Robotics
+Y1  - June 2009
+ER  - 
+
+TY  - JOUR
+TI  - Policy Search for Model Predictive Control With Application to Agile Drone Flight
+T2  - IEEE Transactions on Robotics
+SP  - 2114
+EP  - 2130
+AU  - Y. Song
+AU  - D. Scaramuzza
+PY  - 2022
+DO  - 10.1109/TRO.2022.3141602
+JO  - IEEE Transactions on Robotics
+IS  - 4
+SN  - 1941-0468
+VO  - 38
+VL  - 38
+JA  - IEEE Transactions on Robotics
+Y1  - Aug. 2022
+ER  - 
+
+TY  - JOUR
+TI  - Dynamical System Segmentation for Information Measures in Motion
+T2  - IEEE Robotics and Automation Letters
+SP  - 169
+EP  - 176
+AU  - T. A. Berrueta
+AU  - A. Pervan
+AU  - K. Fitzsimons
+AU  - T. D. Murphey
+PY  - 2019
+DO  - 10.1109/LRA.2018.2884091
+JO  - IEEE Robotics and Automation Letters
+IS  - 1
+SN  - 2377-3766
+VO  - 4
+VL  - 4
+JA  - IEEE Robotics and Automation Letters
+Y1  - Jan. 2019
+ER  - 
+
+TY  - CONF
+TI  - A DMP-Based Trajectory Correction Method with Variable Impedance Control
+T2  - 2025 International Conference on Advanced Robotics and Mechatronics (ICARM)
+SP  - 512
+EP  - 517
+AU  - M. Cai
+AU  - J. Luo
+AU  - C. Zeng
+AU  - Y. Jiang
+AU  - M. Pang
+AU  - Z. Zhao
+AU  - L. Chen
+PY  - 2025
+DO  - 10.1109/ICARM65671.2025.11293569
+JO  - 2025 International Conference on Advanced Robotics and Mechatronics (ICARM)
+IS  - 
+SN  - 2993-4990
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Advanced Robotics and Mechatronics (ICARM)
+Y1  - 1-3 Aug. 2025
+ER  - 
+
+TY  - CONF
+TI  - Autonomous Needle Manipulation for Robotic Surgical Suturing Based on Skills Learned from Demonstration
+T2  - 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)
+SP  - 235
+EP  - 241
+AU  - K. L. Schwaner
+AU  - D. Dall'Alba
+AU  - P. T. Jensen
+AU  - P. Fiorini
+AU  - T. R. Savarimuthu
+PY  - 2021
+DO  - 10.1109/CASE49439.2021.9551569
+JO  - 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)
+Y1  - 23-27 Aug. 2021
+ER  - 
+
+TY  - CONF
+TI  - Rhino: An Autonomous Robot for Mapping Underground Mine Environments
+T2  - 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+SP  - 1166
+EP  - 1173
+AU  - C. Tatsch
+AU  - J. A. Bredu
+AU  - D. Covell
+AU  - I. B. Tulu
+AU  - Y. Gu
+PY  - 2023
+DO  - 10.1109/AIM46323.2023.10196202
+JO  - 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+IS  - 
+SN  - 2159-6255
+VO  - 
+VL  - 
+JA  - 2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+Y1  - 28-30 June 2023
+ER  - 
+
+TY  - CONF
+TI  - Tight Collision Probability for UAV Motion Planning in Uncertain Environment
+T2  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1055
+EP  - 1062
+AU  - T. Liu
+AU  - F. Zhang
+AU  - F. Gao
+AU  - J. Pan
+PY  - 2023
+DO  - 10.1109/IROS55552.2023.10342141
+JO  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Efficient Spatial Representation and Routing of Deformable One-Dimensional Objects for Manipulation
+T2  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 211
+EP  - 216
+AU  - A. Keipour
+AU  - M. Bandari
+AU  - S. Schaal
+PY  - 2022
+DO  - 10.1109/IROS47612.2022.9981939
+JO  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 23-27 Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - From Aerobatics to Hydrobatics: Agile Trajectory Planning and Tracking for Micro Underwater Robots
+T2  - 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 8617
+EP  - 8624
+AU  - D. A. Duecker
+AU  - C. Horst
+AU  - E. Kreuzer
+PY  - 2021
+DO  - 10.1109/IROS51168.2021.9636154
+JO  - 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 27 Sept.-1 Oct. 2021
+ER  - 
+
+TY  - CONF
+TI  - A Deep Learning-Based Approach to Arm-Hand Robot Learning from Demonstration
+T2  - 2024 International Conference on Neuromorphic Computing (ICNC)
+SP  - 1
+EP  - 6
+AU  - K. Zheng
+AU  - X. Huang
+PY  - 2024
+DO  - 10.1109/ICNC64304.2024.10987782
+JO  - 2024 International Conference on Neuromorphic Computing (ICNC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Neuromorphic Computing (ICNC)
+Y1  - 13-15 Dec. 2024
+ER  - 
+
+TY  - JOUR
+TI  - IM Planner: Efficient Path Planner Based on Incremental Patch Map in Unknown Environment
+T2  - IEEE Transactions on Instrumentation and Measurement
+SP  - 1
+EP  - 12
+AU  - W. Chen
+AU  - S. Wang
+AU  - F. Kong
+AU  - L. Chen
+AU  - H. Duan
+AU  - J. He
+AU  - H. Sun
+PY  - 2025
+DO  - 10.1109/TIM.2025.3547534
+JO  - IEEE Transactions on Instrumentation and Measurement
+IS  - 
+SN  - 1557-9662
+VO  - 74
+VL  - 74
+JA  - IEEE Transactions on Instrumentation and Measurement
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Real-time monitoring of human task advancement
+T2  - 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 433
+EP  - 440
+AU  - R. Maderna
+AU  - P. Lanfredini
+AU  - A. M. Zanchettin
+AU  - P. Rocco
+PY  - 2019
+DO  - 10.1109/IROS40897.2019.8967933
+JO  - 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 3-8 Nov. 2019
+ER  - 
+
+TY  - JOUR
+TI  - Accelerated Reeds–Shepp and Underspecified Reeds–Shepp Algorithms for Mobile Robot Path Planning
+T2  - IEEE Transactions on Robotics
+SP  - 2691
+EP  - 2708
+AU  - I. Ibrahim
+AU  - W. Decré
+AU  - J. Swevers
+PY  - 2025
+DO  - 10.1109/TRO.2025.3554406
+JO  - IEEE Transactions on Robotics
+IS  - 
+SN  - 1941-0468
+VO  - 41
+VL  - 41
+JA  - IEEE Transactions on Robotics
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Learning by showing: An end-to-end imitation leaning approach for robot action recognition and generation
+T2  - 2016 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SP  - 173
+EP  - 178
+AU  - C. Zhuang
+AU  - H. Zhou
+AU  - S. Sakane
+PY  - 2016
+DO  - 10.1109/ROBIO.2016.7866317
+JO  - 2016 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+Y1  - 3-7 Dec. 2016
+ER  - 
+
+TY  - JOUR
+TI  - Toward the Generation of Mission Plans for Operation of Autonomous Marine Vehicles in Confined Areas
+T2  - IEEE Journal of Oceanic Engineering
+SP  - 320
+EP  - 330
+AU  - J. Wheare
+AU  - A. Lammas
+AU  - K. Sammut
+PY  - 2019
+DO  - 10.1109/JOE.2018.2884859
+JO  - IEEE Journal of Oceanic Engineering
+IS  - 2
+SN  - 1558-1691
+VO  - 44
+VL  - 44
+JA  - IEEE Journal of Oceanic Engineering
+Y1  - April 2019
+ER  - 
+
+TY  - CONF
+TI  - A Dynamic Programming Algorithm for Grid-Based Formation Planning of Multiple Vehicles
+T2  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 9347
+EP  - 9353
+AU  - T. -C. Au
+PY  - 2023
+DO  - 10.1109/IROS55552.2023.10341481
+JO  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Coverage Path Planning Policy for a Cleaning Robot with Deep Reinforcement Learning
+T2  - 2022 IEEE International Conference on Consumer Electronics (ICCE)
+SP  - 1
+EP  - 6
+AU  - D. Noh
+AU  - W. Lee
+AU  - H. -R. Kim
+AU  - I. -S. Cho
+AU  - I. -B. Shim
+AU  - S. Baek
+PY  - 2022
+DO  - 10.1109/ICCE53296.2022.9730307
+JO  - 2022 IEEE International Conference on Consumer Electronics (ICCE)
+IS  - 
+SN  - 2158-4001
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Consumer Electronics (ICCE)
+Y1  - 7-9 Jan. 2022
+ER  - 
+
+TY  - JOUR
+TI  - Planning for Flexible Surgical Robots via Bézier Spline Translation
+T2  - IEEE Robotics and Automation Letters
+SP  - 3270
+EP  - 3277
+AU  - J. Fauser
+AU  - R. Chadda
+AU  - Y. Goergen
+AU  - M. Hessinger
+AU  - P. Motzki
+AU  - I. Stenin
+AU  - J. Kristin
+AU  - T. Klenzner
+AU  - J. Schipper
+AU  - S. Seelecke
+AU  - R. Werthschützky
+AU  - M. Kupnik
+AU  - A. Mukhopadhyay
+PY  - 2019
+DO  - 10.1109/LRA.2019.2926221
+JO  - IEEE Robotics and Automation Letters
+IS  - 4
+SN  - 2377-3766
+VO  - 4
+VL  - 4
+JA  - IEEE Robotics and Automation Letters
+Y1  - Oct. 2019
+ER  - 
+
+TY  - CONF
+TI  - Planning spin-walking locomotion for automatic grasping of microobjects by an untethered magnetic microgripper
+T2  - 2017 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 6612
+EP  - 6618
+AU  - X. Dong
+AU  - M. Sitti
+PY  - 2017
+DO  - 10.1109/ICRA.2017.7989782
+JO  - 2017 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 29 May-3 June 2017
+ER  - 
+
+TY  - CONF
+TI  - Modeling and control of heterogeneous non-holonomic input-constrained multiagent systems
+T2  - 49th IEEE Conference on Decision and Control (CDC)
+SP  - 4204
+EP  - 4209
+AU  - A. S. Oikonomopoulos
+AU  - K. J. Kyriakopoulos
+AU  - S. G. Loizou
+PY  - 2010
+DO  - 10.1109/CDC.2010.5717919
+JO  - 49th IEEE Conference on Decision and Control (CDC)
+IS  - 
+SN  - 0191-2216
+VO  - 
+VL  - 
+JA  - 49th IEEE Conference on Decision and Control (CDC)
+Y1  - 15-17 Dec. 2010
+ER  - 
+
+TY  - CONF
+TI  - Smooth Control Strategies for Path-Following on Computationally Constrained Mobile Robots with Discontinuous Localization
+T2  - 2025 European Control Conference (ECC)
+SP  - 1773
+EP  - 1779
+AU  - Y. Claes
+AU  - L. Tielens
+AU  - S. De Santis
+AU  - A. Gonzalez-Garcia
+AU  - W. Decré
+AU  - J. Swevers
+PY  - 2025
+DO  - 10.23919/ECC65951.2025.11186965
+JO  - 2025 European Control Conference (ECC)
+IS  - 
+SN  - 2996-8895
+VO  - 
+VL  - 
+JA  - 2025 European Control Conference (ECC)
+Y1  - 24-27 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Multi-Task Motion Planning Based on Improved DMPs for Lower Limb Prostheses
+T2  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 8240
+EP  - 8246
+AU  - H. An
+AU  - Y. Huang
+AU  - Y. Nie
+AU  - H. Ma
+PY  - 2025
+DO  - 10.1109/IROS60139.2025.11246699
+JO  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 19-25 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Personalised Trajectory Planning Method for Lower Limb Rehabilitation Exoskeleton Based on KMP-AO
+T2  - 2025 International Conference on Advanced Robotics and Mechatronics (ICARM)
+SP  - 1020
+EP  - 1025
+AU  - X. Yang
+AU  - Z. Fu
+AU  - S. Yi
+AU  - J. Shu
+AU  - X. Liang
+AU  - R. Kai-yu
+AU  - Z. Guo
+PY  - 2025
+DO  - 10.1109/ICARM65671.2025.11293487
+JO  - 2025 International Conference on Advanced Robotics and Mechatronics (ICARM)
+IS  - 
+SN  - 2993-4990
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Advanced Robotics and Mechatronics (ICARM)
+Y1  - 1-3 Aug. 2025
+ER  - 
+
+TY  - JOUR
+TI  - An untethered, electrostatic, globally controllable MEMS micro-robot
+T2  - Journal of Microelectromechanical Systems
+SP  - 1
+EP  - 15
+AU  - B. R. Donald
+AU  - C. G. Levey
+AU  - C. D. McGray
+AU  - I. Paprotny
+AU  - D. Rus
+PY  - 2006
+DO  - 10.1109/JMEMS.2005.863697
+JO  - Journal of Microelectromechanical Systems
+IS  - 1
+SN  - 1941-0158
+VO  - 15
+VL  - 15
+JA  - Journal of Microelectromechanical Systems
+Y1  - Feb. 2006
+ER  - 
+
+TY  - JOUR
+TI  - Soil-Adaptive Excavation Using Reinforcement Learning
+T2  - IEEE Robotics and Automation Letters
+SP  - 9778
+EP  - 9785
+AU  - P. Egli
+AU  - D. Gaschen
+AU  - S. Kerscher
+AU  - D. Jud
+AU  - M. Hutter
+PY  - 2022
+DO  - 10.1109/LRA.2022.3189834
+JO  - IEEE Robotics and Automation Letters
+IS  - 4
+SN  - 2377-3766
+VO  - 7
+VL  - 7
+JA  - IEEE Robotics and Automation Letters
+Y1  - Oct. 2022
+ER  - 
+
+TY  - JOUR
+TI  - Switched Systems With Multiple Equilibria Under Disturbances: Boundedness and Practical Stability
+T2  - IEEE Transactions on Automatic Control
+SP  - 2371
+EP  - 2386
+AU  - S. Veer
+AU  - I. Poulakakis
+PY  - 2020
+DO  - 10.1109/TAC.2019.2931941
+JO  - IEEE Transactions on Automatic Control
+IS  - 6
+SN  - 1558-2523
+VO  - 65
+VL  - 65
+JA  - IEEE Transactions on Automatic Control
+Y1  - June 2020
+ER  - 
+
+TY  - JOUR
+TI  - TIT Hand: A Novel Thumb-Inspired Tactile Hand for Dexterous Fingertip Manipulation
+T2  - IEEE Transactions on Instrumentation and Measurement
+SP  - 1
+EP  - 13
+AU  - C. Su
+AU  - R. Wang
+AU  - S. Cui
+AU  - S. Wang
+PY  - 2024
+DO  - 10.1109/TIM.2024.3472894
+JO  - IEEE Transactions on Instrumentation and Measurement
+IS  - 
+SN  - 1557-9662
+VO  - 73
+VL  - 73
+JA  - IEEE Transactions on Instrumentation and Measurement
+Y1  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Autonomous Peg Transfer—a Gateway to Surgery 4.0
+T2  - 2022 IEEE 10th Jubilee International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC)
+SP  - 000069
+EP  - 000076
+AU  - T. D. Nagy
+AU  - T. Haidegger
+PY  - 2022
+DO  - 10.1109/ICCC202255925.2022.9922841
+JO  - 2022 IEEE 10th Jubilee International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 10th Jubilee International Conference on Computational Cybernetics and Cyber-Medical Systems (ICCC)
+Y1  - 6-9 July 2022
+ER  - 
+
+TY  - CONF
+TI  - Fixture-Aware DDQN for Generalized Environment-Enabled Grasping
+T2  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 3151
+EP  - 3158
+AU  - E. Sasagawa
+AU  - C. Choi
+PY  - 2022
+DO  - 10.1109/IROS47612.2022.9982182
+JO  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 23-27 Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - ICRT: In-Context Imitation Learning via Next-Token Prediction
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 5937
+EP  - 5944
+AU  - M. Fu
+AU  - H. Huang
+AU  - G. Datta
+AU  - L. Y. Chen
+AU  - W. Panitch
+AU  - F. Liu
+AU  - H. Li
+AU  - K. Goldberg
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11128272
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Learning dictionaries of kinematic primitives for action classification
+T2  - 2020 25th International Conference on Pattern Recognition (ICPR)
+SP  - 5965
+EP  - 5972
+AU  - A. Vignolo
+AU  - N. Noceti
+AU  - A. Sciutti
+AU  - F. Odone
+AU  - G. Sandini
+PY  - 2021
+DO  - 10.1109/ICPR48806.2021.9412363
+JO  - 2020 25th International Conference on Pattern Recognition (ICPR)
+IS  - 
+SN  - 1051-4651
+VO  - 
+VL  - 
+JA  - 2020 25th International Conference on Pattern Recognition (ICPR)
+Y1  - 10-15 Jan. 2021
+ER  - 
+
+TY  - CONF
+TI  - Hybrid Probabilistic Trajectory Optimization Using Null-Space Exploration
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7226
+EP  - 7232
+AU  - Y. Huang
+AU  - J. Silvério
+AU  - L. Rozo
+AU  - D. G. Caldwell
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8460550
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Navigation of a rolling microrobot in cluttered environments for automated crystal harvesting
+T2  - 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 177
+EP  - 182
+AU  - S. Charreyron
+AU  - R. S. Pieters
+AU  - H. -W. Tung
+AU  - M. Gonzenbach
+AU  - B. J. Nelson
+PY  - 2015
+DO  - 10.1109/IROS.2015.7353371
+JO  - 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 28 Sept.-2 Oct. 2015
+ER  - 
+
+TY  - CONF
+TI  - Perceive, Represent, Generate: Translating Multimodal Information to Robotic Motion Trajectories
+T2  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 5855
+EP  - 5860
+AU  - F. Vital
+AU  - M. Vasco
+AU  - A. Sardinha
+AU  - F. Melo
+PY  - 2022
+DO  - 10.1109/IROS47612.2022.9981788
+JO  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 23-27 Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - Adapting Learning by Demonstration for Robot Based Part Feeding Applications
+T2  - 2020 IEEE/SICE International Symposium on System Integration (SII)
+SP  - 954
+EP  - 959
+AU  - A. Kramberger
+AU  - I. Iturrate
+AU  - M. Deniša
+AU  - S. Mathiesen
+AU  - C. Sloth
+PY  - 2020
+DO  - 10.1109/SII46433.2020.9026191
+JO  - 2020 IEEE/SICE International Symposium on System Integration (SII)
+IS  - 
+SN  - 2474-2325
+VO  - 
+VL  - 
+JA  - 2020 IEEE/SICE International Symposium on System Integration (SII)
+Y1  - 12-15 Jan. 2020
+ER  - 
+
+TY  - JOUR
+TI  - MIT-Skywalker: A Novel Gait Neurorehabilitation Robot for Stroke and Cerebral Palsy
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+SP  - 1089
+EP  - 1099
+AU  - T. Susko
+AU  - K. Swaminathan
+AU  - H. I. Krebs
+PY  - 2016
+DO  - 10.1109/TNSRE.2016.2533492
+JO  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+IS  - 10
+SN  - 1558-0210
+VO  - 24
+VL  - 24
+JA  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+Y1  - Oct. 2016
+ER  - 
+
+TY  - CONF
+TI  - A Soft Active Surface Gripper for Safe In Hand Manipulation of Fragile Objects
+T2  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6549
+EP  - 6555
+AU  - S. Xiang
+AU  - J. Li
+AU  - Y. Zhang
+AU  - Z. Wei
+AU  - J. Liu
+AU  - Y. Yang
+PY  - 2025
+DO  - 10.1109/IROS60139.2025.11246586
+JO  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 19-25 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - From videogames to autonomous trucks: A new algorithm for lattice-based motion planning
+T2  - 2017 IEEE Intelligent Vehicles Symposium (IV)
+SP  - 148
+EP  - 153
+AU  - M. Cirillo
+PY  - 2017
+DO  - 10.1109/IVS.2017.7995712
+JO  - 2017 IEEE Intelligent Vehicles Symposium (IV)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE Intelligent Vehicles Symposium (IV)
+Y1  - 11-14 June 2017
+ER  - 
+
+TY  - CONF
+TI  - CRASH: A Collaborative Aerial-Ground Exploration System Using Hybrid-Frontier Method
+T2  - 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SP  - 2259
+EP  - 2266
+AU  - L. Wang
+AU  - F. Gao
+AU  - F. Cai
+AU  - S. Shen
+PY  - 2018
+DO  - 10.1109/ROBIO.2018.8665052
+JO  - 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+Y1  - 12-15 Dec. 2018
+ER  - 
+
+TY  - CONF
+TI  - Real-time Autonomous Vehicle Navigation under Unknown Dynamics
+T2  - 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)
+SP  - 86
+EP  - 92
+AU  - S. Kedia
+AU  - S. H. Karumanchi
+PY  - 2023
+DO  - 10.1109/ITSC57777.2023.10421962
+JO  - 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)
+IS  - 
+SN  - 2153-0017
+VO  - 
+VL  - 
+JA  - 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)
+Y1  - 24-28 Sept. 2023
+ER  - 
+
+TY  - CONF
+TI  - An Improved Hierarchical Path Planning Method for Land-Air Amphibious Vehicle Based on Modal Characteristics
+T2  - 2024 IEEE International Conference on Unmanned Systems (ICUS)
+SP  - 225
+EP  - 230
+AU  - Y. Wang
+AU  - B. Xu
+AU  - W. Fan
+AU  - T. Xu
+AU  - L. Liu
+AU  - H. Sun
+PY  - 2024
+DO  - 10.1109/ICUS61736.2024.10839833
+JO  - 2024 IEEE International Conference on Unmanned Systems (ICUS)
+IS  - 
+SN  - 2771-7372
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Unmanned Systems (ICUS)
+Y1  - 18-20 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - Map-Free Collective Control via RSSI-Based Quorum Sensing and On-Board Adaptation
+T2  - 2025 11th International Conference on Systems and Informatics (ICSAI)
+SP  - 1
+EP  - 6
+AU  - F. Martínez
+AU  - F. Martínez
+PY  - 2025
+DO  - 10.1109/ICSAI68704.2025.11345852
+JO  - 2025 11th International Conference on Systems and Informatics (ICSAI)
+IS  - 
+SN  - 2689-7148
+VO  - 
+VL  - 
+JA  - 2025 11th International Conference on Systems and Informatics (ICSAI)
+Y1  - 13-15 Dec. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Development of a Reconfigurable 7-DOF Upper Limb Rehabilitation Exoskeleton With Gravity Compensation Based on DMP
+T2  - IEEE Transactions on Medical Robotics and Bionics
+SP  - 303
+EP  - 314
+AU  - Q. Wu
+AU  - L. Zheng
+AU  - Y. Zhu
+AU  - Z. Xu
+AU  - Q. Zhang
+AU  - H. Wu
+PY  - 2025
+DO  - 10.1109/TMRB.2024.3517157
+JO  - IEEE Transactions on Medical Robotics and Bionics
+IS  - 1
+SN  - 2576-3202
+VO  - 7
+VL  - 7
+JA  - IEEE Transactions on Medical Robotics and Bionics
+Y1  - Feb. 2025
+ER  - 
+
+TY  - CONF
+TI  - Safe Motion Planning for an Uncertain Non-Holonomic System with Temporal Logic Specification
+T2  - 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE)
+SP  - 349
+EP  - 354
+AU  - P. Tajvar
+AU  - F. S. Barbosa
+AU  - J. Tumova
+PY  - 2020
+DO  - 10.1109/CASE48305.2020.9216891
+JO  - 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2020 IEEE 16th International Conference on Automation Science and Engineering (CASE)
+Y1  - 20-21 Aug. 2020
+ER  - 
+
+TY  - CONF
+TI  - Generalized Orientation Learning in Robot Task Space
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 2531
+EP  - 2537
+AU  - Y. Huang
+AU  - F. J. Abu-Dakka
+AU  - J. Silvério
+AU  - D. G. Caldwell
+PY  - 2019
+DO  - 10.1109/ICRA.2019.8793540
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+ER  - 
+
+TY  - JOUR
+TI  - HE-Nav: A High-Performance and Efficient Navigation System for Aerial-Ground Robots in Cluttered Environments
+T2  - IEEE Robotics and Automation Letters
+SP  - 10383
+EP  - 10390
+AU  - J. Wang
+AU  - Z. Sun
+AU  - X. Guan
+AU  - T. Shen
+AU  - D. Huang
+AU  - Z. Zhang
+AU  - T. Duan
+AU  - F. Liu
+AU  - H. Cui
+PY  - 2024
+DO  - 10.1109/LRA.2024.3468091
+JO  - IEEE Robotics and Automation Letters
+IS  - 11
+SN  - 2377-3766
+VO  - 9
+VL  - 9
+JA  - IEEE Robotics and Automation Letters
+Y1  - Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - A generic method to determine space-saving corridor segments for trucks with one-axle trailer
+T2  - 2011 IEEE International Conference on Robotics and Biomimetics
+SP  - 620
+EP  - 625
+AU  - C. Weyand
+AU  - E. Balcerak
+AU  - D. Zobel
+PY  - 2011
+DO  - 10.1109/ROBIO.2011.6181355
+JO  - 2011 IEEE International Conference on Robotics and Biomimetics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE International Conference on Robotics and Biomimetics
+Y1  - 7-11 Dec. 2011
+ER  - 
+
+TY  - JOUR
+TI  - Generalized Multispeed Dubins Motion Model
+T2  - IEEE Transactions on Robotics
+SP  - 2861
+EP  - 2878
+AU  - J. P. Wilson
+AU  - S. Gupta
+AU  - T. A. Wettergren
+PY  - 2025
+DO  - 10.1109/TRO.2025.3554436
+JO  - IEEE Transactions on Robotics
+IS  - 
+SN  - 1941-0468
+VO  - 41
+VL  - 41
+JA  - IEEE Transactions on Robotics
+Y1  - 2025
+ER  - 
+
+TY  - JOUR
+TI  - An Alignment-Based Approach to Learning Motions From Demonstrations
+T2  - IEEE Robotics and Automation Letters
+SP  - 11912
+EP  - 11919
+AU  - A. Cuellar
+AU  - C. K. Fourie
+AU  - J. A. Shah
+PY  - 2025
+DO  - 10.1109/LRA.2025.3613956
+JO  - IEEE Robotics and Automation Letters
+IS  - 11
+SN  - 2377-3766
+VO  - 10
+VL  - 10
+JA  - IEEE Robotics and Automation Letters
+Y1  - Nov. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Swing-Reducing Flight Control System for an Underactuated Indoor Miniature Autonomous Blimp
+T2  - IEEE/ASME Transactions on Mechatronics
+SP  - 1895
+EP  - 1904
+AU  - Q. Tao
+AU  - J. Wang
+AU  - Z. Xu
+AU  - T. X. Lin
+AU  - Y. Yuan
+AU  - F. Zhang
+PY  - 2021
+DO  - 10.1109/TMECH.2021.3073966
+JO  - IEEE/ASME Transactions on Mechatronics
+IS  - 4
+SN  - 1941-014X
+VO  - 26
+VL  - 26
+JA  - IEEE/ASME Transactions on Mechatronics
+Y1  - Aug. 2021
+ER  - 
+
+TY  - JOUR
+TI  - Learning Efficient Policies for Picking Entangled Wire Harnesses: An Approach to Industrial Bin Picking
+T2  - IEEE Robotics and Automation Letters
+SP  - 73
+EP  - 80
+AU  - X. Zhang
+AU  - Y. Domae
+AU  - W. Wan
+AU  - K. Harada
+PY  - 2023
+DO  - 10.1109/LRA.2022.3222995
+JO  - IEEE Robotics and Automation Letters
+IS  - 1
+SN  - 2377-3766
+VO  - 8
+VL  - 8
+JA  - IEEE Robotics and Automation Letters
+Y1  - Jan. 2023
+ER  - 
+
+TY  - JOUR
+TI  - Hierarchical Reinforcement Learning With Model Guidance for Mobile Manipulation
+T2  - IEEE/ASME Transactions on Mechatronics
+SP  - 6155
+EP  - 6163
+AU  - Y. Zhou
+AU  - Y. Zhou
+AU  - K. Jin
+AU  - H. Wang
+PY  - 2025
+DO  - 10.1109/TMECH.2025.3552677
+JO  - IEEE/ASME Transactions on Mechatronics
+IS  - 6
+SN  - 1941-014X
+VO  - 30
+VL  - 30
+JA  - IEEE/ASME Transactions on Mechatronics
+Y1  - Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - Stacked hidden Markov model for motion intention recognition
+T2  - 2017 IEEE 2nd International Conference on Signal and Image Processing (ICSIP)
+SP  - 266
+EP  - 271
+AU  - T. Yang
+AU  - W. Huang
+AU  - C. K. Chui
+AU  - Z. Jiang
+AU  - L. Jiang
+PY  - 2017
+DO  - 10.1109/SIPROCESS.2017.8124546
+JO  - 2017 IEEE 2nd International Conference on Signal and Image Processing (ICSIP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE 2nd International Conference on Signal and Image Processing (ICSIP)
+Y1  - 4-6 Aug. 2017
+ER  - 
+
+TY  - CONF
+TI  - Robot Programming without Coding
+T2  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7576
+EP  - 7582
+AU  - G. Lentini
+AU  - G. Grioli
+AU  - M. G. Catalano
+AU  - A. Bicchi
+PY  - 2020
+DO  - 10.1109/ICRA40945.2020.9196904
+JO  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-31 Aug. 2020
+ER  - 
+
+TY  - CONF
+TI  - Human-robot skill transfer systems for mobile robot based on multi sensor fusion
+T2  - 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+SP  - 1354
+EP  - 1359
+AU  - D. Chen
+AU  - J. He
+AU  - G. Chen
+AU  - X. Yu
+AU  - M. He
+AU  - Y. Yang
+AU  - J. Li
+AU  - X. Zhou
+PY  - 2020
+DO  - 10.1109/RO-MAN47096.2020.9223440
+JO  - 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+Y1  - 31 Aug.-4 Sept. 2020
+ER  - 
+
+TY  - CONF
+TI  - Communications-Aware Robotics: Challenges and Opportunities
+T2  - 2023 International Conference on Unmanned Aircraft Systems (ICUAS)
+SP  - 366
+EP  - 371
+AU  - D. B. Licea
+AU  - G. Silano
+AU  - M. Ghogho
+AU  - M. Saska
+PY  - 2023
+DO  - 10.1109/ICUAS57906.2023.10155882
+JO  - 2023 International Conference on Unmanned Aircraft Systems (ICUAS)
+IS  - 
+SN  - 2575-7296
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Unmanned Aircraft Systems (ICUAS)
+Y1  - 6-9 June 2023
+ER  - 
+
+TY  - JOUR
+TI  - Classification of Multiple Finger Motions During Dynamic Upper Limb Movements
+T2  - IEEE Journal of Biomedical and Health Informatics
+SP  - 134
+EP  - 141
+AU  - D. Yang
+AU  - W. Yang
+AU  - Q. Huang
+AU  - H. Liu
+PY  - 2017
+DO  - 10.1109/JBHI.2015.2490718
+JO  - IEEE Journal of Biomedical and Health Informatics
+IS  - 1
+SN  - 2168-2208
+VO  - 21
+VL  - 21
+JA  - IEEE Journal of Biomedical and Health Informatics
+Y1  - Jan. 2017
+ER  - 
+
+TY  - CONF
+TI  - Routing Manipulation of Deformable Linear Object Using Reinforcement Learning and Diffusion Policy
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 01
+EP  - 07
+AU  - M. Li
+AU  - H. Yu
+AU  - C. Choi
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11127451
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Efficient Trajectory Library Filtering for Quadrotor Flight in Unknown Environments
+T2  - 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 2510
+EP  - 2517
+AU  - V. K. Viswanathan
+AU  - E. Dexheimer
+AU  - G. Li
+AU  - G. Loianno
+AU  - M. Kaess
+AU  - S. Scherer
+PY  - 2020
+DO  - 10.1109/IROS45743.2020.9341273
+JO  - 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 24 Oct.-24 Jan. 2021
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints
+T2  - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 12655
+EP  - 12662
+AU  - E. Hannus
+AU  - T. N. Le
+AU  - D. Blanco-Mulero
+AU  - V. Kyrki
+PY  - 2024
+DO  - 10.1109/IROS58592.2024.10802478
+JO  - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 14-18 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - A Sensory-Motor Linguistic Theory for Artificial Cognitive Systems
+T2  - 2007 IEEE 9th Workshop on Multimedia Signal Processing
+SP  - 332
+EP  - 340
+PY  - 2007
+DO  - 10.1109/MMSP.2007.4412885
+JO  - 2007 IEEE 9th Workshop on Multimedia Signal Processing
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 IEEE 9th Workshop on Multimedia Signal Processing
+Y1  - 1-3 Oct. 2007
+ER  - 
+
+TY  - JOUR
+TI  - Minimum-Time Quadrotor Waypoint Flight in Cluttered Environments
+T2  - IEEE Robotics and Automation Letters
+SP  - 5719
+EP  - 5726
+AU  - R. Penicka
+AU  - D. Scaramuzza
+PY  - 2022
+DO  - 10.1109/LRA.2022.3154013
+JO  - IEEE Robotics and Automation Letters
+IS  - 2
+SN  - 2377-3766
+VO  - 7
+VL  - 7
+JA  - IEEE Robotics and Automation Letters
+Y1  - April 2022
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Gait Planning for Walking Assistance Lower Limb Exoskeletons in Slope Scenarios
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 5083
+EP  - 5089
+AU  - C. Zou
+AU  - R. Huang
+AU  - H. Cheng
+AU  - Q. Chen
+AU  - J. Qiu
+PY  - 2019
+DO  - 10.1109/ICRA.2019.8793863
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+ER  - 
+
+TY  - CONF
+TI  - Reactive phase and task space adaptation for robust motion execution
+T2  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 109
+EP  - 116
+AU  - P. Englert
+AU  - M. Toussaint
+PY  - 2014
+DO  - 10.1109/IROS.2014.6942548
+JO  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 14-18 Sept. 2014
+ER  - 
+
+TY  - CONF
+TI  - Relaxing nonholonomic constraints: Towards continuous-curvature Dubins paths
+T2  - 2015 IEEE International Conference on Advanced Intelligent Mechatronics (AIM)
+SP  - 737
+EP  - 742
+AU  - S. Bazzi
+AU  - E. Shammas
+AU  - D. Asmar
+PY  - 2015
+DO  - 10.1109/AIM.2015.7222625
+JO  - 2015 IEEE International Conference on Advanced Intelligent Mechatronics (AIM)
+IS  - 
+SN  - 2159-6255
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Advanced Intelligent Mechatronics (AIM)
+Y1  - 7-11 July 2015
+ER  - 
+
+TY  - CONF
+TI  - Mapless-Planner: A Robust and Fast Planning Framework for Aggressive Autonomous Flight without Map Fusion
+T2  - 2021 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 6315
+EP  - 6321
+AU  - J. Ji
+AU  - Z. Wang
+AU  - Y. Wang
+AU  - C. Xu
+AU  - F. Gao
+PY  - 2021
+DO  - 10.1109/ICRA48506.2021.9561460
+JO  - 2021 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 30 May-5 June 2021
+ER  - 
+
+TY  - CONF
+TI  - 3D M-Blocks: Self-reconfiguring robots capable of locomotion via pivoting in three dimensions
+T2  - 2015 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 1925
+EP  - 1932
+AU  - J. W. Romanishin
+AU  - K. Gilpin
+AU  - S. Claici
+AU  - D. Rus
+PY  - 2015
+DO  - 10.1109/ICRA.2015.7139450
+JO  - 2015 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 26-30 May 2015
+ER  - 
+
+TY  - CONF
+TI  - Aggressive collision avoidance with limited field-of-view sensing
+T2  - 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 1358
+EP  - 1365
+AU  - B. T. Lopez
+AU  - J. P. How
+PY  - 2017
+DO  - 10.1109/IROS.2017.8202314
+JO  - 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 24-28 Sept. 2017
+ER  - 
+
+TY  - CONF
+TI  - Reactive Collision Avoidance Using Real-Time Local Gaussian Mixture Model Maps
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 3545
+EP  - 3550
+AU  - A. Dhawale
+AU  - X. Yang
+AU  - N. Michael
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593723
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - JOUR
+TI  - Grasping Strategy for Unknown Objects Based on Real-Time Grasp-Stability Evaluation Using Proximity Sensing
+T2  - IEEE Robotics and Automation Letters
+SP  - 8643
+EP  - 8650
+AU  - Y. Suzuki
+AU  - R. Yoshida
+AU  - T. Tsuji
+AU  - T. Nishimura
+AU  - T. Watanabe
+PY  - 2022
+DO  - 10.1109/LRA.2022.3188885
+JO  - IEEE Robotics and Automation Letters
+IS  - 4
+SN  - 2377-3766
+VO  - 7
+VL  - 7
+JA  - IEEE Robotics and Automation Letters
+Y1  - Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - Pluck and Play: Self-supervised Exploration of Chordophones for Robotic Playing
+T2  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 18286
+EP  - 18293
+AU  - M. Görner
+AU  - N. Hendrich
+AU  - J. Zhang
+PY  - 2024
+DO  - 10.1109/ICRA57147.2024.10610120
+JO  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 13-17 May 2024
+ER  - 
+
+TY  - CONF
+TI  - Autonomous Navigation in Ice-Covered Waters with Learned Predictions on Ship-Ice Interactions
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 10157
+EP  - 10163
+AU  - N. Zhong
+AU  - A. Potenza
+AU  - S. L. Smith
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11128202
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - DSVP: Dual-Stage Viewpoint Planner for Rapid Exploration by Dynamic Expansion
+T2  - 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 7623
+EP  - 7630
+AU  - H. Zhu
+AU  - C. Cao
+AU  - Y. Xia
+AU  - S. Scherer
+AU  - J. Zhang
+AU  - W. Wang
+PY  - 2021
+DO  - 10.1109/IROS51168.2021.9636473
+JO  - 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 27 Sept.-1 Oct. 2021
+ER  - 
+
+TY  - CONF
+TI  - Efficient multi-sensor exploration using dependent observations and conditional mutual information
+T2  - 2016 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)
+SP  - 42
+EP  - 47
+AU  - W. Tabib
+AU  - R. Whittaker
+AU  - N. Michael
+PY  - 2016
+DO  - 10.1109/SSRR.2016.7784275
+JO  - 2016 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)
+Y1  - 23-27 Oct. 2016
+ER  - 
+
+TY  - CONF
+TI  - Learning Behavior Trees From Demonstration
+T2  - 2019 International Conference on Robotics and Automation (ICRA)
+SP  - 7791
+EP  - 7797
+AU  - K. French
+AU  - S. Wu
+AU  - T. Pan
+AU  - Z. Zhou
+AU  - O. C. Jenkins
+PY  - 2019
+DO  - 10.1109/ICRA.2019.8794104
+JO  - 2019 International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2019 International Conference on Robotics and Automation (ICRA)
+Y1  - 20-24 May 2019
+ER  - 
+
+TY  - CONF
+TI  - In the Wild Ungraspable Object Picking with Bimanual Nonprehensile Manipulation
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 5669
+EP  - 5676
+AU  - A. Wu
+AU  - D. Kruse
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11128490
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - JOUR
+TI  - Push Smarter, Not Harder: Hierarchical RL-Diffusion Policy for Efficient Nonprehensile Manipulation
+T2  - IEEE Robotics and Automation Letters
+SP  - 8358
+EP  - 8365
+AU  - S. Caro
+AU  - S. L. Smith
+PY  - 2026
+DO  - 10.1109/LRA.2026.3692041
+JO  - IEEE Robotics and Automation Letters
+IS  - 7
+SN  - 2377-3766
+VO  - 11
+VL  - 11
+JA  - IEEE Robotics and Automation Letters
+Y1  - July 2026
+ER  - 
+
+TY  - JOUR
+TI  - AUTO-IceNav: A Local Navigation Strategy for Autonomous Surface Ships in Broken Ice Fields
+T2  - IEEE Transactions on Robotics
+SP  - 5875
+EP  - 5895
+AU  - R. de Schaetzen
+AU  - A. Botros
+AU  - N. Zhong
+AU  - K. Murrant
+AU  - R. Gash
+AU  - S. L. Smith
+PY  - 2025
+DO  - 10.1109/TRO.2025.3613472
+JO  - IEEE Transactions on Robotics
+IS  - 
+SN  - 1941-0468
+VO  - 41
+VL  - 41
+JA  - IEEE Transactions on Robotics
+Y1  - 2025
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging Kernelized Synergies on Shared Subspace for Precision Grasping and Dexterous Manipulation
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+SP  - 2064
+EP  - 2076
+AU  - S. Katyara
+AU  - F. Ficuciello
+AU  - D. G. Caldwell
+AU  - B. Siciliano
+AU  - F. Chen
+PY  - 2023
+DO  - 10.1109/TCDS.2021.3110406
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+IS  - 4
+SN  - 2379-8939
+VO  - 15
+VL  - 15
+JA  - IEEE Transactions on Cognitive and Developmental Systems
+Y1  - Dec. 2023
+ER  - 
+
+TY  - JOUR
+TI  - Haptic Exploration of Unknown Objects for Robust In-Hand Manipulation
+T2  - IEEE Transactions on Haptics
+SP  - 400
+EP  - 411
+AU  - G. Solak
+AU  - L. Jamone
+PY  - 2023
+DO  - 10.1109/TOH.2023.3300439
+JO  - IEEE Transactions on Haptics
+IS  - 3
+SN  - 2329-4051
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Haptics
+Y1  - 1 July-Sept. 2023
+ER  - 
+
+TY  - CONF
+TI  - Learning Multimodal Representations for Sample-efficient Recognition of Human Actions
+T2  - 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 4288
+EP  - 4293
+AU  - M. Vasco
+AU  - F. S. Melo
+AU  - D. M. d. Matos
+AU  - A. Paiva
+AU  - T. Inamura
+PY  - 2019
+DO  - 10.1109/IROS40897.2019.8967635
+JO  - 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 3-8 Nov. 2019
+ER  - 
+
+TY  - JOUR
+TI  - Function from motion
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+SP  - 579
+EP  - 591
+AU  - Z. Duric
+AU  - J. A. Fayman
+AU  - E. Rivlin
+PY  - 1996
+DO  - 10.1109/34.506409
+JO  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+IS  - 6
+SN  - 1939-3539
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+Y1  - June 1996
+ER  - 
+
+TY  - JOUR
+TI  - A Decision Method for Placement of Tactile Elements on a Sensor Glove for the Recognition of Grasp Types
+T2  - IEEE/ASME Transactions on Mechatronics
+SP  - 157
+EP  - 162
+AU  - K. Murakami
+AU  - K. Matsuo
+AU  - T. Hasegawa
+AU  - R. Kurazume
+PY  - 2010
+DO  - 10.1109/TMECH.2009.2023647
+JO  - IEEE/ASME Transactions on Mechatronics
+IS  - 1
+SN  - 1941-014X
+VO  - 15
+VL  - 15
+JA  - IEEE/ASME Transactions on Mechatronics
+Y1  - Feb. 2010
+ER  - 
+
+TY  - CONF
+TI  - Motion planning and control for a tethered, rimless wheel differential drive vehicle
+T2  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 4829
+EP  - 4836
+AU  - K. Shankar
+AU  - J. W. Burdick
+PY  - 2013
+DO  - 10.1109/IROS.2013.6697053
+JO  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 3-7 Nov. 2013
+ER  - 
+
+TY  - CONF
+TI  - MOAR Planner: Multi-Objective and Adaptive Risk-Aware Path Planning for Infrastructure Inspection with a UAV
+T2  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 8422
+EP  - 8428
+AU  - L. Petit
+AU  - A. L. Desbiens
+PY  - 2024
+DO  - 10.1109/ICRA57147.2024.10610907
+JO  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 13-17 May 2024
+ER  - 
+
+TY  - CONF
+TI  - Coverage Path Planning for Surveying Disjoint Areas
+T2  - 2018 International Conference on Unmanned Aircraft Systems (ICUAS)
+SP  - 899
+EP  - 904
+AU  - J. I. Vasquez-Gomez
+AU  - J. -C. Herrera-Lozada
+AU  - M. Olguin-Carbajal
+PY  - 2018
+DO  - 10.1109/ICUAS.2018.8453386
+JO  - 2018 International Conference on Unmanned Aircraft Systems (ICUAS)
+IS  - 
+SN  - 2575-7296
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Unmanned Aircraft Systems (ICUAS)
+Y1  - 12-15 June 2018
+ER  - 
+
+TY  - CONF
+TI  - Learning robot soccer skills from demonstration
+T2  - 2007 IEEE 6th International Conference on Development and Learning
+SP  - 276
+EP  - 281
+AU  - D. H. Grollman
+AU  - O. C. Jenkins
+PY  - 2007
+DO  - 10.1109/DEVLRN.2007.4354062
+JO  - 2007 IEEE 6th International Conference on Development and Learning
+IS  - 
+SN  - 2161-9476
+VO  - 
+VL  - 
+JA  - 2007 IEEE 6th International Conference on Development and Learning
+Y1  - 11-13 July 2007
+ER  - 
+
+TY  - CONF
+TI  - Multiresolution approach for motion planning under differential constraints
+T2  - Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006.
+SP  - 139
+EP  - 144
+AU  - S. R. Lindemann
+AU  - S. M. LaValle
+PY  - 2006
+DO  - 10.1109/ROBOT.2006.1641174
+JO  - Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006.
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006.
+Y1  - 15-19 May 2006
+ER  - 
+
+

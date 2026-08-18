@@ -1,0 +1,536 @@
+%0 Journal Article
+%T Robot, Did You Read My Mind? Modelling Human Mental States to Facilitate Transparency and Mitigate False Beliefs in Human–Robot Collaboration
+%V 15
+%U https://doi.org/10.1145/3737890
+%R 10.1145/3737890
+%N 1
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Georgios Angelopoulos
+%A Mehdi Hellou
+%A Samuele Vinanzi
+%A Alessandra Rossi
+%A Silvia Rossi
+%A Angelo Cangelosi
+%D 2025
+%P Article 1
+%K Theory of Mind, Transparency, HRI, False Beliefs, Cognitive Robotics
+
+%0 Conference Paper
+%T More Than a Number: A Multi-dimensional Framework For Automatically Assessing Human Teleoperation Skill
+%@ 9781450399708
+%U https://doi.org/10.1145/3568294.3580167
+%R 10.1145/3568294.3580167
+%B Companion Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Emily Jensen
+%A Bradley Hayes
+%A Sriram Sankaranarayanan
+%D 2023
+%P 653–657
+%K automated assessment, skills, teleoperation, temporal logic
+%C Stockholm, Sweden
+
+%0 Conference Paper
+%T A Human-Aware Task Planner Explicitly Reasoning About Human and Robot Decision, Action and Reaction
+%@ 9781450382908
+%U https://doi.org/10.1145/3434074.3447231
+%R 10.1145/3434074.3447231
+%B Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Guilhem Buisan
+%A Rachid Alami
+%D 2021
+%P 544–548
+%K hierarchical task planning, human robot collaboration, human-aware task planning
+%C Boulder, CO, USA
+
+%0 Proceeding
+%T Companion Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction
+%@ 9798400703232
+%I Association for Computing Machinery
+%D 2024
+%C Boulder, CO, USA
+
+%0 Conference Paper
+%T RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity
+%@ 9781665432740
+%U https://doi.org/10.1109/DAC18074.2021.9586280
+%R 10.1109/DAC18074.2021.9586280
+%B Proceedings of the 58th Annual ACM/IEEE Design Automation Conference
+%I IEEE Press
+%A Behzad Boroujerdian
+%A Radhika Ghosal
+%A Jonathan Cruz
+%A Brian Plancher
+%A Vijay Janapa Reddi
+%D 2022
+%P 829–834
+%C San Francisco, California, United States
+
+%0 Conference Paper
+%T Software Architecture to Generate Assistive Behaviors for Social Robots
+%@ 9798400703232
+%U https://doi.org/10.1145/3610978.3640715
+%R 10.1145/3610978.3640715
+%B Companion Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Jason Wilson
+%A Yuqi Yang
+%D 2024
+%P 1119–1123
+%K HTN planning, behavior generation, ontology, socially assistive robot, software architecture
+%C Boulder, CO, USA
+
+%0 Conference Paper
+%T Task-learning policies for collaborative task solving in human-robot interaction
+%@ 9781450314671
+%U https://doi.org/10.1145/2388676.2388752
+%R 10.1145/2388676.2388752
+%B Proceedings of the 14th ACM international conference on Multimodal interaction
+%I Association for Computing Machinery
+%A Hae Won Park
+%D 2012
+%P 341–344
+%K collaborative task learning and solving, human-robot interaction
+%C Santa Monica, California, USA
+
+%0 Conference Paper
+%T Interactive robot task training through dialog and demonstration
+%@ 9781595936172
+%U https://doi.org/10.1145/1228716.1228724
+%R 10.1145/1228716.1228724
+%B Proceedings of the ACM/IEEE international conference on Human-robot interaction
+%I Association for Computing Machinery
+%A Paul E. Rybski
+%A Kevin Yoon
+%A Jeremy Stolarz
+%A Manuela M Veloso
+%D 2007
+%P 49–56
+%K human-robot interaction, learning by demonstration
+%C Arlington, Virginia, USA
+
+%0 Conference Paper
+%T Hypertension and Total-order Forward Decomposition Optimizations
+%@ 9798400723179
+%U https://doi.org/10.65109/IREH8205
+%R 10.65109/IREH8205
+%B Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Maurício Cecílio Magnaguagno
+%A Felipe Meneguzzi
+%A Lavindra de Silva
+%D 2026
+%P 4188–4190
+%K hierarchical task networks, planning, compilation
+%C Paphos, Cyprus
+
+%0 Journal Article
+%T An Extensive Empirical Evaluation of Inferring Preconditions and Effects of Compound Tasks in Ground HTN Planning Problems
+%V 82
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.17279
+%R 10.1613/jair.1.17279
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Conny Olz
+%A Alexander Lodemann
+%A Benedikt Jutz
+%A Mario Schmautz
+%A Maximilian Borowiec
+%A Susanne Biundo
+%A Pascal Bercher
+%D 2025
+%P 38
+
+%0 Conference Paper
+%T Interactive Hierarchical Task Learning from a Single Demonstration
+%@ 9781450328838
+%U https://doi.org/10.1145/2696454.2696474
+%R 10.1145/2696454.2696474
+%B Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Anahita Mohseni-Kabir
+%A Charles Rich
+%A Sonia Chernova
+%A Candace L. Sidner
+%A Daniel Miller
+%D 2015
+%P 205–212
+%K hierarchical task networks, learning from demonstration
+%C Portland, Oregon, USA
+
+%0 Conference Paper
+%T Development of a test bed for evaluating human-robot performance for explosive ordnance disposal robots
+%@ 1595932941
+%U https://doi.org/10.1145/1121241.1121246
+%R 10.1145/1121241.1121246
+%B Proceedings of the 1st ACM SIGCHI/SIGART conference on Human-robot interaction
+%I Association for Computing Machinery
+%A Jean Scholtz
+%A Mary Theofanos
+%A Brian Antonishek
+%D 2006
+%P 10–17
+%K evaluation, explosive ordnance disposal robots, human-robot interaction, metrics, test bed
+%C Salt Lake City, Utah, USA
+
+%0 Journal Article
+%T Variable Autonomy through Responsible Robotics: Design Guidelines and Research Agenda
+%V 13
+%U https://doi.org/10.1145/3636432
+%R 10.1145/3636432
+%N 1
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Tyler Reinmund
+%A Pericle Salvini
+%A Lars Kunze
+%A Marina Jirotka
+%A Alan F. T. Winfield
+%D 2024
+%P Article 7
+%K Variable autonomy, responsible innovation, responsible robotics, literature review
+
+%0 Journal Article
+%T Recent Trends in Task and Motion Planning for Robotics: A Survey
+%V 55
+%@ 0360-0300
+%U https://doi.org/10.1145/3583136
+%R 10.1145/3583136
+%N 13s
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Huihui Guo
+%A Fan Wu
+%A Yunchuan Qin
+%A Ruihui Li
+%A Keqin Li
+%A Kenli Li
+%D 2023
+%P Article 289
+%K Task and motion planning, online planning, learning for planning
+
+%0 Conference Paper
+%T Game AI techniques from algorithmic approach to machine learning
+%@ 9781450360265
+%U https://doi.org/10.1145/3277644.3277792
+%R 10.1145/3277644.3277792
+%B SIGGRAPH Asia 2018 Courses
+%I Association for Computing Machinery
+%A Youichiro Miyake
+%A Kazuko Manabe
+%D 2018
+%P Article 7
+%C Tokyo, Japan
+
+%0 Conference Paper
+%T AI techniques for contemporary digital games
+%@ 9781450339247
+%U https://doi.org/10.1145/2818143.2818164
+%R 10.1145/2818143.2818164
+%B SIGGRAPH Asia 2015 Courses
+%I Association for Computing Machinery
+%A Youichiro Miyake
+%D 2015
+%P Article 3
+%C Kobe, Japan
+
+%0 Journal Article
+%T The TOAD System for Totally Ordered HTN Planning
+%V 80
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.14945
+%R 10.1613/jair.1.14945
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Daniel Höller
+%D 2024
+%P 51
+
+%0 Conference Paper
+%T Workflow resource pattern modelling and visualization
+%@ 9781921770203
+%B Proceedings of the Thirty-Sixth Australasian Computer Science Conference - Volume 135
+%I Australian Computer Society, Inc.
+%A Hanwen Guo
+%A Ross Brown
+%A Rune Rasmussen
+%D 2013
+%P 31–40
+%K modelling, visualization, workflow resource patterns
+%C Adelaide, Australia
+
+%0 Conference Paper
+%T A framework for building conversational agents based on a multi-expert model
+%@ 9781932432176
+%B Proceedings of the 9th SIGdial Workshop on Discourse and Dialogue
+%I Association for Computational Linguistics
+%A Mikio Nakano
+%A Kotaro Funakoshi
+%A Yuji Hasegawa
+%A Hiroshi Tsujino
+%D 2008
+%P 88–91
+%C Columbus, Ohio
+
+%0 Conference Paper
+%T Capability Models and Their Applications in Planning
+%@ 9781450334136
+%B Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Yu Zhang
+%A Sarath Sreedharan
+%A Subbarao Kambhampati
+%D 2015
+%P 1151–1159
+%K agent theories and models, capability models, teamwork in human-agent mixed networks
+%C Istanbul, Turkey
+
+%0 Conference Paper
+%T A declarative approach for software compositional reconfiguration
+%@ 9781450316095
+%U https://doi.org/10.1145/2405679.2405686
+%R 10.1145/2405679.2405686
+%B Proceedings of the 11th International Workshop on Adaptive and Reflective Middleware
+%I Association for Computing Machinery
+%A Marco Eugênio Madeira Di Beneditto
+%A Cláudia Maria Lima Werner
+%D 2012
+%P Article 7
+%K component-based software, dynamic update, planning, reconfiguration, software architecture
+%C Montreal, Quebec, Canada
+
+%0 Conference Paper
+%T Attribute grammars with set attributes and global constraints as a unifying framework for planning domain models
+%@ 9781450352918
+%U https://doi.org/10.1145/3131851.3131858
+%R 10.1145/3131851.3131858
+%B Proceedings of the 19th International Symposium on Principles and Practice of Declarative Programming
+%I Association for Computing Machinery
+%A Roman Barták
+%A Adrien Maillard
+%D 2017
+%P 39–48
+%C Namur, Belgium
+
+%0 Conference Paper
+%T Multimodal human-machine interaction including virtual humans or social robots
+%@ 9781450331951
+%U https://doi.org/10.1145/2659467.2675052
+%R 10.1145/2659467.2675052
+%B SIGGRAPH Asia 2014 Courses
+%I Association for Computing Machinery
+%A Nadia Magnenat Thalmann
+%A Daniel Thalmann
+%A Zerrin Yumak
+%D 2014
+%P Article 14
+%C Shenzhen, China
+
+%0 Conference Paper
+%T Predicting possible conflicts in hierarchical planning for multi-agent systems
+%@ 1595930930
+%U https://doi.org/10.1145/1082473.1082597
+%R 10.1145/1082473.1082597
+%B Proceedings of the fourth international joint conference on Autonomous agents and multiagent systems
+%I Association for Computing Machinery
+%A Toshiharu Sugawara
+%A Satoshi Kurihara
+%A Toshio Hirotsu
+%A Kensuke Fukuda
+%A Toshihiro Takada
+%D 2005
+%P 813–820
+%K cooperation, coordination, learning, planning
+%C The Netherlands
+
+%0 techreport
+%T NSF Workshop on Task-Based Information Search Systems
+%I National Science Foundation
+%A Diane Kelly
+%A Jaime Arguello
+%A Robert Capra
+%D 2016
+
+%0 Conference Paper
+%T Reusing Coordination and Negotiation Strategies in Multi-Agent Systems for Ubiquitous Network Environment
+%@ 1581138644
+%B Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems - Volume 1
+%I IEEE Computer Society
+%A Toshiharu Sugawara
+%A Satoshi Kurihara
+%A Kensuke Fukuda
+%A Toshio Hirotsu
+%A Shigemi Aoyagi
+%A Toshihiro Takada
+%D 2004
+%P 496–503
+%C New York, New York
+
+%0 Proceeding
+%T Proceedings of the 11th International Conference on Human-Agent Interaction
+%@ 9798400708244
+%I Association for Computing Machinery
+%E Mohammad Obaid
+%E Wafa Johal
+%E Tetsunari Inamura
+%E Muneeb Ahmed
+%E Tomoko Yonezawa
+%D 2023
+%C Gothenburg, Sweden
+
+%0 Proceeding
+%T Proceedings of the 29th ACM Symposium on Access Control Models and Technologies
+%@ 9798400704918
+%I Association for Computing Machinery
+%D 2024
+%C San Antonio, TX, USA
+
+%0 Conference Paper
+%T Learning implicit resource relationships from past plans in multi-agent systems
+%@ 1581136838
+%U https://doi.org/10.1145/860575.860830
+%R 10.1145/860575.860830
+%B Proceedings of the second international joint conference on Autonomous agents and multiagent systems
+%I Association for Computing Machinery
+%A Toshiharu Sugawara
+%A Satoshi Kurihara
+%A Osamu Akashi
+%D 2003
+%P 1130–1131
+%K coordination, learning, multi-agent systems, planning, reuse
+%C Melbourne, Australia
+
+%0 Journal Article
+%T A design method for “whole-hand” human-computer interaction
+%V 11
+%@ 1046-8188
+%U https://doi.org/10.1145/159161.159159
+%R 10.1145/159161.159159
+%N 3
+%J ACM Trans. Inf. Syst.
+%I Association for Computing Machinery
+%A David J. Sturman
+%A David Zeltzer
+%D 1993
+%P 219–238
+%K input devices, interaction techniques, interface design, user interface, virtual environments
+
+%0 Journal Article
+%T Lilotane: A Lifted SAT-based Approach to Hierarchical Planning
+%V 70
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.12520
+%R 10.1613/jair.1.12520
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Dominik Schreiber
+%D 2021
+%P 1117–1181
+
+%0 Conference Paper
+%T Explorative construction of virtual worlds: an interactive kernel approach
+%@ 1581138849
+%U https://doi.org/10.1145/1044588.1044675
+%R 10.1145/1044588.1044675
+%B Proceedings of the 2004 ACM SIGGRAPH international conference on Virtual Reality continuum and its applications in industry
+%I Association for Computing Machinery
+%A Jinseok Seo
+%A Gerard Jounghyun Kim
+%D 2004
+%P 395–401
+%K authoring, interactive kernel, virtual world construction
+%C Singapore
+
+%0 Proceeding
+%T Proceedings of the SIGGRAPH Asia 2025 Conference Papers
+%@ 9798400721373
+%I Association for Computing Machinery
+%E Taku Komura
+%E Michael Wimmer
+%E Hongbo Fu
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 26th ACM Symposium on Access Control Models and Technologies
+%@ 9781450383653
+%I Association for Computing Machinery
+%D 2021
+%C Virtual Event, Spain
+
+%0 Proceeding
+%T SIGGRAPH Asia 2018 Courses
+%@ 9781450360265
+%I Association for Computing Machinery
+%D 2018
+%C Tokyo, Japan
+
+%0 Journal Article
+%T Ambient intelligence: A survey
+%V 43
+%@ 0360-0300
+%U https://doi.org/10.1145/1978802.1978815
+%R 10.1145/1978802.1978815
+%N 4
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Fariba Sadri
+%D 2011
+%P Article 36
+%K Ambient intelligence, agents, assisted living, multiagent systems, social and ethical issues
+
+%0 Proceeding
+%T Proceedings of the 40th ACM SIGSIM International Conference on Principles of Advanced Discrete Simulation
+%@ 9798400726484
+%I Association for Computing Machinery
+%E Nikolas Popper
+%E Adelinde Uhrmacher
+%E Srikanth Yoginath
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 25th ACM Symposium on Virtual Reality Software and Technology
+%@ 9781450370011
+%I Association for Computing Machinery
+%E Tomas Trescak
+%E Simeon Simoff
+%E Deborah Richards
+%E Anton Bogdanovych
+%E Thierry Duval
+%E Torsten Kuhlen
+%E Huyen Nguyen
+%E Shigeo Morishima
+%E Yuichi Itoh
+%E Richard Skarbez
+%E Anton Bogdanovych
+%E Martin Masek
+%D 2019
+%C Parramatta, NSW, Australia
+
+%0 Proceeding
+%T SIGGRAPH Asia 2014 Courses
+%@ 9781450331951
+%I Association for Computing Machinery
+%D 2014
+%C Shenzhen, China
+
+%0 Proceeding
+%T Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2
+%@ 9798400710797
+%I Association for Computing Machinery
+%D 2025
+%C Rotterdam, Netherlands
+
+%0 Proceeding
+%T Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
+%@ 9798400706363
+%I Association for Computing Machinery
+%D 2024
+%C Salt Lake City, UT, USA
+

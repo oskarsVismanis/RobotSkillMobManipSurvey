@@ -1,0 +1,549 @@
+TY  - CONF
+TI  - Behaviour-based Architecture for Piloting Mobile Manipulator Robots
+T2  - 2007 IEEE International Symposium on Industrial Electronics
+SP  - 2095
+EP  - 2100
+AU  - A. Hentout
+AU  - B. Bouzouia
+AU  - Z. Toukal
+PY  - 2007
+DO  - 10.1109/ISIE.2007.4374931
+JO  - 2007 IEEE International Symposium on Industrial Electronics
+IS  - 
+SN  - 2163-5145
+VO  - 
+VL  - 
+JA  - 2007 IEEE International Symposium on Industrial Electronics
+Y1  - 4-7 June 2007
+ER  - 
+
+TY  - CONF
+TI  - A Behavior-based Approach for Task Learning on Mobile Manipulators
+T2  - ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)
+SP  - 1
+EP  - 6
+AU  - S. Huang
+AU  - E. Aertbelien
+AU  - H. V. Brussel
+AU  - H. Bruyninckx
+PY  - 2010
+DO  - 
+JO  - ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ISR 2010 (41st International Symposium on Robotics) and ROBOTIK 2010 (6th German Conference on Robotics)
+Y1  - 7-9 June 2010
+ER  - 
+
+TY  - CONF
+TI  - A fuzzy behavior-based control system for manipulation
+T2  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 1596
+EP  - 1601 vol.2
+AU  - Z. Wasik
+AU  - A. Safiotti
+PY  - 2002
+DO  - 10.1109/IRDS.2002.1043983
+JO  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 30 Sept.-4 Oct. 2002
+ER  - 
+
+TY  - CONF
+TI  - Behavior-based mobile manipulation for drum sampling
+T2  - Proceedings of IEEE International Conference on Robotics and Automation
+SP  - 2389
+EP  - 2395 vol.3
+AU  - D. C. MacKenzie
+AU  - R. C. Arkin
+PY  - 1996
+DO  - 10.1109/ROBOT.1996.506521
+JO  - Proceedings of IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 3
+VL  - 3
+JA  - Proceedings of IEEE International Conference on Robotics and Automation
+Y1  - 22-28 April 1996
+ER  - 
+
+TY  - CONF
+TI  - Towards a Behavior Tree Based Robotic Skill Execution Framework for Human Robot Collaboration in Industrial Assembly
+T2  - 2024 10th International Conference on Automation, Robotics and Applications (ICARA)
+SP  - 18
+EP  - 22
+AU  - S. C. Akkaladevi
+AU  - M. Propst
+AU  - K. Deshpande
+AU  - M. Hofmann
+AU  - A. Pichler
+PY  - 2024
+DO  - 10.1109/ICARA60736.2024.10553029
+JO  - 2024 10th International Conference on Automation, Robotics and Applications (ICARA)
+IS  - 
+SN  - 2767-7745
+VO  - 
+VL  - 
+JA  - 2024 10th International Conference on Automation, Robotics and Applications (ICARA)
+Y1  - 22-24 Feb. 2024
+ER  - 
+
+TY  - CONF
+TI  - Embedded CMOS imaging system for real-time robotic vision
+T2  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 1096
+EP  - 1101
+AU  - H. Andrian
+AU  - Kai-Tai Song
+PY  - 2005
+DO  - 10.1109/IROS.2005.1545544
+JO  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 2-6 Aug. 2005
+ER  - 
+
+TY  - CONF
+TI  - An autonomic behavior-based software architecture for mobile manipulator
+T2  - 2008 IEEE Workshop on Advanced robotics and Its Social Impacts
+SP  - 1
+EP  - 6
+AU  - Shu Huang
+AU  - E. Aertbelien
+AU  - H. Van Brussel
+PY  - 2008
+DO  - 10.1109/ARSO.2008.4653598
+JO  - 2008 IEEE Workshop on Advanced robotics and Its Social Impacts
+IS  - 
+SN  - 2162-7576
+VO  - 
+VL  - 
+JA  - 2008 IEEE Workshop on Advanced robotics and Its Social Impacts
+Y1  - 23-25 Aug. 2008
+ER  - 
+
+TY  - CONF
+TI  - A hybrid control architecture for mobile manipulation
+T2  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+SP  - 1285
+EP  - 1291 vol.3
+AU  - L. Petersson
+AU  - M. Egerstedt
+AU  - H. I. Christensen
+PY  - 1999
+DO  - 10.1109/IROS.1999.811657
+JO  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+Y1  - 17-21 Oct. 1999
+ER  - 
+
+TY  - CONF
+TI  - A Constraint-Based Behavior Fusion Mechanism on Mobile Manipulator
+T2  - 2008 ECSIS Symposium on Learning and Adaptive Behaviors for Robotic Systems (LAB-RS)
+SP  - 83
+EP  - 88
+AU  - S. Huang
+AU  - E. Aertbeliën
+AU  - H. V. Brussel
+PY  - 2008
+DO  - 10.1109/LAB-RS.2008.10
+JO  - 2008 ECSIS Symposium on Learning and Adaptive Behaviors for Robotic Systems (LAB-RS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 ECSIS Symposium on Learning and Adaptive Behaviors for Robotic Systems (LAB-RS)
+Y1  - 6-8 Aug. 2008
+ER  - 
+
+TY  - CONF
+TI  - Hand it over or set it down: A user study of object delivery with an assistive mobile manipulator
+T2  - RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication
+SP  - 736
+EP  - 743
+AU  - Y. S. Choi
+AU  - T. Chen
+AU  - A. Jain
+AU  - C. Anderson
+AU  - J. D. Glass
+AU  - C. C. Kemp
+PY  - 2009
+DO  - 10.1109/ROMAN.2009.5326254
+JO  - RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication
+Y1  - 27 Sept.-2 Oct. 2009
+ER  - 
+
+TY  - CONF
+TI  - Autonomous Behavior Control for Quadruped Robots with Arms Based on MultiModal Large Language Model
+T2  - 2025 5th International Conference on Computer, Control and Robotics (ICCCR)
+SP  - 152
+EP  - 159
+AU  - S. Xiao
+AU  - X. Shi
+AU  - T. Chen
+AU  - Y. Zhang
+AU  - X. Rong
+AU  - J. Meng
+PY  - 2025
+DO  - 10.1109/ICCCR65461.2025.11072587
+JO  - 2025 5th International Conference on Computer, Control and Robotics (ICCCR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Computer, Control and Robotics (ICCCR)
+Y1  - 16-18 May 2025
+ER  - 
+
+TY  - JOUR
+TI  - From biological inspiration toward next-generation manipulators: manipulator control focused on human tasks
+T2  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+SP  - 53
+EP  - 65
+AU  - B. J. W. Waarsing
+AU  - M. Nuttin
+AU  - H. Van Brussel
+AU  - B. Corteville
+PY  - 2005
+DO  - 10.1109/TSMCC.2004.840047
+JO  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+IS  - 1
+SN  - 1558-2442
+VO  - 35
+VL  - 35
+JA  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+Y1  - Feb. 2005
+ER  - 
+
+TY  - CONF
+TI  - Behavior-based mobile manipulation inspired by the human example
+T2  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+SP  - 268
+EP  - 273 vol.1
+AU  - B. J. W. Waarsing
+AU  - M. Nuttin
+AU  - H. Van Brussel
+PY  - 2003
+DO  - 10.1109/ROBOT.2003.1241607
+JO  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+IS  - 
+SN  - 1050-4729
+VO  - 1
+VL  - 1
+JA  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+Y1  - 14-19 Sept. 2003
+ER  - 
+
+TY  - CONF
+TI  - A Robotic Manipulation Framework Based on Large Model and Behavior Cloning
+T2  - 2025 IEEE International Conference on Mechatronics and Automation (ICMA)
+SP  - 572
+EP  - 577
+AU  - Z. Zhang
+AU  - H. Lei
+AU  - W. Shi
+AU  - H. Wang
+AU  - Q. Jiang
+AU  - W. Luo
+AU  - J. Huang
+PY  - 2025
+DO  - 10.1109/ICMA65362.2025.11120750
+JO  - 2025 IEEE International Conference on Mechatronics and Automation (ICMA)
+IS  - 
+SN  - 2152-744X
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Mechatronics and Automation (ICMA)
+Y1  - 3-6 Aug. 2025
+ER  - 
+
+TY  - CONF
+TI  - MPC-QP-Based Control Framework for Compliant Behavior of Humanoid Robots in Physical Collaboration with Humans
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 14714
+EP  - 14720
+AU  - S. S. Kumbhar
+AU  - P. Artemiadis
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11128037
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - JOUR
+TI  - From Composable Models to Correct-by-Construction Software for Contact-Rich Robotic Mobile-Manipulation Tasks
+T2  - IEEE Robotics and Automation Letters
+SP  - 9894
+EP  - 9901
+AU  - S. Schneider
+AU  - V. Kalagaturu
+AU  - H. Bruyninckx
+AU  - N. Hochgeschwender
+PY  - 2025
+DO  - 10.1109/LRA.2025.3597864
+JO  - IEEE Robotics and Automation Letters
+IS  - 10
+SN  - 2377-3766
+VO  - 10
+VL  - 10
+JA  - IEEE Robotics and Automation Letters
+Y1  - Oct. 2025
+ER  - 
+
+TY  - JOUR
+TI  - A Stack-of-Tasks Approach Combined With Behavior Trees: A New Framework for Robot Control
+T2  - IEEE Robotics and Automation Letters
+SP  - 12110
+EP  - 12117
+AU  - D. Cáceres Domínguez
+AU  - M. Iannotta
+AU  - J. A. Stork
+AU  - E. Schaffernicht
+AU  - T. Stoyanov
+PY  - 2022
+DO  - 10.1109/LRA.2022.3211481
+JO  - IEEE Robotics and Automation Letters
+IS  - 4
+SN  - 2377-3766
+VO  - 7
+VL  - 7
+JA  - IEEE Robotics and Automation Letters
+Y1  - Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - Sparse distributed memory for experience-based robot manipulation
+T2  - 2008 IEEE International Conference on Robotics and Biomimetics
+SP  - 1298
+EP  - 1303
+AU  - S. Jockel
+AU  - F. Lindner
+AU  - J. Zhang
+PY  - 2009
+DO  - 10.1109/ROBIO.2009.4913187
+JO  - 2008 IEEE International Conference on Robotics and Biomimetics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Conference on Robotics and Biomimetics
+Y1  - 22-25 Feb. 2009
+ER  - 
+
+TY  - CONF
+TI  - Material handling of a mobile manipulator using an eye-in-hand vision system
+T2  - 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 4743
+EP  - 4748
+AU  - T. I. J. Tsay
+AU  - Y. F. Lai
+AU  - Y. L. Hsiao
+PY  - 2010
+DO  - 10.1109/IROS.2010.5649578
+JO  - 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 18-22 Oct. 2010
+ER  - 
+
+TY  - CONF
+TI  - Multi-tasking of competing behaviors on a robot manipulator
+T2  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 3057
+EP  - 3064
+AU  - C. Groth
+AU  - D. Henrich
+PY  - 2013
+DO  - 10.1109/IROS.2013.6696789
+JO  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 3-7 Nov. 2013
+ER  - 
+
+TY  - CONF
+TI  - LLM-BT: Performing Robotic Adaptive Tasks based on Large Language Models and Behavior Trees
+T2  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 16655
+EP  - 16661
+AU  - H. Zhou
+AU  - Y. Lin
+AU  - L. Yan
+AU  - J. Zhu
+AU  - H. Min
+PY  - 2024
+DO  - 10.1109/ICRA57147.2024.10610183
+JO  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 13-17 May 2024
+ER  - 
+
+TY  - CONF
+TI  - Analysis of a Behavior Based Nonholonomic Wheeled Mobile Robot Control With Hybrid System Approach
+T2  - 2006 SICE-ICASE International Joint Conference
+SP  - 646
+EP  - 651
+AU  - C. -f. Chang
+AU  - L. -c. Fu
+PY  - 2006
+DO  - 10.1109/SICE.2006.315794
+JO  - 2006 SICE-ICASE International Joint Conference
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 SICE-ICASE International Joint Conference
+Y1  - 18-21 Oct. 2006
+ER  - 
+
+TY  - CONF
+TI  - A behaviour-based blackboard architecture for mobile robots
+T2  - IECON '98. Proceedings of the 24th Annual Conference of the IEEE Industrial Electronics Society (Cat. No.98CH36200)
+SP  - 2162
+EP  - 2167 vol.4
+AU  - H. Van Brussel
+AU  - R. Moreas
+AU  - A. Zaatri
+AU  - M. Nuttin
+PY  - 1998
+DO  - 10.1109/IECON.1998.724056
+JO  - IECON '98. Proceedings of the 24th Annual Conference of the IEEE Industrial Electronics Society (Cat. No.98CH36200)
+IS  - 
+SN  - 
+VO  - 4
+VL  - 4
+JA  - IECON '98. Proceedings of the 24th Annual Conference of the IEEE Industrial Electronics Society (Cat. No.98CH36200)
+Y1  - 31 Aug.-4 Sept. 1998
+ER  - 
+
+TY  - CONF
+TI  - Research on ODMM Obstacle Avoidance Fuzzy Navigation Based on Ultrasonic-Absolute-Positioning
+T2  - 2010 International Conference on Electrical and Control Engineering
+SP  - 1725
+EP  - 1729
+AU  - J. Lin
+AU  - L. Baiyan
+AU  - C. Xinyuan
+AU  - Z. Hui
+AU  - Z. Jie
+AU  - Y. Jihong
+PY  - 2010
+DO  - 10.1109/iCECE.2010.425
+JO  - 2010 International Conference on Electrical and Control Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Electrical and Control Engineering
+Y1  - 25-27 June 2010
+ER  - 
+
+TY  - CONF
+TI  - Behavior-based multi-robot collaboration for autonomous construction tasks
+T2  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 1495
+EP  - 1500
+AU  - A. Stroupe
+AU  - T. Huntsberger
+AU  - A. Okon
+AU  - H. Aghazarian
+AU  - M. Robinson
+PY  - 2005
+DO  - 10.1109/IROS.2005.1545269
+JO  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 2-6 Aug. 2005
+ER  - 
+
+TY  - CONF
+TI  - Behavior-Based Visual Servoing on a Hybrid CPU-/FPGA-Platform
+T2  - ISR Europe 2022; 54th International Symposium on Robotics
+SP  - 1
+EP  - 8
+AU  - C. Heupel
+AU  - A. Koepper
+AU  - K. Berns
+PY  - 2022
+DO  - 
+JO  - ISR Europe 2022; 54th International Symposium on Robotics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ISR Europe 2022; 54th International Symposium on Robotics
+Y1  - 20-21 June 2022
+ER  - 
+
+TY  - JOUR
+TI  - Convergence Analysis of Hybrid Control Systems in the Form of Backward Chained Behavior Trees
+T2  - IEEE Robotics and Automation Letters
+SP  - 6073
+EP  - 6080
+AU  - P. Ögren
+PY  - 2020
+DO  - 10.1109/LRA.2020.3010747
+JO  - IEEE Robotics and Automation Letters
+IS  - 4
+SN  - 2377-3766
+VO  - 5
+VL  - 5
+JA  - IEEE Robotics and Automation Letters
+Y1  - Oct. 2020
+ER  - 
+
+TY  - JOUR
+TI  - Bottom-Up Symbolic Control: Attractor-Based Planning and Behavior Synthesis
+T2  - IEEE Transactions on Automatic Control
+SP  - 3142
+EP  - 3155
+AU  - J. Fu
+AU  - H. G. Tanner
+PY  - 2013
+DO  - 10.1109/TAC.2013.2277622
+JO  - IEEE Transactions on Automatic Control
+IS  - 12
+SN  - 1558-2523
+VO  - 58
+VL  - 58
+JA  - IEEE Transactions on Automatic Control
+Y1  - Dec. 2013
+ER  - 
+
+

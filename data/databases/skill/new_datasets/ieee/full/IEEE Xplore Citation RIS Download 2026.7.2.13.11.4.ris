@@ -1,0 +1,2007 @@
+TY  - CONF
+TI  - Learning of social skills for Human-Robot Interaction by hierarchical HMM and interaction dynamics
+T2  - 2014 International Conference on Electronics, Information and Communications (ICEIC)
+SP  - 1
+EP  - 2
+AU  - M. G. Kim
+AU  - S. H. Lee
+AU  - I. H. Suh
+PY  - 2014
+DO  - 10.1109/ELINFOCOM.2014.6914380
+JO  - 2014 International Conference on Electronics, Information and Communications (ICEIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Conference on Electronics, Information and Communications (ICEIC)
+Y1  - 15-18 Jan. 2014
+ER  - 
+
+TY  - CONF
+TI  - Deep Reinforcement Learning for the Improvement of Robot Manipulation Skills Under Sparse Reward
+T2  - 2022 34th Chinese Control and Decision Conference (CCDC)
+SP  - 5508
+EP  - 5513
+AU  - M. He
+AU  - H. Cheng
+AU  - F. Duan
+AU  - Z. Sun
+AU  - S. N. Li
+AU  - H. Yokoi
+AU  - C. Zhu
+PY  - 2022
+DO  - 10.1109/CCDC55256.2022.10034200
+JO  - 2022 34th Chinese Control and Decision Conference (CCDC)
+IS  - 
+SN  - 1948-9447
+VO  - 
+VL  - 
+JA  - 2022 34th Chinese Control and Decision Conference (CCDC)
+Y1  - 15-17 Aug. 2022
+ER  - 
+
+TY  - CONF
+TI  - Manipulation with Dynamic Skills
+T2  - Proceedings of 1995 IEEE International Conference on Robotics and Automation
+SP  - V6
+EP  - 
+AU  - H. Arai
+PY  - 1995
+DO  - 10.1109/ROBOT.1995.526011
+JO  - Proceedings of 1995 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 3
+VL  - 3
+JA  - Proceedings of 1995 IEEE International Conference on Robotics and Automation
+Y1  - 21-27 May 1995
+ER  - 
+
+TY  - CONF
+TI  - Building elementary robot skills from human demonstration
+T2  - Proceedings of IEEE International Conference on Robotics and Automation
+SP  - 2700
+EP  - 2705 vol.3
+AU  - M. Kaiser
+AU  - R. Dillmann
+PY  - 1996
+DO  - 10.1109/ROBOT.1996.506570
+JO  - Proceedings of IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 3
+VL  - 3
+JA  - Proceedings of IEEE International Conference on Robotics and Automation
+Y1  - 22-28 April 1996
+ER  - 
+
+TY  - JOUR
+TI  - Digital Robot Judge: Building a Task-Centric Performance Database of Real-World Manipulation With Electronic Task Boards
+T2  - IEEE Robotics & Automation Magazine
+SP  - 32
+EP  - 44
+AU  - P. So
+AU  - A. Sarabakha
+AU  - F. Wu
+AU  - U. Culha
+AU  - F. J. Abu-Dakka
+AU  - S. Haddadin
+PY  - 2024
+DO  - 10.1109/MRA.2023.3336473
+JO  - IEEE Robotics & Automation Magazine
+IS  - 4
+SN  - 1558-223X
+VO  - 31
+VL  - 31
+JA  - IEEE Robotics & Automation Magazine
+Y1  - Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Vision-based Robot Handwriting Skill Reproduction and Generalization
+T2  - 2021 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)
+SP  - 469
+EP  - 474
+AU  - X. Li
+AU  - S. -L. Dai
+AU  - C. Yang
+PY  - 2021
+DO  - 10.1109/M2VIP49856.2021.9665000
+JO  - 2021 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP)
+Y1  - 26-28 Nov. 2021
+ER  - 
+
+TY  - CONF
+TI  - On Human to Robot Skill Transfer for the Execution of Complex Tactile American Sign Language Tasks with a Bimanual Robot Platform
+T2  - 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+SP  - 1
+EP  - 5
+AU  - C. -M. Chang
+AU  - F. Sanches
+AU  - G. Gao
+AU  - M. Liarokapis
+PY  - 2024
+DO  - 10.1109/EMBC53108.2024.10782806
+JO  - 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+IS  - 
+SN  - 2694-0604
+VO  - 
+VL  - 
+JA  - 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+Y1  - 15-19 July 2024
+ER  - 
+
+TY  - JOUR
+TI  - A Multi-Configuration Track-Legged Humanoid Robot for Dexterous Manipulation and High Mobility: Design and Development
+T2  - IEEE Robotics and Automation Letters
+SP  - 3342
+EP  - 3349
+AU  - X. Shu
+AU  - F. Ni
+AU  - X. Fan
+AU  - C. Liu
+AU  - S. Yang
+AU  - B. Tu
+AU  - H. Liu
+PY  - 2023
+DO  - 10.1109/LRA.2023.3266707
+JO  - IEEE Robotics and Automation Letters
+IS  - 6
+SN  - 2377-3766
+VO  - 8
+VL  - 8
+JA  - IEEE Robotics and Automation Letters
+Y1  - June 2023
+ER  - 
+
+TY  - CONF
+TI  - A robot system for unstructured environments based on an environment model and manipulation skills
+T2  - Proceedings. 1991 IEEE International Conference on Robotics and Automation
+SP  - 916
+EP  - 923 vol.1
+AU  - T. Hasegawa
+AU  - T. Suehiro
+AU  - K. Takase
+PY  - 1991
+DO  - 10.1109/ROBOT.1991.131705
+JO  - Proceedings. 1991 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings. 1991 IEEE International Conference on Robotics and Automation
+Y1  - 9-11 April 1991
+ER  - 
+
+TY  - CONF
+TI  - Unsupervised Skill Discovery for Robotic Manipulation through Automatic Task Generation
+T2  - 2024 IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids)
+SP  - 926
+EP  - 933
+AU  - P. Jansonnie
+AU  - B. Wu
+AU  - J. Perez
+AU  - J. Peters
+PY  - 2024
+DO  - 10.1109/Humanoids58906.2024.10769879
+JO  - 2024 IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids)
+IS  - 
+SN  - 2164-0580
+VO  - 
+VL  - 
+JA  - 2024 IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids)
+Y1  - 22-24 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Robot skills - modeling and control aspects
+T2  - 2018 14th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)
+SP  - 1
+EP  - 6
+AU  - T. Heikkilä
+AU  - J. M. Ahola
+PY  - 2018
+DO  - 10.1109/MESA.2018.8449184
+JO  - 2018 14th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 14th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)
+Y1  - 2-4 July 2018
+ER  - 
+
+TY  - CONF
+TI  - Robot Manipulation Skill Learning Based on Stable Sparse Gaussian Process
+T2  - 2024 IEEE International Conference on Industrial Technology (ICIT)
+SP  - 1
+EP  - 5
+AU  - H. Xiao
+AU  - H. Huang
+AU  - Z. Jin
+AU  - A. Liu
+AU  - X. Qiu
+AU  - W. -a. Zhang
+PY  - 2024
+DO  - 10.1109/ICIT58233.2024.10540918
+JO  - 2024 IEEE International Conference on Industrial Technology (ICIT)
+IS  - 
+SN  - 2643-2978
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Industrial Technology (ICIT)
+Y1  - 25-27 March 2024
+ER  - 
+
+TY  - JOUR
+TI  - TUCA-HER: An Improved HER for Robot Manipulation Skill Learning via Trajectory Utility and Conservative Advantage
+T2  - IEEE Transactions on Emerging Topics in Computational Intelligence
+SP  - 3560
+EP  - 3571
+AU  - P. Wu
+AU  - Z. Wang
+AU  - Y. Li
+AU  - W. Chen
+AU  - G. Gao
+PY  - 2025
+DO  - 10.1109/TETCI.2025.3548787
+JO  - IEEE Transactions on Emerging Topics in Computational Intelligence
+IS  - 5
+SN  - 2471-285X
+VO  - 9
+VL  - 9
+JA  - IEEE Transactions on Emerging Topics in Computational Intelligence
+Y1  - Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Evaluating Human-Robot Skill Gaps in Electrical Circuit Inspection: A New Electronic Task Board for Benchmarking Manipulation
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 15292
+EP  - 15298
+AU  - P. So
+AU  - A. Swikir
+AU  - F. J. Abu-Dakka
+AU  - S. Haddadin
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11128714
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - The direct teaching of tool manipulation skills via the impedance identification of human motions
+T2  - Proceedings. 1988 IEEE International Conference on Robotics and Automation
+SP  - 1269
+EP  - 1274 vol.2
+AU  - H. Asada
+AU  - Y. Asari
+PY  - 1988
+DO  - 10.1109/ROBOT.1988.12235
+JO  - Proceedings. 1988 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings. 1988 IEEE International Conference on Robotics and Automation
+Y1  - 24-29 April 1988
+ER  - 
+
+TY  - CONF
+TI  - Usability feedback of patients and therapists on a conceptual mobile service robot for inpatient and home-based stroke rehabilitation
+T2  - 5th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
+SP  - 438
+EP  - 443
+AU  - R. Wilk
+AU  - M. J. Johnson
+PY  - 2014
+DO  - 10.1109/BIOROB.2014.6913816
+JO  - 5th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
+IS  - 
+SN  - 2155-1782
+VO  - 
+VL  - 
+JA  - 5th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
+Y1  - 12-15 Aug. 2014
+ER  - 
+
+TY  - CONF
+TI  - Learning spatial preconditions of manipulation skills using random forests
+T2  - 2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
+SP  - 676
+EP  - 683
+AU  - O. Kroemer
+AU  - G. S. Sukhatme
+PY  - 2016
+DO  - 10.1109/HUMANOIDS.2016.7803347
+JO  - 2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
+IS  - 
+SN  - 2164-0580
+VO  - 
+VL  - 
+JA  - 2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
+Y1  - 15-17 Nov. 2016
+ER  - 
+
+TY  - CONF
+TI  - An architecture for cognitive human-robot integration. Application to rehabilitation robotics
+T2  - IEEE International Conference Mechatronics and Automation, 2005
+SP  - 329
+EP  - 334 Vol. 1
+AU  - C. Galindo
+AU  - J. Gonzalez
+AU  - J. A. Fernandez-Madrigal
+PY  - 2005
+DO  - 10.1109/ICMA.2005.1626568
+JO  - IEEE International Conference Mechatronics and Automation, 2005
+IS  - 
+SN  - 2152-744X
+VO  - 1
+VL  - 1
+JA  - IEEE International Conference Mechatronics and Automation, 2005
+Y1  - 29 July-1 Aug. 2005
+ER  - 
+
+TY  - JOUR
+TI  - HERMES - a versatile personal robotic assistant
+T2  - Proceedings of the IEEE
+SP  - 1759
+EP  - 1779
+AU  - R. Bischoff
+AU  - V. Graefe
+PY  - 2004
+DO  - 10.1109/JPROC.2004.835381
+JO  - Proceedings of the IEEE
+IS  - 11
+SN  - 1558-2256
+VO  - 92
+VL  - 92
+JA  - Proceedings of the IEEE
+Y1  - Nov. 2004
+ER  - 
+
+TY  - CONF
+TI  - Developing a healthcare robot with personalized behaviors and social skills for the elderly
+T2  - 2016 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SP  - 589
+EP  - 590
+AU  - R. M. Agrigoroaie
+AU  - A. Tapus
+PY  - 2016
+DO  - 10.1109/HRI.2016.7451870
+JO  - 2016 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+IS  - 
+SN  - 2167-2148
+VO  - 
+VL  - 
+JA  - 2016 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+Y1  - 7-10 March 2016
+ER  - 
+
+TY  - CONF
+TI  - Skill Acquisition of a Ball Lifting Task Using a Mobile Robot with a Monocular Vision System
+T2  - 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 5141
+EP  - 5146
+AU  - R. Mori
+AU  - F. Takagi
+AU  - F. Miyazaki
+PY  - 2006
+DO  - 10.1109/IROS.2006.282608
+JO  - 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2006 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 9-15 Oct. 2006
+ER  - 
+
+TY  - CONF
+TI  - Robot skill transfer based on B-spline fuzzy controllers for force-control tasks
+T2  - Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No.99CH36288C)
+SP  - 1170
+EP  - 1175 vol.2
+AU  - M. Ferch
+AU  - J. Zhang
+AU  - A. Knoll
+PY  - 1999
+DO  - 10.1109/ROBOT.1999.772520
+JO  - Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No.99CH36288C)
+IS  - 
+SN  - 1050-4729
+VO  - 2
+VL  - 2
+JA  - Proceedings 1999 IEEE International Conference on Robotics and Automation (Cat. No.99CH36288C)
+Y1  - 10-15 May 1999
+ER  - 
+
+TY  - CONF
+TI  - A socially interactive robot using social skills in physical training
+T2  - 2015 12th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+SP  - 437
+EP  - 439
+AU  - C. Park
+AU  - D. Lee
+AU  - M. Jang
+AU  - J. Kim
+AU  - J. -H. Kang
+PY  - 2015
+DO  - 10.1109/URAI.2015.7358898
+JO  - 2015 12th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 12th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+Y1  - 28-30 Oct. 2015
+ER  - 
+
+TY  - JOUR
+TI  - Robotic Skill Mutation in Robot-to-Robot Propagation During a Physically Collaborative Sawing Task
+T2  - IEEE Robotics and Automation Letters
+SP  - 6483
+EP  - 6490
+AU  - R. E. S. Maessen
+AU  - J. M. Prendergast
+AU  - L. Peternel
+PY  - 2023
+DO  - 10.1109/LRA.2023.3307289
+JO  - IEEE Robotics and Automation Letters
+IS  - 10
+SN  - 2377-3766
+VO  - 8
+VL  - 8
+JA  - IEEE Robotics and Automation Letters
+Y1  - Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Environment-adaptive interaction primitives for human-robot motor skill learning
+T2  - 2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
+SP  - 711
+EP  - 717
+AU  - Y. Cui
+AU  - J. Poon
+AU  - T. Matsubara
+AU  - J. V. Miro
+AU  - K. Sugimoto
+AU  - K. Yamazaki
+PY  - 2016
+DO  - 10.1109/HUMANOIDS.2016.7803352
+JO  - 2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
+IS  - 
+SN  - 2164-0580
+VO  - 
+VL  - 
+JA  - 2016 IEEE-RAS 16th International Conference on Humanoid Robots (Humanoids)
+Y1  - 15-17 Nov. 2016
+ER  - 
+
+TY  - CONF
+TI  - A study on skill acquisition from teaching information by mobile robot
+T2  - Proceedings 2003 IEEE International Symposium on Computational Intelligence in Robotics and Automation. Computational Intelligence in Robotics and Automation for the New Millennium (Cat. No.03EX694)
+SP  - 753
+EP  - 757 vol.2
+AU  - Y. Morii
+AU  - T. Furuhashi
+AU  - K. Morikawa
+AU  - H. Itani
+PY  - 2003
+DO  - 10.1109/CIRA.2003.1222275
+JO  - Proceedings 2003 IEEE International Symposium on Computational Intelligence in Robotics and Automation. Computational Intelligence in Robotics and Automation for the New Millennium (Cat. No.03EX694)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - Proceedings 2003 IEEE International Symposium on Computational Intelligence in Robotics and Automation. Computational Intelligence in Robotics and Automation for the New Millennium (Cat. No.03EX694)
+Y1  - 16-20 July 2003
+ER  - 
+
+TY  - CONF
+TI  - Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation
+T2  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 21757
+EP  - 21764
+AU  - M. Qi
+AU  - Y. Li
+AU  - X. Liu
+AU  - Z. Liu
+AU  - P. Huang
+PY  - 2025
+DO  - 10.1109/IROS60139.2025.11246218
+JO  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 19-25 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - SkiROS2: A Skill-Based Robot Control Platform for ROS
+T2  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6273
+EP  - 6280
+AU  - M. Mayr
+AU  - F. Rovida
+AU  - V. Krueger
+PY  - 2023
+DO  - 10.1109/IROS55552.2023.10342216
+JO  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Control for Human-Robot Skilltransfer: Trajectory Planning Based on Fluid Dynamics
+T2  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+SP  - 1800
+EP  - 1807
+AU  - H. Mayer
+AU  - I. Nagy
+AU  - A. Knoll
+AU  - E. U. Braun
+AU  - R. Lange
+AU  - R. Bauernschmitt
+PY  - 2007
+DO  - 10.1109/ROBOT.2007.363583
+JO  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+Y1  - 10-14 April 2007
+ER  - 
+
+TY  - JOUR
+TI  - One-Shot Domain-Adaptive Imitation Learning via Progressive Learning Applied to Robotic Pouring
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 541
+EP  - 554
+AU  - D. Zhang
+AU  - W. Fan
+AU  - J. Lloyd
+AU  - C. Yang
+AU  - N. F. Lepora
+PY  - 2024
+DO  - 10.1109/TASE.2022.3220728
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 1
+SN  - 1558-3783
+VO  - 21
+VL  - 21
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - Jan. 2024
+ER  - 
+
+TY  - CONF
+TI  - An integrated tele-robotics system with a geometric environment model and manipulation skills
+T2  - EEE International Workshop on Intelligent Robots and Systems, Towards a New Frontier of Applications
+SP  - 335
+EP  - 341 vol.1
+AU  - T. Hasegawa
+AU  - T. Suehiro
+AU  - T. Ogasawara
+AU  - T. Matsui
+AU  - K. Kitagaki
+AU  - K. Takase
+PY  - 1990
+DO  - 10.1109/IROS.1990.262400
+JO  - EEE International Workshop on Intelligent Robots and Systems, Towards a New Frontier of Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - EEE International Workshop on Intelligent Robots and Systems, Towards a New Frontier of Applications
+Y1  - 3-6 July 1990
+ER  - 
+
+TY  - CONF
+TI  - A telerobotics system for maintenance tasks integrating planning functions based on manipulation skills
+T2  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+SP  - 2870
+EP  - 2876 vol.4
+AU  - T. Ogasawara
+AU  - H. Hirukawa
+AU  - K. Kitagaki
+AU  - H. Onda
+AU  - A. Nakamura
+AU  - H. Tsukune
+PY  - 1998
+DO  - 10.1109/ROBOT.1998.680624
+JO  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+IS  - 
+SN  - 1050-4729
+VO  - 4
+VL  - 4
+JA  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+Y1  - 20-20 May 1998
+ER  - 
+
+TY  - CONF
+TI  - The anthropomorphic flutist robot WF-4R: from mechanical to perceptual improvements
+T2  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 64
+EP  - 69
+AU  - J. Solis
+AU  - K. Chida
+AU  - S. Isoda
+AU  - K. Suefuji
+AU  - C. Arino
+AU  - A. Takanishi
+PY  - 2005
+DO  - 10.1109/IROS.2005.1545259
+JO  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 2-6 Aug. 2005
+ER  - 
+
+TY  - CONF
+TI  - Deploy Social Assistive Robot to develop symbolic play and imitation skills in students with Autism Spectrum Disorder
+T2  - 2022 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 547
+EP  - 552
+AU  - K. Marathaki
+AU  - M. Feidakis
+AU  - C. Patrikakis
+AU  - E. Agrianiti
+PY  - 2022
+DO  - 10.1109/EDUCON52537.2022.9766762
+JO  - 2022 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2022 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 28-31 March 2022
+ER  - 
+
+TY  - CONF
+TI  - Developing Robot Reaching Skill with Relative-Location based Approximating
+T2  - 2018 Joint IEEE 8th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+SP  - 147
+EP  - 154
+AU  - D. Luo
+AU  - M. Nie
+AU  - T. Zhang
+AU  - X. Wu
+PY  - 2018
+DO  - 10.1109/DEVLRN.2018.8761018
+JO  - 2018 Joint IEEE 8th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+IS  - 
+SN  - 2161-9484
+VO  - 
+VL  - 
+JA  - 2018 Joint IEEE 8th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+Y1  - 17-20 Sept. 2018
+ER  - 
+
+TY  - JOUR
+TI  - SPECI: Skill Prompts Based Hierarchical Continual Imitation Learning for Robot Manipulation
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+SP  - 488
+EP  - 503
+AU  - J. Xu
+AU  - X. Nie
+PY  - 2026
+DO  - 10.1109/TCDS.2025.3610492
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+IS  - 2
+SN  - 2379-8939
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Cognitive and Developmental Systems
+Y1  - April 2026
+ER  - 
+
+TY  - CONF
+TI  - A Complex Skill Learning Method Integrating Particle Swarm and Variational Autoencoder for Robot
+T2  - 2024 IEEE International Conference on Control Science and Systems Engineering (ICCSSE)
+SP  - 89
+EP  - 94
+AU  - M. Wang
+AU  - J. Bai
+AU  - J. Li
+PY  - 2024
+DO  - 10.1109/ICCSSE63803.2024.10823747
+JO  - 2024 IEEE International Conference on Control Science and Systems Engineering (ICCSSE)
+IS  - 
+SN  - 2832-1871
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Control Science and Systems Engineering (ICCSSE)
+Y1  - 18-20 Oct. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Learning to Sequence and Blend Robot Skills via Differentiable Optimization
+T2  - IEEE Robotics and Automation Letters
+SP  - 8431
+EP  - 8438
+AU  - N. Jaquier
+AU  - Y. Zhou
+AU  - J. Starke
+AU  - T. Asfour
+PY  - 2022
+DO  - 10.1109/LRA.2022.3184003
+JO  - IEEE Robotics and Automation Letters
+IS  - 3
+SN  - 2377-3766
+VO  - 7
+VL  - 7
+JA  - IEEE Robotics and Automation Letters
+Y1  - July 2022
+ER  - 
+
+TY  - CONF
+TI  - Robot skill learning, basis functions, and control regimes
+T2  - [1993] Proceedings IEEE International Conference on Robotics and Automation
+SP  - 403
+EP  - 410 vol.1
+AU  - J. G. Schneider
+AU  - C. M. Brown
+PY  - 1993
+DO  - 10.1109/ROBOT.1993.292014
+JO  - [1993] Proceedings IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - [1993] Proceedings IEEE International Conference on Robotics and Automation
+Y1  - 2-6 May 1993
+ER  - 
+
+TY  - CONF
+TI  - Using human gestures and generic skills to instruct a mobile robot arm in a feeder filling scenario
+T2  - 2012 IEEE International Conference on Mechatronics and Automation
+SP  - 243
+EP  - 248
+AU  - M. R. Pedersen
+AU  - C. Høilund
+AU  - V. Krüger
+PY  - 2012
+DO  - 10.1109/ICMA.2012.6282849
+JO  - 2012 IEEE International Conference on Mechatronics and Automation
+IS  - 
+SN  - 2152-744X
+VO  - 
+VL  - 
+JA  - 2012 IEEE International Conference on Mechatronics and Automation
+Y1  - 5-8 Aug. 2012
+ER  - 
+
+TY  - CONF
+TI  - Various Robot Motor Skills Learning with PI2-GMR
+T2  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+SP  - 246
+EP  - 250
+AU  - J. Fu
+AU  - S. Chen
+PY  - 2016
+DO  - 10.1109/ICIICII.2016.0066
+JO  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Industrial Informatics - Computing Technology, Intelligent Technology, Industrial Information Integration (ICIICII)
+Y1  - 3-4 Dec. 2016
+ER  - 
+
+TY  - CONF
+TI  - Motion Macro Programming on Assistive Robotic Manipulators: Three Skill Types for Everyday Tasks
+T2  - 2023 20th International Conference on Ubiquitous Robots (UR)
+SP  - 792
+EP  - 799
+AU  - S. Scherzinger
+AU  - P. Becker
+AU  - A. Roennau
+AU  - R. Dillmann
+PY  - 2023
+DO  - 10.1109/UR57808.2023.10202357
+JO  - 2023 20th International Conference on Ubiquitous Robots (UR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 20th International Conference on Ubiquitous Robots (UR)
+Y1  - 25-28 June 2023
+ER  - 
+
+TY  - CONF
+TI  - Learning basic unit movements with gate-model auto-encoder for humanoid arm motion control
+T2  - 2016 IEEE International Conference on Information and Automation (ICIA)
+SP  - 246
+EP  - 251
+AU  - F. Hu
+AU  - W. Liu
+AU  - X. Wu
+AU  - D. Luo
+PY  - 2016
+DO  - 10.1109/ICInfA.2016.7831830
+JO  - 2016 IEEE International Conference on Information and Automation (ICIA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE International Conference on Information and Automation (ICIA)
+Y1  - 1-3 Aug. 2016
+ER  - 
+
+TY  - JOUR
+TI  - Learning Complex Motor Skills for Legged Robot Fall Recovery
+T2  - IEEE Robotics and Automation Letters
+SP  - 4307
+EP  - 4314
+AU  - C. Yang
+AU  - C. Pu
+AU  - G. Xin
+AU  - J. Zhang
+AU  - Z. Li
+PY  - 2023
+DO  - 10.1109/LRA.2023.3281290
+JO  - IEEE Robotics and Automation Letters
+IS  - 7
+SN  - 2377-3766
+VO  - 8
+VL  - 8
+JA  - IEEE Robotics and Automation Letters
+Y1  - July 2023
+ER  - 
+
+TY  - CONF
+TI  - Learning dextrous manipulation skills using the evolution strategy
+T2  - Proceedings of International Conference on Robotics and Automation
+SP  - 501
+EP  - 506 vol.1
+AU  - O. Fuentes
+AU  - R. C. Nelson
+PY  - 1997
+DO  - 10.1109/ROBOT.1997.620086
+JO  - Proceedings of International Conference on Robotics and Automation
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings of International Conference on Robotics and Automation
+Y1  - 25-25 April 1997
+ER  - 
+
+TY  - CONF
+TI  - A Modular Interface for Controlling Interactive Behaviors of a Humanoid Robot for Socio-Emotional Skills Training
+T2  - 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+SP  - 230
+EP  - 235
+AU  - J. Sessner
+AU  - A. Porstmann
+AU  - S. Kirst
+AU  - N. Merz
+AU  - I. Dziobek
+AU  - J. Franke
+PY  - 2022
+DO  - 10.1109/RO-MAN53752.2022.9900704
+JO  - 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+Y1  - 29 Aug.-2 Sept. 2022
+ER  - 
+
+TY  - CONF
+TI  - A Standardized Benchmark for Humanoid Whole-Body Manipulation
+T2  - 2022 IEEE-RAS 21st International Conference on Humanoid Robots (Humanoids)
+SP  - 608
+EP  - 615
+AU  - W. Thibault
+AU  - F. J. A. Chavez
+AU  - K. Mombaur
+PY  - 2022
+DO  - 10.1109/Humanoids53995.2022.10000141
+JO  - 2022 IEEE-RAS 21st International Conference on Humanoid Robots (Humanoids)
+IS  - 
+SN  - 2164-0580
+VO  - 
+VL  - 
+JA  - 2022 IEEE-RAS 21st International Conference on Humanoid Robots (Humanoids)
+Y1  - 28-30 Nov. 2022
+ER  - 
+
+TY  - CONF
+TI  - ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 16939
+EP  - 16947
+AU  - J. Shi
+AU  - Z. Zhao
+AU  - T. Wang
+AU  - I. Pedroza
+AU  - A. Luo
+AU  - J. Wang
+AU  - J. Ma
+AU  - D. Jayaraman
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11128283
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - A modular and generic virtual reality training framework for micro-robotic cell injection systems
+T2  - 2018 Annual IEEE International Systems Conference (SysCon)
+SP  - 1
+EP  - 8
+AU  - N. Kamal
+AU  - Z. A. Khan
+AU  - A. Hameed
+AU  - O. Hasan
+PY  - 2018
+DO  - 10.1109/SYSCON.2018.8369521
+JO  - 2018 Annual IEEE International Systems Conference (SysCon)
+IS  - 
+SN  - 2472-9647
+VO  - 
+VL  - 
+JA  - 2018 Annual IEEE International Systems Conference (SysCon)
+Y1  - 23-26 April 2018
+ER  - 
+
+TY  - CONF
+TI  - Scalable, Fast, Highly-Accurate Human-to-Robot Skill Transfer for the Dexterous, Efficient Operation of Histology Microtomes
+T2  - 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+SP  - 1
+EP  - 5
+AU  - F. Sanches
+AU  - G. Gao
+AU  - N. Elangovan
+AU  - R. V. Godoy
+AU  - T. White
+AU  - P. Jarvis
+AU  - M. Liarokapis
+PY  - 2024
+DO  - 10.1109/EMBC53108.2024.10782229
+JO  - 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+IS  - 
+SN  - 2694-0604
+VO  - 
+VL  - 
+JA  - 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+Y1  - 15-19 July 2024
+ER  - 
+
+TY  - JOUR
+TI  - ARMAR-6: A High-Performance Humanoid for Human-Robot Collaboration in Real-World Scenarios
+T2  - IEEE Robotics & Automation Magazine
+SP  - 108
+EP  - 121
+AU  - T. Asfour
+AU  - M. Waechter
+AU  - L. Kaul
+AU  - S. Rader
+AU  - P. Weiner
+AU  - S. Ottenhaus
+AU  - R. Grimm
+AU  - Y. Zhou
+AU  - M. Grotz
+AU  - F. Paus
+PY  - 2019
+DO  - 10.1109/MRA.2019.2941246
+JO  - IEEE Robotics & Automation Magazine
+IS  - 4
+SN  - 1558-223X
+VO  - 26
+VL  - 26
+JA  - IEEE Robotics & Automation Magazine
+Y1  - Dec. 2019
+ER  - 
+
+TY  - CONF
+TI  - Pedipulate: Enabling Manipulation Skills using a Quadruped Robot’s Leg
+T2  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 5717
+EP  - 5723
+AU  - P. Arm
+AU  - M. Mittal
+AU  - H. Kolvenbach
+AU  - M. Hutter
+PY  - 2024
+DO  - 10.1109/ICRA57147.2024.10611307
+JO  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 13-17 May 2024
+ER  - 
+
+TY  - JOUR
+TI  - An Efficient Robot Precision Assembly Skill Learning Framework Based on Several Demonstrations
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 124
+EP  - 136
+AU  - Y. Ma
+AU  - Y. Xie
+AU  - W. Zhu
+AU  - S. Liu
+PY  - 2023
+DO  - 10.1109/TASE.2022.3144282
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 1
+SN  - 1558-3783
+VO  - 20
+VL  - 20
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - Jan. 2023
+ER  - 
+
+TY  - JOUR
+TI  - A Framework of Improving Human Demonstration Efficiency for Goal-Directed Robot Skill Learning
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+SP  - 1743
+EP  - 1754
+AU  - H. Wu
+AU  - W. Yan
+AU  - Z. Xu
+AU  - X. Zhou
+PY  - 2022
+DO  - 10.1109/TCDS.2021.3137262
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+IS  - 4
+SN  - 2379-8939
+VO  - 14
+VL  - 14
+JA  - IEEE Transactions on Cognitive and Developmental Systems
+Y1  - Dec. 2022
+ER  - 
+
+TY  - CONF
+TI  - Imitation based training to enhance psychomotor skills in autistic children using a snatcher robot
+T2  - 2016 International Conference on Robotics and Automation for Humanitarian Applications (RAHA)
+SP  - 1
+EP  - 6
+AU  - R. S. Moorthy
+AU  - S. Pugazhenthi
+PY  - 2016
+DO  - 10.1109/RAHA.2016.7931903
+JO  - 2016 International Conference on Robotics and Automation for Humanitarian Applications (RAHA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 International Conference on Robotics and Automation for Humanitarian Applications (RAHA)
+Y1  - 18-20 Dec. 2016
+ER  - 
+
+TY  - CONF
+TI  - Enabling Maintainablity of Robot Programs in Assembly by Extracting Compositions of Force- and Position-Based Robot Skills from Learning-from-Demonstration Models
+T2  - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 9227
+EP  - 9234
+AU  - D. Bargmann
+AU  - W. Kraus
+AU  - M. F. Huber
+PY  - 2024
+DO  - 10.1109/IROS58592.2024.10802802
+JO  - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 14-18 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - Intuitive Real-Time Robot Teleoperation via VR, ROS, and Externally Guided Motion for Human Skill Transfer
+T2  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+SP  - 3226
+EP  - 3230
+AU  - R. Sharp
+AU  - A. Melick
+AU  - H. Wang
+AU  - O. Perdomo
+PY  - 2025
+DO  - 10.1109/CASE58245.2025.11163900
+JO  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+Y1  - 17-21 Aug. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Skill Learning Strategy Based on Dynamic Motion Primitives for Human–Robot Cooperative Manipulation
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+SP  - 105
+EP  - 117
+AU  - J. Li
+AU  - Z. Li
+AU  - X. Li
+AU  - Y. Feng
+AU  - Y. Hu
+AU  - B. Xu
+PY  - 2021
+DO  - 10.1109/TCDS.2020.3021762
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+IS  - 1
+SN  - 2379-8939
+VO  - 13
+VL  - 13
+JA  - IEEE Transactions on Cognitive and Developmental Systems
+Y1  - March 2021
+ER  - 
+
+TY  - CONF
+TI  - Manipulation task primitives for composing robot skills
+T2  - Proceedings of International Conference on Robotics and Automation
+SP  - 3354
+EP  - 3359 vol.4
+AU  - J. D. Morrow
+AU  - P. K. Khosla
+PY  - 1997
+DO  - 10.1109/ROBOT.1997.606800
+JO  - Proceedings of International Conference on Robotics and Automation
+IS  - 
+SN  - 
+VO  - 4
+VL  - 4
+JA  - Proceedings of International Conference on Robotics and Automation
+Y1  - 25-25 April 1997
+ER  - 
+
+TY  - JOUR
+TI  - Combining Model-Based  $Q$ -Learning With Structural Knowledge Transfer for Robot Skill Learning
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+SP  - 26
+EP  - 35
+AU  - Z. Deng
+AU  - H. Guan
+AU  - R. Huang
+AU  - H. Liang
+AU  - L. Zhang
+AU  - J. Zhang
+PY  - 2019
+DO  - 10.1109/TCDS.2017.2718938
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+IS  - 1
+SN  - 2379-8939
+VO  - 11
+VL  - 11
+JA  - IEEE Transactions on Cognitive and Developmental Systems
+Y1  - March 2019
+ER  - 
+
+TY  - JOUR
+TI  - Representation of robot motion control skill
+T2  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+SP  - 219
+EP  - 238
+AU  - G. S. Dordevic
+AU  - M. Rasic
+AU  - D. Kostic
+AU  - V. Potkonjak
+PY  - 2000
+DO  - 10.1109/5326.868444
+JO  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+IS  - 2
+SN  - 1558-2442
+VO  - 30
+VL  - 30
+JA  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+Y1  - May 2000
+ER  - 
+
+TY  - CONF
+TI  - On a primitive skill-based supervisory robot control architecture
+T2  - ICAR '05. Proceedings., 12th International Conference on Advanced Robotics, 2005.
+SP  - 141
+EP  - 147
+AU  - G. Milighetti
+AU  - H. . -B. Kuntze
+AU  - C. W. Frey
+AU  - B. Diestel-Feddersen
+AU  - J. Balzer
+PY  - 2005
+DO  - 10.1109/ICAR.2005.1507404
+JO  - ICAR '05. Proceedings., 12th International Conference on Advanced Robotics, 2005.
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ICAR '05. Proceedings., 12th International Conference on Advanced Robotics, 2005.
+Y1  - 18-20 July 2005
+ER  - 
+
+TY  - CONF
+TI  - Bootstrapping humanoid robot skills by extracting semantic representations of human-like activities from virtual reality
+T2  - 2014 IEEE-RAS International Conference on Humanoid Robots
+SP  - 438
+EP  - 443
+AU  - K. Ramirez-Amaro
+AU  - T. Inamura
+AU  - E. Dean-León
+AU  - M. Beetz
+AU  - G. Cheng
+PY  - 2014
+DO  - 10.1109/HUMANOIDS.2014.7041398
+JO  - 2014 IEEE-RAS International Conference on Humanoid Robots
+IS  - 
+SN  - 2164-0580
+VO  - 
+VL  - 
+JA  - 2014 IEEE-RAS International Conference on Humanoid Robots
+Y1  - 18-20 Nov. 2014
+ER  - 
+
+TY  - CONF
+TI  - Accelerating Laboratory Automation Through Robot Skill Learning For Sample Scraping*
+T2  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+SP  - 2103
+EP  - 2110
+AU  - G. Pizzuto
+AU  - H. Wang
+AU  - H. Fakhruldeen
+AU  - B. Peng
+AU  - K. S. Luck
+AU  - A. I. Cooper
+PY  - 2024
+DO  - 10.1109/CASE59546.2024.10711291
+JO  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+Y1  - 28 Aug.-1 Sept. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Learning Robot Manipulation Skills From Human Demonstration Videos Using Two-Stream 2-D/3-D Residual Networks With Self-Attention
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+SP  - 1000
+EP  - 1011
+AU  - X. Xu
+AU  - K. Qian
+AU  - X. Jing
+AU  - W. Song
+PY  - 2023
+DO  - 10.1109/TCDS.2022.3182877
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+IS  - 3
+SN  - 2379-8939
+VO  - 15
+VL  - 15
+JA  - IEEE Transactions on Cognitive and Developmental Systems
+Y1  - Sept. 2023
+ER  - 
+
+TY  - CONF
+TI  - Robot Competition to Evaluate Guidance Skill for General Users in VR Environment
+T2  - 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SP  - 552
+EP  - 553
+AU  - T. Inamura
+AU  - Y. Mizuchi
+PY  - 2019
+DO  - 10.1109/HRI.2019.8673218
+JO  - 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+IS  - 
+SN  - 2167-2148
+VO  - 
+VL  - 
+JA  - 2019 14th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+Y1  - 11-14 March 2019
+ER  - 
+
+TY  - CONF
+TI  - Using robust and simplified geometric models in skill-based manipulation
+T2  - Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No.01CH37180)
+SP  - 138
+EP  - 145 vol.1
+AU  - A. Nakamura
+AU  - T. Ogasawara
+AU  - K. Kitagaki
+AU  - T. Suehiro
+PY  - 2001
+DO  - 10.1109/IROS.2001.973349
+JO  - Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No.01CH37180)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No.01CH37180)
+Y1  - 29 Oct.-3 Nov. 2001
+ER  - 
+
+TY  - CONF
+TI  - Use CAD Data for Intuitive Definition of Robot Actions in a Skill-based Robot Application Development Environment
+T2  - ISR 2020; 52th International Symposium on Robotics
+SP  - 1
+EP  - 6
+AU  - F. Dai
+AU  - N. Li
+AU  - D. Clever
+PY  - 2020
+DO  - 
+JO  - ISR 2020; 52th International Symposium on Robotics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ISR 2020; 52th International Symposium on Robotics
+Y1  - 9-10 Dec. 2020
+ER  - 
+
+TY  - CONF
+TI  - Transfer of human skills to neural net robot controllers
+T2  - Proceedings. 1991 IEEE International Conference on Robotics and Automation
+SP  - 2442
+EP  - 2448 vol.3
+AU  - H. Asada
+AU  - S. Liu
+PY  - 1991
+DO  - 10.1109/ROBOT.1991.131990
+JO  - Proceedings. 1991 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings. 1991 IEEE International Conference on Robotics and Automation
+Y1  - 9-11 April 1991
+ER  - 
+
+TY  - CONF
+TI  - Motion planning of a redundant manipulator-modeling of criteria of skilled operators and global optimization of redundancy
+T2  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+SP  - 45
+EP  - 50 vol.3
+AU  - T. Shibata
+AU  - T. Abe
+AU  - K. Tanie
+AU  - M. Nose
+PY  - 1995
+DO  - 10.1109/IROS.1995.525860
+JO  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+Y1  - 5-9 Aug. 1995
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Human-to-Robot Skill Transfer: A Framework Integrating Movement and Variable Impedance Based on EMG
+T2  - 2024 IEEE International Conference on Industrial Technology (ICIT)
+SP  - 1
+EP  - 6
+AU  - L. Li
+AU  - H. Chang
+AU  - Y. Xu
+AU  - S. Zhao
+AU  - P. Huang
+AU  - Z. Liu
+PY  - 2024
+DO  - 10.1109/ICIT58233.2024.10540992
+JO  - 2024 IEEE International Conference on Industrial Technology (ICIT)
+IS  - 
+SN  - 2643-2978
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Industrial Technology (ICIT)
+Y1  - 25-27 March 2024
+ER  - 
+
+TY  - CONF
+TI  - Intuitive Instruction of Robot Systems: Semantic Integration of Standardized Skill Interfaces
+T2  - 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)
+SP  - 1
+EP  - 8
+AU  - J. Ding
+AU  - I. Kessler
+AU  - A. Perzylo
+AU  - M. Knauer
+AU  - A. Dömel
+AU  - C. Willibald
+AU  - S. Riedell
+AU  - S. Profanterl
+AU  - S. Brunner
+AU  - A. Dunaev
+AU  - L. Li
+AU  - M. Brucker
+PY  - 2024
+DO  - 10.1109/INDIN58382.2024.10774421
+JO  - 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)
+IS  - 
+SN  - 2378-363X
+VO  - 
+VL  - 
+JA  - 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)
+Y1  - 18-20 Aug. 2024
+ER  - 
+
+TY  - JOUR
+TI  - A model-based manipulation system with skill-based execution
+T2  - IEEE Transactions on Robotics and Automation
+SP  - 535
+EP  - 544
+AU  - T. Hasegawa
+AU  - T. Suehiro
+AU  - K. Takase
+PY  - 1992
+DO  - 10.1109/70.163779
+JO  - IEEE Transactions on Robotics and Automation
+IS  - 5
+SN  - 2374-958X
+VO  - 8
+VL  - 8
+JA  - IEEE Transactions on Robotics and Automation
+Y1  - Oct. 1992
+ER  - 
+
+TY  - CONF
+TI  - Intuitive skill-level programming of industrial handling tasks on a mobile manipulator
+T2  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 4523
+EP  - 4530
+AU  - M. R. Pedersen
+AU  - D. L. Herzog
+AU  - V. Krüger
+PY  - 2014
+DO  - 10.1109/IROS.2014.6943203
+JO  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 14-18 Sept. 2014
+ER  - 
+
+TY  - JOUR
+TI  - Learning and Generalizing Cooperative Manipulation Skills Using Parametric Dynamic Movement Primitives
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 3968
+EP  - 3979
+AU  - H. Kim
+AU  - C. Oh
+AU  - I. Jang
+AU  - S. Park
+AU  - H. Seo
+AU  - H. J. Kim
+PY  - 2022
+DO  - 10.1109/TASE.2022.3141460
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 4
+SN  - 1558-3783
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - Core Processes in Intelligent Robotic Lab Assistants: Flexible Liquid Handling
+T2  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 2335
+EP  - 2342
+AU  - D. Knobbe
+AU  - H. Zwirnmann
+AU  - M. Eckhoff
+AU  - S. Haddadin
+PY  - 2022
+DO  - 10.1109/IROS47612.2022.9981636
+JO  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 23-27 Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - Learning manipulative skills with ART
+T2  - Proceedings. 2000 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2000) (Cat. No.00CH37113)
+SP  - 578
+EP  - 583 vol.1
+AU  - I. Lopez-Juarez
+AU  - M. Howarth
+PY  - 2000
+DO  - 10.1109/IROS.2000.894666
+JO  - Proceedings. 2000 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2000) (Cat. No.00CH37113)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings. 2000 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2000) (Cat. No.00CH37113)
+Y1  - 31 Oct.-5 Nov. 2000
+ER  - 
+
+TY  - CONF
+TI  - An Automatic Robot Skills Learning System from Robot’s Real-World Demonstrations
+T2  - 2019 Chinese Control And Decision Conference (CCDC)
+SP  - 5138
+EP  - 5142
+AU  - B. Li
+AU  - T. Lu
+AU  - X. Li
+AU  - Y. Cai
+AU  - S. Wang
+PY  - 2019
+DO  - 10.1109/CCDC.2019.8833143
+JO  - 2019 Chinese Control And Decision Conference (CCDC)
+IS  - 
+SN  - 1948-9447
+VO  - 
+VL  - 
+JA  - 2019 Chinese Control And Decision Conference (CCDC)
+Y1  - 3-5 June 2019
+ER  - 
+
+TY  - CONF
+TI  - Uncertainty of estimated parameters of contact conditions by active force sensing
+T2  - 2008 IEEE International Conference on Robotics and Biomimetics
+SP  - 1291
+EP  - 1297
+AU  - T. Yamada
+AU  - T. Mouri
+AU  - K. Shimosaka
+AU  - N. Mimura
+AU  - Y. Funahashi
+PY  - 2009
+DO  - 10.1109/ROBIO.2009.4913186
+JO  - 2008 IEEE International Conference on Robotics and Biomimetics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Conference on Robotics and Biomimetics
+Y1  - 22-25 Feb. 2009
+ER  - 
+
+TY  - CONF
+TI  - Multi-modal information-sharing teaching system in sensor-based robotics $structured description based on task properties that enables onsite-tuning by reflecting skills
+T2  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 1535
+EP  - 1540 vol.2
+AU  - M. Mizukawa
+AU  - Y. Nakamura
+AU  - H. Ogata
+AU  - Y. Yanagihira
+PY  - 2002
+DO  - 10.1109/IRDS.2002.1043973
+JO  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 30 Sept.-4 Oct. 2002
+ER  - 
+
+TY  - CONF
+TI  - Manipulation skill modeling for dexterous hands
+T2  - Proceedings of the 1994 IEEE International Conference on Robotics and Automation
+SP  - 3403
+EP  - 3408 vol.4
+AU  - M. Buss
+AU  - H. Hashimoto
+PY  - 1994
+DO  - 10.1109/ROBOT.1994.351047
+JO  - Proceedings of the 1994 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the 1994 IEEE International Conference on Robotics and Automation
+Y1  - 8-13 May 1994
+ER  - 
+
+TY  - CONF
+TI  - Task-Level Programming by Demonstration for Mobile Robotic Manipulators through Human Demonstrations based on Semantic Skill Recognition
+T2  - ISR Europe 2023; 56th International Symposium on Robotics
+SP  - 22
+EP  - 29
+AU  - L. Mayershofer
+AU  - P. Lehner
+AU  - D. Leidner
+AU  - A. Albu-Schaeffer
+PY  - 2023
+DO  - 
+JO  - ISR Europe 2023; 56th International Symposium on Robotics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ISR Europe 2023; 56th International Symposium on Robotics
+Y1  - 26-27 Sept. 2023
+ER  - 
+
+TY  - CONF
+TI  - Knotting manipulation of a flexible rope by a multifingered hand system based on skill synthesis
+T2  - 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 2691
+EP  - 2696
+AU  - Y. Yamakawa
+AU  - A. Namiki
+AU  - M. Ishikawa
+AU  - M. Shimojo
+PY  - 2008
+DO  - 10.1109/IROS.2008.4650802
+JO  - 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 22-26 Sept. 2008
+ER  - 
+
+TY  - CONF
+TI  - Extensive Human Training for Robot Skill Synthesis: Validation on a Robotic Hand
+T2  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+SP  - 1788
+EP  - 1793
+AU  - E. Oztop
+AU  - L. -H. Lin
+AU  - M. Kawato
+AU  - G. Cheng
+PY  - 2007
+DO  - 10.1109/ROBOT.2007.363581
+JO  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - Proceedings 2007 IEEE International Conference on Robotics and Automation
+Y1  - 10-14 April 2007
+ER  - 
+
+TY  - CONF
+TI  - Fuzzy rule based neuro-dynamic programming for mobile robot skill acquisition on the basis of a nested multi-agent architecture
+T2  - 2010 IEEE International Conference on Robotics and Biomimetics
+SP  - 312
+EP  - 319
+AU  - J. N. Karigiannis
+AU  - T. I. Rekatsinas
+AU  - C. S. Tzafestas
+PY  - 2010
+DO  - 10.1109/ROBIO.2010.5723346
+JO  - 2010 IEEE International Conference on Robotics and Biomimetics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 IEEE International Conference on Robotics and Biomimetics
+Y1  - 14-18 Dec. 2010
+ER  - 
+
+TY  - JOUR
+TI  - IROSA: Interactive Robot Skill Adaptation Using Natural Language
+T2  - IEEE Robotics and Automation Letters
+SP  - 5246
+EP  - 5253
+AU  - M. Knauer
+AU  - S. Bustamante
+AU  - T. Eiband
+AU  - A. Albu-Schäffer
+AU  - F. Stulp
+AU  - J. Silvério
+PY  - 2026
+DO  - 10.1109/LRA.2026.3671560
+JO  - IEEE Robotics and Automation Letters
+IS  - 4
+SN  - 2377-3766
+VO  - 11
+VL  - 11
+JA  - IEEE Robotics and Automation Letters
+Y1  - April 2026
+ER  - 
+
+TY  - CHAP
+TI  - Skills-Based Human-Robot Cooperation
+T2  - So You Want to Design Aircraft: Robots on the Floor
+SP  - 11
+EP  - 24
+PY  - 2017
+DO  - 
+PB  - SAE
+SN  - 9780768084252
+UR  - http://ieeexplore.ieee.org/document/8859158
+ER  - 
+
+TY  - JOUR
+TI  - Toward Teaching by Demonstration for Robot-Assisted Minimally Invasive Surgery
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 484
+EP  - 494
+AU  - H. Su
+AU  - A. Mariani
+AU  - S. E. Ovur
+AU  - A. Menciassi
+AU  - G. Ferrigno
+AU  - E. De Momi
+PY  - 2021
+DO  - 10.1109/TASE.2020.3045655
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 2
+SN  - 1558-3783
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - April 2021
+ER  - 
+
+TY  - CONF
+TI  - Constrained DMPs for Feasible Skill Learning on Humanoid Robots
+T2  - 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids)
+SP  - 1
+EP  - 6
+AU  - A. Duan
+AU  - R. Camoriano
+AU  - D. Ferigo
+AU  - D. Calandriello
+AU  - L. Rosasco
+AU  - D. Pucci
+PY  - 2018
+DO  - 10.1109/HUMANOIDS.2018.8624934
+JO  - 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids)
+IS  - 
+SN  - 2164-0580
+VO  - 
+VL  - 
+JA  - 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids)
+Y1  - 6-9 Nov. 2018
+ER  - 
+
+TY  - CONF
+TI  - Skilled-motion plannings of multi-body systems based upon Riemannian distance
+T2  - 2008 IEEE International Conference on Robotics and Automation
+SP  - 1233
+EP  - 1238
+AU  - Masahiro Sekimoto
+AU  - Suguru Arimoto
+AU  - Sadao Kawamura
+AU  - Ji-Hun Bae
+PY  - 2008
+DO  - 10.1109/ROBOT.2008.4543372
+JO  - 2008 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - 2008 IEEE International Conference on Robotics and Automation
+Y1  - 19-23 May 2008
+ER  - 
+
+TY  - CONF
+TI  - Learning by biasing
+T2  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+SP  - 2168
+EP  - 2173 vol.3
+AU  - G. Hailu
+AU  - G. Sommer
+PY  - 1998
+DO  - 10.1109/ROBOT.1998.680643
+JO  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+IS  - 
+SN  - 1050-4729
+VO  - 3
+VL  - 3
+JA  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+Y1  - 20-20 May 1998
+ER  - 
+
+TY  - CONF
+TI  - BMI-based framework for teaching and evaluating robot skills
+T2  - 2014 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 6040
+EP  - 6046
+AU  - C. I. Penaloza
+AU  - Y. Mae
+AU  - M. Kojima
+AU  - T. Arai
+PY  - 2014
+DO  - 10.1109/ICRA.2014.6907749
+JO  - 2014 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 31 May-7 June 2014
+ER  - 
+
+TY  - CONF
+TI  - Robot skill discovery based on observed data(003) 5335512
+T2  - Proceedings of IEEE International Conference on Robotics and Automation
+SP  - 2694
+EP  - 2699 vol.3
+AU  - S. Lee
+AU  - J. Chen
+PY  - 1996
+DO  - 10.1109/ROBOT.1996.506569
+JO  - Proceedings of IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 3
+VL  - 3
+JA  - Proceedings of IEEE International Conference on Robotics and Automation
+Y1  - 22-28 April 1996
+ER  - 
+
+TY  - CONF
+TI  - Maximizing the Use of Environmental Constraints: A Pushing-Based Hybrid Position/Force Assembly Skill for Contact-Rich Tasks
+T2  - 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SP  - 496
+EP  - 501
+AU  - Y. Shi
+AU  - Z. Chen
+AU  - L. Cong
+AU  - Y. Wu
+AU  - M. Craiu-Müller
+AU  - C. Yuan
+AU  - C. Chang
+AU  - L. Zhang
+AU  - J. Zhang
+PY  - 2021
+DO  - 10.1109/ROBIO54168.2021.9739349
+JO  - 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+Y1  - 27-31 Dec. 2021
+ER  - 
+
+TY  - CONF
+TI  - Robot Skill Learning with Identification of Preconditions and Postconditions via Level Set Estimation
+T2  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 10943
+EP  - 10950
+AU  - R. Takano
+AU  - H. Oyama
+AU  - Y. Taya
+PY  - 2022
+DO  - 10.1109/IROS47612.2022.9981933
+JO  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 23-27 Oct. 2022
+ER  - 
+
+TY  - CONF
+TI  - STEM to STEAM: Paper-based Robotics Kits for Enhancing STEAM Learning and Skills
+T2  - 2025 10th International STEM Education Conference (iSTEM-Ed)
+SP  - 1
+EP  - 6
+AU  - P. Sang-Aroon
+AU  - P. Saksirikasemkul
+AU  - C. Ngampipat
+AU  - S. Chansawang
+PY  - 2025
+DO  - 10.1109/iSTEM-Ed65612.2025.11129317
+JO  - 2025 10th International STEM Education Conference (iSTEM-Ed)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 10th International STEM Education Conference (iSTEM-Ed)
+Y1  - 30 July-1 Aug. 2025
+ER  - 
+
+TY  - CONF
+TI  - Task skill formation via motion repetition in robotic dynamic manipulation
+T2  - IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.99CH37028)
+SP  - 1001
+EP  - 1006 vol.4
+AU  - Xin-Zhi Zheng
+AU  - W. Inamura
+AU  - K. Shibata
+AU  - K. Ito
+PY  - 1999
+DO  - 10.1109/ICSMC.1999.812547
+JO  - IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.99CH37028)
+IS  - 
+SN  - 1062-922X
+VO  - 4
+VL  - 4
+JA  - IEEE SMC'99 Conference Proceedings. 1999 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.99CH37028)
+Y1  - 12-15 Oct. 1999
+ER  - 
+
+TY  - CONF
+TI  - Generating Velocity-Adaptive Manipulation Through Learning from Human Movement Speed Variations
+T2  - 2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids)
+SP  - 712
+EP  - 719
+AU  - K. Tsunoda
+AU  - S. Yagi
+AU  - S. Yamamori
+AU  - J. Morimoto
+PY  - 2025
+DO  - 10.1109/Humanoids65713.2025.11203163
+JO  - 2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids)
+IS  - 
+SN  - 2164-0580
+VO  - 
+VL  - 
+JA  - 2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids)
+Y1  - 30 Sept.-2 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Active learning of affordances for robot use of household objects
+T2  - 2014 IEEE-RAS International Conference on Humanoid Robots
+SP  - 566
+EP  - 572
+AU  - C. Wang
+AU  - K. V. Hindriks
+AU  - R. Babuska
+PY  - 2014
+DO  - 10.1109/HUMANOIDS.2014.7041419
+JO  - 2014 IEEE-RAS International Conference on Humanoid Robots
+IS  - 
+SN  - 2164-0580
+VO  - 
+VL  - 
+JA  - 2014 IEEE-RAS International Conference on Humanoid Robots
+Y1  - 18-20 Nov. 2014
+ER  - 
+
+TY  - CONF
+TI  - Motion planning of a redundant manipulator based on criteria of skilled operators
+T2  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+SP  - 3730
+EP  - 3735 vol.4
+AU  - T. Shibata
+AU  - T. Abe
+AU  - K. Tanie
+AU  - M. Nose
+PY  - 1995
+DO  - 10.1109/ICSMC.1995.538368
+JO  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+IS  - 
+SN  - 
+VO  - 4
+VL  - 4
+JA  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+Y1  - 22-25 Oct. 1995
+ER  - 
+
+

@@ -1,0 +1,2356 @@
+%0 Conference Paper
+%T UbiCap: A Capability-based Run-time Model for Heterogeneous Sensors Management in Ubiquitous Operating System
+%@ 9798400708947
+%U https://doi.org/10.1145/3609437.3609448
+%R 10.1145/3609437.3609448
+%B Proceedings of the 14th Asia-Pacific Symposium on Internetware
+%I Association for Computing Machinery
+%A Xiaojuan Li
+%A Yu Zhang
+%A Zhengyan Zhu
+%A Yuan Yao
+%A Xingshe Zhou
+%D 2023
+%P 134–143
+%K run-time, adaptive, Ubiquitous Operating System, Heterogeneous Sensors Management, Capability
+%C Hangzhou, China
+
+%0 Conference Paper
+%T A Capability-based Framework for Programming Small Domestic Service Robots
+%@ 9781450336147
+%U https://doi.org/10.1145/2802059.2802065
+%R 10.1145/2802059.2802065
+%B Proceedings of the 2015 Joint MORSE/VAO Workshop on Model-Driven Robot Software Engineering and View-based Software-Engineering
+%I Association for Computing Machinery
+%A Ronny Seiger
+%A Christoph Seidl
+%A Uwe Aßmann
+%A Thomas Schlegel
+%D 2015
+%P 49–54
+%K Service robots, High-level API, Capability-based abstraction
+%C L'Aquila, Italy
+
+%0 Conference Paper
+%T Mutual state capability-based role assignment model
+%@ 9780982657119
+%B Proceedings of the 9th International Conference on Autonomous Agents and Multiagent Systems: volume 1 - Volume 1
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Somchaya Liemhetcharat
+%A Manuela Veloso
+%D 2010
+%P 1509–1510
+%K role assignment, multi-agent, heterogeneous teams, capability
+%C Toronto, Canada
+
+%0 Conference Paper
+%T Poster Abstract: Rethinking Collaboration Among Mobile Devices in IoT Environments
+%@ 9798400714795
+%U https://doi.org/10.1145/3715014.3724065
+%R 10.1145/3715014.3724065
+%B Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems
+%I Association for Computing Machinery
+%A Hetvi Shastri
+%A Walid A. Hanafy
+%A Li Wu
+%A David Irwin
+%A Mani Srivastava
+%A Prashant Shenoy
+%D 2025
+%P 676–677
+%K internet of things, capability-based access control, zero-configuration collaboration
+%C UC Irvine Student Center., Irvine, CA, USA
+
+%0 Conference Paper
+%T Hopper: Per-Device Nano Segmentation for the Industrial IoT
+%@ 9781450391405
+%U https://doi.org/10.1145/3488932.3501277
+%R 10.1145/3488932.3501277
+%B Proceedings of the 2022 ACM on Asia Conference on Computer and Communications Security
+%I Association for Computing Machinery
+%A Piet De Vaere
+%A Andrea Tulimiero
+%A Adrian Perrig
+%D 2022
+%P 279–293
+%K network segmentation, network security, nano segmentation, key distribution, industrial iot, capability-based networking
+%C Nagasaki, Japan
+
+%0 Conference Paper
+%T Adaptive Overhead Glass Curtain Wall Cleaning Robot Design
+%@ 9798400711268
+%U https://doi.org/10.1145/3707402.3707413
+%R 10.1145/3707402.3707413
+%B Proceedings of the 2024 International Conference on Industrial Automation and Robotics
+%I Association for Computing Machinery
+%A Tao Jiang
+%A Huadong Chen
+%A Zixi Yang
+%A Haolin Zhou
+%D 2025
+%P 58–63
+%K Adaptive Cleaning, Curved glass curtain wall, Multiple culverts, Slip mold control, Static analysis
+%C 
+
+
+%0 Conference Paper
+%T Engineering the Technical Layer of Gamification
+%@ 9798400721908
+%U https://doi.org/10.1145/3789624.3789633
+%R 10.1145/3789624.3789633
+%B Proceedings of the 10th Annual International GamiFIN Conference 2026
+%I Association for Computing Machinery
+%A Johanna Virkki
+%A Asif Shaikh
+%D 2026
+%P Article 3
+%K Design–engineering collaboration, Gamification technology, Modular framework
+%C 
+
+
+%0 Conference Paper
+%T Anthropocentric Attribution Bias in Human Prediction of Robot Behavior
+%@ 9781450370578
+%U https://doi.org/10.1145/3371382.3378347
+%R 10.1145/3371382.3378347
+%B Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Sam Thellman
+%A Annika Silvervarg
+%A Tom Ziemke
+%D 2020
+%P 476–478
+%K mental state attribution, human-robot interaction, belief-tracking
+%C Cambridge, United Kingdom
+
+%0 Conference Paper
+%T Interfacing Agents with an Industrial Assembly System for "Plug and Produce": (Demonstration)
+%@ 9781450334136
+%B Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Nikolas Antzoulatos
+%A Elkin Castro
+%A Lavindra de Silva
+%A Svetan Ratchev
+%D 2015
+%P 1957–1958
+%K production reconfiguration, plug and produce, manufacturing, capability-based framework
+%C Istanbul, Turkey
+
+%0 Conference Paper
+%T LLM-Driven Auto Configuration for Transient IoT Device Collaboration
+%@ 9798400722387
+%U https://doi.org/10.1145/3769102.3770619
+%R 10.1145/3769102.3770619
+%B Proceedings of the Tenth ACM/IEEE Symposium on Edge Computing
+%I Association for Computing Machinery
+%A Hetvi Shastri
+%A Walid Hanafy
+%A Li Wu
+%A David Irwin
+%A Mani Srivastava
+%A Prashant Shenoy
+%D 2025
+%P Article 7
+%K IoT, LLMs, access control, device collaboration
+%C the Hilton Arlington National Landing, Arlington, VA, USA
+
+%0 Conference Paper
+%T A neurorobotics approach to investigating the emergence of communication in robots
+%@ 9781538685556
+%B Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction
+%I IEEE Press
+%A Jungsik Hwang
+%A Nadine Wirkuttis
+%A Jun Tani
+%D 2020
+%P 622–623
+%K social cognition and interaction, prediction error minimization, neurorobotics
+%C Daegu, Republic of Korea
+
+%0 Conference Paper
+%T Research on Robot Motion Attitude Recognition Models Based on Computer Vision and Re-Unet Networks
+%@ 9798400710223
+%U https://doi.org/10.1145/3695080.3695172
+%R 10.1145/3695080.3695172
+%B Proceedings of the 2024 International Conference on Cloud Computing and Big Data
+%I Association for Computing Machinery
+%A Zheng-Jun Yu
+%D 2024
+%P 535–539
+%C Dali, China
+
+%0 Conference Paper
+%T Comparing a Mentalist and an Interactionist Approach for Trust Analysis in Human-Robot Interaction
+%@ 9798400708244
+%U https://doi.org/10.1145/3623809.3623840
+%R 10.1145/3623809.3623840
+%B Proceedings of the 11th International Conference on Human-Agent Interaction
+%I Association for Computing Machinery
+%A Marc Hulcelle
+%A Giovanna Varni
+%A Nicolas Rollet
+%A Chloe Clavel
+%D 2023
+%P 273–280
+%K HRI, Interactional Sociology, Methodologies, Psychology, Trust
+%C Gothenburg, Sweden
+
+%0 Conference Paper
+%T Deconstructed Trustee Theory: Disentangling Trust in Body and Identity in Multi-Robot Distributed Systems
+%@ 9781450382892
+%U https://doi.org/10.1145/3434073.3444644
+%R 10.1145/3434073.3444644
+%B Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Tom Williams
+%A Daniel Ayers
+%A Camille Kaufman
+%A Jon Serrano
+%A Sayanti Roy
+%D 2021
+%P 262–271
+%K trust, identity, human-robot interaction, blame
+%C Boulder, CO, USA
+
+%0 Conference Paper
+%T Research on Dynamic Decision-making of Post-disaster Rescue Based on GCC Framework
+%@ 9781450362429
+%U https://doi.org/10.1145/3366715.3366743
+%R 10.1145/3366715.3366743
+%B Proceedings of the 2019 International Conference on Robotics Systems and Vehicle Technology
+%I Association for Computing Machinery
+%A Longlong Xu
+%A Wei Liu
+%A Jingzhi Guo
+%D 2019
+%P 164–170
+%K multi-agent, collaboration of agents, RCRSS, GCC, CAS
+%C Wuhan, China
+
+%0 Conference Paper
+%T MagKnitic: Machine-knitted Passive and Interactive Haptic Textiles with Integrated Binary Sensing
+%@ 9798400701320
+%U https://doi.org/10.1145/3586183.3606765
+%R 10.1145/3586183.3606765
+%B Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
+%I Association for Computing Machinery
+%A Yiyue Luo
+%A Junyi Zhu
+%A Kui Wu
+%A Cedric Honnet
+%A Stefanie Mueller
+%A Wojciech Matusik
+%D 2023
+%P Article 66
+%K Machine knitting, Passive Haptics, Personal Fabrication, Rapid Function Prototyping, eTextiles
+%C San Francisco, CA, USA
+
+%0 Journal Article
+%T Converging Measures and an Emergent Model: A Meta-Analysis of Human-Machine Trust Questionnaires
+%V 13
+%U https://doi.org/10.1145/3677614
+%R 10.1145/3677614
+%N 4
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Yosef S. Razin
+%A Karen M. Feigh
+%D 2024
+%P Article 58
+%K Human-Robot Trust, Shared Mental Models
+
+%0 Journal Article
+%T Neural rendering in a room: amodal 3D understanding and free-viewpoint rendering for the closed scene composed of pre-captured objects
+%V 41
+%@ 0730-0301
+%U https://doi.org/10.1145/3528223.3530163
+%R 10.1145/3528223.3530163
+%N 4
+%J ACM Trans. Graph.
+%I Association for Computing Machinery
+%A Bangbang Yang
+%A Yinda Zhang
+%A Yijin Li
+%A Zhaopeng Cui
+%A Sean Fanello
+%A Hujun Bao
+%A Guofeng Zhang
+%D 2022
+%P Article 101
+%K 3D scene understanding, amodel perception, neural rendering
+
+%0 Conference Paper
+%T Automated Planning for Peer-to-peer Teaming and its Evaluation in Remote Human-Robot Interaction
+%@ 9781450333184
+%U https://doi.org/10.1145/2701973.2702042
+%R 10.1145/2701973.2702042
+%B Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts
+%I Association for Computing Machinery
+%A Vignesh Narayanan
+%A Yu Zhang
+%A Nathaniel Mendoza
+%A Subbarao Kambhampati
+%D 2015
+%P 161–162
+%K user study/evaluation, teamwork &amp; group dynamics, robot design principles, autonomous robot capabilities
+%C Portland, Oregon, USA
+
+%0 Journal Article
+%T Robots as Hosts in Autonomous Buses: A Field Trial
+%V 15
+%U https://doi.org/10.1145/3759158
+%R 10.1145/3759158
+%N 1
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Agnes Axelsson
+%A Bhavana Vaddadi
+%A Cristian Bogdan
+%A Deirdre Tobin
+%A Gabriel Skantze
+%D 2025
+%P Article 19
+%K autonomous, public transport, APT, robot, clerk, assistant, self-driving, bus, passenger, guide, shuttle, wizard
+
+%0 Journal Article
+%T Continuous Real-time Adaptation Framework for Enhancing Trust and Technology Acceptance: An Assistive Feeding Study
+%V 15
+%U https://doi.org/10.1145/3758103
+%R 10.1145/3758103
+%N 1
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Dimitra Tsakona
+%A Yiannis Demiris
+%D 2025
+%P Article 17
+%K Assistive Feeding, Bayesian data analysis, Human-in-the-Loop, Technology Acceptance, Trust
+
+%0 Conference Paper
+%T Unmanned and autonomous systems mission based test and evaluation
+%@ 9781605587479
+%U https://doi.org/10.1145/1865909.1865926
+%R 10.1145/1865909.1865926
+%B Proceedings of the 9th Workshop on Performance Metrics for Intelligent Systems
+%I Association for Computing Machinery
+%A Philipp A. Djang
+%A Frank Lopez
+%D 2009
+%P 81–85
+%K unmanned and autonomous system test and evaluation, simulation based test and evaluation, mission based test and evaluation, mission and means framework, measures of performance, measures of effectiveness, capability based evaluation
+%C Gaithersburg, Maryland
+
+%0 Conference Paper
+%T Bridging Social Work and Robotics: A Collaborative Service Framework for Smart Eldercare with IoT Integration
+%@ 9798400723407
+%U https://doi.org/10.1145/3806262.3806335
+%R 10.1145/3806262.3806335
+%B Proceedings of the 2nd International Conference on Artificial Intelligence, Digital Media Technology and Social Computing
+%I Association for Computing Machinery
+%A Yuan Wei
+%D 2026
+%P 510–515
+%K Cloud Robotics, Human–Robot Collaboration, IoT Sensing, Smart Eldercare, Socially Assistive Robots, Task Allocation
+%C 
+
+
+%0 Conference Paper
+%T CapaCon: access control mechanism for inter-device communications through TCP connections
+%@ 9781605586397
+%U https://doi.org/10.1145/1774088.1774233
+%R 10.1145/1774088.1774233
+%B Proceedings of the 2010 ACM Symposium on Applied Computing
+%I Association for Computing Machinery
+%A Mitsuhiro Mabuchi
+%A Yasushi Shinjo
+%A Koji Hasebe
+%A Akira Sato
+%A Kazuhiko Kato
+%D 2010
+%P 706–712
+%K network security, inter-device communications, capabilities, access control
+%C Sierre, Switzerland
+
+%0 Conference Paper
+%T CARDinality: Interactive Card-shaped Robots with Locomotion and Haptics using Vibration
+%@ 9798400706288
+%U https://doi.org/10.1145/3654777.3676421
+%R 10.1145/3654777.3676421
+%B Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology
+%I Association for Computing Machinery
+%A Aditya Retnanto
+%A Emilie Faracci
+%A Anup Sathya
+%A Yu-Kai Hung
+%A Ken Nakagaki
+%D 2024
+%P Article 17
+%K actuated tangible interface, card robot, cards, flat, interaction design, robot learning
+%C Pittsburgh, PA, USA
+
+%0 Conference Paper
+%T A relation between young children's computer utilization and their use of education robots
+%@ 9781450305617
+%U https://doi.org/10.1145/1957656.1957776
+%R 10.1145/1957656.1957776
+%B Proceedings of the 6th international conference on Human-robot interaction
+%I Association for Computing Machinery
+%A Hyunmin Yoon
+%D 2011
+%P 291–292
+%K robot utilization, education robot, computer utilization
+%C Lausanne, Switzerland
+
+%0 Conference Paper
+%T Assessing the Effectiveness of Using Chatbots for Positive Psychological Intervention: A Randomized Control Study
+%@ 9781450398695
+%U https://doi.org/10.1145/3565698.3565789
+%R 10.1145/3565698.3565789
+%B Proceedings of the Tenth International Symposium of Chinese CHI
+%I Association for Computing Machinery
+%A Ivan Liu
+%A Yuting Xiao
+%A Fangyuan Liu
+%A Shuming Wu
+%A Shiguang Ni
+%D 2024
+%P 227–234
+%K Chatbot, Human-computer interaction, Positive psychology exercise, Positive psychology intervention
+%C Guangzhou, China and Online, China
+
+%0 Conference Paper
+%T Capability at a Glance: Design Guidelines for Intuitive Avatars Communicating Augmented Actions in Virtual Reality
+%@ 9798400722783
+%U https://doi.org/10.1145/3772318.3790609
+%R 10.1145/3772318.3790609
+%B Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Yang Lu
+%A Tianyu Zhang
+%A Jiamu Tang
+%A Yanna Lin
+%A Jiankun Yang
+%A Longyu Zhang
+%A Shijian Luo
+%A Yukang Yan
+%D 2026
+%P Article 310
+%K Avatar Design, Virtual Reality, Guideline, Affordance
+%C 
+
+
+%0 Conference Paper
+%T Extremely Large Collective Coalition Formation: Scalability
+%@ 9798400723179
+%U https://doi.org/10.65109/EENQ4709
+%R 10.65109/eenq4709
+%B Proceedings of the 25th International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Neha G. Pusalkar
+%A Julie A. Adams
+%D 2026
+%P 2337–2346
+%K coalition formation, hedonic games, swarms, collectives
+%C Paphos, Cyprus
+
+%0 Conference Paper
+%T Enabling semantic interoperability of asset administration shells through an ontology-based modeling method
+%@ 9781450394673
+%U https://doi.org/10.1145/3550356.3561606
+%R 10.1145/3550356.3561606
+%B Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings
+%I Association for Computing Machinery
+%A Yining Huang
+%A Saadia Dhouib
+%A Luis Palacios Medinacelli
+%A Jacques Malenfant
+%D 2022
+%P 497–502
+%K smart manufacturing, semantic interoperability, ontology, model-driven engineering, industry 4.0, digital twins, asset administration shell
+%C Montreal, Quebec, Canada
+
+%0 Conference Paper
+%T Shaft-hole assembly process simulation framework based on 3D measured point cloud data
+%@ 9798400714351
+%U https://doi.org/10.1145/3756423.3756481
+%R 10.1145/3756423.3756481
+%B Proceedings of the 2025 International Conference on Artificial Intelligence and Smart Manufacturing
+%I Association for Computing Machinery
+%A Linlin Fan
+%A Zhigang Xu
+%A Junyi Wang
+%A Haicheng Shi
+%A Bowen Pan
+%A Zhidong Zhang
+%D 2025
+%P 355–360
+%K Assembly simulation, Digital twin, Shaft-hole fit, Small clearance
+%C 
+
+
+%0 Conference Paper
+%T Poster: Unified Access Control for Surgical Robotics
+%@ 9781450367530
+%U https://doi.org/10.1145/3322431.3326450
+%R 10.1145/3322431.3326450
+%B Proceedings of the 24th ACM Symposium on Access Control Models and Technologies
+%I Association for Computing Machinery
+%A Ryan Shah
+%A Shishir Nagaraja
+%D 2019
+%P 231–233
+%K unified, unification, robot, multilevel, multi-level, multi level, model, integrity, hybrid, conflict of interest, confidentiality, compartmentation, chinese wall, calibration, blp, biba, access control
+%C Toronto ON, Canada
+
+%0 Conference Paper
+%T Guided Blind Guidance APP Based on Path Planning and Obstacle Detection
+%@ 9798400716485
+%U https://doi.org/10.1145/3653081.3653218
+%R 10.1145/3653081.3653218
+%B Proceedings of the 2023 5th International Conference on Internet of Things, Automation and Artificial Intelligence
+%I Association for Computing Machinery
+%A Xiaoya Fang
+%A Weisen He
+%A Han Yu
+%A Shuolei Wu
+%A Ruxing Zhang
+%A Jiajia Wu
+%D 2024
+%P 813–817
+%C Nanchang, China
+
+%0 Conference Paper
+%T Awareness in Collaborative Mixed-Visual Ability Tangible Programming Activities
+%@ 9798400713941
+%U https://doi.org/10.1145/3706598.3713610
+%R 10.1145/3706598.3713610
+%B Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Filipa Rocha
+%A Hugo Simão
+%A João Nogueira
+%A Isabel Neto
+%A Tiago Guerreiro
+%A Hugo Nicolau
+%D 2025
+%P Article 1146
+%K Accessibility, Mixed-Visual Ability, Collaboration, Computational Thinking
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 5th International Conference on Control and Intelligent Robotics
+%@ 9798400714948
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Conference Paper
+%T Driver Agent for Encouraging Safe Driving Behavior for the Elderly
+%@ 9781450351133
+%U https://doi.org/10.1145/3125739.3125743
+%R 10.1145/3125739.3125743
+%B Proceedings of the 5th International Conference on Human Agent Interaction
+%I Association for Computing Machinery
+%A Takahiro Tanaka
+%A Kazuhiro Fujikake
+%A Takashi Yonekawa
+%A Misako Yamagishi
+%A Makoto Inagami
+%A Fumiya Kinoshita
+%A Hirofumi Aoki
+%A Hitoshi Kanamori
+%D 2017
+%P 71–79
+%K elderly, driving support, agent
+%C Bielefeld, Germany
+
+%0 Journal Article
+%T Real-time Guarantee of Autonomous Driving Systems: State of the Art and Challenges
+%V 7
+%U https://doi.org/10.1145/3798279
+%R 10.1145/3798279
+%N 3
+%J ACM Trans. Internet Things
+%I Association for Computing Machinery
+%A Tianze Wu
+%A Weisong Shi
+%D 2026
+%P Article 28
+%K AD system, real-time guarantee, middleware, task scheduling
+
+%0 Conference Paper
+%T EMI-LiDAR: Uncovering Vulnerabilities of LiDAR Sensors in Autonomous Driving Setting using Electromagnetic Interference
+%@ 9781450398596
+%U https://doi.org/10.1145/3558482.3590192
+%R 10.1145/3558482.3590192
+%B Proceedings of the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks
+%I Association for Computing Machinery
+%A Sri Hrushikesh Varma Bhupathiraju
+%A Jennifer Sheldon
+%A Luke A. Bauer
+%A Vincent Bindschaedler
+%A Takeshi Sugawara
+%A Sara Rampazzi
+%D 2023
+%P 329–340
+%K sensor attack, emi injection, autonomous driving
+%C Guildford, United Kingdom
+
+%0 Proceeding
+%T Proceedings of the 2023 6th International Conference on Advances in Robotics
+%@ 9781450399807
+%I Association for Computing Machinery
+%D 2023
+%C Ropar, India
+
+%0 Conference Paper
+%T BORA: a bag optimizer for robotic analysis
+%@ 9781728199986
+%B Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis
+%I IEEE Press
+%A Jian Zhang
+%A Tao Xie
+%A Yuzhuo Jing
+%A Yanjie Song
+%A Guanzhou Hu
+%A Si Chen
+%A Shu Yin
+%D 2020
+%P Article 12
+%C Atlanta, Georgia
+
+%0 Conference Paper
+%T An ontology-based approach to improve the accessibility of ROS-based robotic systems
+%@ 9781450355537
+%U https://doi.org/10.1145/3148011.3148014
+%R 10.1145/3148011.3148014
+%B Proceedings of the 9th Knowledge Capture Conference
+%I Association for Computing Machinery
+%A Ilaria Tiddi
+%A Emanuele Bastianelli
+%A Gianluca Bardaro
+%A Mathieu d'Aquin
+%A Enrico Motta
+%D 2017
+%P Article 13
+%K Robotics, Knowledge Representation, Artificial Intelligence
+%C Austin, TX, USA
+
+%0 Conference Paper
+%T Help me and I’ll help you: Speakers’ and listeners’ collaborative effort and the division of labour in human-agent collaborative communication
+%@ 9798400722783
+%U https://doi.org/10.1145/3772318.3790628
+%R 10.1145/3772318.3790628
+%B Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Paola R. Peña
+%A Benjamin R. Cowan
+%D 2026
+%P Article 11
+%K the division of labour, collaborative conversational AI, collaborative effort, visual ambiguity, visual asymmetry
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2024 4th International Conference on Control and Intelligent Robotics
+%@ 9798400709937
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Conference Paper
+%T Some problems in distributing real-time Ada programs across machines
+%@ 0897911628
+%U https://doi.org/10.1145/324426.324383
+%R 10.1145/324426.324383
+%B Proceedings of the 1985 annual ACM SIGAda international conference on Ada
+%I Cambridge University Press
+%A Richard A. Volz
+%A Trevor N. Mudge
+%A Arch W. Naylor
+%A John H. Mayer
+%D 1985
+%P 72–84
+%C Paris, France
+
+%0 Conference Paper
+%T Asset-Oriented Access Control: Towards a New IoT Framework
+%@ 9781450372077
+%U https://doi.org/10.1145/3365871.3365905
+%R 10.1145/3365871.3365905
+%B Proceedings of the 9th International Conference on the Internet of Things
+%I Association for Computing Machinery
+%A Thomas Cattermole
+%A Simon Docherty
+%A David Pym
+%A M. Angela Sasse
+%D 2019
+%P Article 31
+%K Object-Oriented, Internet of Things, Access Control
+%C Bilbao, Spain
+
+%0 Journal Article
+%T MetaSpace: Metamorphic Testing for Spatial Cognition in Embodied Agents
+%V 10
+%U https://doi.org/10.1145/3798212
+%R 10.1145/3798212
+%N OOPSLA1
+%J Proc. ACM Program. Lang.
+%I Association for Computing Machinery
+%A Gengyang Xu
+%A Dongwei Xiao
+%A Yiteng Peng
+%A Shuai Wang
+%D 2026
+%P Article 104
+%K embodied agent, software testing, spatial cognition
+
+%0 Proceeding
+%T Companion Proceedings of the 10th International Conference on the Art, Science, and Engineering of Programming
+%@ 9798400725555
+%I Association for Computing Machinery
+%E Dirk Beyer
+%D 2026
+%C 
+
+
+%0 Conference Paper
+%T Mutual state-based capabilities for role assignment in heterogeneous teams
+%@ 9781450302500
+%U https://doi.org/10.1145/1967112.1967115
+%R 10.1145/1967112.1967115
+%B Proceedings of the 3rd International Symposium on Practical Cognitive Agents and Robots
+%I Association for Computing Machinery
+%A Somchaya Liemhetcharat
+%A Manuela Veloso
+%D 2010
+%P 16–24
+%K role assignment, multi-agent, heterogeneous teams, capability
+%C Toronto, Ontario, Canada
+
+%0 Conference Paper
+%T Visions of a Discipline: Analyzing Introductory AI Courses on YouTube
+%@ 9798400704505
+%U https://doi.org/10.1145/3630106.3659045
+%R 10.1145/3630106.3659045
+%B Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency
+%I Association for Computing Machinery
+%A Severin Engelmann
+%A Madiha Zahrah Choksi
+%A Angelina Wang
+%A Casey Fiesler
+%D 2024
+%P 2400–2420
+%K Computer science education, accountability in computer science, artificial intelligence ethics, ethics in computer science education
+%C Rio de Janeiro, Brazil
+
+%0 Conference Paper
+%T Stable and Sample-Efficient Policy Search for Continuous Control via Hybridizing Phenotypic Evolutionary Algorithm with the Double Actors Regularized Critics
+%@ 9798400701191
+%U https://doi.org/10.1145/3583131.3590455
+%R 10.1145/3583131.3590455
+%B Proceedings of the Genetic and Evolutionary Computation Conference
+%I Association for Computing Machinery
+%A Thai Huy Nguyen
+%A Ngoc Hoang Luong
+%D 2023
+%P 1239–1247
+%K continuous control, policy search, variation operators, evolutionary reinforcement learning
+%C Lisbon, Portugal
+
+%0 Conference Paper
+%T Understanding How Visually Impaired Players Socialize in Mobile Games
+%@ 9798400706769
+%U https://doi.org/10.1145/3663547.3746385
+%R 10.1145/3663547.3746385
+%B Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility
+%I Association for Computing Machinery
+%A Zihe Ran
+%A Xiyu Li
+%A Qing Xiao
+%A Yanyun Wang
+%A Franklin Mingzhe Li
+%A Zhicong Lu
+%D 2025
+%P Article 76
+%K Mobile Game, Game Accessibility, Visually Impaired Individuals, Socializing, Blind and Low Vision (BLV), Game Design
+%C 
+
+
+%0 Journal Article
+%T 120 Domain-Specific Languages for Security
+%V 58
+%@ 0360-0300
+%U https://doi.org/10.1145/3802817
+%R 10.1145/3802817
+%N 11
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Markus Krausz
+%A Sven Peldszus
+%A Thorsten Berger
+%A Francesco Regazzoni
+%A Tim Güneysu
+%D 2026
+%P Article 290
+%K Domain specific languages, security, survey
+
+%0 Conference Paper
+%T Analysis of intelligent equipment support concept
+%@ 9781450389969
+%U https://doi.org/10.1145/3456887.3457445
+%R 10.1145/3456887.3457445
+%B 2021 2nd International Conference on Computers, Information Processing and Advanced Education
+%I Association for Computing Machinery
+%A Xiangzheng Jiang
+%A Chaoyong Dou
+%A Xiaopeng Zhu
+%A Xuezhou Fan
+%A Kefei Hu
+%A Yuhang Shao
+%D 2021
+%P 979–982
+%K support mode, Intelligent equipment
+%C Ottawa, ON, Canada
+
+%0 Proceeding
+%T Proceedings of the 2025 ACM Workshop on Secure and Trustworthy Cyber-physical Systems
+%@ 9798400715020
+%I Association for Computing Machinery
+%D 2025
+%C Pittsburgh, PA, USA
+
+%0 Conference Paper
+%T RECAP: 3D Traffic Reconstruction
+%@ 9798400704895
+%U https://doi.org/10.1145/3636534.3690691
+%R 10.1145/3636534.3690691
+%B Proceedings of the 30th Annual International Conference on Mobile Computing and Networking
+%I Association for Computing Machinery
+%A Christina Suyong Shin
+%A Weiwu Pang
+%A Chuan Li
+%A Fan Bai
+%A Fawad Ahmad
+%A Jeongyeup Paek
+%A Ramesh Govindan
+%D 2024
+%P 1252–1267
+%K collaborative sensing, accident traffic reconstruction, iterative closest point
+%C Washington D.C., DC, USA
+
+%0 Proceeding
+%T Proceedings of the 2026 International Conference on Artificial Intelligence and Control
+%@ 9798400723537
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on Artificial Intelligence and Smart Manufacturing
+%@ 9798400714351
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2026 9th International Conference on Information and Computer Technologies
+%@ 9798400722523
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Journal Article
+%T AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways
+%V 57
+%@ 0360-0300
+%U https://doi.org/10.1145/3716628
+%R 10.1145/3716628
+%N 7
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Zehang Deng
+%A Yongjian Guo
+%A Changzhou Han
+%A Wanlun Ma
+%A Junwu Xiong
+%A Sheng Wen
+%A Yang Xiang
+%D 2025
+%P Article 182
+%K AI agent, trustworthiness, security
+
+%0 Conference Paper
+%T Calmbots: Exploring Possibilities of Multiple Insects with On-hand Devices and Flexible Controls as Creation Interfaces
+%@ 9781450391566
+%U https://doi.org/10.1145/3491101.3516387
+%R 10.1145/3491101.3516387
+%B Extended Abstracts of the 2022 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Yuga Tsukuda
+%A Daichi Tagami
+%A Masaaki Sadasue
+%A Shieru Suzuki
+%A Jun-Li Lu
+%A Yoichi Ochiai
+%D 2022
+%P Article 9
+%K Interfaces of Multiple Insects, Insect-based Creation
+%C New Orleans, LA, USA
+
+%0 Proceeding
+%T Proceedings of the 11th International Conference on Human-Agent Interaction
+%@ 9798400708244
+%I Association for Computing Machinery
+%E Mohammad Obaid
+%E Wafa Johal
+%E Tetsunari Inamura
+%E Muneeb Ahmed
+%E Tomoko Yonezawa
+%D 2023
+%C Gothenburg, Sweden
+
+%0 Conference Paper
+%T Integration Mechanism of Artificial Intelligence Technology Innovation and Commercialization
+%@ 9781450389969
+%U https://doi.org/10.1145/3456887.3459702
+%R 10.1145/3456887.3459702
+%B 2021 2nd International Conference on Computers, Information Processing and Advanced Education
+%I Association for Computing Machinery
+%A Hou Tianyi
+%D 2021
+%P 1467–1475
+%K marketing excellence, innovative commercialization mechanism, dynamic capability, Artificial intelligence
+%C Ottawa, ON, Canada
+
+%0 Proceeding
+%T Proceedings of the 29th ACM Symposium on Access Control Models and Technologies
+%@ 9798400704918
+%I Association for Computing Machinery
+%D 2024
+%C San Antonio, TX, USA
+
+%0 Conference Paper
+%T Changeable manufacturing processes using service-based decision-making and I4.0 service-oriented architecture
+%@ 9781450364836
+%U https://doi.org/10.1145/3241403.3241465
+%R 10.1145/3241403.3241465
+%B Proceedings of the 12th European Conference on Software Architecture: Companion Proceedings
+%I Association for Computing Machinery
+%A Zai Zhang
+%D 2018
+%P Article 9
+%K service-oriented manufacturing architecture, service-based production, asset administration shell
+%C Madrid, Spain
+
+%0 Conference Paper
+%T Synthesising Industry-Standard Manufacturing Process Controllers
+%B Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Lavindra de Silva
+%A Paolo Felli
+%A Jack C. Chaplin
+%A Brian Logan
+%A David Sanderson
+%A Svetan Ratchev
+%D 2017
+%P 1811–1813
+%K manufacturing as a service, manufacturability, controller synthesis
+%C São Paulo, Brazil
+
+%0 Proceeding
+%T ACM SIGGRAPH 2024 Immersive Pavilion
+%@ 9798400705274
+%I Association for Computing Machinery
+%E Andres Burbano
+%E Derek Ham
+%D 2024
+%C Denver, CO, USA
+
+%0 Conference Paper
+%T Towards Structured Performance Analysis of Industry 4.0 Workflow Automation Resources
+%@ 9781450362399
+%U https://doi.org/10.1145/3297663.3309671
+%R 10.1145/3297663.3309671
+%B Proceedings of the 2019 ACM/SPEC International Conference on Performance Engineering
+%I Association for Computing Machinery
+%A Ajay Kattepur
+%D 2019
+%P 189–196
+%K workflow resource patterns, queuing network, mean value analysis, industry 4.0 warehouse automation
+%C Mumbai, India
+
+%0 Proceeding
+%T Proceedings of the 2024 International Conference on Industrial Automation and Robotics
+%@ 9798400711268
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Conference Paper
+%T Multimodal Healthcare AI: Identifying and Designing Clinically Relevant Vision-Language Applications for Radiology
+%@ 9798400703300
+%U https://doi.org/10.1145/3613904.3642013
+%R 10.1145/3613904.3642013
+%B Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Nur Yildirim
+%A Hannah Richardson
+%A Maria Teodora Wetscherek
+%A Junaid Bajwa
+%A Joseph Jacob
+%A Mark Ames Pinnock
+%A Stephen Harris
+%A Daniel Coelho De Castro
+%A Shruthi Bannur
+%A Stephanie Hyland
+%A Pratik Ghosh
+%A Mercy Ranjit
+%A Kenza Bouzid
+%A Anton Schwaighofer
+%A Fernando Pérez-García
+%A Harshita Sharma
+%A Ozan Oktay
+%A Matthew Lungren
+%A Javier Alvarez-Valle
+%A Aditya Nori
+%A Anja Thieme
+%D 2024
+%P Article 444
+%K Human-centered AI, IxD, healthcare, human-AI interaction, medical imaging, radiology, responsible AI
+%C Honolulu, HI, USA
+
+%0 Conference Paper
+%T Driving Behavior Improvement through Driving Support and Review Support from Driver Agent
+%@ 9781450359535
+%U https://doi.org/10.1145/3284432.3284444
+%R 10.1145/3284432.3284444
+%B Proceedings of the 6th International Conference on Human-Agent Interaction
+%I Association for Computing Machinery
+%A Takahiro Tanaka
+%A Kazuhiro Fujikake
+%A Yuki Yoshihara
+%A Takashi Yonekawa
+%A Makoto Inagami
+%A Hirofumi Aoki
+%A Hitoshi Kanamori
+%D 2018
+%P 36–44
+%K feedback, elderly, driving support, agent
+%C Southampton, United Kingdom
+
+%0 Proceeding
+%T Proceedings of the 10th Annual International GamiFIN Conference 2026
+%@ 9798400721908
+%I Association for Computing Machinery
+%E Prajwal DSouza
+%E Hairui Tang
+%E Nannan Xi
+%E Juho Hamari
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 25th Annual ACM Interaction Design and Children Conference
+%@ 9798400722837
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 26th ACM Symposium on Access Control Models and Technologies
+%@ 9781450383653
+%I Association for Computing Machinery
+%D 2021
+%C Virtual Event, Spain
+
+%0 Proceeding
+%T Proceedings of the 2024 2nd International Conference on Artificial Intelligence, Systems and Network Security
+%@ 9798400711237
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 14th Asia-Pacific Symposium on Internetware
+%@ 9798400708947
+%I Association for Computing Machinery
+%E Hong Mei
+%E Jian Lv
+%E Zhi Jin
+%E Xuandong Li
+%E Xiaohu Yang
+%E Xin Xia
+%D 2023
+%C Hangzhou, China
+
+%0 Proceeding
+%T Proceedings of the 5th ACM International Symposium on Blockchain and Secure Critical Infrastructure
+%@ 9798400701986
+%I Association for Computing Machinery
+%E Keke Gai
+%E Kim-Kwang Raymond Choo
+%D 2023
+%C Melbourne, VIC, Australia
+
+%0 Proceeding
+%T Proceedings of the 28th International ACM Conference on 3D Web Technology
+%@ 9798400703249
+%I Association for Computing Machinery
+%E Aitor Moreno
+%E Alberto Jaspe-Villanueva
+%E Imanol Muñoz-Pandiella
+%E Jorge Posada
+%D 2023
+%C San Sebastian, Spain
+
+%0 Proceeding
+%T Proceedings of the ACM/IEEE 16th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2025)
+%@ 9798400714986
+%I Association for Computing Machinery
+%D 2025
+%C Irvine, CA, USA
+
+%0 Conference Paper
+%T A logic for reasoning about evidence and belief
+%@ 9781450349512
+%U https://doi.org/10.1145/3106426.3106519
+%R 10.1145/3106426.3106519
+%B Proceedings of the International Conference on Web Intelligence
+%I Association for Computing Machinery
+%A Tuan-Fang Fan
+%A Churn-Jung Liau
+%D 2017
+%P 509–516
+%K second-order propositional modal logic, reasoning about belief, logical omniscience, justification logic, evidential reasoning, dynamic epistemic logic
+%C Leipzig, Germany
+
+%0 Proceeding
+%T Proceedings of the 27th International Conference on Multimodal Interaction
+%@ 9798400714993
+%I Association for Computing Machinery
+%E Ram Subramanian
+%E Yukiko I. Nakano
+%E Tom Gedeon
+%E Mohan Kankanhalli
+%E Tanaya Guha
+%E Jainendra Shukla
+%E Gelareh Mohammadi
+%E Oya Celiktutan
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 22nd International Conference on Culture and Computer Science: Remixing Analog and Digital
+%@ 9798400714788
+%I Association for Computing Machinery
+%E Lucas Fabian Olivero
+%E Maja Stark
+%E Dagmar Schürrer
+%E Johann Habakuk Israel
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 10th International Conference on Cyber Security and Information Engineering
+%@ 9798400718632
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 5th International Conference on Automation Control, Algorithm and Intelligent Bionics
+%@ 9798400714313
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Conference Paper
+%T Future research challenges and applications of ubiquitous robotics
+%@ 9781450312240
+%U https://doi.org/10.1145/2370216.2370415
+%R 10.1145/2370216.2370415
+%B Proceedings of the 2012 ACM Conference on Ubiquitous Computing
+%I Association for Computing Machinery
+%A Abdelghani Chibani
+%A Yacine Amirat
+%A Samer Mohammed
+%A Norihiro Hagita
+%A Eric T. Matson
+%D 2012
+%P 883–891
+%K cloud computing, intelligent interactions, ontologies, ubiquitous computing, ubiquitous robotics, web of things
+%C Pittsburgh, Pennsylvania
+
+%0 Proceeding
+%T Proceedings of the International Conference on Machine Learning, Pattern Recognition and Automation Engineering
+%@ 9798400709876
+%I Association for Computing Machinery
+%D 2024
+%C Singapore, Singapore
+
+%0 Proceeding
+%T Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology
+%@ 9798400720376
+%I Association for Computing Machinery
+%E Andrea Bianchi
+%E Elena Glassman
+%E Wendy E. Mackay
+%E Shengdong Zhao
+%E Jeeeun Kim
+%E Ian Oakley
+%D 2025
+%C 
+
+
+%0 Journal Article
+%T Stop chasing the AI illusion
+%V 50
+%@ 0001-0782
+%U https://doi.org/10.1145/1232743.1232757
+%R 10.1145/1232743.1232757
+%N 4
+%J Commun. ACM
+%I Association for Computing Machinery
+%E Diane Crawford
+%D 2007
+%P 7–9
+
+%0 Proceeding
+%T Proceedings of the 4th International Conference on Artificial Intelligence and Computer Engineering
+%@ 9798400708831
+%I Association for Computing Machinery
+%D 2023
+%C Dalian, China
+
+%0 Conference Paper
+%T Benevolent deception in human computer interaction
+%@ 9781450318990
+%U https://doi.org/10.1145/2470654.2466246
+%R 10.1145/2470654.2466246
+%B Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+%I Association for Computing Machinery
+%A Eytan Adar
+%A Desney S. Tan
+%A Jaime Teevan
+%D 2013
+%P 1863–1872
+%K design principles, criminology, benevolent deception
+%C Paris, France
+
+%0 Proceeding
+%T Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems
+%@ 9798400704864
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%D 2024
+%C Auckland, New Zealand
+
+%0 Proceeding
+%T Proceedings of the 2025 ACM Designing Interactive Systems Conference
+%@ 9798400714856
+%I Association for Computing Machinery
+%E Nuno Jardim Nunes
+%E Valentina Nisi
+%E Ian Oakley
+%E Qian Yang
+%E Clement Zheng
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 3rd International Conference on Computer, Artificial Intelligence and Control Engineering
+%@ 9798400716942
+%I Association for Computing Machinery
+%D 2024
+%C Xi' an, China
+
+%0 Proceeding
+%T Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems
+%@ 9781450394222
+%I Association for Computing Machinery
+%E Albrecht Schmidt
+%E Kaisa Väänänen
+%E Tesh Goyal
+%E Per Ola Kristensson
+%E Anicia Peters
+%D 2023
+%C Hamburg, Germany
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on Big Data and Informatization Education
+%@ 9798400714405
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the Tenth International Symposium of Chinese CHI
+%@ 9781450398695
+%I Association for Computing Machinery
+%D 2022
+%C Guangzhou, China and Online, China
+
+%0 Proceeding
+%T Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
+%@ 9798400701320
+%I Association for Computing Machinery
+%E Sean Follmer
+%E Jeff Han
+%E Jürgen Steimle
+%E Nathalie Henry Riche
+%D 2023
+%C San Francisco, CA, USA
+
+%0 Proceeding
+%T Proceedings of the 2025 6th International Conference on Computer Information and Big Data Applications
+%@ 9798400713163
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology
+%@ 9798400706288
+%I Association for Computing Machinery
+%E Lining Yao
+%E Mayank Goel
+%E Alexandra Ion
+%E Pedro Lopes
+%D 2024
+%C Pittsburgh, PA, USA
+
+%0 Proceeding
+%T Proceedings of the Genetic and Evolutionary Computation Conference
+%@ 9798400701191
+%I Association for Computing Machinery
+%D 2023
+%C Lisbon, Portugal
+
+%0 Proceeding
+%T Proceedings of the 2025 9th International Conference on Software and e-Business
+%@ 9798400723223
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems
+%@ 9798400703300
+%I Association for Computing Machinery
+%E Florian Floyd Mueller
+%E Penny Kyburz
+%E Julie R. Williamson
+%E Corina Sas
+%E Max L. Wilson
+%E Phoebe Toups Dugas
+%E Irina Shklovski
+%D 2024
+%C Honolulu, HI, USA
+
+%0 Proceeding
+%T Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems
+%@ 9781450394215
+%I Association for Computing Machinery
+%E Albrecht Schmidt
+%E Kaisa Väänänen
+%E Tesh Goyal
+%E Per Ola Kristensson
+%E Anicia Peters
+%E Stefanie Mueller
+%E Julie R. Williamson
+%E Max L. Wilson
+%D 2023
+%C Hamburg, Germany
+
+%0 Proceeding
+%T Proceedings of the 2025 3rd International Conference on Mathematics and Machine Learning
+%@ 9798400720932
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Conference Paper
+%T Networked infomechanical systems: a mobile embedded networked sensor platform
+%@ 0780392027
+%B Proceedings of the 4th international symposium on Information processing in sensor networks
+%I IEEE Press
+%A Richard Pon
+%A Maxim A. Batalin
+%A Jason Gordon
+%A Aman Kansal
+%A Duo Liu
+%A Mohammad Rahimi
+%A Lisa Shirachi
+%A Yan Yu
+%A Mark Hansen
+%A William J. Kaiser
+%A Mani Srivastava
+%A Gaurav Sukhatme
+%A Deborah Estrin
+%D 2005
+%P 50–es
+%K system, sensor, networked, mobility, embedded, actuation
+%C Los Angeles, California
+
+%0 Proceeding
+%T Proceedings of the sixth decennial Aarhus conference: Computing X Crisis
+%@ 9798400720031
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 19th International Conference on Underwater Networks and Systems
+%@ 9798400723162
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2
+%V 2
+%@ 9798400703850
+%I Association for Computing Machinery
+%D 2024
+%C La Jolla, CA, USA
+
+%0 Proceeding
+%T Proceedings of the 6th International Conference on Information Technologies and Electrical Engineering
+%@ 9798400708299
+%I Association for Computing Machinery
+%D 2023
+%C Changde, Hunan, China
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on ns-3
+%@ 9798400715174
+%I Association for Computing Machinery
+%E Taku Noguchi
+%E Alberto Ramonet
+%E Tommaso Pecorella
+%E Mohit Tahiliani
+%E Eric Gamess
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2nd International Conference on Artificial Intelligence, Digital Media Technology and Social Computing
+%@ 9798400723407
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the Twentieth European Conference on Computer Systems
+%@ 9798400711961
+%I Association for Computing Machinery
+%D 2025
+%C Rotterdam, Netherlands
+
+%0 Proceeding
+%T Proceedings of the 29th Annual International Conference on Mobile Computing and Networking
+%@ 9781450399906
+%I Association for Computing Machinery
+%D 2023
+%C Madrid, Spain
+
+%0 Proceeding
+%T Proceedings of the 2025 6th International Conference on Big Data Economy and Information Management
+%@ 9798400720703
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on Artificial Intelligence and Digital Finance
+%@ 9798400714955
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 31st International Conference on Intelligent User Interfaces
+%@ 9798400719844
+%I Association for Computing Machinery
+%E Tsvi Kuflik
+%E Styliani Kleanthous
+%E Li Chen
+%E Giulio Jaccuci
+%E Alison Renner
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2024 International Conference on Intelligent Education and Computer Technology
+%@ 9798400709920
+%I Association for Computing Machinery
+%D 2024
+%C Guilin, China
+
+%0 Proceeding
+%T Proceedings of the 2024 7th International Conference on Signal Processing and Machine Learning
+%@ 9798400717192
+%I Association for Computing Machinery
+%D 2024
+%C Qingdao, China
+
+%0 Proceeding
+%T Proceedings of the 2022 5th International Conference on Telecommunications and Communication Engineering
+%@ 9781450397797
+%I Association for Computing Machinery
+%D 2022
+%C Chengdu, China
+
+%0 Proceeding
+%T Proceedings of the 2024 International Conference on Sports Technology and Performance Analysis
+%@ 9798400712234
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 3rd International Conference on Artificial Intelligence, Systems and Network Security
+%@ 9798400719349
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2nd International Conference on Intelligent Education and Computer Technology
+%@ 9798400714306
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2023 5th International Conference on Internet of Things, Automation and Artificial Intelligence
+%@ 9798400716485
+%I Association for Computing Machinery
+%D 2023
+%C Nanchang, China
+
+%0 Proceeding
+%T Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing
+%@ 9781450395175
+%I Association for Computing Machinery
+%D 2023
+%C Tallinn, Estonia
+
+%0 Proceeding
+%T Proceedings of the 2023 7th International Conference on Electronic Information Technology and Computer Engineering
+%@ 9798400708305
+%I Association for Computing Machinery
+%D 2023
+%C Xiamen, China
+
+%0 Proceeding
+%T Proceedings of the 2022 6th International Conference on Electronic Information Technology and Computer Engineering
+%@ 9781450397148
+%I Association for Computing Machinery
+%D 2022
+%C Xiamen, China
+
+%0 Journal Article
+%T Survey and analysis of multimodal sensor planning and integration for wide area surveillance
+%V 41
+%@ 0360-0300
+%U https://doi.org/10.1145/1456650.1456657
+%R 10.1145/1456650.1456657
+%N 1
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Besma R. Abidi
+%A Nash R. Aragam
+%A Yi Yao
+%A Mongi A. Abidi
+%D 2009
+%P Article 7
+%K wireless sensor network, ubiquitous surveillance, threat object recognition, persistent surveillance, multimodal sensing, cooperative sensing, Sensor planning
+
+%0 Proceeding
+%T Proceedings of the 2025 2nd International Conference on Artificial Intelligence and Future Education
+%@ 9798400720956
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Conference Paper
+%T Fuzzy set methods for qualitative and natural language oriented simulation
+%@ 0911801723
+%B Proceedings of the 22nd conference on Winter simulation
+%I IEEE Press
+%A Paul A. Fishwick
+%D 1990
+%P 513–519
+%C New Orleans, Louisiana, USA
+
+%0 Proceeding
+%T Abstracts of the 2024 ACM SIGMETRICS/IFIP PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems
+%@ 9798400706240
+%I Association for Computing Machinery
+%D 2024
+%C Venice, Italy
+
+%0 Proceeding
+%T Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems
+%@ 9781450398862
+%I Association for Computing Machinery
+%D 2022
+%C Boston, Massachusetts
+
+%0 Proceeding
+%T Proceedings of the 37th International Conference on Scalable Scientific Data Management
+%@ 9798400714627
+%I Association for Computing Machinery
+%E Suren Byna
+%E Anthony Kougkas
+%E Sarah Neuwirth
+%E Venkat Vishwanath
+%E Jalil Boukhobza
+%E Alfredo Cuzzocrea
+%E Dong Dai
+%E Jean Bez
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 International Symposium on Artificial Intelligence and Computational Social Sciences
+%@ 9798400721007
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Conference Paper
+%T Systematic protection mechanism design
+%@ 0897910664
+%U https://doi.org/10.1145/800050.801828
+%R 10.1145/800050.801828
+%B Proceedings of the first international symposium on Architectural support for programming languages and operating systems
+%I Association for Computing Machinery
+%A Douglas W. Jones
+%D 1982
+%P 77–80
+%C Palo Alto, California, USA
+
+%0 Proceeding
+%T Proceedings of the 52nd Annual International Symposium on Computer Architecture
+%@ 9798400712616
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 6th International Conference on Education and Multimedia Technology
+%@ 9781450396455
+%I Association for Computing Machinery
+%D 2022
+%C Guangzhou, China
+
+%0 Proceeding
+%T Proceedings of the 2023 4th International Conference on Machine Learning and Computer Application
+%@ 9798400709449
+%I Association for Computing Machinery
+%D 2023
+%C Hangzhou, China
+
+%0 Conference Paper
+%T Analysis of computing protection structures by means of multi-valued logic systems
+%B Proceedings of the eighth international symposium on Multiple-valued logic
+%I IEEE Computer Society Press
+%A Ladislav J. Kohout
+%D 1978
+%P 260–268
+%C Rosemont, Illinois, USA
+
+%0 Proceeding
+%T Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems
+%@ 9781450380966
+%I Association for Computing Machinery
+%D 2021
+%C Yokohama, Japan
+
+%0 Proceeding
+%T Proceedings of the 2025 14th International Conference on Software and Computer Applications
+%@ 9798400710124
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Conference Paper
+%T The Apiary network architecture for knowledgeable systems
+%@ 9781450373968
+%U https://doi.org/10.1145/800087.802796
+%R 10.1145/800087.802796
+%B Proceedings of the 1980 ACM conference on LISP and functional programming
+%I Association for Computing Machinery
+%A Carl Hewitt
+%D 1980
+%P 107–117
+%C Stanford University, California, USA
+
+%0 Proceeding
+%T Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency
+%@ 9798400725968
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2022 10th International Conference on Information Technology: IoT and Smart City
+%@ 9781450397438
+%I Association for Computing Machinery
+%D 2022
+%C Shanghai, China
+
+%0 Proceeding
+%T Proceedings of the 2024 International Conference on Cloud Computing and Big Data
+%@ 9798400710223
+%I Association for Computing Machinery
+%D 2024
+%C Dali, China
+
+%0 Proceeding
+%T Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility
+%@ 9798400706769
+%I Association for Computing Machinery
+%E Shaun Kane
+%E Kristen Shinohara
+%E Cynthia Bennett
+%E Martez Mott
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 2nd International Conference on Digital Economy and Computer Science
+%@ 9798400719516
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 28th International Conference on Intelligent User Interfaces
+%@ 9798400701061
+%I Association for Computing Machinery
+%D 2023
+%C Sydney, NSW, Australia
+
+%0 Proceeding
+%T Proceedings of the 14th International Conference on the Internet of Things
+%@ 9798400712852
+%I Association for Computing Machinery
+%E Ella Peltonen
+%E Sami Hyrynsalmi
+%E Isabel Wagner
+%E Jan Rellermeyer
+%E Nitinder Mohan
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2026 2nd International Conference on Big Data, Communication Technology and Computer Applications
+%@ 9798400722158
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture
+%@ 9798400703294
+%I Association for Computing Machinery
+%D 2023
+%C Toronto, ON, Canada
+
+%0 Conference Paper
+%T Multi-model parallel programming in psyche
+%@ 0897913507
+%U https://doi.org/10.1145/99163.99172
+%R 10.1145/99163.99172
+%B Proceedings of the second ACM SIGPLAN symposium on Principles &amp; practice of parallel programming
+%I Association for Computing Machinery
+%A M. L. Scott
+%A T. J. LeBlanc
+%A B. D. Marsh
+%D 1990
+%P 70–78
+%C Seattle, Washington, USA
+
+%0 Proceeding
+%T Proceedings of the 2024 7th International Conference on Artificial Intelligence and Pattern Recognition
+%@ 9798400717178
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 15th ACM/SPEC International Conference on Performance Engineering
+%@ 9798400704444
+%I Association for Computing Machinery
+%D 2024
+%C London, United Kingdom
+
+%0 Proceeding
+%T Proceedings of the IEEE/ACM 46th International Conference on Software Engineering
+%@ 9798400702174
+%I Association for Computing Machinery
+%D 2024
+%C Lisbon, Portugal
+
+%0 Proceeding
+%T Proceedings of the 2025 2nd International Conference on Generative Artificial Intelligence and Information Security
+%@ 9798400713453
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 5th ACM International Conference on Multimedia in Asia
+%@ 9798400702051
+%I Association for Computing Machinery
+%E Wen-Huang Cheng
+%E Wei-Ta Chu
+%E Min-Chun Hu
+%E Jiaying Liu
+%E Munchurl Kim
+%E Wei Zhang
+%D 2023
+%C Tainan, Taiwan
+
+%0 Proceeding
+%T Proceedings of the 2023 4th International Conference on Computer Science and Management Technology
+%@ 9798400709517
+%I Association for Computing Machinery
+%D 2023
+%C Xi'an, China
+
+%0 Proceeding
+%T Proceedings of the 13th International Conference on Information Technology: IoT and Smart City
+%@ 9798400719318
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 4th Asia-Pacific Artificial Intelligence and Big Data Forum
+%@ 9798400710865
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2024 International Conference on Parallel Architectures and Compilation Techniques
+%@ 9798400706318
+%I Association for Computing Machinery
+%D 2024
+%C Long Beach, CA, USA
+
+%0 Proceeding
+%T Proceedings of the 32nd ACM International Conference on Multimedia
+%@ 9798400706868
+%I Association for Computing Machinery
+%D 2024
+%C Melbourne VIC, Australia
+
+%0 Proceeding
+%T Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+%@ 9798400715259
+%I Association for Computing Machinery
+%D 2025
+%C Taipei, Taiwan
+
+%0 Proceeding
+%T Proceedings of the 2023 9th International Conference on Industrial and Business Engineering
+%@ 9798400708824
+%I Association for Computing Machinery
+%D 2023
+%C Beijing, China
+
+%0 Proceeding
+%T Proceedings of the New Security Paradigms Workshop
+%@ 9798400711282
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 6th International Conference on Computer Science and Management Technology
+%@ 9798400719981
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on Economic Management and Big Data Application
+%@ 9798400720109
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2023 6th International Conference on Information Management and Management Science
+%@ 9798400707681
+%I Association for Computing Machinery
+%D 2023
+%C Chengdu, China
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on Digital Transformation and Management
+%@ 9798400721571
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2024 7th Artificial Intelligence and Cloud Computing Conference
+%@ 9798400717925
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2024 16th International Conference on Machine Learning and Computing
+%@ 9798400709234
+%I Association for Computing Machinery
+%D 2024
+%C Shenzhen, China
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on Digital Education and Information Technology
+%@ 9798400713248
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T SIGGRAPH Asia 2014 Mobile Graphics and Interactive Applications
+%@ 9781450318914
+%I Association for Computing Machinery
+%D 2014
+%C Shenzhen, China
+
+%0 Proceeding
+%T Proceedings of the 2023 6th International Conference on Computational Intelligence and Intelligent Systems
+%@ 9798400709067
+%I Association for Computing Machinery
+%D 2023
+%C Tokyo, Japan
+
+%0 Proceeding
+%T Proceedings of the 2023 International Conference on Research in Adaptive and Convergent Systems
+%@ 9798400702280
+%I Association for Computing Machinery
+%D 2023
+%C Gdansk, Poland
+
+%0 Proceeding
+%T Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing
+%@ 9798400714801
+%I Association for Computing Machinery
+%E Aparecido Fabiano Pinatti de Carvalho
+%E Jessica Vitak
+%E Xiaojuan Ma
+%E Xinru Page
+%E Chiara Rossitto
+%E Norman Makoto Su
+%E Louise Barkhuus
+%E Monica Divitini
+%E Amanda Lee Hughes
+%E Jina Huh-Yoo
+%E Claudia Ignat
+%E Ryan Kelly
+%E Kurt Luther
+%E Scott McCrickard
+%E David McDonald
+%E Jessica Pater
+%E Hilda Tellioglu
+%E Adriana Vivacqua
+%E Hao-Chuan Wang
+%E Jie Cai
+%E Maia Jacobs
+%E Susanne Koch Stigberg
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2023 4th Asia Service Sciences and Software Engineering Conference
+%@ 9798400708534
+%I Association for Computing Machinery
+%D 2023
+%C Aizu-Wakamatsu City, Japan
+
+%0 Proceeding
+%T Proceedings of the 2023 3rd International Conference on Big Data, Artificial Intelligence and Risk Management
+%@ 9798400716478
+%I Association for Computing Machinery
+%D 2023
+%C Chengdu, China
+
+%0 Proceeding
+%T Proceedings of the 2025 5th International Conference on Computer Network Security and Software Engineering
+%@ 9798400713613
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2nd International Conference on Digital Society, Information Science and Risk Management
+%@ 9798400722882
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on Educational Technology and Artificial Intelligence
+%@ 9798400721168
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis
+%@ 9798400706127
+%I Association for Computing Machinery
+%D 2024
+%C Vienna, Austria
+
+%0 Proceeding
+%T Proceedings of the 28th European Conference on Pattern Languages of Programs
+%@ 9798400700408
+%I Association for Computing Machinery
+%D 2023
+%C Irsee, Germany
+
+%0 Proceeding
+%T Proceedings of the 29th Symposium on Operating Systems Principles
+%@ 9798400702297
+%I Association for Computing Machinery
+%D 2023
+%C Koblenz, Germany
+
+%0 Proceeding
+%T Proceedings of the 2025 2nd International Conference on Image Processing, Intelligent Control and Computer Engineering
+%@ 9798400721113
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Book Section
+%T The early history of Smalltalk
+%@ 0201895021
+%U https://doi.org/10.1145/234286.1057828
+%R 10.1145/234286.1057828
+%B History of programming languages---II
+%I Association for Computing Machinery
+%A Alan C. Kay
+%D 1996
+%P 511–598
+
+%0 Proceeding
+%T Proceedings of the 5th International Conference on Computer Science and Software Engineering
+%@ 9781450397780
+%I Association for Computing Machinery
+%D 2022
+%C Guilin, China
+
+%0 Proceeding
+%T Proceedings of the 25th International Symposium on Research in Attacks, Intrusions and Defenses
+%@ 9781450397049
+%I Association for Computing Machinery
+%D 2022
+%C Limassol, Cyprus
+
+%0 Proceeding
+%T Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering
+%@ 9781450394758
+%I Association for Computing Machinery
+%D 2022
+%C Rochester, MI, USA
+
+%0 Proceeding
+%T Proceedings of the 15th Asia-Pacific Symposium on Internetware
+%@ 9798400707056
+%I Association for Computing Machinery
+%E Hong Mei
+%E Jian Lv
+%E Abdelsalam Helal
+%E Xiaoxing Ma
+%E Shing-Chi Cheung
+%E Jie Zhang
+%E Tao Zhang
+%D 2024
+%C Macau, China
+
+%0 Proceeding
+%T Proceedings of the 2025 2nd International Conference on Digital Society and Artificial Intelligence
+%@ 9798400714337
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2
+%@ 9798400710797
+%I Association for Computing Machinery
+%D 2025
+%C Rotterdam, Netherlands
+
+%0 Journal Article
+%T Workshop on formal verification: (VERkshop)
+%V 5
+%@ 0163-5948
+%U https://doi.org/10.1145/1005913.1005914
+%R 10.1145/1005913.1005914
+%N 3
+%J SIGSOFT Softw. Eng. Notes
+%I Association for Computing Machinery
+%D 1980
+%P 4–47
+
+%0 Proceeding
+%T Proceedings of the 41st IEEE/ACM International Conference on Computer-Aided Design
+%@ 9781450392174
+%I Association for Computing Machinery
+%D 2022
+%C San Diego, California
+
+%0 Proceeding
+%T Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency
+%@ 9798400704505
+%I Association for Computing Machinery
+%D 2024
+%C Rio de Janeiro, Brazil
+
+%0 Proceeding
+%T Proceedings of the 2024 International Conference on Smart City and Information System
+%@ 9798400710155
+%I Association for Computing Machinery
+%D 2024
+%C Kuala Lumpur, Malaysia
+
+%0 Proceeding
+%T Proceedings of the 19th Participatory Design Conference 2026, Vol. 2: Exploratory Papers and Doctoral Colloquium
+%@ 9798400724695
+%I Association for Computing Machinery
+%E Laura Galluzzo
+%E Anna Meroni
+%E Daniela Selloni
+%E Davide Fassi
+%E Daniela de Sainz
+%E Andrea Botero
+%E Stefana Broadbent
+%E Angus Campbell
+%E Laura Forlano
+%E Elisa Giaccardi
+%E François Jégou
+%E Lucy Kimbell
+%E Priscila Lena Farias
+%E Stefano Maffei
+%E Ilaria Mariani
+%E Marzia Mortati
+%E Mudita Pasari
+%E Lucia Rampino
+%E Juan de la Rosa
+%E Stanislav Roudavski
+%E Ricardo Rugeles
+%E Sven Schade
+%E Peter Scupelli
+%E Rachel Charlotte Smith
+%E Martín Tironi
+%E Oscar Tomico
+%E Francesco Vergani
+%E Beatrice Villari
+%E Joon Sang Baek
+%E Teresa Franqueira
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2026 2nd International Conference on Digital Education and Information Technology
+%@ 9798400721700
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 15th International Conference on Digital Image Processing
+%@ 9798400708237
+%I Association for Computing Machinery
+%D 2023
+%C Nanjing, China
+
+%0 Proceeding
+%T Proceedings of the 17th International Conference on Availability, Reliability and Security
+%@ 9781450396707
+%I Association for Computing Machinery
+%D 2022
+%C Vienna, Austria
+
+%0 Book Section
+%T The evolution of Lisp
+%@ 0201895021
+%U https://doi.org/10.1145/234286.1057818
+%R 10.1145/234286.1057818
+%B History of programming languages---II
+%I Association for Computing Machinery
+%A Guy L. Steele
+%A Richard P. Gabriel
+%D 1996
+%P 233–330
+
+%0 Proceeding
+%T Proceedings of the 2025 2nd International Conference on Computer and Multimedia Technology
+%@ 9798400713347
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security
+%@ 9798400706363
+%I Association for Computing Machinery
+%D 2024
+%C Salt Lake City, UT, USA
+
+%0 Proceeding
+%T Proceedings of the 15th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics
+%@ 9798400713026
+%I Association for Computing Machinery
+%D 2024
+%C Shenzhen, China
+
+%0 Proceeding
+%T Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security
+%@ 9798400700989
+%I Association for Computing Machinery
+%E Joseph Liu
+%E Yang Xiang
+%E Surya Nepal
+%E Gene Tsudik
+%D 2023
+%C Melbourne, VIC, Australia
+
+%0 Proceeding
+%T Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3
+%V 3
+%@ 9798400703867
+%I Association for Computing Machinery
+%D 2024
+%C La Jolla, CA, USA
+
+%0 Proceeding
+%T Proceedings of the 19th ACM Asia Conference on Computer and Communications Security
+%@ 9798400704826
+%I Association for Computing Machinery
+%D 2024
+%C Singapore, Singapore
+
+%0 Proceeding
+%T Proceedings of the International Conference on Parallel Architectures and Compilation Techniques
+%@ 9781450398688
+%I Association for Computing Machinery
+%D 2022
+%C Chicago, Illinois
+
+%0 Proceeding
+%T Proceedings of the 8th International Conference on Sustainable Information Engineering and Technology
+%@ 9798400708503
+%I Association for Computing Machinery
+%E Edita Rosana Widasari
+%E Putra Pandu Adikara
+%D 2023
+%C Badung, Bali, Indonesia
+
+%0 Proceeding
+%T Proceedings of the ACM SIGCOMM 2023 Conference
+%@ 9798400702365
+%I Association for Computing Machinery
+%D 2023
+%C New York, NY, USA
+
+%0 Proceeding
+%T Proceedings of the ACM on Web Conference 2025
+%@ 9798400712746
+%I Association for Computing Machinery
+%D 2025
+%C Sydney NSW, Australia
+
+%0 Proceeding
+%T Proceedings of the 2025 ACM Symposium on Cloud Computing
+%@ 9798400722769
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval
+%@ 9798400704314
+%I Association for Computing Machinery
+%D 2024
+%C Washington DC, USA
+
+%0 Proceeding
+%T Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages
+%@ 9781450333009
+%I Association for Computing Machinery
+%D 2015
+%C Mumbai, India
+

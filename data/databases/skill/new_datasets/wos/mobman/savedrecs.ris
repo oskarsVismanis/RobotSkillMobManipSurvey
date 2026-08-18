@@ -1,0 +1,989 @@
+﻿TY  - CPAPER
+AU  - Pohl, C
+AU  - Reister, F
+AU  - Peller-Konrad, F
+AU  - Asfour, T
+A1  - IEEE
+TI  - MAkEable: Memory-centered and Affordance-based Task Execution Framework for Transferable Mobile Manipulation Skills
+T2  - 2024 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, IROS 2024
+CP  - 2024 International Conference on Intelligent Robots and Systems
+SN  - 2153-0858
+SN  - 979-8-3503-7771-2
+SN  - 979-8-3503-7770-5
+PY  - 2024
+SP  - 3674
+EP  - 3681
+DO  - 10.1109/IROS58592.2024.10801986
+AN  - WOS:001411890000407
+ER  -
+
+TY  - CPAPER
+AU  - Rosen, E
+AU  - James, S
+AU  - Orozco, S
+AU  - Gupta, V
+AU  - Merlin, M
+AU  - Tellex, S
+AU  - Konidaris, G
+ED  - Tan, J
+ED  - Toussaint, M
+ED  - Darvish, K
+TI  - Synthesizing Navigation Abstractions for Planning with Portable Manipulation Skills
+T2  - CONFERENCE ON ROBOT LEARNING, VOL 229
+CP  - 7th Conference on Robot Learning (CoRL)
+SN  - 2640-3498
+PY  - 2023
+VL  - 229
+AN  - WOS:001221201502017
+ER  -
+
+TY  - CPAPER
+AU  - Arenas, MG
+AU  - Xiao, T
+AU  - Singh, S
+AU  - Jain, V
+AU  - Ren, A
+AU  - Vuong, Q
+AU  - Varley, J
+AU  - Lerzog, A
+AU  - Leal, I
+AU  - Kirmani, S
+AU  - Prats, M
+AU  - Sadigh, D
+AU  - Sindhwani, V
+AU  - Rao, K
+AU  - Ljang, J
+AU  - Zeng, A
+A1  - IEEE
+TI  - How to Prompt Your Robot: A PromptBook for Manipulation Skills with Code as Policies
+T2  - 2024 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA 2024
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 979-8-3503-8458-1
+SN  - 979-8-3503-8457-4
+PY  - 2024
+SP  - 4340
+EP  - 4348
+DO  - 10.1109/ICRA57147.2024.10610784
+AN  - WOS:001294576203060
+ER  -
+
+TY  - JOUR
+AU  - Zhao, JZ
+AU  - Tassi, F
+AU  - Huang, YL
+AU  - De Momi, E
+AU  - Ajoudani, A
+TI  - A combined learning and optimization framework to transfer human whole-body loco-manipulation skills to mobile manipulators
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - JUL
+PY  - 2025
+VL  - 189
+C7  - 104958
+DO  - 10.1016/j.robot.2025.104958
+C6  - JUL 2025
+AN  - WOS:001448388100001
+ER  -
+
+TY  - CPAPER
+AU  - Li, CS
+AU  - Zhang, RH
+AU  - Wong, J
+AU  - Gokmen, C
+AU  - Srivastava, S
+AU  - Martin-Martin, R
+AU  - Wang, C
+AU  - Levine, G
+AU  - Lingelbach, M
+AU  - Sun, JK
+AU  - Anvari, M
+AU  - Hwang, M
+AU  - Sharma, M
+AU  - Aydin, A
+AU  - Bansal, D
+AU  - Hunter, S
+AU  - Kim, KY
+AU  - Lou, A
+AU  - Matthews, CR
+AU  - Villa-Renteria, I
+AU  - Tang, JH
+AU  - Tang, C
+AU  - Xia, F
+AU  - Savarese, S
+AU  - Gweon, H
+AU  - Liu, CK
+AU  - Wu, JJ
+AU  - Fei-Fei, L
+ED  - Liu, K
+ED  - Kulic, D
+ED  - Ichnowski, J
+TI  - BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation
+T2  - CONFERENCE ON ROBOT LEARNING, VOL 205
+CP  - 6th Conference on Robot Learning (CoRL)
+SN  - 2640-3498
+PY  - 2022
+VL  - 205
+SP  - 80
+EP  - 93
+AN  - WOS:001232393400008
+ER  -
+
+TY  - JOUR
+AU  - Qin, DD
+AU  - Liu, AD
+AU  - Xu, JM
+AU  - Zhang, WA
+AU  - Yu, L
+TI  - Learning From Human Demonstrations for Wheel Mobile Manipulator: An Unscented Model Predictive Control Approach
+T2  - IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+SN  - 2162-237X
+SN  - 2162-2388
+DA  - DEC
+PY  - 2023
+VL  - 34
+IS  - 12
+SP  - 10864
+EP  - 10874
+DO  - 10.1109/TNNLS.2022.3171595
+C6  - MAY 2022
+AN  - WOS:000798352500001
+ER  -
+
+TY  - CPAPER
+AU  - Wang, FY
+AU  - Lyu, SP
+AU  - Zhou, P
+AU  - Duan, AQ
+AU  - Guo, GD
+AU  - Navarro-Alarcon, D
+ED  - Walsh, T
+ED  - Shah, J
+ED  - Kolter, Z
+TI  - Instruction-Augmented Long-Horizon Planning: Embedding Grounding Mechanisms in Embodied Mobile Manipulation
+T2  - THIRTY-NINTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE, AAAI-25, VOL 39 NO 14
+CP  - 39th AAAI Conference on Artificial Intelligence
+SN  - 2159-5399
+SN  - 2374-3468
+PY  - 2025
+SP  - 14690
+EP  - 14698
+AN  - WOS:001477536200018
+ER  -
+
+TY  - CPAPER
+AU  - Koch, PJ
+AU  - van Amstel, MK
+AU  - Debska, P
+AU  - Thormann, MA
+AU  - Tetzlaff, AJ
+AU  - Bogh, S
+AU  - Chrysostomou, D
+ED  - Pellicciari, M
+ED  - Peruzzini, M
+TI  - A Skill-based Robot Co-worker for Industrial Maintenance Tasks
+T2  - 27TH INTERNATIONAL CONFERENCE ON FLEXIBLE AUTOMATION AND INTELLIGENT MANUFACTURING, FAIM2017
+CP  - 27th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM)
+SN  - 2351-9789
+PY  - 2017
+VL  - 11
+SP  - 83
+EP  - 90
+DO  - 10.1016/j.promfg.2017.07.141
+AN  - WOS:000419072100010
+ER  -
+
+TY  - JOUR
+AU  - Djezairi, S
+AU  - Razika, BZ
+AU  - Akli, I
+AU  - Bouzouia, B
+TI  - Layered task planning for mobile manipulators
+T2  - COMPUTERS & ELECTRICAL ENGINEERING
+SN  - 0045-7906
+SN  - 1879-0755
+DA  - OCT
+PY  - 2019
+VL  - 79
+C7  - 106464
+DO  - 10.1016/j.compeleceng.2019.106464
+AN  - WOS:000492799200018
+ER  -
+
+TY  - JOUR
+AU  - Shan, ZY
+AU  - Zhou, YH
+AU  - Wu, GY
+AU  - Ji, ZH
+AU  - Wu, ZY
+AU  - Wang, ZW
+TI  - DockAnywhere: Data-Efficient Visuomotor Policy Learning for Mobile Manipulation via Novel Demonstration Generation
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - JUL
+PY  - 2026
+VL  - 11
+IS  - 7
+SP  - 7724
+EP  - 7731
+DO  - 10.1109/LRA.2026.3688095
+AN  - WOS:001767245500002
+ER  -
+
+TY  - CPAPER
+AU  - Watanabe, S
+AU  - Horn, G
+AU  - Torresen, J
+AU  - Ellefsen, KO
+A1  - IEEE
+TI  - Improving Robot Skills by Integrating Task and Motion Planning with Learning from Demonstration
+T2  - 2024 6TH INTERNATIONAL CONFERENCE ON CONTROL AND ROBOTICS, ICCR
+CP  - 2024 International Conference on Control and Robotics
+SN  - 979-8-3315-1816-5
+SN  - 979-8-3315-1815-8
+PY  - 2024
+SP  - 226
+EP  - 233
+DO  - 10.1109/ICCR64365.2024.10927043
+AN  - WOS:001465706000036
+ER  -
+
+TY  - JOUR
+AU  - Ding, L
+AU  - Xing, HJ
+AU  - Torabi, A
+AU  - Mehr, JK
+AU  - Sharifi, M
+AU  - Gao, HB
+AU  - Mushahwar, VK
+AU  - Tavakoli, M
+TI  - Intelligent assistance for older adults via an admittance-controlled wheeled mobile manipulator with task-dependent end-effectors
+T2  - MECHATRONICS
+SN  - 0957-4158
+DA  - AUG
+PY  - 2022
+VL  - 85
+C7  - 102821
+DO  - 10.1016/j.mechatronics.2022.102821
+C6  - MAY 2022
+AN  - WOS:000806145000001
+ER  -
+
+TY  - CPAPER
+AU  - Dadiotis, I
+AU  - Mittalm, M
+AU  - Tsagarakisl, N
+AU  - Hutter, M
+ED  - Ott, C
+TI  - Dynamic object goal pushing with mobile manipulators through model-free constrained reinforcement learning
+T2  - 2025 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - 2025 International Conference on Robotics and Automation-ICRA-Annual
+SN  - 979-8-3315-4140-8
+SN  - 979-8-3315-4139-2
+PY  - 2025
+SP  - 13363
+EP  - 13369
+DO  - 10.1109/ICRA55743.2025.11128166
+AN  - WOS:001614889900179
+ER  -
+
+TY  - CPAPER
+AU  - Kenney, J
+AU  - Buckley, T
+AU  - Brock, O
+A1  - IEEE
+TI  - Interactive Segmentation for Manipulation in Unstructured Environments
+T2  - ICRA: 2009 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, VOLS 1-7
+CP  - IEEE International Conference on Robotics and Automation
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4244-2788-8
+PY  - 2009
+SP  - 1343
+EP  - 1348
+AN  - WOS:000276080400218
+ER  -
+
+TY  - JOUR
+AU  - Pedersen, MR
+AU  - Nalpantidis, L
+AU  - Andersen, RS
+AU  - Schou, C
+AU  - Bogh, S
+AU  - Krüger, V
+AU  - Madsen, O
+TI  - Robot skills for manufacturing: From concept to industrial deployment
+T2  - ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+SN  - 0736-5845
+SN  - 1879-2537
+DA  - FEB
+PY  - 2016
+VL  - 37
+SP  - 282
+EP  - 291
+DO  - 10.1016/j.rcim.2015.04.002
+AN  - WOS:000363816900026
+ER  -
+
+TY  - CPAPER
+AU  - Rovida, F
+AU  - Krüger, V
+A1  - IEEE
+TI  - Design and development of a software architecture for autonomous mobile manipulators in industrial environments
+T2  - 2015 IEEE INTERNATIONAL CONFERENCE ON INDUSTRIAL TECHNOLOGY (ICIT)
+CP  - IEEE International Conference on Industrial Technology (ICIT)
+SN  - 978-1-4799-7800-7
+PY  - 2015
+SP  - 3288
+EP  - 3295
+AN  - WOS:000377572203019
+ER  -
+
+TY  - JOUR
+AU  - Zhao, JZ
+AU  - Teng, T
+AU  - De Momi, E
+AU  - Ajoudani, A
+TI  - Reactive Whole-body Locomotion-integrated Manipulation Based on Combined Learning and Optimization
+T2  - MACHINE INTELLIGENCE RESEARCH
+SN  - 2731-538X
+SN  - 2731-5398
+DA  - AUG
+PY  - 2025
+VL  - 22
+IS  - 4
+SP  - 627
+EP  - 640
+DO  - 10.1007/s11633-024-1538-9
+C6  - JUN 2025
+AN  - WOS:001518498200001
+ER  -
+
+TY  - JOUR
+AU  - Asfour, T
+AU  - Wächter, M
+AU  - Kaul, L
+AU  - Rader, S
+AU  - Weiner, P
+AU  - Ottenhaus, S
+AU  - Grimm, R
+AU  - Zhou, Y
+AU  - Grotz, M
+AU  - Paus, F
+TI  - ARMAR-6: A High-Performance Humanoid for Human-Robot Collaboration in Real-World Scenarios
+T2  - IEEE ROBOTICS & AUTOMATION MAGAZINE
+SN  - 1070-9932
+SN  - 1558-223X
+DA  - DEC
+PY  - 2019
+VL  - 26
+IS  - 4
+SP  - 108
+EP  - 121
+DO  - 10.1109/MRA.2019.2941246
+AN  - WOS:000502779800013
+ER  -
+
+TY  - CPAPER
+AU  - Arrais, R
+AU  - Veiga, G
+AU  - Ribeiro, TT
+AU  - Oliveira, D
+AU  - Fernandes, R
+AU  - Conceiçao, AGS
+AU  - Farias, PCMA
+ED  - Oliveira, PM
+ED  - Novais, P
+ED  - Reis, LP
+TI  - Application of the Open Scalable Production System to Machine Tending of Additive Manufacturing Operations by a Mobile Manipulator
+T2  - PROGRESS IN ARTIFICIAL INTELLIGENCE, PT II
+CP  - 19th EPIA Conference on Artificial Intelligence (EPIA)
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-3-030-30244-3
+SN  - 978-3-030-30243-6
+PY  - 2019
+VL  - 11805
+SP  - 345
+EP  - 356
+DO  - 10.1007/978-3-030-30244-3_29
+AN  - WOS:000772691000029
+ER  -
+
+TY  - CPAPER
+AU  - Youngquist, O
+AU  - Spirot, A
+AU  - Doctort, K
+AU  - Grupen, R
+A1  - IEEE
+TI  - Evaluating Sensorimotor Abstraction on Curricula for Learning Mobile Manipulation Skills
+T2  - 2022 IEEE INTERNATIONAL CONFERENCE ON DEVELOPMENT AND LEARNING, ICDL
+CP  - IEEE International Conference on Development and Learning (ICDL)
+SN  - 978-1-6654-1311-4
+PY  - 2022
+SP  - 75
+EP  - 80
+DO  - 10.1109/ICDL53763.2022.9962221
+AN  - WOS:001353995400012
+ER  -
+
+TY  - CPAPER
+AU  - Donald, R
+AU  - Hertel, B
+AU  - Misenti, S
+AU  - Gu, Y
+AU  - Azadeh, R
+A1  - IEEE
+TI  - An Adaptive Framework for Manipulator Skill Reproduction in Dynamic Environments
+T2  - 2024 21ST INTERNATIONAL CONFERENCE ON UBIQUITOUS ROBOTS, UR 2024
+CP  - 21st International Conference on Ubiquitous Robots (UR)
+SN  - 979-8-3503-6108-7
+SN  - 979-8-3503-6107-0
+PY  - 2024
+SP  - 498
+EP  - 503
+DO  - 10.1109/UR61395.2024.10597445
+AN  - WOS:001283831100008
+ER  -
+
+TY  - JOUR
+AU  - Guan, YS
+AU  - Zhu, HF
+AU  - Wu, WQ
+AU  - Zhou, XF
+AU  - Jiang, L
+AU  - Cai, CW
+AU  - Zhang, LM
+AU  - Zhang, H
+TI  - A Modular Biped Wall-Climbing Robot With High Mobility and Manipulating Function
+T2  - IEEE-ASME TRANSACTIONS ON MECHATRONICS
+SN  - 1083-4435
+SN  - 1941-014X
+DA  - DEC
+PY  - 2013
+VL  - 18
+IS  - 6
+SP  - 1787
+EP  - 1798
+DO  - 10.1109/TMECH.2012.2213303
+AN  - WOS:000328700200016
+ER  -
+
+TY  - CPAPER
+AU  - Holz, D
+AU  - Topalidou-Kyniazopoulou, A
+AU  - Rovida, F
+AU  - Pedersen, MR
+AU  - Krüger, V
+AU  - Behnke, S
+A1  - IEEE
+TI  - A Skill-Based System for Object Perception and Manipulation for Automating Kitting Tasks
+T2  - PROCEEDINGS OF 2015 IEEE 20TH CONFERENCE ON EMERGING TECHNOLOGIES & FACTORY AUTOMATION (ETFA)
+CP  - 20th IEEE Conference on Emerging Technologies and Factory Automation (ETFA)
+SN  - 1946-0740
+SN  - 1946-0759
+SN  - 978-1-4673-7929-8
+PY  - 2015
+AN  - WOS:000378564800054
+ER  -
+
+TY  - JOUR
+AU  - Outón, JL
+AU  - Villaverde, I
+AU  - Herrero, H
+AU  - Esnaola, U
+AU  - Sierra, B
+TI  - Innovative Mobile Manipulator Solution for Modern Flexible Manufacturing Processes
+T2  - SENSORS
+SN  - 1424-8220
+DA  - DEC 2
+PY  - 2019
+VL  - 19
+IS  - 24
+C7  - 5414
+DO  - 10.3390/s19245414
+AN  - WOS:000517961400077
+ER  -
+
+TY  - JOUR
+AU  - Schmalstieg, F
+AU  - Honerkamp, D
+AU  - Welschehold, T
+AU  - Valada, A
+TI  - Learning Hierarchical Interactive Multi-Object Search for Mobile Manipulation
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - DEC
+PY  - 2023
+VL  - 8
+IS  - 12
+SP  - 8549
+EP  - 8556
+DO  - 10.1109/LRA.2023.3329619
+AN  - WOS:001109132700008
+ER  -
+
+TY  - CPAPER
+AU  - Pedersen, MR
+AU  - Herzog, DL
+AU  - Krüger, V
+A1  - IEEE
+TI  - Intuitive skill-level programming of industrial handling tasks on a mobile manipulator
+T2  - 2014 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS 2014)
+CP  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-4799-6934-0
+PY  - 2014
+SP  - 4523
+EP  - 4530
+AN  - WOS:000349834604095
+ER  -
+
+TY  - JOUR
+AU  - Kim, H
+AU  - Oh, C
+AU  - Jang, I
+AU  - Park, S
+AU  - Seo, H
+AU  - Kim, HJ
+TI  - Learning and Generalizing Cooperative Manipulation Skills Using Parametric Dynamic Movement Primitives
+T2  - IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+SN  - 1545-5955
+SN  - 1558-3783
+DA  - OCT
+PY  - 2022
+VL  - 19
+IS  - 4
+SP  - 3968
+EP  - 3979
+DO  - 10.1109/TASE.2022.3141460
+C6  - JAN 2022
+AN  - WOS:000745523400001
+ER  -
+
+TY  - CPAPER
+AU  - Teng, T
+AU  - Fernandes, M
+AU  - Gatti, M
+AU  - Poni, S
+AU  - Semini, C
+AU  - Caldwell, D
+AU  - Chen, F
+A1  - IEEE
+TI  - Whole-Body Control on Non-holonomic Mobile Manipulation for Grapevine Winter Pruning Automation
+T2  - 2021 6TH IEEE INTERNATIONAL CONFERENCE ON ADVANCED ROBOTICS AND MECHATRONICS (ICARM 2021)
+CP  - 6th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)
+SN  - 978-0-7381-3364-5
+PY  - 2021
+SP  - 37
+EP  - 42
+DO  - 10.1109/ICARM52023.2021.9536083
+AN  - WOS:000728141500007
+ER  -
+
+TY  - CPAPER
+AU  - Andersen, RS
+AU  - Bogh, S
+AU  - Moeslund, TB
+AU  - Madsen, O
+A1  - IEEE
+TI  - Intuitive Task Programming of Stud Welding Robots for Ship Construction
+T2  - 2015 IEEE INTERNATIONAL CONFERENCE ON INDUSTRIAL TECHNOLOGY (ICIT)
+CP  - IEEE International Conference on Industrial Technology (ICIT)
+SN  - 978-1-4799-7800-7
+PY  - 2015
+SP  - 3302
+EP  - 3307
+AN  - WOS:000377572203021
+ER  -
+
+TY  - CPAPER
+AU  - Stückler, J
+AU  - Droeschel, D
+AU  - Gräve, K
+AU  - Holz, D
+AU  - Schreiber, M
+AU  - Topalidou-Kyniazopoulou, A
+AU  - Schwarz, M
+AU  - Behnke, S
+ED  - Behnke, S
+ED  - Veloso, M
+ED  - Visser, A
+ED  - Xiong, R
+TI  - Increasing Flexibility of Mobile Manipulation and Intuitive Human-Robot Interaction in RoboCup@Home
+T2  - ROBOCUP 2013: ROBOT WORLD CUP XVII
+CP  - 17th International Symposium on Robot World Cup (RoboCup)
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 978-3-662-44468-9
+SN  - 978-3-662-44467-2
+PY  - 2014
+VL  - 8371
+SP  - 135
+EP  - 146
+AN  - WOS:000349024200013
+ER  -
+
+TY  - CPAPER
+AU  - Black, K
+AU  - Brown, N
+AU  - Darpinian, J
+AU  - Dhabalia, K
+AU  - Driess, D
+AU  - Esmail, A
+AU  - Equi, M
+AU  - Finn, C
+AU  - Fusai, N
+AU  - Galliker, MY
+AU  - Ghosh, D
+AU  - Groom, L
+AU  - Hausman, K
+AU  - Ichter, B
+AU  - Jakubczak, S
+AU  - Jones, T
+AU  - Ke, LYM
+AU  - LeBlanc, D
+AU  - Levine, S
+AU  - Li-Bell, A
+AU  - Mothukuri, M
+AU  - Nair, S
+AU  - Pertsch, K
+AU  - Ren, AZ
+AU  - Shi, LX
+AU  - Smith, L
+AU  - Springenberg, JT
+AU  - Stachowicz, K
+AU  - Tanner, J
+AU  - Vuong, Q
+AU  - Walke, H
+AU  - Walling, A
+AU  - Wang, HH
+AU  - Yu, LL
+AU  - Zhilinsky, U
+ED  - Lim, J
+ED  - Song, S
+ED  - Park, HW
+TI  - π0.5: a Vision-Language-Action Model with Open-World Generalization
+T2  - CONFERENCE ON ROBOT LEARNING
+CP  - 9th Conference on Robot Learning-CORL-Annual
+SN  - 2640-3498
+PY  - 2025
+VL  - 305
+SP  - 17
+EP  - 40
+AN  - WOS:001676333500002
+ER  -
+
+TY  - CPAPER
+AU  - Andersen, RE
+AU  - Hansen, EB
+AU  - Cerny, D
+AU  - Madsen, S
+AU  - Pulendralingam, B
+AU  - Bogh, S
+AU  - Chrysostomou, D
+ED  - Pellicciari, M
+ED  - Peruzzini, M
+TI  - Integration of a skill-based collaborative mobile robot in a smart cyber-physical environment
+T2  - 27TH INTERNATIONAL CONFERENCE ON FLEXIBLE AUTOMATION AND INTELLIGENT MANUFACTURING, FAIM2017
+CP  - 27th International Conference on Flexible Automation and Intelligent Manufacturing (FAIM)
+SN  - 2351-9789
+PY  - 2017
+VL  - 11
+SP  - 114
+EP  - 123
+DO  - 10.1016/j.promfg.2017.07.209
+AN  - WOS:000419072100014
+ER  -
+
+TY  - JOUR
+AU  - Lim, GH
+AU  - Pedrosa, E
+AU  - Amaral, F
+AU  - Pereira, A
+AU  - Lau, N
+AU  - Azevedo, JL
+AU  - Cunha, B
+AU  - Badini, S
+TI  - Skill-based anytime agent architecture for European Robotics Challenges in realistic environments: EuRoC Challenge 2, Stage II - realistic labs
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - OCT
+PY  - 2019
+VL  - 120
+C7  - 103227
+DO  - 10.1016/j.robot.2019.06.006
+AN  - WOS:000488332300007
+ER  -
+
+TY  - JOUR
+AU  - Toner, T
+AU  - Tilbury, DM
+AU  - Barton, K
+TI  - PRF: A Program Reuse Framework for Automated Programming by Learning from Existing Robot Programs
+T2  - ROBOTICS
+SN  - 2218-6581
+DA  - AUG
+PY  - 2024
+VL  - 13
+IS  - 8
+C7  - 118
+DO  - 10.3390/robotics13080118
+AN  - WOS:001304652800001
+ER  -
+
+TY  - CPAPER
+AU  - Youakim, D
+AU  - Dornbush, A
+AU  - Likhachev, M
+AU  - Ridao, P
+A1  - Kosecka, J
+ED  - Maciejewski, AA
+ED  - Okamura, A
+ED  - Bicchi, A
+ED  - Stachniss, C
+ED  - Song, DZ
+ED  - Lee, DH
+ED  - Chaumette, F
+ED  - Ding, H
+ED  - Li, JS
+ED  - Wen, J
+ED  - Roberts, J
+ED  - Masamune, K
+ED  - Chong, NY
+ED  - Amato, N
+ED  - Tsagwarakis, N
+ED  - Rocco, P
+ED  - Asfour, T
+ED  - Chung, WK
+ED  - Yasuyoshi, Y
+ED  - Sun, Y
+ED  - Maciekeski, T
+ED  - Althoefer, K
+ED  - AndradeCetto, J
+ED  - Chung, WK
+ED  - Demircan, E
+ED  - Dias, J
+ED  - Fraisse, P
+ED  - Gross, R
+ED  - Harada, H
+ED  - Hasegawa, Y
+ED  - Hayashibe, M
+ED  - Kiguchi, K
+ED  - Kim, K
+ED  - Kroeger, T
+ED  - Li, Y
+ED  - Ma, S
+ED  - Mochiyama, H
+ED  - Monje, CA
+ED  - Rekleitis, I
+ED  - Roberts, R
+ED  - Stulp, F
+ED  - Tsai, CHD
+ED  - Zollo, L
+TI  - Motion Planning for an Underwater Mobile Manipulator by Exploiting Loose Coupling
+T2  - 2018 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS (IROS)
+CP  - 25th IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SN  - 2153-0858
+SN  - 978-1-5386-8094-0
+PY  - 2018
+SP  - 7164
+EP  - 7171
+AN  - WOS:000458872706081
+ER  -
+
+TY  - CPAPER
+AU  - Li, FM
+AU  - Jiang, Q
+AU  - Quan, W
+AU  - Song, R
+AU  - Li, YB
+A1  - IEEE
+TI  - Manipulation Skill Acquisition for Robotic Assembly using Deep Reinforcement Learning
+T2  - 2019 IEEE/ASME INTERNATIONAL CONFERENCE ON ADVANCED INTELLIGENT MECHATRONICS (AIM)
+CP  - IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+SN  - 2159-6255
+SN  - 978-1-7281-2493-3
+PY  - 2019
+SP  - 13
+EP  - 18
+DO  - 10.1109/aim.2019.8868579
+AN  - WOS:000531652900003
+ER  -
+
+TY  - CPAPER
+AU  - Huang, XY
+AU  - Batra, D
+AU  - Rai, A
+AU  - Szot, A
+A1  - IEEE
+TI  - Skill Transformer: A Monolithic Policy for Mobile Manipulation
+T2  - 2023 IEEE/CVF INTERNATIONAL CONFERENCE ON COMPUTER VISION (ICCV 2023)
+CP  - IEEE/CVF International Conference on Computer Vision (ICCV)
+SN  - 1550-5499
+SN  - 979-8-3503-0718-4
+PY  - 2023
+SP  - 10818
+EP  - 10828
+DO  - 10.1109/ICCV51070.2023.00996
+AN  - WOS:001169499003026
+ER  -
+
+TY  - JOUR
+AU  - Pedersen, MR
+AU  - Krüger, V
+TI  - Gesture-Based Extraction of Robot Skill Parameters for Intuitive Robot Programming
+T2  - JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
+CP  - 10th National Meeting of Artificial and Computational Intelligence (ENIAC)
+SN  - 0921-0296
+SN  - 1573-0409
+DA  - DEC
+PY  - 2015
+VL  - 80
+SP  - S149
+EP  - S163
+DO  - 10.1007/s10846-015-0219-x
+AN  - WOS:000368189000010
+ER  -
+
+TY  - JOUR
+AU  - Kostavelis, I
+AU  - Kargakos, A
+AU  - Skartados, E
+AU  - Peleka, G
+AU  - Giakoumis, D
+AU  - Sarantopoulos, I
+AU  - Agriomallos, I
+AU  - Doulgeri, Z
+AU  - Endo, S
+AU  - Stueber, H
+AU  - Janjos, F
+AU  - Hirche, S
+AU  - Tzovaras, D
+TI  - Robotic Assistance in Medication Intake: A Complete Pipeline
+T2  - APPLIED SCIENCES-BASEL
+SN  - 2076-3417
+DA  - FEB
+PY  - 2022
+VL  - 12
+IS  - 3
+C7  - 1379
+DO  - 10.3390/app12031379
+AN  - WOS:000760212000001
+ER  -
+
+TY  - CPAPER
+AU  - Stückler, J
+AU  - Behnke, S
+A1  - IEEE
+TI  - Efficient Deformable Registration of Multi-Resolution Surfel Maps for Object Manipulation Skill Transfer
+T2  - 2014 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+CP  - IEEE International Conference on Robotics and Automation (ICRA)
+SN  - 1050-4729
+SN  - 2577-087X
+SN  - 978-1-4799-3685-4
+PY  - 2014
+SP  - 994
+EP  - 1001
+AN  - WOS:000377221101001
+ER  -
+
+TY  - JOUR
+AU  - Förster, J
+AU  - Ott, L
+AU  - Nieto, J
+AU  - Lawrance, N
+AU  - Siegwart, R
+AU  - Chung, JJ
+TI  - Automatic extension of a symbolic mobile manipulation skill set
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - JUL
+PY  - 2023
+VL  - 165
+C7  - 104428
+DO  - 10.1016/j.robot.2023.104428
+C6  - APR 2023
+AN  - WOS:000989986800001
+ER  -
+
+TY  - JOUR
+AU  - Diab, M
+AU  - Pomarlan, M
+AU  - Bessler, D
+AU  - Akbari, A
+AU  - Rosell, J
+AU  - Bateman, J
+AU  - Beetz, M
+TI  - SkillMaN - A skill-based robotic manipulation framework based on perception and reasoning
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - DEC
+PY  - 2020
+VL  - 134
+C7  - 103653
+DO  - 10.1016/j.robot.2020.103653
+AN  - WOS:000586017500009
+ER  -
+
+TY  - JOUR
+AU  - Yang, QT
+AU  - Dürr, A
+AU  - Topp, EA
+AU  - Stork, JA
+AU  - Stoyanov, T
+TI  - Variable Impedance Skill Learning for Contact-Rich Manipulation
+T2  - IEEE ROBOTICS AND AUTOMATION LETTERS
+SN  - 2377-3766
+DA  - JUL
+PY  - 2022
+VL  - 7
+IS  - 3
+SP  - 8391
+EP  - 8398
+DO  - 10.1109/LRA.2022.3187276
+AN  - WOS:000838455200009
+ER  -
+
+TY  - CPAPER
+AU  - Weser, M
+AU  - Hang, JW
+A1  - IEEE
+TI  - Autonomous Planning for Mobile Manipulation Services Based on Multi-Level Robot Skills
+T2  - 2009 IEEE-RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+CP  - IEEE RSJ International Conference on Intelligent Robots and Systems
+SN  - 978-1-4244-3803-7
+PY  - 2009
+SP  - 1999
+EP  - 2004
+DO  - 10.1109/IROS.2009.5353901
+AN  - WOS:000285372901022
+ER  -
+
+TY  - CPAPER
+AU  - Rovida, F
+AU  - Krueger, V
+AU  - Nalpantidis, L
+AU  - Charzoule, A
+AU  - Lasnier, A
+AU  - Petrick, R
+AU  - Crosby, M
+AU  - Toscano, C
+AU  - Veiga, G
+ED  - Tokhi, MO
+ED  - Virk, GS
+TI  - A CYBER-PHYSICAL SYSTEMS APPROACH FOR CONTROLLING AUTONOMOUS MOBILE MANIPULATORS
+T2  - ADVANCES IN COOPERATIVE ROBOTICS
+CP  - 19th International Conference series on Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR)
+SN  - 978-981-3149-12-0
+PY  - 2017
+SP  - 169
+EP  - 177
+AN  - WOS:000386326300022
+ER  -
+

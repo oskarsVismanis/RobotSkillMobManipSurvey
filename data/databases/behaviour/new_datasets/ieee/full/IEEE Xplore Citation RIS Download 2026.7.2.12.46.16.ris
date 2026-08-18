@@ -1,0 +1,1914 @@
+TY  - CONF
+TI  - Application of Fuzzy Logic for Collision Avoidance of Mobile Robots in Dynamic-Indoor Environments
+T2  - 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)
+SP  - 131
+EP  - 136
+AU  - B. K. Oleiwi
+AU  - A. Mahfuz
+AU  - H. Roth
+PY  - 2021
+DO  - 10.1109/ICREST51555.2021.9331072
+JO  - 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 2nd International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)
+Y1  - 5-7 Jan. 2021
+ER  - 
+
+TY  - CONF
+TI  - Scalable multi-robot formations using local sensing and communication
+T2  - Proceedings of the Third International Workshop on Robot Motion and Control, 2002. RoMoCo '02.
+SP  - 319
+EP  - 324
+AU  - P. Kostelnik
+AU  - M. Samulka
+AU  - M. Janosik
+PY  - 2002
+DO  - 10.1109/ROMOCO.2002.1177126
+JO  - Proceedings of the Third International Workshop on Robot Motion and Control, 2002. RoMoCo '02.
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the Third International Workshop on Robot Motion and Control, 2002. RoMoCo '02.
+Y1  - 11-11 Nov. 2002
+ER  - 
+
+TY  - CONF
+TI  - Adaptation of rescue robot behaviour in unknown terrains based on stochastic and fuzzy logic approaches
+T2  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+SP  - 2859
+EP  - 2864 vol.3
+AU  - A. Aboshosha
+AU  - A. Zell
+PY  - 2003
+DO  - 10.1109/IROS.2003.1249304
+JO  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+Y1  - 27-31 Oct. 2003
+ER  - 
+
+TY  - CONF
+TI  - A Constraint-Based Behavior Fusion Mechanism on Mobile Manipulator
+T2  - 2008 ECSIS Symposium on Learning and Adaptive Behaviors for Robotic Systems (LAB-RS)
+SP  - 83
+EP  - 88
+AU  - S. Huang
+AU  - E. Aertbeliën
+AU  - H. V. Brussel
+PY  - 2008
+DO  - 10.1109/LAB-RS.2008.10
+JO  - 2008 ECSIS Symposium on Learning and Adaptive Behaviors for Robotic Systems (LAB-RS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 ECSIS Symposium on Learning and Adaptive Behaviors for Robotic Systems (LAB-RS)
+Y1  - 6-8 Aug. 2008
+ER  - 
+
+TY  - JOUR
+TI  - Territorial multi-robot task division
+T2  - IEEE Transactions on Robotics and Automation
+SP  - 815
+EP  - 822
+AU  - M. Schneider-Fontan
+AU  - M. J. Mataric
+PY  - 1998
+DO  - 10.1109/70.720357
+JO  - IEEE Transactions on Robotics and Automation
+IS  - 5
+SN  - 2374-958X
+VO  - 14
+VL  - 14
+JA  - IEEE Transactions on Robotics and Automation
+Y1  - Oct. 1998
+ER  - 
+
+TY  - CONF
+TI  - Active type robotic mobility aid control based on passive behavior
+T2  - 2007 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 165
+EP  - 170
+AU  - O. Chuy
+AU  - Y. Hirata
+AU  - K. Kosuge
+PY  - 2007
+DO  - 10.1109/IROS.2007.4399408
+JO  - 2007 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2007 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 29 Oct.-2 Nov. 2007
+ER  - 
+
+TY  - CONF
+TI  - A cooperation strategy for a group of object lifting robots
+T2  - Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems. IROS '96
+SP  - 125
+EP  - 131 vol.1
+AU  - M. N. Ahmadabadi
+AU  - E. Nakano
+PY  - 1996
+DO  - 10.1109/IROS.1996.570641
+JO  - Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems. IROS '96
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems. IROS '96
+Y1  - 8-8 Nov. 1996
+ER  - 
+
+TY  - CONF
+TI  - Pheromone Communication Simulation for Mobile Robots Using Java 3D
+T2  - 6th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2007)
+SP  - 261
+EP  - 266
+AU  - A. H. Purnamadjaja
+AU  - J. Iskandar
+AU  - R. A. Russell
+PY  - 2007
+DO  - 10.1109/ICIS.2007.148
+JO  - 6th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2007)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 6th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2007)
+Y1  - 11-13 July 2007
+ER  - 
+
+TY  - CONF
+TI  - A Study of Intelligent Rehabilitation Robot Imitation of Human Behavior Based on Kinect
+T2  - 2021 IEEE Conference on Telecommunications, Optics and Computer Science (TOCS)
+SP  - 770
+EP  - 774
+AU  - X. Pan
+AU  - Q. Liu
+AU  - F. Luan
+AU  - K. Chen
+AU  - Q. Ai
+PY  - 2021
+DO  - 10.1109/TOCS53301.2021.9688921
+JO  - 2021 IEEE Conference on Telecommunications, Optics and Computer Science (TOCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE Conference on Telecommunications, Optics and Computer Science (TOCS)
+Y1  - 10-11 Dec. 2021
+ER  - 
+
+TY  - CONF
+TI  - Null space based behavior control applied to robot formation
+T2  - World Automation Congress 2012
+SP  - 1
+EP  - 6
+AU  - G. Quintana-Carapia
+AU  - J. S. Benítez-Read
+AU  - J. A. Segovia-De-Los-Ríos
+PY  - 2012
+DO  - 
+JO  - World Automation Congress 2012
+IS  - 
+SN  - 2154-4824
+VO  - 
+VL  - 
+JA  - World Automation Congress 2012
+Y1  - 24-28 June 2012
+ER  - 
+
+TY  - CONF
+TI  - Compound zeno behavior-based autonomous mobile robot obstacle avoidance algorithm in unknown environment
+T2  - 2006 1st International Symposium on Systems and Control in Aerospace and Astronautics
+SP  - 5 pp.
+EP  - 810
+AU  - Shoutao Li
+AU  - Yuanchun Li
+PY  - 2006
+DO  - 10.1109/ISSCAA.2006.1627451
+JO  - 2006 1st International Symposium on Systems and Control in Aerospace and Astronautics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 1st International Symposium on Systems and Control in Aerospace and Astronautics
+Y1  - 19-21 Jan. 2006
+ER  - 
+
+TY  - CONF
+TI  - A model for synthesizing a combined verbal and nonverbal behavior based on personality traits in human-robot interaction
+T2  - 2013 8th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SP  - 325
+EP  - 332
+AU  - A. Aly
+AU  - A. Tapus
+PY  - 2013
+DO  - 10.1109/HRI.2013.6483606
+JO  - 2013 8th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+IS  - 
+SN  - 2167-2148
+VO  - 
+VL  - 
+JA  - 2013 8th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+Y1  - 3-6 March 2013
+ER  - 
+
+TY  - CONF
+TI  - Model based vision as feedback for virtual reality robotics environments
+T2  - Proceedings Virtual Reality Annual International Symposium '95
+SP  - 110
+EP  - 117
+AU  - E. Natonek
+AU  - T. Zimmerman
+AU  - L. Fluckiger
+PY  - 1995
+DO  - 10.1109/VRAIS.1995.512486
+JO  - Proceedings Virtual Reality Annual International Symposium '95
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings Virtual Reality Annual International Symposium '95
+Y1  - 11-15 March 1995
+ER  - 
+
+TY  - CONF
+TI  - Two methods for autonomous robot obstacle sensing and application programming interface for Fuzzy Rule Interpolation
+T2  - 2017 18th International Carpathian Control Conference (ICCC)
+SP  - 87
+EP  - 92
+AU  - R. Bartók
+AU  - J. Vásárhelyi
+PY  - 2017
+DO  - 10.1109/CarpathianCC.2017.7970376
+JO  - 2017 18th International Carpathian Control Conference (ICCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 18th International Carpathian Control Conference (ICCC)
+Y1  - 28-31 May 2017
+ER  - 
+
+TY  - CONF
+TI  - A behaviour-based architecture for force control of robot manipulators
+T2  - SMC'98 Conference Proceedings. 1998 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.98CH36218)
+SP  - 3532
+EP  - 3537 vol.4
+AU  - T. G. Williams
+AU  - N. W. Hardy
+PY  - 1998
+DO  - 10.1109/ICSMC.1998.726590
+JO  - SMC'98 Conference Proceedings. 1998 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.98CH36218)
+IS  - 
+SN  - 1062-922X
+VO  - 4
+VL  - 4
+JA  - SMC'98 Conference Proceedings. 1998 IEEE International Conference on Systems, Man, and Cybernetics (Cat. No.98CH36218)
+Y1  - 14-14 Oct. 1998
+ER  - 
+
+TY  - CONF
+TI  - Organisation of robot behaviour through genetic learning processes
+T2  - Fifth International Conference on Advanced Robotics 'Robots in Unstructured Environments
+SP  - 1456
+EP  - 1460 vol.2
+AU  - M. Dorigo
+AU  - U. Schnepf
+PY  - 1991
+DO  - 10.1109/ICAR.1991.240535
+JO  - Fifth International Conference on Advanced Robotics 'Robots in Unstructured Environments
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Fifth International Conference on Advanced Robotics 'Robots in Unstructured Environments
+Y1  - 19-22 June 1991
+ER  - 
+
+TY  - CONF
+TI  - Reinforcement Learning-Based Whole Body Skill Behavior Generation and Control for Humanoid Robots
+T2  - 2025 IEEE 15th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+SP  - 462
+EP  - 467
+AU  - L. Li
+AU  - Q. Zhang
+AU  - B. Xing
+AU  - H. Chai
+AU  - Y. Yin
+AU  - B. Liu
+PY  - 2025
+DO  - 10.1109/CYBER67662.2025.11168186
+JO  - 2025 IEEE 15th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+IS  - 
+SN  - 2642-6633
+VO  - 
+VL  - 
+JA  - 2025 IEEE 15th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)
+Y1  - 15-18 July 2025
+ER  - 
+
+TY  - CONF
+TI  - Human-like gradual multi-agent Q-learning using the concept of behavior-based robotics for autonomous exploration
+T2  - 2011 IEEE International Conference on Robotics and Biomimetics
+SP  - 2725
+EP  - 2732
+AU  - D. N. Ray
+AU  - A. Mandal
+AU  - S. Majumder
+AU  - S. Mukhopadhyay
+PY  - 2011
+DO  - 10.1109/ROBIO.2011.6181717
+JO  - 2011 IEEE International Conference on Robotics and Biomimetics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE International Conference on Robotics and Biomimetics
+Y1  - 7-11 Dec. 2011
+ER  - 
+
+TY  - CONF
+TI  - Robot motion planning with many degrees of freedom
+T2  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+SP  - 892
+EP  - 897 vol.1
+AU  - Chenyu Ma
+AU  - Wei Li
+AU  - Yang Yang
+AU  - Liuchen Chang
+PY  - 1995
+DO  - 10.1109/ICSMC.1995.537880
+JO  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+Y1  - 22-25 Oct. 1995
+ER  - 
+
+TY  - CONF
+TI  - Hybrid control of a car-like robot
+T2  - Proceedings of the Fourth International Workshop on Robot Motion and Control (IEEE Cat. No.04EX891)
+SP  - 167
+EP  - 173
+AU  - J. Sequeira
+AU  - M. I. Ribeiro
+PY  - 2004
+DO  - 10.1109/ROMOCO.2004.240578
+JO  - Proceedings of the Fourth International Workshop on Robot Motion and Control (IEEE Cat. No.04EX891)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the Fourth International Workshop on Robot Motion and Control (IEEE Cat. No.04EX891)
+Y1  - 20-20 June 2004
+ER  - 
+
+TY  - CONF
+TI  - Tradeoffs in making the behaviour-based robotic systems goal-directed
+T2  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+SP  - 1128
+EP  - 1133 vol.2
+AU  - A. D. Mali
+PY  - 1998
+DO  - 10.1109/ROBOT.1998.677243
+JO  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+IS  - 
+SN  - 1050-4729
+VO  - 2
+VL  - 2
+JA  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+Y1  - 20-20 May 1998
+ER  - 
+
+TY  - CONF
+TI  - Research on Team Task Assignment and Behavior Coordination of Collaborative Robots Based on Reinforcement Learning
+T2  - 2025 IEEE 7th International Conference on Power, Intelligent Computing and Systems (ICPICS)
+SP  - 594
+EP  - 598
+AU  - J. Yuan
+PY  - 2025
+DO  - 10.1109/ICPICS66386.2025.11347226
+JO  - 2025 IEEE 7th International Conference on Power, Intelligent Computing and Systems (ICPICS)
+IS  - 
+SN  - 2834-8567
+VO  - 
+VL  - 
+JA  - 2025 IEEE 7th International Conference on Power, Intelligent Computing and Systems (ICPICS)
+Y1  - 29-31 Aug. 2025
+ER  - 
+
+TY  - CONF
+TI  - Unsupervised learning to recognize environments from behavior sequences in a mobile robot
+T2  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+SP  - 1871
+EP  - 1876 vol.3
+AU  - S. Yamada
+AU  - M. Murota
+PY  - 1998
+DO  - 10.1109/ROBOT.1998.680515
+JO  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+IS  - 
+SN  - 1050-4729
+VO  - 3
+VL  - 3
+JA  - Proceedings. 1998 IEEE International Conference on Robotics and Automation (Cat. No.98CH36146)
+Y1  - 20-20 May 1998
+ER  - 
+
+TY  - CONF
+TI  - Multi-tasking of competing behaviors on a robot manipulator
+T2  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 3057
+EP  - 3064
+AU  - C. Groth
+AU  - D. Henrich
+PY  - 2013
+DO  - 10.1109/IROS.2013.6696789
+JO  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 3-7 Nov. 2013
+ER  - 
+
+TY  - CONF
+TI  - Cooperative behavior acquisition of multiple autonomous mobile robots by an objective-based reinforcement learning system
+T2  - 2007 International Conference on Control, Automation and Systems
+SP  - 777
+EP  - 780
+AU  - Kunikazu Kobayashi
+AU  - Koji Nakano
+AU  - Takashi Kuremoto
+AU  - Masanao Obayashi
+PY  - 2007
+DO  - 10.1109/ICCAS.2007.4407004
+JO  - 2007 International Conference on Control, Automation and Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 International Conference on Control, Automation and Systems
+Y1  - 17-20 Oct. 2007
+ER  - 
+
+TY  - CONF
+TI  - Analysis and design of an embedded fuzzy motion controller for a behavior-based nonholonomic mobile robot
+T2  - Proceedings of the 2003 IEEE International Symposium on Intelligent Control
+SP  - 246
+EP  - 251
+AU  - Hao Li
+AU  - S. X. Yang
+PY  - 2003
+DO  - 10.1109/ISIC.2003.1253947
+JO  - Proceedings of the 2003 IEEE International Symposium on Intelligent Control
+IS  - 
+SN  - 2158-9860
+VO  - 
+VL  - 
+JA  - Proceedings of the 2003 IEEE International Symposium on Intelligent Control
+Y1  - 8-8 Oct. 2003
+ER  - 
+
+TY  - CONF
+TI  - Autonomous learning based on depth perception and behavior generation
+T2  - 2013 IEEE Third Joint International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+SP  - 1
+EP  - 2
+AU  - S. Jeong
+AU  - Y. Park
+AU  - M. Lee
+PY  - 2013
+DO  - 10.1109/DevLrn.2013.6652531
+JO  - 2013 IEEE Third Joint International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+IS  - 
+SN  - 2161-9476
+VO  - 
+VL  - 
+JA  - 2013 IEEE Third Joint International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+Y1  - 18-22 Aug. 2013
+ER  - 
+
+TY  - CONF
+TI  - Analysis and description of sensor based behavior program of autonomous robot using action mode representation and ROBOL/0 language
+T2  - Proceedings IROS '91:IEEE/RSJ International Workshop on Intelligent Robots and Systems '91
+SP  - 1497
+EP  - 1502 vol.3
+AU  - S. Suzuki
+AU  - S. Yuta
+PY  - 1991
+DO  - 10.1109/IROS.1991.174722
+JO  - Proceedings IROS '91:IEEE/RSJ International Workshop on Intelligent Robots and Systems '91
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings IROS '91:IEEE/RSJ International Workshop on Intelligent Robots and Systems '91
+Y1  - 3-5 Nov. 1991
+ER  - 
+
+TY  - CONF
+TI  - Path-finding in dynamic environments with PDDL-planners
+T2  - 2013 16th International Conference on Advanced Robotics (ICAR)
+SP  - 1
+EP  - 7
+AU  - V. Estivill-Castro
+AU  - J. Ferrer-Mestres
+PY  - 2013
+DO  - 10.1109/ICAR.2013.6766456
+JO  - 2013 16th International Conference on Advanced Robotics (ICAR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 16th International Conference on Advanced Robotics (ICAR)
+Y1  - 25-29 Nov. 2013
+ER  - 
+
+TY  - CONF
+TI  - ERSP: a software platform and architecture for the service robotics industry
+T2  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 460
+EP  - 467
+AU  - M. E. Munich
+AU  - J. Ostrowski
+AU  - P. Pirjanian
+PY  - 2005
+DO  - 10.1109/IROS.2005.1545468
+JO  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 2-6 Aug. 2005
+ER  - 
+
+TY  - CONF
+TI  - Target-oriented mobile robot behaviors for office navigation tasks
+T2  - Second IEEE Workshop on Software Technologies for Future Embedded and Ubiquitous Systems, 2004. Proceedings.
+SP  - 104
+EP  - 108
+AU  - R. Hartanto
+AU  - F. Schonherr
+AU  - M. Mock
+AU  - J. Hertzberg
+PY  - 2004
+DO  - 10.1109/WSTFES.2004.1300423
+JO  - Second IEEE Workshop on Software Technologies for Future Embedded and Ubiquitous Systems, 2004. Proceedings.
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Second IEEE Workshop on Software Technologies for Future Embedded and Ubiquitous Systems, 2004. Proceedings.
+Y1  - 12-12 May 2004
+ER  - 
+
+TY  - JOUR
+TI  - Behavior-modulation technique in mobile robotics using fuzzy discrete event system
+T2  - IEEE Transactions on Robotics
+SP  - 903
+EP  - 916
+AU  - R. Huq
+AU  - G. K. I. Mann
+AU  - R. G. Gosine
+PY  - 2006
+DO  - 10.1109/TRO.2006.878937
+JO  - IEEE Transactions on Robotics
+IS  - 5
+SN  - 1941-0468
+VO  - 22
+VL  - 22
+JA  - IEEE Transactions on Robotics
+Y1  - Oct. 2006
+ER  - 
+
+TY  - CONF
+TI  - Behavior-based Vehicle and Implement Control with Minimal Communication
+T2  - 2024 4th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+SP  - 01
+EP  - 06
+AU  - E. Gassen
+AU  - K. Berns
+PY  - 2024
+DO  - 10.1109/ICECCME62383.2024.10797039
+JO  - 2024 4th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+Y1  - 4-6 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - A review of straightforward distributed behaviors in swarm robotics
+T2  - 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE)
+SP  - 113
+EP  - 118
+AU  - E. M. De Andrade
+AU  - J. S. S. Junior
+AU  - A. C. Fernandes
+PY  - 2023
+DO  - 10.1109/LARS/SBR/WRE59448.2023.10332954
+JO  - 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE)
+IS  - 
+SN  - 2643-685X
+VO  - 
+VL  - 
+JA  - 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE)
+Y1  - 9-11 Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Behavior coordination of brachiation robot based on behavior phase shift
+T2  - Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No.01CH37180)
+SP  - 526
+EP  - 531 vol.1
+AU  - Y. Hasegawa
+AU  - H. Tanahashi
+AU  - T. Fukuda
+PY  - 2001
+DO  - 10.1109/IROS.2001.973410
+JO  - Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No.01CH37180)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings 2001 IEEE/RSJ International Conference on Intelligent Robots and Systems. Expanding the Societal Role of Robotics in the the Next Millennium (Cat. No.01CH37180)
+Y1  - 29 Oct.-3 Nov. 2001
+ER  - 
+
+TY  - CONF
+TI  - Robot behavior adaptation for human-robot interaction based on policy gradient reinforcement learning
+T2  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 218
+EP  - 225
+AU  - N. Mitsunaga
+AU  - C. Smith
+AU  - T. Kanda
+AU  - H. Ishiguro
+AU  - N. Hagita
+PY  - 2005
+DO  - 10.1109/IROS.2005.1545206
+JO  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 2-6 Aug. 2005
+ER  - 
+
+TY  - CONF
+TI  - The distributed control and experiments of directional self-assembly for modular swarm robots
+T2  - 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 4169
+EP  - 4174
+AU  - Hongxing Wei
+AU  - Dezhong Li
+AU  - Jindong Tan
+AU  - Tianmiao Wang
+PY  - 2010
+DO  - 10.1109/IROS.2010.5650244
+JO  - 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2010 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 18-22 Oct. 2010
+ER  - 
+
+TY  - CONF
+TI  - Artificial Immune Network based Robot Behavior Coordination Under Wireless Network
+T2  - 2007 2nd International Conference on Pervasive Computing and Applications
+SP  - 72
+EP  - 77
+AU  - F. Tian
+AU  - Q. Deng
+AU  - Z. Feng
+AU  - P. Jiang
+PY  - 2007
+DO  - 10.1109/ICPCA.2007.4365415
+JO  - 2007 2nd International Conference on Pervasive Computing and Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 2nd International Conference on Pervasive Computing and Applications
+Y1  - 26-27 July 2007
+ER  - 
+
+TY  - CONF
+TI  - A behavior learning algorithm for unmanned underwater vehicles
+T2  - 2012 9th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+SP  - 555
+EP  - 556
+AU  - J. Han
+AU  - W. K. Chung
+PY  - 2012
+DO  - 10.1109/URAI.2012.6463073
+JO  - 2012 9th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 9th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+Y1  - 26-28 Nov. 2012
+ER  - 
+
+TY  - JOUR
+TI  - A Robot-Agnostic Framework to Learn Position-Force Controlled Robotic Applications
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 3038
+EP  - 3050
+AU  - L. Fratini
+AU  - N. Lucci
+AU  - M. Malavenda
+AU  - E. Montini
+AU  - I. Zappa
+AU  - A. Maria Zanchettin
+AU  - P. Rocco
+PY  - 2026
+DO  - 10.1109/TASE.2025.3610049
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 
+SN  - 1558-3783
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - 2026
+ER  - 
+
+TY  - CONF
+TI  - Embedded CMOS imaging system for real-time robotic vision
+T2  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 1096
+EP  - 1101
+AU  - H. Andrian
+AU  - Kai-Tai Song
+PY  - 2005
+DO  - 10.1109/IROS.2005.1545544
+JO  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 2-6 Aug. 2005
+ER  - 
+
+TY  - CONF
+TI  - Multi-range traversability indices for terrain-based navigation
+T2  - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)
+SP  - 2674
+EP  - 2681 vol.3
+AU  - H. Seraji
+AU  - B. Bon
+PY  - 2002
+DO  - 10.1109/ROBOT.2002.1013635
+JO  - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings 2002 IEEE International Conference on Robotics and Automation (Cat. No.02CH37292)
+Y1  - 11-15 May 2002
+ER  - 
+
+TY  - CONF
+TI  - Collective robotics coherent behaviour for nanosystems with sensor-based neural motion
+T2  - Proceedings 2002 IEEE International Conference on Artificial Intelligence Systems (ICAIS 2002)
+SP  - 213
+EP  - 218
+AU  - A. Cavalcanti
+AU  - R. A. Freitas
+PY  - 2002
+DO  - 10.1109/ICAIS.2002.1048090
+JO  - Proceedings 2002 IEEE International Conference on Artificial Intelligence Systems (ICAIS 2002)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings 2002 IEEE International Conference on Artificial Intelligence Systems (ICAIS 2002)
+Y1  - 5-10 Sept. 2002
+ER  - 
+
+TY  - CONF
+TI  - Design and implementation of autonomous Lawn-Mower Robot controller
+T2  - 2011 7th International Conference on Emerging Technologies
+SP  - 1
+EP  - 5
+AU  - M. Wasif
+PY  - 2011
+DO  - 10.1109/ICET.2011.6048466
+JO  - 2011 7th International Conference on Emerging Technologies
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 7th International Conference on Emerging Technologies
+Y1  - 5-6 Sept. 2011
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive Robot Behavior Based on Human Comfort Using Reinforcement Learning
+T2  - IEEE Access
+SP  - 122289
+EP  - 122299
+AU  - A. Gonzalez-Santocildes
+AU  - J. -I. Vazquez
+AU  - A. Eguiluz
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3451663
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Behavior-based acceleration commanded formation flight control
+T2  - ICCAS 2010
+SP  - 1340
+EP  - 1345
+AU  - T. Soleymani
+AU  - F. Saghafi
+PY  - 2010
+DO  - 10.1109/ICCAS.2010.5670304
+JO  - ICCAS 2010
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ICCAS 2010
+Y1  - 27-30 Oct. 2010
+ER  - 
+
+TY  - CONF
+TI  - Emotional Communication with the Robot Head MEXI
+T2  - 2006 9th International Conference on Control, Automation, Robotics and Vision
+SP  - 1
+EP  - 7
+AU  - N. Esau
+AU  - L. Kleinjohann
+AU  - B. Kleinjohann
+PY  - 2006
+DO  - 10.1109/ICARCV.2006.345162
+JO  - 2006 9th International Conference on Control, Automation, Robotics and Vision
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 9th International Conference on Control, Automation, Robotics and Vision
+Y1  - 5-8 Dec. 2006
+ER  - 
+
+TY  - CONF
+TI  - Integrating spatial and topological navigation in a behaviour-based multi-robot application
+T2  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+SP  - 323
+EP  - 328 vol.1
+AU  - D. Jung
+AU  - A. Zelinsky
+PY  - 1999
+DO  - 10.1109/IROS.1999.813024
+JO  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+Y1  - 17-21 Oct. 1999
+ER  - 
+
+TY  - CONF
+TI  - Architecture of behavior-based and robotics self-optimizing memory controller
+T2  - 2009 IEEE International Conference on Robotics and Automation
+SP  - 3712
+EP  - 3717
+AU  - O. Hassab Elgawi
+PY  - 2009
+DO  - 10.1109/ROBOT.2009.5152510
+JO  - 2009 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - 2009 IEEE International Conference on Robotics and Automation
+Y1  - 12-17 May 2009
+ER  - 
+
+TY  - CONF
+TI  - A behavior monitoring architecture for a mobile robot: enhancing intelligence to behavior-based robotics
+T2  - Proceedings 2003 IEEE International Symposium on Computational Intelligence in Robotics and Automation. Computational Intelligence in Robotics and Automation for the New Millennium (Cat. No.03EX694)
+SP  - 157
+EP  - 162 vol.1
+AU  - S. Suksakulchai
+AU  - D. M. Wilkes
+AU  - K. Kawamura
+PY  - 2003
+DO  - 10.1109/CIRA.2003.1222081
+JO  - Proceedings 2003 IEEE International Symposium on Computational Intelligence in Robotics and Automation. Computational Intelligence in Robotics and Automation for the New Millennium (Cat. No.03EX694)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings 2003 IEEE International Symposium on Computational Intelligence in Robotics and Automation. Computational Intelligence in Robotics and Automation for the New Millennium (Cat. No.03EX694)
+Y1  - 16-20 July 2003
+ER  - 
+
+TY  - CONF
+TI  - Generating Behaviour Networks from Finite-State Machines
+T2  - ROBOTIK 2012; 7th German Conference on Robotics
+SP  - 1
+EP  - 6
+AU  - C. Armbrust
+AU  - D. Schmidt
+AU  - K. Berns
+PY  - 2012
+DO  - 
+JO  - ROBOTIK 2012; 7th German Conference on Robotics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ROBOTIK 2012; 7th German Conference on Robotics
+Y1  - 21-22 May 2012
+ER  - 
+
+TY  - CONF
+TI  - Prediction of the behavior of a pneumatic soft robot based on Koopman operator theory
+T2  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+SP  - 1169
+EP  - 1173
+AU  - E. Kamenar
+AU  - N. Ćrnjarić-Žic
+AU  - D. Haggerty
+AU  - S. Zelenika
+AU  - E. W. Hawkes
+AU  - I. Mezić
+PY  - 2020
+DO  - 10.23919/MIPRO48935.2020.9245155
+JO  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+IS  - 
+SN  - 2623-8764
+VO  - 
+VL  - 
+JA  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+Y1  - 28 Sept.-2 Oct. 2020
+ER  - 
+
+TY  - JOUR
+TI  - Handling Concurrency in Behavior Trees
+T2  - IEEE Transactions on Robotics
+SP  - 2557
+EP  - 2576
+AU  - M. Colledanchise
+AU  - L. Natale
+PY  - 2022
+DO  - 10.1109/TRO.2021.3125863
+JO  - IEEE Transactions on Robotics
+IS  - 4
+SN  - 1941-0468
+VO  - 38
+VL  - 38
+JA  - IEEE Transactions on Robotics
+Y1  - Aug. 2022
+ER  - 
+
+TY  - JOUR
+TI  - Model-Free Execution Monitoring in Behavior-Based Robotics
+T2  - IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)
+SP  - 890
+EP  - 901
+AU  - O. Pettersson
+AU  - L. Karlsson
+AU  - A. Saffiotti
+PY  - 2007
+DO  - 10.1109/TSMCB.2007.895359
+JO  - IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)
+IS  - 4
+SN  - 1941-0492
+VO  - 37
+VL  - 37
+JA  - IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)
+Y1  - Aug. 2007
+ER  - 
+
+TY  - CONF
+TI  - Developing an efficient mobile robot control algorithm in the Webots simulation environment
+T2  - IEEE International Conference on Industrial Technology, 2003
+SP  - 179
+EP  - 184 Vol.1
+AU  - B. Magyar
+AU  - Z. Forhecz
+AU  - P. Korondi
+PY  - 2003
+DO  - 10.1109/ICIT.2003.1290264
+JO  - IEEE International Conference on Industrial Technology, 2003
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - IEEE International Conference on Industrial Technology, 2003
+Y1  - 10-12 Dec. 2003
+ER  - 
+
+TY  - CONF
+TI  - Learning sensory motor coordination for grasping by a humanoid robot
+T2  - Smc 2000 conference proceedings. 2000 ieee international conference on systems, man and cybernetics. 'cybernetics evolving to systems, humans, organizations, and their complex interactions' (cat. no.0
+SP  - 6
+EP  - 13 vol.1
+AU  - M. E. Cambron
+AU  - R. A. Peters
+PY  - 2000
+DO  - 10.1109/ICSMC.2000.884956
+JO  - Smc 2000 conference proceedings. 2000 ieee international conference on systems, man and cybernetics. 'cybernetics evolving to systems, humans, organizations, and their complex interactions' (cat. no.0
+IS  - 
+SN  - 1062-922X
+VO  - 1
+VL  - 1
+JA  - Smc 2000 conference proceedings. 2000 ieee international conference on systems, man and cybernetics. 'cybernetics evolving to systems, humans, organizations, and their complex interactions' (cat. no.0
+Y1  - 8-11 Oct. 2000
+ER  - 
+
+TY  - CONF
+TI  - Disaster Robot Navigation using Behavior-based Systems
+T2  - 2020 International Conference on Applied Science and Technology (iCAST)
+SP  - 196
+EP  - 202
+AU  - S. Kuswadi
+AU  - M. N. Tamara
+AU  - B. T. Brahmantio
+AU  - D. Sugiharto
+AU  - M. Nuh
+PY  - 2020
+DO  - 10.1109/iCAST51016.2020.9557734
+JO  - 2020 International Conference on Applied Science and Technology (iCAST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Applied Science and Technology (iCAST)
+Y1  - 24-24 Oct. 2020
+ER  - 
+
+TY  - CONF
+TI  - A hierarchical framework for cooperative control of multiple bio-mimetic robotic fish
+T2  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+SP  - 777
+EP  - 782
+AU  - Jinyan Shao
+AU  - Junzhi Yu
+AU  - Yimin Fang
+AU  - Guangming Xie
+AU  - Long Wang
+PY  - 2005
+DO  - 10.1109/IROS.2005.1545478
+JO  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2005 IEEE/RSJ International Conference on Intelligent Robots and Systems
+Y1  - 2-6 Aug. 2005
+ER  - 
+
+TY  - JOUR
+TI  - Shared Intelligence for Robot Teleoperation via BMI
+T2  - IEEE Transactions on Human-Machine Systems
+SP  - 400
+EP  - 409
+AU  - G. Beraldo
+AU  - L. Tonin
+AU  - J. d. R. Millán
+AU  - E. Menegatti
+PY  - 2022
+DO  - 10.1109/THMS.2021.3137035
+JO  - IEEE Transactions on Human-Machine Systems
+IS  - 3
+SN  - 2168-2305
+VO  - 52
+VL  - 52
+JA  - IEEE Transactions on Human-Machine Systems
+Y1  - June 2022
+ER  - 
+
+TY  - JOUR
+TI  - A Sequential Composition Framework for Coordinating Multirobot Behaviors
+T2  - IEEE Transactions on Robotics
+SP  - 864
+EP  - 876
+AU  - P. Pierpaoli
+AU  - A. Li
+AU  - M. Srinivasan
+AU  - X. Cai
+AU  - S. Coogan
+AU  - M. Egerstedt
+PY  - 2021
+DO  - 10.1109/TRO.2020.3036628
+JO  - IEEE Transactions on Robotics
+IS  - 3
+SN  - 1941-0468
+VO  - 37
+VL  - 37
+JA  - IEEE Transactions on Robotics
+Y1  - June 2021
+ER  - 
+
+TY  - CONF
+TI  - Learning by observation of robotic tasks using on-line PCA-based Eigen behavior
+T2  - 2005 International Symposium on Computational Intelligence in Robotics and Automation
+SP  - 391
+EP  - 396
+AU  - Xianhua Jiang
+AU  - Yuichi Motai
+PY  - 2005
+DO  - 10.1109/CIRA.2005.1554308
+JO  - 2005 International Symposium on Computational Intelligence in Robotics and Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2005 International Symposium on Computational Intelligence in Robotics and Automation
+Y1  - 27-30 June 2005
+ER  - 
+
+TY  - CONF
+TI  - Natural behavior based teleoperation for dual robot manipulators mounted on a wheelchair
+T2  - 2015 IEEE/SICE International Symposium on System Integration (SII)
+SP  - 888
+EP  - 893
+AU  - T. Miyoshi
+AU  - H. Yamazoe
+AU  - J. -H. Lee
+PY  - 2015
+DO  - 10.1109/SII.2015.7405117
+JO  - 2015 IEEE/SICE International Symposium on System Integration (SII)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE/SICE International Symposium on System Integration (SII)
+Y1  - 11-13 Dec. 2015
+ER  - 
+
+TY  - CONF
+TI  - Behavior based rescue robot audio navigation and obstacle avoidance
+T2  - Proceedings of the 31st Chinese Control Conference
+SP  - 4847
+EP  - 4851
+AU  - L. Zuojun
+AU  - L. Guangyao
+AU  - Y. Peng
+AU  - L. Feng
+AU  - C. Chu
+PY  - 2012
+DO  - 
+JO  - Proceedings of the 31st Chinese Control Conference
+IS  - 
+SN  - 2161-2927
+VO  - 
+VL  - 
+JA  - Proceedings of the 31st Chinese Control Conference
+Y1  - 25-27 July 2012
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Pedestrian Flow Control Using Flow-Robot Interaction Model of Mobile Robot and Human Crowd
+T2  - 2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+SP  - 1626
+EP  - 1628
+AU  - R. Shigemoto
+AU  - R. Tasaki
+PY  - 2025
+DO  - 10.1109/HRI61500.2025.10973833
+JO  - 2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+Y1  - 4-6 March 2025
+ER  - 
+
+TY  - JOUR
+TI  - Using Implicit Behavior Cloning and Dynamic Movement Primitive to Facilitate Reinforcement Learning for Robot Motion Planning
+T2  - IEEE Transactions on Robotics
+SP  - 4733
+EP  - 4749
+AU  - Z. Zhang
+AU  - J. Hong
+AU  - A. M. S. Enayati
+AU  - H. Najjaran
+PY  - 2024
+DO  - 10.1109/TRO.2024.3468770
+JO  - IEEE Transactions on Robotics
+IS  - 
+SN  - 1941-0468
+VO  - 40
+VL  - 40
+JA  - IEEE Transactions on Robotics
+Y1  - 2024
+ER  - 
+
+TY  - CONF
+TI  - Probabilistic Verification of Multi-robot Missions in Uncertain Environments
+T2  - 2015 IEEE 27th International Conference on Tools with Artificial Intelligence (ICTAI)
+SP  - 56
+EP  - 63
+AU  - D. M. Lyons
+AU  - R. C. Arkin
+AU  - S. Jiang
+AU  - D. Harrington
+AU  - F. Tang
+AU  - P. Tang
+PY  - 2015
+DO  - 10.1109/ICTAI.2015.22
+JO  - 2015 IEEE 27th International Conference on Tools with Artificial Intelligence (ICTAI)
+IS  - 
+SN  - 1082-3409
+VO  - 
+VL  - 
+JA  - 2015 IEEE 27th International Conference on Tools with Artificial Intelligence (ICTAI)
+Y1  - 9-11 Nov. 2015
+ER  - 
+
+TY  - JOUR
+TI  - From biological inspiration toward next-generation manipulators: manipulator control focused on human tasks
+T2  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+SP  - 53
+EP  - 65
+AU  - B. J. W. Waarsing
+AU  - M. Nuttin
+AU  - H. Van Brussel
+AU  - B. Corteville
+PY  - 2005
+DO  - 10.1109/TSMCC.2004.840047
+JO  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+IS  - 1
+SN  - 1558-2442
+VO  - 35
+VL  - 35
+JA  - IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)
+Y1  - Feb. 2005
+ER  - 
+
+TY  - CONF
+TI  - Behavior Selection of Social Robots Using Developmental Episodic Memory-Based Mechanism of Thought
+T2  - 2018 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)
+SP  - 206
+EP  - 212
+AU  - W. -R. Ko
+AU  - J. -H. Kim
+PY  - 2018
+DO  - 10.1109/ICCE-ASIA.2018.8552157
+JO  - 2018 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Consumer Electronics - Asia (ICCE-Asia)
+Y1  - 24-26 June 2018
+ER  - 
+
+TY  - CONF
+TI  - Development of memorizing system with action selection based on consciousness and behavior of animal on robot systems
+T2  - 2012 IEEE RO-MAN: The 21st IEEE International Symposium on Robot and Human Interactive Communication
+SP  - 521
+EP  - 526
+AU  - W. Jitviriya
+AU  - M. Yoshida
+AU  - K. Tanaka
+AU  - E. Hayashi
+PY  - 2012
+DO  - 10.1109/ROMAN.2012.6343804
+JO  - 2012 IEEE RO-MAN: The 21st IEEE International Symposium on Robot and Human Interactive Communication
+IS  - 
+SN  - 1944-9437
+VO  - 
+VL  - 
+JA  - 2012 IEEE RO-MAN: The 21st IEEE International Symposium on Robot and Human Interactive Communication
+Y1  - 9-13 Sept. 2012
+ER  - 
+
+TY  - CONF
+TI  - Formal languages aspects as a tool for representation and implementation of behavior-based robotics
+T2  - IEEE Conference on Robotics, Automation and Mechatronics, 2004.
+SP  - 959
+EP  - 963 vol.2
+AU  - R. C. Vieira
+AU  - M. Roisenberg
+AU  - O. J. F. Furtado
+PY  - 2004
+DO  - 10.1109/RAMECH.2004.1438048
+JO  - IEEE Conference on Robotics, Automation and Mechatronics, 2004.
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - IEEE Conference on Robotics, Automation and Mechatronics, 2004.
+Y1  - 1-3 Dec. 2004
+ER  - 
+
+TY  - CONF
+TI  - Behavior-Based Path Modification for Shared Control of Robotic Walking Aids
+T2  - 2007 IEEE 10th International Conference on Rehabilitation Robotics
+SP  - 317
+EP  - 322
+AU  - B. Graf
+AU  - R. D. Schraft
+PY  - 2007
+DO  - 10.1109/ICORR.2007.4428444
+JO  - 2007 IEEE 10th International Conference on Rehabilitation Robotics
+IS  - 
+SN  - 1945-7901
+VO  - 
+VL  - 
+JA  - 2007 IEEE 10th International Conference on Rehabilitation Robotics
+Y1  - 13-15 June 2007
+ER  - 
+
+TY  - CONF
+TI  - Neural learning behavior of mobile robot by visually based sequence of actions
+T2  - 2011 XXIII International Symposium on Information, Communication and Automation Technologies
+SP  - 1
+EP  - 7
+AU  - L. Banjanovic-Mehmedovic
+AU  - G. Dzenisan
+AU  - F. Mehmedovic
+AU  - J. Havic
+PY  - 2011
+DO  - 10.1109/ICAT.2011.6102111
+JO  - 2011 XXIII International Symposium on Information, Communication and Automation Technologies
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 XXIII International Symposium on Information, Communication and Automation Technologies
+Y1  - 27-29 Oct. 2011
+ER  - 
+
+TY  - CONF
+TI  - Proxemics and Approach Evaluation by Service Robot Based on User Behavior in Domestic Environment
+T2  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 8192
+EP  - 8199
+AU  - S. M. Bhagya
+AU  - P. Samarakoon
+AU  - H. P. Chapa Sirithunge
+AU  - M. A. V. J. Muthugala
+AU  - J. Muthugala
+AU  - A. G. Buddhika
+AU  - P. Jayasekara
+PY  - 2018
+DO  - 10.1109/IROS.2018.8593713
+JO  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2018
+ER  - 
+
+TY  - CONF
+TI  - ROBEE: A homeostatic-based social behavior controller for robots in Human-Robot Interaction experiments
+T2  - 2014 IEEE International Conference on Robotics and Biomimetics (ROBIO 2014)
+SP  - 516
+EP  - 521
+AU  - H. -L. Cao
+AU  - P. G. Esteban
+AU  - A. De Beir
+AU  - R. Simut
+AU  - G. Van de Perre
+AU  - D. Lefeber
+AU  - B. Vanderborght
+PY  - 2014
+DO  - 10.1109/ROBIO.2014.7090383
+JO  - 2014 IEEE International Conference on Robotics and Biomimetics (ROBIO 2014)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Conference on Robotics and Biomimetics (ROBIO 2014)
+Y1  - 5-10 Dec. 2014
+ER  - 
+
+TY  - CONF
+TI  - Biology-inspired artificial neural network solutions for android control
+T2  - 2013 IEEE International Symposium on Medical Measurements and Applications (MeMeA)
+SP  - 145
+EP  - 150
+AU  - E. M. Petriu
+AU  - A. -M. Cretu
+PY  - 2013
+DO  - 10.1109/MeMeA.2013.6549724
+JO  - 2013 IEEE International Symposium on Medical Measurements and Applications (MeMeA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE International Symposium on Medical Measurements and Applications (MeMeA)
+Y1  - 4-5 May 2013
+ER  - 
+
+TY  - CONF
+TI  - Behavior selection and coordination of the Internet-based multi-robot teleoperation system by a neural group network approach
+T2  - 2007 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SP  - 37
+EP  - 42
+AU  - Xiang Li
+AU  - Yuechao Wang
+PY  - 2007
+DO  - 10.1109/ROBIO.2007.4522131
+JO  - 2007 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2007 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+Y1  - 15-18 Dec. 2007
+ER  - 
+
+TY  - CONF
+TI  - Network-based subsumption architecture for multiple mobile robots system
+T2  - The 6th International Conference on Soft Computing and Intelligent Systems, and The 13th International Symposium on Advanced Intelligence Systems
+SP  - 187
+EP  - 192
+AU  - F. Nagata
+AU  - A. Otsuka
+AU  - K. Watanabe
+PY  - 2012
+DO  - 10.1109/SCIS-ISIS.2012.6505001
+JO  - The 6th International Conference on Soft Computing and Intelligent Systems, and The 13th International Symposium on Advanced Intelligence Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The 6th International Conference on Soft Computing and Intelligent Systems, and The 13th International Symposium on Advanced Intelligence Systems
+Y1  - 20-24 Nov. 2012
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of fish shoal inspired movement in collaborative robotic environments
+T2  - 2010 IEEE Instrumentation & Measurement Technology Conference Proceedings
+SP  - 1539
+EP  - 1544
+AU  - R. -D. Cioarga
+AU  - M. V. Micea
+AU  - V. Cretu
+AU  - V. Groza
+PY  - 2010
+DO  - 10.1109/IMTC.2010.5488117
+JO  - 2010 IEEE Instrumentation & Measurement Technology Conference Proceedings
+IS  - 
+SN  - 1091-5281
+VO  - 
+VL  - 
+JA  - 2010 IEEE Instrumentation & Measurement Technology Conference Proceedings
+Y1  - 3-6 May 2010
+ER  - 
+
+TY  - CONF
+TI  - Robot formations using local sensing and limited range vision
+T2  - 2008 National Radio Science Conference
+SP  - 1
+EP  - 8
+AU  - E. M. Saad
+AU  - M. H. Awadalla
+AU  - A. M. Hamdy
+AU  - H. I. Ali
+PY  - 2008
+DO  - 10.1109/NRSC.2008.4542330
+JO  - 2008 National Radio Science Conference
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2008 National Radio Science Conference
+Y1  - 18-20 March 2008
+ER  - 
+
+TY  - CONF
+TI  - Interactive graphical mobile robot programming
+T2  - Proceedings IROS '91:IEEE/RSJ International Workshop on Intelligent Robots and Systems '91
+SP  - 1485
+EP  - 1490 vol.3
+AU  - J. Ojala
+AU  - K. Inoue
+AU  - K. Sasaki
+AU  - M. Takano
+PY  - 1991
+DO  - 10.1109/IROS.1991.174720
+JO  - Proceedings IROS '91:IEEE/RSJ International Workshop on Intelligent Robots and Systems '91
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings IROS '91:IEEE/RSJ International Workshop on Intelligent Robots and Systems '91
+Y1  - 3-5 Nov. 1991
+ER  - 
+
+TY  - JOUR
+TI  - Behavior-based robot navigation on challenging terrain: A fuzzy logic approach
+T2  - IEEE Transactions on Robotics and Automation
+SP  - 308
+EP  - 321
+AU  - H. Seraji
+AU  - A. Howard
+PY  - 2002
+DO  - 10.1109/TRA.2002.1019461
+JO  - IEEE Transactions on Robotics and Automation
+IS  - 3
+SN  - 2374-958X
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Robotics and Automation
+Y1  - June 2002
+ER  - 
+
+TY  - CONF
+TI  - Deploying social robots as teaching aid in pre-school K2 classes: A proof-of-concept study
+T2  - 2017 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 4264
+EP  - 4269
+AU  - A. Causo
+AU  - P. Z. Win
+AU  - P. S. Guo
+AU  - I. . -M. Chen
+PY  - 2017
+DO  - 10.1109/ICRA.2017.7989490
+JO  - 2017 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 29 May-3 June 2017
+ER  - 
+
+TY  - CONF
+TI  - Behavior-based mobile manipulation inspired by the human example
+T2  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+SP  - 268
+EP  - 273 vol.1
+AU  - B. J. W. Waarsing
+AU  - M. Nuttin
+AU  - H. Van Brussel
+PY  - 2003
+DO  - 10.1109/ROBOT.2003.1241607
+JO  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+IS  - 
+SN  - 1050-4729
+VO  - 1
+VL  - 1
+JA  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+Y1  - 14-19 Sept. 2003
+ER  - 
+
+TY  - CONF
+TI  - Fuzzy behavior based mobile robot navigation
+T2  - 2015 4th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS)
+SP  - 1
+EP  - 7
+AU  - M. Ravangard
+PY  - 2015
+DO  - 10.1109/CFIS.2015.7391649
+JO  - 2015 4th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 4th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS)
+Y1  - 9-11 Sept. 2015
+ER  - 
+
+TY  - CONF
+TI  - Task analysis using Behavior-based safety (BBS) for making safety check list for physical therapist
+T2  - 2021 IEEE International Conference on Consumer Electronics (ICCE)
+SP  - 1
+EP  - 3
+AU  - R. Hojo
+AU  - H. Oyama
+AU  - H. Ikeda
+PY  - 2021
+DO  - 10.1109/ICCE50685.2021.9427698
+JO  - 2021 IEEE International Conference on Consumer Electronics (ICCE)
+IS  - 
+SN  - 2158-4001
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Consumer Electronics (ICCE)
+Y1  - 10-12 Jan. 2021
+ER  - 
+
+TY  - CONF
+TI  - An immunological approach to dynamic behavior control for autonomous mobile robots
+T2  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+SP  - 495
+EP  - 500 vol.1
+AU  - A. Ishiguro
+AU  - R. Watanabe
+AU  - Y. Uchikawa
+PY  - 1995
+DO  - 10.1109/IROS.1995.525842
+JO  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+Y1  - 5-9 Aug. 1995
+ER  - 
+
+TY  - CONF
+TI  - Behavior arbitration for autonomous mobile robots using emotion mechanisms
+T2  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+SP  - 516
+EP  - 521 vol.3
+AU  - T. Mochida
+AU  - A. Ishiguro
+AU  - T. Aoki
+AU  - Y. Uchikawa
+PY  - 1995
+DO  - 10.1109/IROS.1995.525934
+JO  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings 1995 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human Robot Interaction and Cooperative Robots
+Y1  - 5-9 Aug. 1995
+ER  - 
+
+TY  - CONF
+TI  - Applying dynamic networks and staged evolution for soccer robots
+T2  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+SP  - 3016
+EP  - 3021 vol.3
+AU  - J. Polvichai
+AU  - P. Khosla
+PY  - 2003
+DO  - 10.1109/IROS.2003.1249330
+JO  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings 2003 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2003) (Cat. No.03CH37453)
+Y1  - 27-31 Oct. 2003
+ER  - 
+
+TY  - CONF
+TI  - Effectiveness of Synchronization and Cooperative Behavior of Multiple Robots based on Swarm AI
+T2  - 2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)
+SP  - 341
+EP  - 344
+AU  - T. Hiejima
+AU  - S. Kawashima
+AU  - M. Ke
+AU  - T. Kawahara
+PY  - 2019
+DO  - 10.1109/APCCAS47518.2019.8953108
+JO  - 2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)
+Y1  - 11-14 Nov. 2019
+ER  - 
+
+TY  - JOUR
+TI  - The Methodology of Quantitative Social Intention Evaluation and Robot Gaze Behavior Control in Multiobjects Scenario
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+SP  - 400
+EP  - 409
+AU  - H. Zhu
+AU  - X. Liu
+AU  - H. Su
+AU  - W. Wang
+AU  - J. Yu
+PY  - 2025
+DO  - 10.1109/TCDS.2024.3461335
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+IS  - 2
+SN  - 2379-8939
+VO  - 17
+VL  - 17
+JA  - IEEE Transactions on Cognitive and Developmental Systems
+Y1  - April 2025
+ER  - 
+
+TY  - JOUR
+TI  - ALLIANCE: an architecture for fault tolerant multirobot cooperation
+T2  - IEEE Transactions on Robotics and Automation
+SP  - 220
+EP  - 240
+AU  - L. E. Parker
+PY  - 1998
+DO  - 10.1109/70.681242
+JO  - IEEE Transactions on Robotics and Automation
+IS  - 2
+SN  - 2374-958X
+VO  - 14
+VL  - 14
+JA  - IEEE Transactions on Robotics and Automation
+Y1  - April 1998
+ER  - 
+
+TY  - CONF
+TI  - A fault-tolerant modular control approach to multi-robot perimeter patrol
+T2  - 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SP  - 735
+EP  - 740
+AU  - A. Marino
+AU  - L. E. Parker
+AU  - G. Antonelli
+AU  - F. Caccavale
+AU  - S. Chiaverini
+PY  - 2009
+DO  - 10.1109/ROBIO.2009.5420581
+JO  - 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+Y1  - 19-23 Dec. 2009
+ER  - 
+
+TY  - CONF
+TI  - Formation constrained multi-robot system in unknown environments
+T2  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+SP  - 735
+EP  - 740 vol.1
+AU  - Zhiqiang Cao
+AU  - Liangjun Xie
+AU  - Bin Zhang
+AU  - Shuo Wang
+AU  - Min Tan
+PY  - 2003
+DO  - 10.1109/ROBOT.2003.1241681
+JO  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+IS  - 
+SN  - 1050-4729
+VO  - 1
+VL  - 1
+JA  - 2003 IEEE International Conference on Robotics and Automation (Cat. No.03CH37422)
+Y1  - 14-19 Sept. 2003
+ER  - 
+
+TY  - CONF
+TI  - A hybrid control architecture using a reactive sequencing strategy for mobile robot navigation
+T2  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+SP  - 1279
+EP  - 1284 vol.3
+AU  - Jung-Min Park
+AU  - Insup Song
+AU  - Young-Jo Cho
+AU  - Sang-Rok Oh
+PY  - 1999
+DO  - 10.1109/IROS.1999.811656
+JO  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - Proceedings 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems. Human and Environment Friendly Robots with High Intelligence and Emotional Quotients (Cat. No.99CH36289)
+Y1  - 17-21 Oct. 1999
+ER  - 
+
+TY  - CONF
+TI  - Implementation of head-behaviour based control for navigation within virtual reality applications
+T2  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+SP  - 4644
+EP  - 4649 vol.5
+AU  - A. Kheddar
+AU  - R. Chellali
+AU  - P. Coiffet
+PY  - 1995
+DO  - 10.1109/ICSMC.1995.538528
+JO  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+IS  - 
+SN  - 
+VO  - 5
+VL  - 5
+JA  - 1995 IEEE International Conference on Systems, Man and Cybernetics. Intelligent Systems for the 21st Century
+Y1  - 22-25 Oct. 1995
+ER  - 
+
+TY  - CONF
+TI  - Hybrid Learning Approach based on Multi-Objective Behavior Coordination for Multiple Robots
+T2  - 2007 International Conference on Mechatronics and Automation
+SP  - 204
+EP  - 209
+AU  - Z. Liu
+AU  - N. Kubota
+PY  - 2007
+DO  - 10.1109/ICMA.2007.4303541
+JO  - 2007 International Conference on Mechatronics and Automation
+IS  - 
+SN  - 2152-744X
+VO  - 
+VL  - 
+JA  - 2007 International Conference on Mechatronics and Automation
+Y1  - 5-8 Aug. 2007
+ER  - 
+
+TY  - CONF
+TI  - Introducing attention in a behavior-based robot control architecture
+T2  - 1999 European Control Conference (ECC)
+SP  - 403
+EP  - 408
+AU  - A. Dalgalarrondo
+AU  - D. Luzeaux
+PY  - 1999
+DO  - 10.23919/ECC.1999.7099336
+JO  - 1999 European Control Conference (ECC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 1999 European Control Conference (ECC)
+Y1  - 31 Aug.-3 Sept. 1999
+ER  - 
+
+TY  - CONF
+TI  - Single-Shot Learning and Scheduled Execution of Behaviors for a Robotic Manipulator
+T2  - ISR/Robotik 2014; 41st International Symposium on Robotics
+SP  - 1
+EP  - 6
+AU  - C. Groth
+AU  - D. Henrich
+PY  - 2014
+DO  - 
+JO  - ISR/Robotik 2014; 41st International Symposium on Robotics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ISR/Robotik 2014; 41st International Symposium on Robotics
+Y1  - 2-3 June 2014
+ER  - 
+
+TY  - CONF
+TI  - A virtual target approach for resolving the limit cycle problem in navigation of a fuzzy behaviour-based mobile robot
+T2  - Proceedings. 1998 IEEE/RSJ International Conference on Intelligent Robots and Systems. Innovations in Theory, Practice and Applications (Cat. No.98CH36190)
+SP  - 44
+EP  - 49 vol.1
+AU  - W. L. Xu
+AU  - S. K. Tso
+AU  - Z. K. Lu
+PY  - 1998
+DO  - 10.1109/IROS.1998.724594
+JO  - Proceedings. 1998 IEEE/RSJ International Conference on Intelligent Robots and Systems. Innovations in Theory, Practice and Applications (Cat. No.98CH36190)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - Proceedings. 1998 IEEE/RSJ International Conference on Intelligent Robots and Systems. Innovations in Theory, Practice and Applications (Cat. No.98CH36190)
+Y1  - 17-17 Oct. 1998
+ER  - 
+
+TY  - CONF
+TI  - A path planning behavior learning of six legged robot based on human teaching model
+T2  - 2013 IEEE Workshop on Robotic Intelligence in Informationally Structured Space (RiiSS)
+SP  - 108
+EP  - 113
+AU  - I. A. Sulistijono
+AU  - M. B. A. Kurniawan
+AU  - Setiawardhana
+AU  - E. Prasetiono
+PY  - 2013
+DO  - 10.1109/RiiSS.2013.6607937
+JO  - 2013 IEEE Workshop on Robotic Intelligence in Informationally Structured Space (RiiSS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 IEEE Workshop on Robotic Intelligence in Informationally Structured Space (RiiSS)
+Y1  - 16-19 April 2013
+ER  - 
+
+

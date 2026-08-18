@@ -1,0 +1,1731 @@
+%0 Conference Paper
+%T Design of an Intelligent Conducting Action Evaluation System for Music Education Using Humanoid Robot
+%@ 9798400722073
+%U https://doi.org/10.1145/3806980.3807204
+%R 10.1145/3806980.3807204
+%B Proceedings of the 2026 International Conference on Big Data and Informatization Education
+%I Association for Computing Machinery
+%A Guangyang Pan
+%A Cailian Xi
+%A Yibo Li
+%D 2026
+%P 1450–1455
+%K Humanoid Robot, Informatics Education, Music Conducting, Stable Standing
+%C 
+
+
+%0 Conference Paper
+%T The Action-Engagement-Collaboration Triad: A Multimodal Analytical Framework for Human-Robot Collaboration
+%@ 9798400721281
+%U https://doi.org/10.1145/3757279.3788807
+%R 10.1145/3757279.3788807
+%B Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+Arvind
+%A Naval Kishore Mehta
+%A Himanshu Kumar
+%A Sumeet Saurav
+%A Sanjay Singh
+%D 2026
+%P 1293–1297
+%K Collaborative Assembly, Human-Robot Collaboration, Industrial Ergonomics
+%C Edinburgh, Scotland, UK
+
+%0 Journal Article
+%T UHTP: A User-Aware Hierarchical Task Planning Framework for Communication-Free, Mutually-Adaptive Human-Robot Collaboration
+%V 13
+%U https://doi.org/10.1145/3623387
+%R 10.1145/3623387
+%N 3
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Kartik Ramachandruni
+%A Cassandra Kent
+%A Sonia Chernova
+%D 2024
+%P Article 44
+%K Human-robot collaboration, hierarchical task networks, robot planning, robot manipulation
+
+%0 Conference Paper
+%T Ontologies of Action and Object in Home Environment towards Injury Prevention
+%@ 9781450395656
+%U https://doi.org/10.1145/3502223.3502239
+%R 10.1145/3502223.3502239
+%B Proceedings of the 10th International Joint Conference on Knowledge Graphs
+%I Association for Computing Machinery
+%A Satoshi Nishimura
+%A Shusaku Egami
+%A Takanori Ugai
+%A Mikiko Oono
+%A Koji Kitamura
+%A Ken Fukuda
+%D 2022
+%P 126–130
+%K ontology, older adults, knowledge graph, daily living activity
+%C Virtual Event, Thailand
+
+%0 Conference Paper
+%T Integrated Task and Path Planning for Collaborative Multi-Robot Systems
+%@ 9798400714986
+%U https://doi.org/10.1145/3716550.3722028
+%R 10.1145/3716550.3722028
+%B Proceedings of the ACM/IEEE 16th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2025)
+%I Association for Computing Machinery
+%A Aman Aryan
+%A Manan Modi
+%A Indranil Saha
+%A Rupak Majumdar
+%A Swarup Mohalik
+%D 2025
+%P Article 27
+%K Multi-robot systems, SMT Solver, motion planning, task planning
+%C Irvine, CA, USA
+
+%0 Proceeding
+%T Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction
+%@ 9798400721281
+%I Association for Computing Machinery
+%D 2026
+%C Edinburgh, Scotland, UK
+
+%0 Conference Paper
+%T Abstracting Noisy Robot Programs
+%@ 9781450394321
+%B Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Till Hofmann
+%A Vaishak Belle
+%D 2023
+%P 534–542
+%K abstraction, logic, noise, robot programs
+%C London, United Kingdom
+
+%0 Conference Paper
+%T Learning Complex Sequential Tasks from Demonstration: A Pizza Dough Rolling Case Study
+%@ 9781467383707
+%B The Eleventh ACM/IEEE International Conference on Human Robot Interaction
+%I IEEE Press
+%A Nadia Figueroa
+%A Ana Lucia Pais Ureche
+%A Aude Billard
+%D 2016
+%P 611–612
+%K task learning, motion control, learning from demonstration
+%C Christchurch, New Zealand
+
+%0 Conference Paper
+%T Identifying Reusable Primitives in Narrated Demonstrations
+%@ 9781467383707
+%B The Eleventh ACM/IEEE International Conference on Human Robot Interaction
+%I IEEE Press
+%A Anahita Mohseni-Kabir
+%A Sonia Chernova
+%A Charles Rich
+%D 2016
+%P 479–480
+%K human action segmentation, human behavior understanding, human-robot interaction, learning action primitives, motif discovery, robot learning from demonstration
+%C Christchurch, New Zealand
+
+%0 Journal Article
+%T Challenges in Designing a Fully Autonomous Socially Assistive Robot for People with Parkinson’s Disease
+%V 9
+%U https://doi.org/10.1145/3379179
+%R 10.1145/3379179
+%N 3
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Jason R. Wilson
+%A Linda Tickle-Degnen
+%A Matthias Scheutz
+%D 2020
+%P Article 20
+%K robot architecture, cognitive robot, assistive technology, Social robot
+
+%0 Conference Paper
+%T Embodied Queries for Robot Task Learning
+%@ 9781467383707
+%B The Eleventh ACM/IEEE International Conference on Human Robot Interaction
+%I IEEE Press
+%A Kalesha Bullard
+%D 2016
+%P 599–600
+%K task learning, robot active learning, learning from demonstration
+%C Christchurch, New Zealand
+
+%0 Journal Article
+%T Gaze-Based Intention Estimation: Principles, Methodologies, and Applications in HRI
+%V 13
+%U https://doi.org/10.1145/3656376
+%R 10.1145/3656376
+%N 3
+%J J. Hum.-Robot Interact.
+%I Association for Computing Machinery
+%A Anna Belardinelli
+%D 2024
+%P Article 31
+%K Intention recognition, Human–Robot Interaction, gaze-based interaction
+
+%0 Conference Paper
+%T Expectedness in Human-Robot Collaboration: (Extended Abstract)
+%@ 9781450342391
+%B Proceedings of the 2016 International Conference on Autonomous Agents &amp; Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Mahni Shayganfar
+%A Charles Rich
+%A Candace L. Sidner
+%D 2016
+%P 1271–1272
+%K human-robot collaboration, appraisal, algorithms
+%C Singapore, Singapore
+
+%0 Conference Paper
+%T A Comparison of Remote Robot Teleoperation Interfaces for General Object Manipulation
+%@ 9781450343367
+%U https://doi.org/10.1145/2909824.3020249
+%R 10.1145/2909824.3020249
+%B Proceedings of the 2017 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A David Kent
+%A Carl Saldanha
+%A Sonia Chernova
+%D 2017
+%P 371–379
+%K robot teleoperation, usability study, user interface design
+%C Vienna, Austria
+
+%0 Conference Paper
+%T Learning Object Affordances by Leveraging the Combination of Human-Guidance and Self-Exploration
+%@ 9781467383707
+%B The Eleventh ACM/IEEE International Conference on Human Robot Interaction
+%I IEEE Press
+%A Vivian Chu
+%A Tesca Fitzgerald
+%A Andrea L. Thomaz
+%D 2016
+%P 221–228
+%K affordance learning, human-robot interaction, learning from demonstration, manipulation, personal robots, robot learning
+%C Christchurch, New Zealand
+
+%0 Conference Paper
+%T From Text to Movement: LLM-driven Swarm User Interfaces for Embodied and Interactive Storytelling
+%@ 9798400719844
+%U https://doi.org/10.1145/3742413.3789128
+%R 10.1145/3742413.3789128
+%B Proceedings of the 31st International Conference on Intelligent User Interfaces
+%I Association for Computing Machinery
+%A Ruhan Wang
+%A Shuowen Li
+%A Peiran Zhang
+%A Danqi Huang
+%A Yijie Guo
+%A Haipeng Mi
+%D 2026
+%P 1085–1099
+%K Storytelling; LLM-based Agent; Swarm User Interface; Personalization
+%C 
+
+
+%0 Journal Article
+%T Antlab: A Multi-Robot Task Server
+%V 16
+%@ 1539-9087
+%U https://doi.org/10.1145/3126513
+%R 10.1145/3126513
+%N 5s
+%J ACM Trans. Embed. Comput. Syst.
+%I Association for Computing Machinery
+%A Ivan Gavran
+%A Rupak Majumdar
+%A Indranil Saha
+%D 2017
+%P Article 190
+%K programming abstractions for robotics, planning, multi-robot systems, Cyber-physical systems
+
+%0 Conference Paper
+%T Towards robot incremental learning constraints from comparative demonstration
+%@ 098265717X
+%B The 10th International Conference on Autonomous Agents and Multiagent Systems - Volume 3
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Rong Zhang
+%A Shangfei Wang
+%A Xiaoping Chen
+%A Dong Yin
+%A Shijia Chen
+%A Min Cheng
+%A Yanpeng Lv
+%A Jianmin Ji
+%A Dejian Wang
+%A Peijia Shen
+%D 2011
+%P 1301–1302
+%K learning from demonstration, intelligent robot
+%C Taipei, Taiwan
+
+%0 Conference Paper
+%T Jailbreaking Embodied LLMs via Action-Level Manipulation
+%@ 9798400723094
+%U https://doi.org/10.1145/3774906.3802758
+%R 10.1145/3774906.3802758
+%B Proceedings of the 2026 ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems
+%I Association for Computing Machinery
+%A Xinyu Huang
+%A Qiang Yang
+%A Leming Shen
+%A Zijing Ma
+%A Yuanqing Zheng
+%D 2026
+%P 1057–1071
+%K Large Language Models, Embodied Intelligence, AI Security
+%C 
+
+
+%0 Conference Paper
+%T Understanding Instructions on Large Scale for Human-Robot Interaction
+%@ 9781479941438
+%U https://doi.org/10.1109/WI-IAT.2014.165
+%R 10.1109/WI-IAT.2014.165
+%B Proceedings of the 2014 IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT) - Volume 03
+%I IEEE Computer Society
+%A Jiongkun Xie
+%A Xiaoping Chen
+%D 2014
+%P 175–182
+%K Semantic Parsing, Lexicon Propagation, Instruction Understanding, Human-Robot Interaction, Graph-based Semi-supervised Learning
+
+%0 Journal Article
+%T An Extensive Empirical Evaluation of Inferring Preconditions and Effects of Compound Tasks in Ground HTN Planning Problems
+%V 82
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.17279
+%R 10.1613/jair.1.17279
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Conny Olz
+%A Alexander Lodemann
+%A Benedikt Jutz
+%A Mario Schmautz
+%A Maximilian Borowiec
+%A Susanne Biundo
+%A Pascal Bercher
+%D 2025
+%P 38
+
+%0 Conference Paper
+%T See What I See: Enabling User-Centric Robotic Assistance Using First-Person Demonstrations
+%@ 9781450367462
+%U https://doi.org/10.1145/3319502.3374820
+%R 10.1145/3319502.3374820
+%B Proceedings of the 2020 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Yeping Wang
+%A Gopika Ajaykumar
+%A Chien-Ming Huang
+%D 2020
+%P 639–648
+%K programming by demonstration, human-robot interaction, first-person demonstration, collaborative robotics
+%C Cambridge, United Kingdom
+
+%0 Conference Paper
+%T Exception Handling for Natural Language Control of Robots
+%@ 9781450333184
+%U https://doi.org/10.1145/2701973.2701999
+%R 10.1145/2701973.2701999
+%B Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts
+%I Association for Computing Machinery
+%A Lanbo She
+%A Yunyi Jia
+%A Ning Xi
+%A Joyce Y. Chai
+%D 2015
+%P 139–140
+%K human-robot dialogue, exception handling
+%C Portland, Oregon, USA
+
+%0 Conference Paper
+%T From Visual to Multimodal Programming: Designing an Interface to Externalize Decomposition Thinking for Novice Learners
+%@ 9798400719844
+%U https://doi.org/10.1145/3742413.3789131
+%R 10.1145/3742413.3789131
+%B Proceedings of the 31st International Conference on Intelligent User Interfaces
+%I Association for Computing Machinery
+%A Changjae Lee
+%A Qingxiao Zheng
+%A Jinjun Xiong
+%D 2026
+%P 1202–1217
+%K Decomposition, Vibe Coding, Computational Thinking, Novice Programming Learner, Robotics.
+%C 
+
+
+%0 Conference Paper
+%T SLHAP: Simultaneous Learning of Hierarchy and Primitives
+%@ 9781450348850
+%U https://doi.org/10.1145/3029798.3036641
+%R 10.1145/3029798.3036641
+%B Proceedings of the Companion of the 2017 ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Anahita Mohseni-Kabir
+%A Changshuo Li
+%A Victoria Wu
+%A Daniel Miller
+%A Benjamin Hylak
+%A Sonia Chernova
+%A Dmitry Berenson
+%A Candace Sidner
+%A Charles Rich
+%D 2017
+%P 412
+%K hierarchical task networks, human robot interaction, learning by instructions, learning from demonstration
+%C Vienna, Austria
+
+%0 Conference Paper
+%T Hierarchical Affordance Discovery using Intrinsic Motivation
+%@ 9781450369220
+%U https://doi.org/10.1145/3349537.3351898
+%R 10.1145/3349537.3351898
+%B Proceedings of the 7th International Conference on Human-Agent Interaction
+%I Association for Computing Machinery
+%A Alexandre Manoury
+%A Sao Mai Nguyen
+%A Cédric Buche
+%D 2019
+%P 186–193
+%K planning, intrinsic motivation, incremental learning, affordances
+%C Kyoto, Japan
+
+%0 Journal Article
+%T Recent Trends in Task and Motion Planning for Robotics: A Survey
+%V 55
+%@ 0360-0300
+%U https://doi.org/10.1145/3583136
+%R 10.1145/3583136
+%N 13s
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Huihui Guo
+%A Fan Wu
+%A Yunchuan Qin
+%A Ruihui Li
+%A Keqin Li
+%A Kenli Li
+%D 2023
+%P Article 289
+%K Task and motion planning, online planning, learning for planning
+
+%0 Conference Paper
+%T Novelty-aware Graph Traversal and Expansion for Hierarchical Reinforcement Learning
+%@ 9798400704369
+%U https://doi.org/10.1145/3627673.3679523
+%R 10.1145/3627673.3679523
+%B Proceedings of the 33rd ACM International Conference on Information and Knowledge Management
+%I Association for Computing Machinery
+%A Jongchan Park
+%A Seungjun Oh
+%A Yusung Kim
+%D 2024
+%P 1846–1855
+%K graph planning, hierarchical reinforcment learning, novelty critic
+%C Boise, ID, USA
+
+%0 Conference Paper
+%T TimelyLLM: Time-sensitive LLM Serving System for Physical-I/O Limited Agents
+%@ 9798400720277
+%U https://doi.org/10.1145/3745756.3809203
+%R 10.1145/3745756.3809203
+%B Proceedings of the 24th Annual International Conference on Mobile Systems, Applications and Services
+%I Association for Computing Machinery
+%A Neiwen Ling
+%A Guojun Chen
+%A Anurag Khandelwal
+%A Lin Zhong
+%D 2026
+%P 261–278
+%K large language models, multi-agent systems, time-sensitive serving, robotic agents, slack-based scheduling, segmented generation
+%C University of Cambridge, Cambridge, United Kingdom
+
+%0 Journal Article
+%T Hierarchical Reinforcement Learning: A Comprehensive Survey
+%V 54
+%@ 0360-0300
+%U https://doi.org/10.1145/3453160
+%R 10.1145/3453160
+%N 5
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Shubham Pateria
+%A Budhitama Subagdja
+%A Ah-hwee Tan
+%A Chai Quek
+%D 2021
+%P Article 109
+%K subtask discovery, skill discovery, hierarchical reinforcement learning taxonomy, hierarchical reinforcement learning survey, Hierarchical reinforcement learning
+
+%0 Conference Paper
+%T Natural methods for robot task learning: instructive demonstrations, generalization and practice
+%@ 1581136838
+%U https://doi.org/10.1145/860575.860614
+%R 10.1145/860575.860614
+%B Proceedings of the second international joint conference on Autonomous agents and multiagent systems
+%I Association for Computing Machinery
+%A Monica N. Nicolescu
+%A Maja J. Mataric
+%D 2003
+%P 241–248
+%K robotics, learning by demonstration, human-robot interaction
+%C Melbourne, Australia
+
+%0 Conference Paper
+%T Teaching Robots Parametrized Executable Plans Through Spoken Interaction
+%@ 9781450334136
+%B Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Guglielmo Gemignani
+%A Emanuele Bastianelli
+%A Daniele Nardi
+%D 2015
+%P 851–859
+%K robot planning and plan execution, human-robot interaction, communication and teamwork
+%C Istanbul, Turkey
+
+%0 Journal Article
+%T Neural Categorical Priors for Physics-Based Character Control
+%V 42
+%@ 0730-0301
+%U https://doi.org/10.1145/3618397
+%R 10.1145/3618397
+%N 6
+%J ACM Trans. Graph.
+%I Association for Computing Machinery
+%A Qingxu Zhu
+%A He Zhang
+%A Mengting Lan
+%A Lei Han
+%D 2023
+%P Article 178
+%K VQ-VAE, character animation, generative model, multi-agent, reinforcement learning
+
+%0 Journal Article
+%T A Framework for Belief-based Programs and Their Verification
+%V 82
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.15796
+%R 10.1613/jair.1.15796
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Daxin Liu
+%A Gerhard Lakemeyer
+%D 2025
+%P 38
+
+%0 Conference Paper
+%T From manipulation to communicative gesture
+%@ 9781424448937
+%B Proceedings of the 5th ACM/IEEE international conference on Human-robot interaction
+%I IEEE Press
+%A Shichao Ou
+%A Roderic Grupen
+%D 2010
+%P 325–332
+%K knowledge acquisition, human-robot interaction, developmental robotics, communicative behavior
+%C Osaka, Japan
+
+%0 Journal Article
+%T Unpacking Human-AI interactions: From Interaction Primitives to a Design Space
+%V 14
+%@ 2160-6455
+%U https://doi.org/10.1145/3664522
+%R 10.1145/3664522
+%N 3
+%J ACM Trans. Interact. Intell. Syst.
+%I Association for Computing Machinery
+%A Konstantinos Tsiakas
+%A Dave Murray-Rust
+%D 2024
+%P Article 18
+%K Human-AI interaction, interaction patterns, explainable AI, human-in-the-loop, hybrid intelligence
+
+%0 Journal Article
+%T A Proof System for the SMrCaIT Calculus
+%V 25
+%@ 1539-9087
+%U https://doi.org/10.1145/3701729
+%R 10.1145/3701729
+%N 2
+%J ACM Trans. Embed. Comput. Syst.
+%I Association for Computing Machinery
+%A Ningning Chen
+%A Huibiao Zhu
+%D 2026
+%P Article 21
+%K SMrCaIT calculus, Internet of Things (IoT), Hoare Logic, real-time, cooperation test
+
+%0 Conference Paper
+%T Cognitive architecture for intuitive and interactive task learning in industrial collaborative robotics
+%@ 9781450387484
+%U https://doi.org/10.1145/3471985.3472385
+%R 10.1145/3471985.3472385
+%B 2021 the 5th International Conference on Robotics, Control and Automation
+%I Association for Computing Machinery
+%A Francois Helenon
+%A Stephane Thiery
+%A Eric Nyiri
+%A Olivier Gibaru
+%D 2021
+%P 119–124
+%C Seoul, Republic of Korea
+
+%0 Journal Article
+%T Temporal abstraction in reinforcement learning with the successor representation
+%V 24
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Marlos C. Machado
+%A André Barreto
+%A Doina Precup
+%A Michael Bowling
+%D 2023
+%P Article 80
+%K reinforcement learning, options, successor representation, Eigenoptions, covering options, option keyboard, temporally-extended exploration
+
+%0 Conference Paper
+%T Dynamic Skill Selection for Learning Joint Actions
+%@ 9781450383073
+%B Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Enna Sachdeva
+%A Shauharda Khadka
+%A Somdeb Majumdar
+%A Kagan Tumer
+%D 2021
+%P 1637–1639
+%K dynamic skill selection, evolutionaryalgorithm, multiagent coordination, reinforcement learning
+%C Virtual Event, United Kingdom
+
+%0 Conference Paper
+%T EffBT: An Efficient Behavior Tree Reactive Synthesis and Execution Framework
+%@ 9798331505691
+%U https://doi.org/10.1109/ICSE55347.2025.00225
+%R 10.1109/ICSE55347.2025.00225
+%B Proceedings of the IEEE/ACM 47th International Conference on Software Engineering
+%I IEEE Press
+%A Ziji Wu
+%A Yu Huang
+%A Peishan Huang
+%A Shanghua Wen
+%A Minglong Li
+%A Ji Wang
+%D 2025
+%P 54–65
+%K behavior trees, reactive synthesis, GR(1), efficient execution
+%C Ottawa, Ontario, Canada
+
+%0 Journal Article
+%T Modeling and planning with macro-actions in decentralized POMDPs
+%V 64
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.11418
+%R 10.1613/jair.1.11418
+%N 1
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Christopher Amato
+%A George Konidaris
+%A Leslie P. Kaelbling
+%A Jonathan P. How
+%D 2019
+%P 817–859
+
+%0 Conference Paper
+%T Estimation of the heterogeneous strategies from action log
+%@ 9781450356183
+%U https://doi.org/10.1145/3205455.3205639
+%R 10.1145/3205455.3205639
+%B Proceedings of the Genetic and Evolutionary Computation Conference
+%I Association for Computing Machinery
+%A Keiichi Namikoshi
+%A Sachiyo Arai
+%D 2018
+%P 1310–1317
+%K crowd modeling, genetic programming, multi-agent simulation
+%C Kyoto, Japan
+
+%0 Conference Paper
+%T Relevance-guided unsupervised discovery of abilities with quality-diversity algorithms
+%@ 9781450392372
+%U https://doi.org/10.1145/3512290.3528837
+%R 10.1145/3512290.3528837
+%B Proceedings of the Genetic and Evolutionary Computation Conference
+%I Association for Computing Machinery
+%A Luca Grillotti
+%A Antoine Cully
+%D 2022
+%P 77–85
+%K quality-diversity optimisation, robotics, unsupervised learning
+%C Boston, Massachusetts
+
+%0 Journal Article
+%T Added Value of Gaze-Exploiting Semantic Representation to Allow Robots Inferring Human Behaviors
+%V 7
+%@ 2160-6455
+%U https://doi.org/10.1145/2939381
+%R 10.1145/2939381
+%N 1
+%J ACM Trans. Interact. Intell. Syst.
+%I Association for Computing Machinery
+%A Karinne Ramirez-Amaro
+%A Humera Noor Minhas
+%A Michael Zehetleitner
+%A Michael Beetz
+%A Gordon Cheng
+%D 2017
+%P Article 5
+%K semantic reasoning, human activity recognition, egocentric analysis, Robot learning by observation
+
+%0 Conference Paper
+%T Progression with Probabilities in the Situation Calculus: Representation and Succinctness
+%@ 9798400704864
+%B Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Daxin Liu
+%A Vaishak Belle
+%D 2024
+%P 1210–1218
+%K knowledge representation, probabilistic progression, reasoning about action
+%C Auckland, New Zealand
+
+%0 Conference Paper
+%T Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos
+%@ 9781450379885
+%U https://doi.org/10.1145/3394171.3413862
+%R 10.1145/3394171.3413862
+%B Proceedings of the 28th ACM International Conference on Multimedia
+%I Association for Computing Machinery
+%A Jie Wu
+%A Guanbin Li
+%A Xiaoguang Han
+%A Liang Lin
+%D 2020
+%P 1283–1291
+%K temporal grounding of natural language in untrimmed videos, reinforcement learning, boundary adaptive refinement
+%C Seattle, WA, USA
+
+%0 Journal Article
+%T Interactive synthesis of temporal specifications from examples and natural language
+%V 4
+%U https://doi.org/10.1145/3428269
+%R 10.1145/3428269
+%N OOPSLA
+%J Proc. ACM Program. Lang.
+%I Association for Computing Machinery
+%A Ivan Gavran
+%A Eva Darulova
+%A Rupak Majumdar
+%D 2020
+%P Article 201
+%K specification, robots, program synthesis, natural language processing, LTL
+
+%0 Proceeding
+%T Proceedings of the 2025 ACM Workshop on Access Networks with Artificial Intelligence
+%@ 9798400719813
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Journal Article
+%T Implicit Safe Set Algorithm for Provably Safe Reinforcement Learning
+%V 84
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.17286
+%R 10.1613/jair.1.17286
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Weiye Zhao
+%A Feihan Li
+%A Tairan He
+%A Changliu Liu
+%D 2026
+%P 44
+%K data mining, natural language, web mining, machine learning
+
+%0 Conference Paper
+%T An interactive approach for situated task specification through verbal instructions
+%@ 9781450327381
+%B Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Cetin Mericli
+%A Steven D. Klee
+%A Jack Paparian
+%A Manuela Veloso
+%D 2014
+%P 1069–1076
+%K robot task specification, human-robot interaction
+%C Paris, France
+
+%0 Conference Paper
+%T Interactive Hierarchical Task Learning from a Single Demonstration
+%@ 9781450328838
+%U https://doi.org/10.1145/2696454.2696474
+%R 10.1145/2696454.2696474
+%B Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction
+%I Association for Computing Machinery
+%A Anahita Mohseni-Kabir
+%A Charles Rich
+%A Sonia Chernova
+%A Candace L. Sidner
+%A Daniel Miller
+%D 2015
+%P 205–212
+%K learning from demonstration, hierarchical task networks
+%C Portland, Oregon, USA
+
+%0 Journal Article
+%T Animating human dressing
+%V 34
+%@ 0730-0301
+%U https://doi.org/10.1145/2766986
+%R 10.1145/2766986
+%N 4
+%J ACM Trans. Graph.
+%I Association for Computing Machinery
+%A Alexander Clegg
+%A Jie Tan
+%A Greg Turk
+%A C. Karen Liu
+%D 2015
+%P Article 116
+%K cloth simulation, human figure animation, path planning
+
+%0 Journal Article
+%T An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains
+%V 76
+%@ 1076-9757
+%U https://doi.org/10.1613/jair.1.14390
+%R 10.1613/jair.1.14390
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Jim Martin Catacora Ocana
+%A Roberto Capobianco
+%A Daniele Nardi
+%D 2023
+%P 38
+
+%0 Conference Paper
+%T PFPN: Continuous Control of Physically Simulated Characters using Particle Filtering Policy Network
+%@ 9781450391313
+%U https://doi.org/10.1145/3487983.3488301
+%R 10.1145/3487983.3488301
+%B Proceedings of the 14th ACM SIGGRAPH Conference on Motion, Interaction and Games
+%I Association for Computing Machinery
+%A Pei Xu
+%A Ioannis Karamouzas
+%D 2021
+%P Article 7
+%K reinforcement learning, physics-based control, character animation
+%C Virtual Event, Switzerland
+
+%0 Conference Paper
+%T Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations
+%@ 9798400701030
+%U https://doi.org/10.1145/3580305.3599506
+%R 10.1145/3580305.3599506
+%B Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+%I Association for Computing Machinery
+%A Tianxiang Zhao
+%A Wenchao Yu
+%A Suhang Wang
+%A Lu Wang
+%A Xiang Zhang
+%A Yuncong Chen
+%A Yanchi Liu
+%A Wei Cheng
+%A Haifeng Chen
+%D 2023
+%P 3513–3524
+%K skill discovery, noisy data, imitation learning, hierarchical reinforcement learning
+%C Long Beach, CA, USA
+
+%0 Journal Article
+%T Online Planning for Large Markov Decision Processes with Hierarchical Decomposition
+%V 6
+%@ 2157-6904
+%U https://doi.org/10.1145/2717316
+%R 10.1145/2717316
+%N 4
+%J ACM Trans. Intell. Syst. Technol.
+%I Association for Computing Machinery
+%A Aijun Bai
+%A Feng Wu
+%A Xiaoping Chen
+%D 2015
+%P Article 45
+%K online planning, RoboCup, MDP, MAXQ-OP
+
+%0 Conference Paper
+%T Linear options
+%@ 9780982657119
+%B Proceedings of the 9th International Conference on Autonomous Agents and Multiagent Systems: volume 1 - Volume 1
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Jonathan Sorg
+%A Satinder Singh
+%D 2010
+%P 31–38
+%K temporal abstraction, reinforcement learning
+%C Toronto, Canada
+
+%0 Conference Paper
+%T Go beyond the SCOPE: a temporal situation calculus-based software tool for time petri nets
+%@ 9783642310867
+%U https://doi.org/10.1007/978-3-642-31087-4_15
+%R 10.1007/978-3-642-31087-4_15
+%B Proceedings of the 25th international conference on Industrial Engineering and Other Applications of Applied Intelligent Systems: advanced research in applied artificial intelligence
+%I Springer-Verlag
+%A Xing Tan
+%D 2012
+%P 134–143
+%K time petri nets, situation calculus, GOLOG
+%C Dalian, China
+
+%0 Conference Paper
+%T The Effect of Experience and Embodiment on Empathetic Behavior toward Virtual Agents
+%@ 9781450380546
+%U https://doi.org/10.1145/3406499.3415074
+%R 10.1145/3406499.3415074
+%B Proceedings of the 8th International Conference on Human-Agent Interaction
+%I Association for Computing Machinery
+%A Yuna Kano
+%A Junya Morita
+%D 2020
+%P 112–120
+%K vr, empathy, embodiment, (the) empathy quotient, (the) cyberball game
+%C Virtual Event, USA
+
+%0 Conference Paper
+%T Behavioral repertoire learning in robotics
+%@ 9781450319638
+%U https://doi.org/10.1145/2463372.2463399
+%R 10.1145/2463372.2463399
+%B Proceedings of the 15th annual conference on Genetic and evolutionary computation
+%I Association for Computing Machinery
+%A Antoine Cully
+%A Jean-Baptiste Mouret
+%D 2013
+%P 175–182
+%K novelty search, mobile robotics, exploration, evolutionary robotics, evolutionary algorithms, behavior
+%C Amsterdam, The Netherlands
+
+%0 Journal Article
+%T Intelligent Process Adaptation in the SmartPM System
+%V 8
+%@ 2157-6904
+%U https://doi.org/10.1145/2948071
+%R 10.1145/2948071
+%N 2
+%J ACM Trans. Intell. Syst. Technol.
+%I Association for Computing Machinery
+%A Andrea Marrella
+%A Massimo Mecella
+%A Sebastian Sardina
+%D 2016
+%P Article 25
+%K situation calculus, process modeling and execution, process adaptation, pervasive applications, knowledge-intensive processes, indiGolog, Classical planning
+
+%0 Conference Paper
+%T Analogical Generalization of Actions from Single Exemplars in a Robotic Architecture
+%@ 9781450342391
+%B Proceedings of the 2016 International Conference on Autonomous Agents &amp; Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Jason R. Wilson
+%A Evan Krause
+%A Matthias Scheutz
+%A Morgan Rivers
+%D 2016
+%P 1015–1023
+%K action learning, analogical generalization, mental simulation, robotic architecture
+%C Singapore, Singapore
+
+%0 Journal Article
+%T Nonstrict Hierarchical Reinforcement Learning for Interactive Systems and Robots
+%V 4
+%@ 2160-6455
+%U https://doi.org/10.1145/2659003
+%R 10.1145/2659003
+%N 3
+%J ACM Trans. Interact. Intell. Syst.
+%I Association for Computing Machinery
+%A Heriberto Cuayáhuitl
+%A Ivana Kruijff-Korbayová
+%A Nina Dethlefs
+%D 2014
+%P Article 15
+%K user simulation, spoken dialogue systems, reinforcement learning, machine learning, human--robot interaction, hierarchical control, function approximation, flexible interaction, Interactive robots
+
+%0 Conference Paper
+%T Personalized multimedia alert service of fall event for ageing in place
+%@ 9781605588407
+%U https://doi.org/10.1145/1734605.1734651
+%R 10.1145/1734605.1734651
+%B Proceedings of the First International Conference on Internet Multimedia Computing and Service
+%I Association for Computing Machinery
+%A Xinguo Yu
+%A Panachit Kittipanya-Ngam
+%A How-Lung Eng
+%D 2009
+%P 188–195
+%K sliding window, multimedia alert service, head tracking, fixed camera, fall detection, camera calibration, aging in place, SVM, 2D--3D lookup
+%C Kunming, Yunnan, China
+
+%0 Journal Article
+%T Integrating reaction and planning in a heterogeneous asynchronous architecture for mobile robot navigation
+%V 2
+%@ 0163-5719
+%U https://doi.org/10.1145/122344.122357
+%R 10.1145/122344.122357
+%N 4
+%J SIGART Bull.
+%I Association for Computing Machinery
+%A Erann Gat
+%D 1991
+%P 70–74
+
+%0 Journal Article
+%T Reasoning about goal-directed real-time teleo-reactive programs
+%V 26
+%@ 0934-5043
+%U https://doi.org/10.1007/s00165-012-0272-1
+%R 10.1007/s00165-012-0272-1
+%N 3
+%J Form. Asp. Comput.
+%I Springer-Verlag
+%A Brijesh Dongol
+%A Ian J. Hayes
+%A Peter J. Robinson
+%D 2014
+%P 563–589
+%K Interval-based logics, Reactive systems, Real-time programs, Rely/guarantee reasoning, Goal-directed agents, Teleo-reactive programming
+
+%0 Journal Article
+%T Hierarchical relative entropy policy search
+%V 17
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Christian Daniel
+%A Gerhard Neumann
+%A Oliver Kroemer
+%A Jan Peters
+%D 2016
+%P 3190–3239
+%K temporal correlation, structured learning, robust learning, robot learning, reinforcement learning, policy search, motor skill learning, hierarchical learning, REPS, HiREPS
+
+%0 Conference Paper
+%T Crossmodal Attentive Skill Learner
+%B Proceedings of the 17th International Conference on Autonomous Agents and MultiAgent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Shayegan Omidshafiei
+%A Dong-Ki Kim
+%A Jason Pazis
+%A Jonathan P. How
+%D 2018
+%P 139–146
+%K reinforcement learning, options, hierarchical learning, attention
+%C Stockholm, Sweden
+
+%0 Conference Paper
+%T Planning with macro-actions in decentralized POMDPs
+%@ 9781450327381
+%B Proceedings of the 2014 international conference on Autonomous agents and multi-agent systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Christopher Amato
+%A George D. Konidaris
+%A Leslie P. Kaelbling
+%D 2014
+%P 1273–1280
+%K planning under uncertainty, hierarchy, decentralized pomdps
+%C Paris, France
+
+%0 Conference Paper
+%T Meta-learning by the Baldwin effect
+%@ 9781450357647
+%U https://doi.org/10.1145/3205651.3208249
+%R 10.1145/3205651.3208249
+%B Proceedings of the Genetic and Evolutionary Computation Conference Companion
+%I Association for Computing Machinery
+%A Chrisantha Fernando
+%A Jakub Sygnowski
+%A Simon Osindero
+%A Jane Wang
+%A Tom Schaul
+%A Denis Teplyashin
+%A Pablo Sprechmann
+%A Alexander Pritzel
+%A Andrei Rusu
+%D 2018
+%P 1313–1320
+%C Kyoto, Japan
+
+%0 Conference Paper
+%T Multi-policy dialogue management
+%@ 9781937284107
+%B Proceedings of the SIGDIAL 2011 Conference
+%I Association for Computational Linguistics
+%A Pierre Lison
+%D 2011
+%P 294–300
+%C Portland, Oregon
+
+%0 Journal Article
+%T Hierarchical Average Reward Reinforcement Learning
+%V 8
+%@ 1532-4435
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Mohammad Ghavamzadeh
+%A Sridhar Mahadevan
+%D 2007
+%P 2629–2669
+
+%0 Conference Paper
+%T Understanding everything NPCs can do: metrics for action similarity in non-player characters
+%@ 9781450365710
+%U https://doi.org/10.1145/3235765.3235776
+%R 10.1145/3235765.3235776
+%B Proceedings of the 13th International Conference on the Foundations of Digital Games
+%I Association for Computing Machinery
+%A J. Timothy Balint
+%A Jan M. Allbeck
+%A Rafael Bidarra
+%D 2018
+%P Article 14
+%K reasoning, behavior organization, artificial intelligence in games
+%C Malmö, Sweden
+
+%0 Journal Article
+%T Exploring Biological Motion Regularities of Human Actions: A New Perspective on Video Analysis
+%V 14
+%@ 1544-3558
+%U https://doi.org/10.1145/3086591
+%R 10.1145/3086591
+%N 3
+%J ACM Trans. Appl. Percept.
+%I Association for Computing Machinery
+%A Nicoletta Noceti
+%A Francesca Odone
+%A Alessandra Sciutti
+%A Giulio Sandini
+%D 2017
+%P Article 21
+%K two-thirds power law, motion perception development, Biological motion perception
+
+%0 Journal Article
+%T Behavior priors for efficient reinforcement learning
+%V 23
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Dhruva Tirumala
+%A Alexandre Galashov
+%A Hyeonwoo Noh
+%A Leonard Hasenclever
+%A Razvan Pascanu
+%A Jonathan Schwarz
+%A Guillaume Desjardins
+%A Wojciech Marian Czarnecki
+%A Arun Ahuja
+%A Yee Whye Teh
+%A Nicolas Heess
+%D 2022
+%P Article 221
+%K transfer learning, hierarchical reinforcement learning, control as inference, probabilistic graphical models, reinforcement learning
+
+%0 Conference Paper
+%T Implementation of a scripting language for VRML/X3D-based embodied agents
+%@ 1581136447
+%U https://doi.org/10.1145/636593.636608
+%R 10.1145/636593.636608
+%B Proceedings of the eighth international conference on 3D Web technology
+%I Association for Computing Machinery
+%A Zhisheng Huang
+%A Anton Eliëns
+%A Cees Visser
+%D 2003
+%P 91–100
+%K h-anim, distributed logic Programming, agents, XSTEP, VRML/X3D, STEP
+%C Saint Malo, France
+
+%0 Conference Paper
+%T Evolution for modeling: a genetic programming framework for sesam
+%@ 9781450306904
+%U https://doi.org/10.1145/2001858.2002047
+%R 10.1145/2001858.2002047
+%B Proceedings of the 13th annual conference companion on Genetic and evolutionary computation
+%I Association for Computing Machinery
+%A Robert Junges
+%A Franziska Klügl
+%D 2011
+%P 551–558
+%K multiagent simulation
+%C Dublin, Ireland
+
+%0 Journal Article
+%T Managing different sources of uncertainty in a BDI framework in a principled way with tractable fragments
+%V 58
+%@ 1076-9757
+%N 1
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Kim Bauters
+%A Kevin McAreavey
+%A Weiru Liu
+%A Jun Hong
+%A Lluís Godo
+%D 2017
+%P 731–775
+
+%0 Conference Paper
+%T Task inference and distributed task management in the Centibots robotic system
+%@ 1595930930
+%U https://doi.org/10.1145/1082473.1082604
+%R 10.1145/1082473.1082604
+%B Proceedings of the fourth international joint conference on Autonomous agents and multiagent systems
+%I Association for Computing Machinery
+%A Charles L. Ortiz
+%A Régis Vincent
+%A Benoit Morisset
+%D 2005
+%P 860–867
+%K teamwork, mobile agents, autonomous robots and robot teams
+%C The Netherlands
+
+%0 Conference Paper
+%T Monte Carlo Hierarchical Model Learning
+%@ 9781450334136
+%B Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Jacob Menashe
+%A Peter Stone
+%D 2015
+%P 771–779
+%K single and multi-agent learning techniques, reinforcment learning, monte carlo methods, model learning, hierarchical skill learning, factored domains
+%C Istanbul, Turkey
+
+%0 Journal Article
+%T Incremental execution of guarded theories
+%V 2
+%@ 1529-3785
+%U https://doi.org/10.1145/383779.383782
+%R 10.1145/383779.383782
+%N 4
+%J ACM Trans. Comput. Logic
+%I Association for Computing Machinery
+%A Giuseppe De Giacomo
+%A Hector J. Levesque
+%A Sebastian Sardiña
+%D 2001
+%P 495–525
+%K situation calculus, reasoning about actions, agent behavior
+
+%0 Conference Paper
+%T Process programming by hindsight
+%@ 0897915046
+%U https://doi.org/10.1145/143062.143128
+%R 10.1145/143062.143128
+%B Proceedings of the 14th international conference on Software engineering
+%I Association for Computing Machinery
+%A Pankaj K. Garg
+%A Sanjay Bhansali
+%D 1992
+%P 280–293
+%C Melbourne, Australia
+
+%0 Conference Paper
+%T Aborting tasks in BDI agents
+%@ 9788190426275
+%U https://doi.org/10.1145/1329125.1329133
+%R 10.1145/1329125.1329133
+%B Proceedings of the 6th international joint conference on Autonomous agents and multiagent systems
+%I Association for Computing Machinery
+%A John Thangarajah
+%A James Harland
+%A David Morley
+%A Neil Yorke-Smith
+%D 2007
+%P Article 6
+%K reactive and deliberative, formal models of agency, architectures, agents
+%C Honolulu, Hawaii
+
+%0 Proceeding
+%T Proceedings of the 24th International Conference on Autonomous Agents and Multiagent Systems
+%@ 9798400714269
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%D 2025
+%C Detroit, MI, USA
+
+%0 Journal Article
+%T The utility of planning
+%V 6
+%@ 0163-5719
+%U https://doi.org/10.1145/202187.202196
+%R 10.1145/202187.202196
+%N 1
+%J SIGART Bull.
+%I Association for Computing Machinery
+%A Shlomo Zilberstein
+%D 1995
+%P 42–47
+
+%0 Conference Paper
+%T A combined tactical and strategic hierarchical learning framework in multi-agent games
+%@ 9781605581736
+%U https://doi.org/10.1145/1401843.1401865
+%R 10.1145/1401843.1401865
+%B Proceedings of the 2008 ACM SIGGRAPH symposium on Video games
+%I Association for Computing Machinery
+%A Chek Tien Tan
+%A Ho-lun Cheng
+%D 2008
+%P 115–122
+%K tactical behavior, strategic planning, multi-agent cooperation, learning, game artificial intelligence, game agent architecture
+%C Los Angeles, California
+
+%0 Conference Paper
+%T The virtual human as a multimodal interface
+%@ 1581132522
+%U https://doi.org/10.1145/345513.345232
+%R 10.1145/345513.345232
+%B Proceedings of the working conference on Advanced visual interfaces
+%I Association for Computing Machinery
+%A Daniel Thalmann
+%D 2000
+%P 14–20
+%K virtual humans, multimodal communication, gestures, action recognition
+%C Palermo, Italy
+
+%0 Journal Article
+%T Causal Graph Based Decomposition of Factored MDPs
+%V 7
+%@ 1532-4435
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Anders Jonsson
+%A Andrew Barto
+%D 2006
+%P 2259–2301
+
+%0 Conference Paper
+%T The design of a generic framework for integrating ECA components
+%@ 9780981738109
+%B Proceedings of the 7th international joint conference on Autonomous agents and multiagent systems - Volume 1
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%A Hung-Hsuan Huang
+%A Toyoaki Nishida
+%A Aleksandra Cerekovic
+%A Igor S. Pandzic
+%A Yukiko Nakano
+%D 2008
+%P 128–135
+%K embodied conversational agent, blackboard, application framework
+%C Estoril, Portugal
+
+%0 Conference Paper
+%T Teachable characters: user studies, design principles, and learning performance
+%@ 3540375937
+%U https://doi.org/10.1007/11821830_32
+%R 10.1007/11821830_32
+%B Proceedings of the 6th international conference on Intelligent Virtual Agents
+%I Springer-Verlag
+%A Andrea L. Thomaz
+%A Cynthia Breazeal
+%D 2006
+%P 395–406
+%C Marina Del Rey, CA
+
+%0 Conference Paper
+%T The UMASS intelligent home project
+%@ 158113066X
+%U https://doi.org/10.1145/301136.301213
+%R 10.1145/301136.301213
+%B Proceedings of the third annual conference on Autonomous Agents
+%I Association for Computing Machinery
+%A Victor Lesser
+%A Michael Atighetchi
+%A Brett Benyo
+%A Bryan Horling
+%A Anita Raja
+%A Régis Vincent
+%A Thomas Wagner
+%A Ping Xuan
+%A Shelley XQ. Zhang
+%D 1999
+%P 291–298
+%C Seattle, Washington, USA
+
+%0 Conference Paper
+%T Controlling physical agents through reactive logic programming
+%@ 158113066X
+%U https://doi.org/10.1145/301136.301252
+%R 10.1145/301136.301252
+%B Proceedings of the third annual conference on Autonomous Agents
+%I Association for Computing Machinery
+%A Daniel Shapiro
+%A Pat Langley
+%D 1999
+%P 386–387
+%C Seattle, Washington, USA
+
+%0 Conference Paper
+%T Managing emergent character-based narrative
+%@ 9789639799134
+%B Proceedings of the 2nd international conference on INtelligent TEchnologies for interactive enterTAINment
+%I ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering)
+%A Ruth Aylett
+%A Sandy Louchart
+%A Anders Tychsen
+%A Michael Hitchens
+%A Rui Figueiredo
+%A Carlos Delgado Mata
+%D 2008
+%P Article 5
+%K synthetic actors, story management, interactive storytelling, game masters, artificial intelligence
+%C Cancun, Mexico
+
+%0 Conference Paper
+%T Dynamically altering agent behaviors using natural language instructions
+%@ 1581132301
+%U https://doi.org/10.1145/336595.337503
+%R 10.1145/336595.337503
+%B Proceedings of the fourth international conference on Autonomous agents
+%I Association for Computing Machinery
+%A Rama Bindiganavale
+%A William Schuler
+%A Jan M. Allbeck
+%A Norman I. Badler
+%A Aravind K. Joshi
+%A Martha Palmer
+%D 2000
+%P 293–300
+%K virtual environments, smart avatars, natural language processing, autonomous agents
+%C Barcelona, Spain
+
+%0 Journal Article
+%T Analyzing Latency-Aware Self-Adaptation Using Stochastic Games and Simulations
+%V 10
+%@ 1556-4665
+%U https://doi.org/10.1145/2774222
+%R 10.1145/2774222
+%N 4
+%J ACM Trans. Auton. Adapt. Syst.
+%I Association for Computing Machinery
+%A Javier Cámara
+%A Gabriel A. Moreno
+%A David Garlan
+%A Bradley Schmerl
+%D 2016
+%P Article 23
+%K Latency, Proactive adaptation, latency-aware, stochastic multiplayer games
+
+%0 Conference Paper
+%T Flexible, dynamic user interfaces for Web-delivered training
+%@ 0897918347
+%U https://doi.org/10.1145/948449.948466
+%R 10.1145/948449.948466
+%B Proceedings of the workshop on Advanced visual interfaces
+%I Association for Computing Machinery
+%A Srdjan Kovacevic
+%D 1996
+%P 108–118
+%K model-based design, intelligent tutoring system, application semantics, Web-delivered training, Web interfaces, UI representation, UI models, UI design tools, UI components
+%C Gubbio, Italy
+
+%0 Journal Article
+%T An integrated architecture for planning and learning
+%V 2
+%@ 0163-5719
+%U https://doi.org/10.1145/122344.122369
+%R 10.1145/122344.122369
+%N 4
+%J SIGART Bull.
+%I Association for Computing Machinery
+%A Charles E. Martin
+%A R. James Firby
+%D 1991
+%P 125–129
+
+%0 Conference Paper
+%T The SPARK Agent Framework
+%@ 1581138644
+%B Proceedings of the Third International Joint Conference on Autonomous Agents and Multiagent Systems - Volume 2
+%I IEEE Computer Society
+%A David Morley
+%A Karen Myers
+%D 2004
+%P 714–721
+%C New York, New York
+
+%0 Conference Paper
+%T Generating user interface code in a model based user interface development environment
+%@ 1581132522
+%U https://doi.org/10.1145/345513.345301
+%R 10.1145/345513.345301
+%B Proceedings of the working conference on Advanced visual interfaces
+%I Association for Computing Machinery
+%A Paulo Pinheiro da Silva
+%A Tony Griffiths
+%A Norman W. Paton
+%D 2000
+%P 155–160
+%K user interface development tools, model-based user interface development environments, automatic code generation
+%C Palermo, Italy
+
+%0 Conference Paper
+%T Automatic tuning of multi-task programs for real-time embedded systems
+%@ 0818606207
+%B Proceedings of the 8th international conference on Software engineering
+%I IEEE Computer Society Press
+%A Toru Shimizu
+%A Ken Sakamura
+%D 1985
+%P 350–357
+%K rule based system, real-time system, programming tool, program transformation, embedded system
+%C London, England
+
+%0 Conference Paper
+%T Learning domain knowledge for teaching procedural skills
+%@ 1581134800
+%U https://doi.org/10.1145/545056.545134
+%R 10.1145/545056.545134
+%B Proceedings of the first international joint conference on Autonomous agents and multiagent systems: part 3
+%I Association for Computing Machinery
+%A Richard Angros
+%A W. Lewis Johnson
+%A Jeff Rickel
+%A Andrew Scholer
+%D 2002
+%P 1372–1378
+%K programming by demonstration, pedagogical agents, machine learning, knowledge acquisition, interface agents
+%C Bologna, Italy
+
+%0 Journal Article
+%T Progression of Decomposed Local-Effect Action Theories
+%V 18
+%@ 1529-3785
+%U https://doi.org/10.1145/3091119
+%R 10.1145/3091119
+%N 2
+%J ACM Trans. Comput. Logic
+%I Association for Computing Machinery
+%A Denis Ponomaryov
+%A Mikhail Soutchanski
+%D 2017
+%P Article 16
+%K progression, inseparability, forgetting, decomposition, Reasoning about actions
+
+%0 Conference Paper
+%T An integration test-bed system for supply chain management
+%@ 0780351347
+%B Proceedings of the 30th conference on Winter simulation
+%I IEEE Computer Society Press
+%A Shigeki Umeda
+%A Albert Jones
+%D 1998
+%P 1377–1386
+%C Washington, D.C., USA
+
+%0 Proceeding
+%T Proceedings of the ACM/IEEE 16th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2025)
+%@ 9798400714986
+%I Association for Computing Machinery
+%D 2025
+%C Irvine, CA, USA
+
+%0 Journal Article
+%T Logical formalizations of commonsense reasoning: a survey
+%V 59
+%@ 1076-9757
+%N 1
+%J J. Artif. Int. Res.
+%I AI Access Foundation
+%A Ernest Davis
+%D 2017
+%P 651–723
+
+%0 Conference Paper
+%T Keynote Address-Artificial Intelligence and simulation
+%B Proceedings of the 16th conference on Winter simulation
+%I IEEE Press
+%A Robert E. Shannon
+%D 1984
+%P 3–9
+%C Dallas, TX
+
+%0 Journal Article
+%T A design for the ICARUS architecture
+%V 2
+%@ 0163-5719
+%U https://doi.org/10.1145/122344.122365
+%R 10.1145/122344.122365
+%N 4
+%J SIGART Bull.
+%I Association for Computing Machinery
+%A Pat Langley
+%A Kathleen B. McKusick
+%A John A. Allen
+%A Wayne F. Iba
+%A Kevin Thompson
+%D 1991
+%P 104–109
+
+%0 Conference Paper
+%T Simulation and analysis of business processes using GOLOG
+%@ 0897917065
+%U https://doi.org/10.1145/224019.224052
+%R 10.1145/224019.224052
+%B Proceedings of conference on Organizational computing systems
+%I Association for Computing Machinery
+%A Dimitris Plexousakis
+%D 1995
+%P 311–322
+%C Milpitas, California, USA
+
+%0 Journal Article
+%T Collaborating on referring expressions
+%V 21
+%@ 0891-2017
+%N 3
+%J Comput. Linguist.
+%I MIT Press
+%A Peter A. Heeman
+%A Graeme Hirst
+%D 1995
+%P 351–382
+
+%0 Proceeding
+%T Proceedings of the 2026 ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems
+%@ 9798400723094
+%I Association for Computing Machinery
+%E Gian Pietro Picco
+%E Thiemo Voigt
+%E Jeremy Gummeson
+%E Pei Zhang
+%E Marco Zúñiga
+%D 2026
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems
+%@ 9798400704864
+%I International Foundation for Autonomous Agents and Multiagent Systems
+%D 2024
+%C Auckland, New Zealand
+
+%0 Conference Paper
+%T The commonsense algorithm as a basis for computer models of human memory, inference, belief and contextual language comprehension
+%U https://doi.org/10.3115/980190.980239
+%R 10.3115/980190.980239
+%B Proceedings of the 1975 workshop on Theoretical issues in natural language processing
+%I Association for Computational Linguistics
+%A Chuck Rieger
+%D 1975
+%P 180–195
+%C Cambridge, Massachusetts
+
+%0 Proceeding
+%T Proceedings of the 31st International Conference on Intelligent User Interfaces
+%@ 9798400719844
+%I Association for Computing Machinery
+%E Tsvi Kuflik
+%E Styliani Kleanthous
+%E Li Chen
+%E Giulio Jaccuci
+%E Alison Renner
+%D 2026
+%C 
+
+
+%0 Journal Article
+%T A logic programming approach to knowledge-state planning: Semantics and complexity
+%V 5
+%@ 1529-3785
+%U https://doi.org/10.1145/976706.976708
+%R 10.1145/976706.976708
+%N 2
+%J ACM Trans. Comput. Logic
+%I Association for Computing Machinery
+%A Thomas Eiter
+%A Wolfgang Faber
+%A Nicola Leone
+%A Gerald Pfeifer
+%A Axel Polleres
+%D 2004
+%P 206–263
+%K secure planning, knowledge-states, incomplete information, declarative planning, conformant planning, computational complexity, Answer sets
+
+%0 Proceeding
+%T Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems
+%@ 9798400703300
+%I Association for Computing Machinery
+%E Florian Floyd Mueller
+%E Penny Kyburz
+%E Julie R. Williamson
+%E Corina Sas
+%E Max L. Wilson
+%E Phoebe Toups Dugas
+%E Irina Shklovski
+%D 2024
+%C Honolulu, HI, USA
+
+%0 Proceeding
+%T Proceedings of the Genetic and Evolutionary Computation Conference
+%@ 9798400704949
+%I Association for Computing Machinery
+%D 2024
+%C Melbourne, VIC, Australia
+
+%0 Proceeding
+%T Proceedings of the 2026 International Conference on Big Data and Informatization Education
+%@ 9798400722073
+%I Association for Computing Machinery
+%D 2026
+%C 
+
+
+%0 Journal Article
+%T SIGART special issue on machine learning
+%@ 0163-5719
+%U https://doi.org/10.1145/1056490.1056491
+%R 10.1145/1056490.1056491
+%N 76
+%J SIGART Bull.
+%I Association for Computing Machinery
+%D 1981
+%P 25–54
+
+%0 Proceeding
+%T The World Wide Web Conference
+%@ 9781450366748
+%I Association for Computing Machinery
+%E Ling Liu
+%E Ryen White
+%D 2019
+%C San Francisco, CA, USA
+
+%0 Proceeding
+%T Proceedings of the ACM SIGCOMM 2023 Conference
+%@ 9798400702365
+%I Association for Computing Machinery
+%D 2023
+%C New York, NY, USA
+
+%0 Proceeding
+%T Proceedings of the 20th ACM Asia Conference on Computer and Communications Security
+%@ 9798400714108
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+

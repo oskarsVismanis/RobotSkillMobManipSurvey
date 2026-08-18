@@ -1,0 +1,240 @@
+TY  - CONF
+TI  - Trajectory Planning of Slider-Pushers in Cluttered Environments with Automatic Switching
+T2  - 2024 European Control Conference (ECC)
+SP  - 2342
+EP  - 2349
+AU  - T. Neve
+AU  - S. De Witte
+AU  - T. Lefebvre
+AU  - G. Crevecoeur
+PY  - 2024
+DO  - 10.23919/ECC64448.2024.10590891
+JO  - 2024 European Control Conference (ECC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 European Control Conference (ECC)
+Y1  - 25-28 June 2024
+ER  - 
+
+TY  - CONF
+TI  - DMP-Based Path Planning for Model Predictive Interaction Control
+T2  - 2024 European Control Conference (ECC)
+SP  - 128
+EP  - 133
+AU  - T. Goller
+AU  - D. Brohm
+AU  - A. Völz
+AU  - K. Graichen
+PY  - 2024
+DO  - 10.23919/ECC64448.2024.10591310
+JO  - 2024 European Control Conference (ECC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 European Control Conference (ECC)
+Y1  - 25-28 June 2024
+ER  - 
+
+TY  - JOUR
+TI  - Encoding the Intrinsic Interaction Information for Vehicle Trajectory Prediction
+T2  - IEEE Transactions on Intelligent Vehicles
+SP  - 2600
+EP  - 2611
+AU  - J. Lian
+AU  - S. Li
+AU  - D. Yang
+AU  - J. Zhang
+AU  - L. Li
+PY  - 2024
+DO  - 10.1109/TIV.2023.3288976
+JO  - IEEE Transactions on Intelligent Vehicles
+IS  - 1
+SN  - 2379-8904
+VO  - 9
+VL  - 9
+JA  - IEEE Transactions on Intelligent Vehicles
+Y1  - Jan. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Unsupervised Human Motion Segmentation Based on Characteristic Force Signals of Contact Events
+T2  - IEEE Robotics and Automation Letters
+SP  - 6203
+EP  - 6210
+AU  - K. Sugawara
+AU  - S. Sakaino
+AU  - T. Tsuji
+PY  - 2023
+DO  - 10.1109/LRA.2023.3303828
+JO  - IEEE Robotics and Automation Letters
+IS  - 10
+SN  - 2377-3766
+VO  - 8
+VL  - 8
+JA  - IEEE Robotics and Automation Letters
+Y1  - Oct. 2023
+ER  - 
+
+TY  - CONF
+TI  - Learning to Swim: Reinforcement Learning for 6-DOF Control of Thruster-Driven Autonomous Underwater Vehicles
+T2  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 11286
+EP  - 11293
+AU  - L. Cai
+AU  - K. Chang
+AU  - Y. Girdhar
+PY  - 2025
+DO  - 10.1109/ICRA55743.2025.11128688
+JO  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 19-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - A Primitive-Based Approach to Good Seamanship Path Planning for Autonomous Surface Vessels
+T2  - 2021 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 7767
+EP  - 7773
+AU  - P. Stankiewicz
+AU  - M. Kobilarov
+PY  - 2021
+DO  - 10.1109/ICRA48506.2021.9561507
+JO  - 2021 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 30 May-5 June 2021
+ER  - 
+
+TY  - CONF
+TI  - Artificial Intelligence Based Path Planning for Autonomously Piloted UAVs in Remote Sensing
+T2  - 2025 Seventh International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)
+SP  - 104
+EP  - 111
+AU  - U. O. Matthew
+AU  - R. L. Rosa
+AU  - O. E. Obi-Akwari
+AU  - J. S. Kazaure
+AU  - O. A. Oyedemi
+AU  - P. Adasme
+AU  - D. Z. Rodriguez
+PY  - 2025
+DO  - 10.1109/ICRCICN68210.2025.11364719
+JO  - 2025 Seventh International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)
+IS  - 
+SN  - 2832-3645
+VO  - 
+VL  - 
+JA  - 2025 Seventh International Conference on Research in Computational Intelligence and Communication Networks (ICRCICN)
+Y1  - 20-21 Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - Human Learning and Coordination in Lower-limb Physical Interactions
+T2  - 2020 American Control Conference (ACC)
+SP  - 557
+EP  - 562
+AU  - S. Amatya
+AU  - S. M. Rezayat Sorkhabadi
+AU  - W. Zhang
+PY  - 2020
+DO  - 10.23919/ACC45564.2020.9147738
+JO  - 2020 American Control Conference (ACC)
+IS  - 
+SN  - 2378-5861
+VO  - 
+VL  - 
+JA  - 2020 American Control Conference (ACC)
+Y1  - 1-3 July 2020
+ER  - 
+
+TY  - CONF
+TI  - Multi-volume Potential Fields for Effective Learning from Demonstration
+T2  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+SP  - 2342
+EP  - 2347
+AU  - V. H. Moreno
+AU  - L. Fernandez
+AU  - M. G. Carmichael
+AU  - J. Deuse
+PY  - 2024
+DO  - 10.1109/CASE59546.2024.10711395
+JO  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)
+Y1  - 28 Aug.-1 Sept. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal Classification Network Guided Trajectory Planning for 4WIS Autonomous Parking Considering Obstacle Attributes
+T2  - IEEE Internet of Things Journal
+SP  - 26666
+EP  - 26681
+AU  - J. Teng
+AU  - Y. Li
+AU  - Y. Bian
+AU  - M. Hu
+AU  - Y. Hu
+AU  - G. Li
+AU  - J. Wang
+PY  - 2026
+DO  - 10.1109/JIOT.2026.3678248
+JO  - IEEE Internet of Things Journal
+IS  - 12
+SN  - 2327-4662
+VO  - 13
+VL  - 13
+JA  - IEEE Internet of Things Journal
+Y1  - 15 June15, 2026
+ER  - 
+
+TY  - CONF
+TI  - Style-based human motion segmentation
+T2  - 2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+SP  - 240
+EP  - 245
+AU  - Y. Sheng
+AU  - A. LaViers
+PY  - 2014
+DO  - 10.1109/SMC.2014.6973914
+JO  - 2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+IS  - 
+SN  - 1062-922X
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+Y1  - 5-8 Oct. 2014
+ER  - 
+
+TY  - CONF
+TI  - Synergistic organization of action: A computational model
+T2  - The 2011 International Joint Conference on Neural Networks
+SP  - 2961
+EP  - 2968
+AU  - K. V. Byadarhaly
+AU  - M. C. Perdoor
+AU  - A. A. Minai
+PY  - 2011
+DO  - 10.1109/IJCNN.2011.6033610
+JO  - The 2011 International Joint Conference on Neural Networks
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - The 2011 International Joint Conference on Neural Networks
+Y1  - 31 July-5 Aug. 2011
+ER  - 
+
+

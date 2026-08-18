@@ -1,0 +1,1858 @@
+TY  - CONF
+AU  - Gallenberger, D.
+AU  - Bhattacharjee, T.
+AU  - Kim, Y.
+AU  - Srinivasa, S.S.
+TI  - Transfer Depends on Acquisition: Analyzing Manipulation Strategies for Robotic Feeding
+PY  - 2019
+T2  - ACM/IEEE International Conference on Human-Robot Interaction
+VL  - 2019-March
+C7  - 8673309
+SP  - 267
+EP  - 276
+DO  - 10.1109/HRI.2019.8673309
+UR  - https://www.scopus.com/pages/publications/85063985315?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 66
+ER  -
+
+TY  - JOUR
+AU  - Chen, N.
+AU  - Hu, Y.
+AU  - Zhang, J.
+AU  - Zhang, J.
+TI  - Robot learning of everyday object manipulation using kinect
+PY  - 2014
+T2  - Advances in Intelligent Systems and Computing
+VL  - 215
+SP  - 665
+EP  - 674
+DO  - 10.1007/978-3-642-37835-5_57
+UR  - https://www.scopus.com/pages/publications/84885036226?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Qingguo, L.
+AU  - Payandeh, S.
+TI  - An approach for object manipulation using cooperative agents
+PY  - 2006
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2006
+C7  - 1641959
+SP  - 1749
+EP  - 1754
+DO  - 10.1109/ROBOT.2006.1641959
+UR  - https://www.scopus.com/pages/publications/33845620402?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Monguzzi, A.
+AU  - Cella, C.
+AU  - Zanchettin, A.M.
+AU  - Rocco, P.
+TI  - Vision-Based State and Pose Estimation for Robotic Bin Picking of Cables
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 3114
+EP  - 3120
+DO  - 10.1109/IROS55552.2023.10342374
+UR  - https://www.scopus.com/pages/publications/85182523932?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Goller, T.
+AU  - Gold, T.
+AU  - Volz, A.
+AU  - Graichen, K.
+TI  - Model Predictive Interaction Control based on a Path-Following Formulation
+PY  - 2022
+T2  - 2022 IEEE International Conference on Mechatronics and Automation, ICMA 2022
+SP  - 551
+EP  - 556
+DO  - 10.1109/ICMA54519.2022.9856004
+UR  - https://www.scopus.com/pages/publications/85137774877?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Nasiriany, S.
+AU  - Liu, H.
+AU  - Zhu, Y.
+TI  - Augmenting Reinforcement Learning with Behavior Primitives for Diverse Manipulation Tasks
+PY  - 2022
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2022-January
+SP  - 7477
+EP  - 7484
+DO  - 10.1109/ICRA46639.2022.9812140
+UR  - https://www.scopus.com/pages/publications/85136319620?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 102
+ER  -
+
+TY  - JOUR
+AU  - Arapi, V.
+AU  - Santina, C.D.
+AU  - Bacciu, D.
+AU  - Bianchi, M.
+AU  - Bicchi, A.
+TI  - Deepdynamichand: A deep neural architecture for labeling hand manipulation strategies in video sources exploiting temporal information
+PY  - 2018
+T2  - Frontiers in Neurorobotics
+VL  - 12
+C7  - 86
+DO  - 10.3389/fnbot.2018.00086
+UR  - https://www.scopus.com/pages/publications/85078995655?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Shen, Q.J.
+AU  - Fahmi, M.
+AU  - Annuar, K.A.M.
+TI  - Efficient object isolation in complex environment using manipulation primitive on a vision based mobile 6DOF robotic arm
+PY  - 2018
+T2  - International Journal of Mechanical and Mechatronics Engineering
+VL  - 18
+IS  - 1
+SP  - 50
+EP  - 56
+UR  - https://www.scopus.com/pages/publications/85044257488?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Dang, H.
+AU  - Allen, P.K.
+TI  - Robot learning of everyday object manipulations via human demonstration
+PY  - 2010
+T2  - IEEE/RSJ 2010 International Conference on Intelligent Robots and Systems, IROS 2010 - Conference Proceedings
+C7  - 5651244
+SP  - 1284
+EP  - 1289
+DO  - 10.1109/IROS.2010.5651244
+UR  - https://www.scopus.com/pages/publications/78651473860?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 33
+ER  -
+
+TY  - CONF
+AU  - Belkhale, S.
+AU  - Sadigh, D.
+TI  - PLATO: Predicting Latent Affordances Through Object-Centric Play
+PY  - 2023
+T2  - Proceedings of Machine Learning Research
+VL  - 205
+SP  - 1424
+EP  - 1434
+UR  - https://www.scopus.com/pages/publications/85164930280?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Li, Q.
+AU  - Payandeh, S.
+TI  - Manipulation of convex objects via two-agent point-contact push
+PY  - 2007
+T2  - International Journal of Robotics Research
+VL  - 26
+IS  - 4
+SP  - 377
+EP  - 403
+DO  - 10.1177/0278364907076819
+UR  - https://www.scopus.com/pages/publications/34047263260?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 32
+ER  -
+
+TY  - JOUR
+AU  - Yamaguchi, N.
+AU  - Hasegawa, S.
+AU  - Murooka, M.
+AU  - Okada, K.
+AU  - Inaba, M.
+TI  - Selective grasp in occluded space by all-around proximity perceptible finger
+PY  - 2020
+T2  - Robotics and Autonomous Systems
+VL  - 127
+C7  - 103464
+DO  - 10.1016/j.robot.2020.103464
+UR  - https://www.scopus.com/pages/publications/85081130613?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Thompson, J.A.
+AU  - Fearing, R.S.
+TI  - Automating microassembly with ortho-tweezers and force sensing
+PY  - 2001
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 3
+SP  - 1327
+EP  - 1334
+UR  - https://www.scopus.com/pages/publications/0035558799?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 98
+ER  -
+
+TY  - JOUR
+AU  - Kim, C.H.
+AU  - Seo, J.
+TI  - Shallow-Depth Insertion: Peg in Shallow Hole Through Robotic In-Hand Manipulation
+PY  - 2019
+T2  - IEEE Robotics and Automation Letters
+VL  - 4
+IS  - 2
+C7  - 8598749
+SP  - 383
+EP  - 390
+DO  - 10.1109/LRA.2018.2890449Y
+UR  - https://www.scopus.com/pages/publications/85063312141?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 35
+ER  -
+
+TY  - CONF
+AU  - Thomas, U.
+AU  - Wahl, F.M.
+TI  - Planning sensor feedback for assembly skills by using sensor state space graphs
+PY  - 2012
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 7507 LNAI
+IS  - PART 2
+SP  - 696
+EP  - 707
+DO  - 10.1007/978-3-642-33515-0_68
+UR  - https://www.scopus.com/pages/publications/84892843369?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Xu, J.
+AU  - Lin, Y.
+AU  - Zhou, H.
+AU  - Min, H.
+TI  - Generating Manipulation Sequences using Reinforcement Learning and Behavior Trees for Peg-In-Hole Task
+PY  - 2022
+T2  - Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics
+VL  - 2022-October
+SP  - 2715
+EP  - 2720
+DO  - 10.1109/SMC53654.2022.9945269
+UR  - https://www.scopus.com/pages/publications/85142737814?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Rauso, G.
+AU  - Caccavale, R.
+AU  - Finzi, A.
+TI  - Incremental learning from virtual demonstrations and task composition for robotic manipulation
+PY  - 2026
+T2  - Robotics and Autonomous Systems
+VL  - 197
+C7  - 105274
+DO  - 10.1016/j.robot.2025.105274
+UR  - https://www.scopus.com/pages/publications/105024550664?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ju, Z.
+AU  - Liu, H.
+TI  - Human hand motion analysis with multisensory information
+PY  - 2014
+T2  - IEEE/ASME Transactions on Mechatronics
+VL  - 19
+IS  - 2
+C7  - 6461947
+SP  - 456
+EP  - 466
+DO  - 10.1109/TMECH.2013.2240312
+UR  - https://www.scopus.com/pages/publications/84895919785?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 117
+ER  -
+
+TY  - JOUR
+AU  - Fuentes, O.
+AU  - Nelson, R.C.
+TI  - Learning Dextrous Manipulation Skills for Multifingered Robot Hands Using the Evolution Strategy
+PY  - 1998
+T2  - Autonomous Robots
+VL  - 5
+IS  - 3-4
+SP  - 395
+EP  - 405
+DO  - 10.1023/a:1008822709073
+UR  - https://www.scopus.com/pages/publications/0032117387?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Fuentes, Olac
+AU  - Nelson, Randal C.
+TI  - Virtual tool approach to dextrous telemanipulation
+PY  - 1996
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2
+SP  - 1700
+EP  - 1705
+UR  - https://www.scopus.com/pages/publications/0029717088?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Zhou, C.
+AU  - Gao, W.
+AU  - Lu, W.
+AU  - Long, Y.
+AU  - Yang, S.
+AU  - Zhao, L.
+AU  - Huang, B.
+AU  - Zheng, Y.
+TI  - A Unified Trajectory Generation Algorithm for Dynamic Dexterous Manipulation
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 8712
+EP  - 8719
+DO  - 10.1109/IROS55552.2023.10342095
+UR  - https://www.scopus.com/pages/publications/85182522943?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Huang, Y.
+AU  - Agia, C.
+AU  - Wu, J.
+AU  - Hermans, T.
+AU  - Bohg, J.
+TI  - Points2Plans: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics
+PY  - 2025
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 1208
+EP  - 1216
+DO  - 10.1109/ICRA55743.2025.11127935
+UR  - https://www.scopus.com/pages/publications/105016680256?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Zhang, W.
+AU  - Xia, C.
+AU  - Zhu, X.
+AU  - Liu, H.
+AU  - Liang, B.
+TI  - TacRot: A Parallel-Jaw Gripper with Rotatable Tactile Sensors for In-Hand Manipulation
+PY  - 2022
+T2  - Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics
+VL  - 2022-October
+SP  - 423
+EP  - 429
+DO  - 10.1109/SMC53654.2022.9945388
+UR  - https://www.scopus.com/pages/publications/85142769827?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Kotecha, P.
+AU  - Sinha, P.
+AU  - Govindan, N.
+TI  - A Hierarchical Manipulation Planning Framework Combining Striking, Pushing, and Pick & Place Motion Primitives
+PY  - 2024
+T2  - IEEE International Conference on Automation Science and Engineering
+SP  - 956
+EP  - 961
+DO  - 10.1109/CASE59546.2024.10711645
+UR  - https://www.scopus.com/pages/publications/85208249596?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Fuentes, O.
+AU  - Nelson, R.C.
+TI  - Learning Dextrous Manipulation Skills for Multifingered Robot Hands Using the Evolution Strategy
+PY  - 1998
+T2  - Machine Learning
+VL  - 31
+IS  - 1-3
+SP  - 223
+EP  - 237
+DO  - 10.1023/a:1007409228154
+UR  - https://www.scopus.com/pages/publications/0032043794?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 16
+ER  -
+
+TY  - CONF
+AU  - Vasilopoulos, V.
+AU  - Kantaros, Y.
+AU  - Pappas, G.J.
+AU  - Koditschek, D.E.
+TI  - Reactive Planning for Mobile Manipulation Tasks in Unexplored Semantic Environments
+PY  - 2021
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2021-May
+SP  - 6385
+EP  - 6392
+DO  - 10.1109/ICRA48506.2021.9561958
+UR  - https://www.scopus.com/pages/publications/85115038920?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 18
+ER  -
+
+TY  - JOUR
+AU  - Duque-Domingo, J.
+AU  - Caccavale, R.
+AU  - Finzi, A.
+AU  - Zalama, E.
+AU  - Gómez-García-Bermejo, J.
+TI  - One-shot learning for rapid generation of structured robotic manipulation tasks from 3D video demonstrations
+PY  - 2026
+T2  - Journal of Intelligent Manufacturing
+VL  - 37
+IS  - 7
+SP  - 3019
+EP  - 3042
+DO  - 10.1007/s10845-025-02673-7
+UR  - https://www.scopus.com/pages/publications/105016766462?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Gutierrez-Giles, A.
+AU  - Satici, A.C.
+AU  - Donaire, A.
+AU  - Ruggiero, F.
+AU  - Lippiello, V.
+AU  - Siciliano, B.
+TI  - Nonholonomic Rolling Nonprehensile Manipulation Primitive
+PY  - 2022
+T2  - Springer Tracts in Advanced Robotics
+VL  - 144
+SP  - 159
+EP  - 205
+DO  - 10.1007/978-3-030-93290-9_7
+UR  - https://www.scopus.com/pages/publications/85126485153?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Goller, T.
+AU  - Volz, A.
+AU  - Graichen, K.
+TI  - A Programming by Demonstration Approach for Robotic Manipulation with Model Predictive Interaction Control
+PY  - 2024
+T2  - 2024 IEEE Conference on Control Technology and Applications, CCTA 2024
+SP  - 799
+EP  - 804
+DO  - 10.1109/CCTA60707.2024.10666568
+UR  - https://www.scopus.com/pages/publications/85204782895?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Li, Z.
+AU  - Wachsmuth, S.
+AU  - Fritsch, J.
+AU  - Sagerer, G.
+TI  - Semi-supervised incremental learning of manipulative tasks
+PY  - 2007
+T2  - Proceedings of IAPR Conference on Machine Vision Applications, MVA 2007
+SP  - 73
+EP  - 77
+UR  - https://www.scopus.com/pages/publications/84872553052?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Cappelleri, D.J.
+AU  - Fink, J.
+AU  - Kumar, V.
+TI  - Modeling uncertainty for planar meso-scale manipulation and assembly
+PY  - 2006
+T2  - Proceedings of the ASME Design Engineering Technical Conference
+VL  - 2006
+DO  - 10.1115/detc2006-99687
+UR  - https://www.scopus.com/pages/publications/33751325346?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Xue, T.
+AU  - Razmjoo, A.
+AU  - Shetty, S.
+AU  - Calinon, S.
+TI  - Robust Manipulation Primitive Learning via Domain Contraction
+PY  - 2024
+T2  - Proceedings of Machine Learning Research
+VL  - 270
+SP  - 794
+EP  - 809
+UR  - https://www.scopus.com/pages/publications/86000728060?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Calli, B.
+AU  - Dollar, A.M.
+TI  - Vision-based precision manipulation with underactuated hands: Simple and effective solutions for dexterity
+PY  - 2016
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2016-November
+C7  - 7759173
+SP  - 1012
+EP  - 1018
+DO  - 10.1109/IROS.2016.7759173
+UR  - https://www.scopus.com/pages/publications/85006515903?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 23
+ER  -
+
+TY  - CONF
+AU  - Lee, A.X.
+AU  - Goldstein, M.A.
+AU  - Barratt, S.T.
+AU  - Abbeel, P.
+TI  - A non-rigid point and normal registration algorithm with applications to learning from demonstrations
+PY  - 2015
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2015-June
+IS  - June
+C7  - 7139289
+SP  - 935
+EP  - 942
+DO  - 10.1109/ICRA.2015.7139289
+UR  - https://www.scopus.com/pages/publications/84938261199?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 8
+ER  -
+
+TY  - JOUR
+AU  - Finkemeyer, B.
+AU  - Kröger, T.
+AU  - Wahl, F.M.
+TI  - Manipulation primitives: An universal robot programming paradigma
+ST  - Aktionsprimitive: Ein universelles roboter-programmierparadigma
+PY  - 2005
+T2  - At-Automatisierungstechnik
+VL  - 53
+IS  - 4-5
+SP  - 189
+EP  - 196
+DO  - 10.1524/auto.53.4.189.62256
+UR  - https://www.scopus.com/pages/publications/84875235845?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Bugur, S.
+AU  - Oztop, E.
+AU  - Nagai, Y.
+AU  - Ugur, E.
+TI  - Effect Regulated Projection of Robot's Action Space for Production and Prediction of Manipulation Primitives through Learning Progress and Predictability-Based Exploration
+PY  - 2021
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+VL  - 13
+IS  - 2
+C7  - 8792160
+SP  - 286
+EP  - 297
+DO  - 10.1109/TCDS.2019.2933900
+UR  - https://www.scopus.com/pages/publications/85070693534?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Li, Q.
+AU  - Meier, M.
+AU  - Haschke, R.
+AU  - Ritter, H.
+AU  - Bolder, B.
+TI  - Object dexterous manipulation in hand based on finite state machine
+PY  - 2012
+T2  - 2012 IEEE International Conference on Mechatronics and Automation, ICMA 2012
+C7  - 6283419
+SP  - 1185
+EP  - 1190
+DO  - 10.1109/ICMA.2012.6283419
+UR  - https://www.scopus.com/pages/publications/84867598856?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Rilk, M.
+AU  - Kubus, D.
+AU  - Wahl, F.M.
+AU  - Eichhorn, K.W.G.
+AU  - Wagner, I.
+AU  - Bootz, F.
+TI  - Demonstration of a prototype for robot assisted endoscopic sinus surgery
+PY  - 2010
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 5509388
+SP  - 1090
+EP  - 1091
+DO  - 10.1109/ROBOT.2010.5509388
+UR  - https://www.scopus.com/pages/publications/77955825480?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Blanco-Mulero, D.
+AU  - Borras, J.
+AU  - Torras, C.
+TI  - Evaluating the Pre-Dressing Step: Unfolding Medical Garments via Imitation Learning
+PY  - 2025
+T2  - IEEE International Conference on Intelligent Robots and Systems 
+SP  - 17791
+EP  - 17796
+DO  - 10.1109/IROS60139.2025.11247713
+UR  - https://www.scopus.com/pages/publications/105029963090?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Huang, S.
+AU  - Aertbeliën, E.
+AU  - Van Brussel, H.
+AU  - Bruyninckx, H.
+TI  - A behavior-based approach for task learning on mobile manipulators
+PY  - 2010
+T2  - Joint 41st International Symposium on Robotics and 6th German Conference on Robotics 2010, ISR/ROBOTIK 2010
+VL  - 2
+SP  - 962
+EP  - 967
+UR  - https://www.scopus.com/pages/publications/84881462307?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Moll, M.
+AU  - Goldberg, K.
+AU  - Erdmann, M.A.
+AU  - Fearing, R.
+TI  - Aligning parts for micro assemblies
+PY  - 2002
+T2  - Assembly Automation
+VL  - 22
+IS  - 1
+SP  - 46
+EP  - 54
+DO  - 10.1108/01445150210416673
+UR  - https://www.scopus.com/pages/publications/0036253592?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Gupta, M.
+AU  - Müller, J.
+AU  - Sukhatme, G.S.
+TI  - Using Manipulation Primitives for Object Sorting in Cluttered Environments
+PY  - 2015
+T2  - IEEE Transactions on Automation Science and Engineering
+VL  - 12
+IS  - 2
+C7  - 6973050
+SP  - 608
+EP  - 614
+DO  - 10.1109/TASE.2014.2361346
+UR  - https://www.scopus.com/pages/publications/85027936420?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 24
+ER  -
+
+TY  - CONF
+AU  - Gao, K.
+AU  - Yu, J.
+TI  - On the Utility of Buffers in Pick-n-Swap Based Lattice Rearrangement
+PY  - 2023
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2023-May
+SP  - 5786
+EP  - 5792
+DO  - 10.1109/ICRA48891.2023.10161182
+UR  - https://www.scopus.com/pages/publications/85168701880?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Huang, E.
+AU  - Cheng, X.
+AU  - Mao, Y.
+AU  - Gupta, A.
+AU  - Mason, M.T.
+TI  - Autogenerated manipulation primitives
+PY  - 2023
+T2  - International Journal of Robotics Research
+VL  - 42
+IS  - 6
+SP  - 433
+EP  - 458
+DO  - 10.1177/02783649231170897
+UR  - https://www.scopus.com/pages/publications/85159646589?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Cheng, X.
+AU  - Huang, E.
+AU  - Hou, Y.
+AU  - Mason, M.T.
+TI  - Contact Mode Guided Motion Planning for Quasidynamic Dexterous Manipulation in 3D
+PY  - 2022
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2022-January
+SP  - 2730
+EP  - 2736
+DO  - 10.1109/ICRA46639.2022.9811872
+UR  - https://www.scopus.com/pages/publications/85136334125?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 39
+ER  -
+
+TY  - JOUR
+AU  - Lynch, Kevin M.
+TI  - Toppling manipulation
+PY  - 1999
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 4
+SP  - 2551
+EP  - 2557
+UR  - https://www.scopus.com/pages/publications/0032661146?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 53
+ER  -
+
+TY  - CONF
+AU  - Pek, C.
+AU  - Muxfeldt, A.
+AU  - Kubus, D.
+TI  - Simplifying synchronization in cooperative robot tasks - An enhancement of the Manipulation Primitive paradigm
+PY  - 2016
+T2  - IEEE International Conference on Emerging Technologies and Factory Automation, ETFA
+VL  - 2016-November
+C7  - 7733552
+DO  - 10.1109/ETFA.2016.7733552
+UR  - https://www.scopus.com/pages/publications/84996559099?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Shome, R.
+AU  - Tang, W.N.
+AU  - Song, C.
+AU  - Mitash, C.
+AU  - Kourtev, H.
+AU  - Yu, J.
+AU  - Boularias, A.
+AU  - Bekris, K.E.
+TI  - Towards robust product packing with a minimalistic end-effector
+PY  - 2019
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 8793966
+SP  - 9007
+EP  - 9013
+DO  - 10.1109/ICRA.2019.8793966
+UR  - https://www.scopus.com/pages/publications/85071438420?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 56
+ER  -
+
+TY  - JOUR
+AU  - Jin, S.
+AU  - Lian, W.
+AU  - Wang, C.
+AU  - Tomizuka, M.
+AU  - Schaal, S.
+TI  - Robotic Cable Routing with Spatial Representation
+PY  - 2022
+T2  - IEEE Robotics and Automation Letters
+VL  - 7
+IS  - 2
+SP  - 5687
+EP  - 5694
+DO  - 10.1109/LRA.2022.3158377
+UR  - https://www.scopus.com/pages/publications/85126305258?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 45
+ER  -
+
+TY  - JOUR
+AU  - Finkemeyer, B.
+AU  - Kröger, T.
+AU  - Wahl, F.M.
+TI  - Executing assembly tasks specified by manipulation primitive nets
+PY  - 2005
+T2  - Advanced Robotics
+VL  - 19
+IS  - 5
+SP  - 591
+EP  - 611
+DO  - 10.1163/156855305323383811
+UR  - https://www.scopus.com/pages/publications/21244465128?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 66
+ER  -
+
+TY  - JOUR
+AU  - Rojas, N.
+AU  - Ma, R.R.
+AU  - Dollar, A.M.
+TI  - The GR2 Gripper: An Underactuated Hand for Open-Loop In-Hand Planar Manipulation
+PY  - 2016
+T2  - IEEE Transactions on Robotics
+VL  - 32
+IS  - 3
+C7  - 7473889
+SP  - 763
+EP  - 770
+DO  - 10.1109/TRO.2016.2562122
+UR  - https://www.scopus.com/pages/publications/84971378974?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 112
+ER  -
+
+TY  - CONF
+AU  - Baum, M.
+AU  - Brock, O.
+TI  - Achieving robustness by optimizing failure behavior
+PY  - 2017
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 7989681
+SP  - 5806
+EP  - 5811
+DO  - 10.1109/ICRA.2017.7989681
+UR  - https://www.scopus.com/pages/publications/85027990350?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Zhou, C.
+AU  - Jiang, R.
+AU  - Luan, F.
+AU  - Meng, S.
+AU  - Wang, Z.
+AU  - Dong, Y.
+AU  - Zhou, Y.
+AU  - He, B.
+TI  - Dual-Arm Robotic Fabric Manipulation With Quasi-Static and Dynamic Primitives for Rapid Garment Flattening
+PY  - 2025
+T2  - IEEE/ASME Transactions on Mechatronics
+VL  - 30
+IS  - 6
+SP  - 5845
+EP  - 5855
+DO  - 10.1109/TMECH.2025.3556283
+UR  - https://www.scopus.com/pages/publications/105003305666?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 17
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Dermy, O.
+AU  - Charpillet, F.
+AU  - Ivaldi, S.
+TI  - Multi-modal Intention Prediction with Probabilistic Movement Primitives
+PY  - 2019
+T2  - Springer Proceedings in Advanced Robotics
+VL  - 7
+SP  - 181
+EP  - 196
+DO  - 10.1007/978-3-319-89327-3_14
+UR  - https://www.scopus.com/pages/publications/85107075790?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 16
+ER  -
+
+TY  - CONF
+AU  - Yang, S.-M.
+AU  - Magnusson, M.
+AU  - Stork, J.A.
+AU  - Stoyanov, T.
+TI  - Learning Extrinsic Dexterity with Parameterized Manipulation Primitives
+PY  - 2024
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 5404
+EP  - 5410
+DO  - 10.1109/ICRA57147.2024.10611431
+UR  - https://www.scopus.com/pages/publications/85202434994?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Kröger, T.
+AU  - Finkemeyer, B.
+AU  - Wahl, F.M.
+TI  - A task frame formalism for practical implementations
+PY  - 2004
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2004
+IS  - 5
+SP  - 5218
+EP  - 5223
+DO  - 10.1109/robot.2004.1302546
+UR  - https://www.scopus.com/pages/publications/3042601144?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 18
+ER  -
+
+TY  - JOUR
+AU  - Kornuta, T.
+AU  - Winiarski, T.
+AU  - Zieliński, C.
+TI  - Specification of abstract robot skills in terms of control system behaviours
+PY  - 2015
+T2  - Advances in Intelligent Systems and Computing
+VL  - 351
+SP  - 139
+EP  - 152
+DO  - 10.1007/978-3-319-15847-1_14
+UR  - https://www.scopus.com/pages/publications/84924709974?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Berscheid, L.
+AU  - Meisner, P.
+AU  - Kroger, T.
+TI  - Learning a Generative Transition Model for Uncertainty-Aware Robotic Manipulation
+PY  - 2021
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 4670
+EP  - 4677
+DO  - 10.1109/IROS51168.2021.9636623
+UR  - https://www.scopus.com/pages/publications/85124338958?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Zhou, X.
+AU  - Zhang, J.
+AU  - Yang, B.
+AU  - Ma, X.
+AU  - Fu, H.
+AU  - Cai, S.
+AU  - Bao, G.
+TI  - A Semi-Autonomous Hierarchical Control Framework for Prosthetic Hands Inspired by Dual Streams of Human
+PY  - 2024
+T2  - Biomimetics
+VL  - 9
+IS  - 1
+C7  - 62
+DO  - 10.3390/biomimetics9010062
+UR  - https://www.scopus.com/pages/publications/85183172241?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Wang, R.
+AU  - Mao, J.
+AU  - Hsu, J.
+AU  - Zhao, H.
+AU  - Wu, J.
+AU  - Gao, Y.
+TI  - PROGRAMMATICALLY GROUNDED, COMPOSITIONALLY GENERALIZABLE ROBOTIC MANIPULATION
+PY  - 2023
+T2  - 11th International Conference on Learning Representations, ICLR 2023
+UR  - https://www.scopus.com/pages/publications/85164154987?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 23
+ER  -
+
+TY  - CONF
+AU  - Gupta, M.
+AU  - Sukhatme, G.S.
+TI  - Using manipulation primitives for brick sorting in clutter
+PY  - 2012
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 6224787
+SP  - 3883
+EP  - 3889
+DO  - 10.1109/ICRA.2012.6224787
+UR  - https://www.scopus.com/pages/publications/84864483224?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 53
+ER  -
+
+TY  - CONF
+AU  - Kohler, C.
+AU  - Platt, R.
+TI  - Visual Foresight with a Local Dynamics Model
+PY  - 2023
+T2  - Springer Proceedings in Advanced Robotics
+VL  - 27 SPAR
+SP  - 67
+EP  - 82
+DO  - 10.1007/978-3-031-25555-7_6
+UR  - https://www.scopus.com/pages/publications/85151062485?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Khan, F.
+AU  - Feng, W.
+AU  - Wang, Z.
+AU  - Huang, T.
+AU  - Liu, X.
+AU  - Cui, Y.
+AU  - Wang, W.
+TI  - Safe reinforcement learning for vision-based robotic manipulation in human-centered environments
+PY  - 2026
+T2  - International Journal of Intelligent Robotics and Applications
+VL  - 10
+IS  - 1
+SP  - 411
+EP  - 435
+DO  - 10.1007/s41315-025-00507-6
+UR  - https://www.scopus.com/pages/publications/105024106047?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Ma, R.R.
+AU  - Bircher, W.G.
+AU  - Dollar, A.M.
+TI  - Toward robust, whole-hand caging manipulation with underactuated hands
+PY  - 2017
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 7989158
+SP  - 1336
+EP  - 1342
+DO  - 10.1109/ICRA.2017.7989158
+UR  - https://www.scopus.com/pages/publications/85028002514?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 28
+ER  -
+
+TY  - CONF
+AU  - Weidauer, I.
+AU  - Kubus, D.
+AU  - Wahl, F.M.
+TI  - A hierarchical extension of manipulation primitives and its integration into a robot control architecture
+PY  - 2014
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 6907653
+SP  - 5401
+EP  - 5407
+DO  - 10.1109/ICRA.2014.6907653
+UR  - https://www.scopus.com/pages/publications/84929192107?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Hogan, F.R.
+AU  - Ballester, J.
+AU  - Dong, S.
+AU  - Rodriguez, A.
+TI  - Tactile Dexterity: Manipulation Primitives with Tactile Feedback
+PY  - 2020
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 9196976
+SP  - 8863
+EP  - 8869
+DO  - 10.1109/ICRA40945.2020.9196976
+UR  - https://www.scopus.com/pages/publications/85092691513?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 87
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Kröger, T.
+AU  - Finkemeyer, B.
+AU  - Wahl, F.M.
+TI  - Manipulation primitives — A universal interface between sensor-based motion control and robot programming
+PY  - 2011
+T2  - Springer Tracts in Advanced Robotics
+VL  - 67
+SP  - 293
+EP  - 313
+DO  - 10.1007/978-3-642-16785-0_17
+UR  - https://www.scopus.com/pages/publications/85030751980?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 27
+ER  -
+
+TY  - CONF
+AU  - Chavan-Dafie, N.
+AU  - Lee, K.
+AU  - Rodriguez, A.
+TI  - Pneumatic shape-shifting fingers to reorient and grasp
+PY  - 2018
+T2  - IEEE International Conference on Automation Science and Engineering
+VL  - 2018-August
+C7  - 8560472
+SP  - 988
+EP  - 993
+DO  - 10.1109/COASE.2018.8560472
+UR  - https://www.scopus.com/pages/publications/85059977033?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Suárez-Ruiz, F.
+AU  - Pham, Q.-C.
+TI  - A framework for fine robotic assembly
+PY  - 2016
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2016-June
+C7  - 7487162
+SP  - 421
+EP  - 426
+DO  - 10.1109/ICRA.2016.7487162
+UR  - https://www.scopus.com/pages/publications/84977515798?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 53
+ER  -
+
+TY  - JOUR
+AU  - Moll, M.
+AU  - Goldberg, K.
+AU  - Erdmann, M.A.
+AU  - Fearing, R.
+TI  - Orienting micro-scale parts with squeeze and roll primitives
+PY  - 2002
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2
+SP  - 1931
+EP  - 1936
+DO  - 10.1109/ROBOT.2002.1014823
+UR  - https://www.scopus.com/pages/publications/0036055526?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 23
+ER  -
+
+TY  - CONF
+AU  - Dong, Y.
+AU  - Kim, J.
+AU  - Patel, V.V.
+AU  - Feng, H.
+AU  - Dollar, A.M.
+TI  - Model Q-II: An Underactuated Hand with Enhanced Grasping Modes and Primitives for Dexterous Manipulation
+PY  - 2025
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 6779
+EP  - 6785
+DO  - 10.1109/ICRA55743.2025.11127291
+UR  - https://www.scopus.com/pages/publications/105016545678?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Vuong, N.
+AU  - Pham, H.
+AU  - Pham, Q.-C.
+TI  - Learning Sequences of Manipulation Primitives for Robotic Assembly
+PY  - 2021
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2021-May
+SP  - 4086
+EP  - 4092
+DO  - 10.1109/ICRA48506.2021.9561029
+UR  - https://www.scopus.com/pages/publications/85125480408?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 23
+ER  -
+
+TY  - CONF
+AU  - Gold, T.
+AU  - Lomakin, A.
+AU  - Goller, T.
+AU  - Volz, A.
+AU  - Graichen, K.
+TI  - Towards a Generic Manipulation Framework for Robots based on Model Predictive Interaction Control
+PY  - 2020
+T2  - 2020 IEEE International Conference on Mechatronics and Automation, ICMA 2020
+C7  - 9233628
+SP  - 401
+EP  - 406
+DO  - 10.1109/ICMA49215.2020.9233628
+UR  - https://www.scopus.com/pages/publications/85096591057?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 9
+ER  -
+
+TY  - CONF
+AU  - Li, Z.
+AU  - Fritsch, J.
+AU  - Wachsmuth, S.
+AU  - Sagerer, G.
+TI  - An object-oriented approach using a top-down and bottom-up process for manipulative action recognition
+PY  - 2006
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 4174 LNCS
+SP  - 212
+EP  - 221
+DO  - 10.1007/11861898_22
+UR  - https://www.scopus.com/pages/publications/33750260463?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Kondo, M.
+AU  - Ueda, J.
+AU  - Ogasawara, T.
+TI  - Recognition of in-hand manipulation using contact state transition for multifingered robot hand control
+PY  - 2008
+T2  - Robotics and Autonomous Systems
+VL  - 56
+IS  - 1
+SP  - 66
+EP  - 81
+DO  - 10.1016/j.robot.2007.09.018
+UR  - https://www.scopus.com/pages/publications/41749084871?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 34
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Thomas, U.
+AU  - Wahl, F.M.
+TI  - Assembly planning and task planning — Two prerequisites for automated robot programming
+PY  - 2011
+T2  - Springer Tracts in Advanced Robotics
+VL  - 67
+SP  - 333
+EP  - 354
+DO  - 10.1007/978-3-642-16785-0_19
+UR  - https://www.scopus.com/pages/publications/85030783742?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 34
+ER  -
+
+TY  - CONF
+AU  - Fuentes, Olac
+AU  - Nelson, Randal C.
+TI  - Learning dextrous manipulation skills using the evolution strategy
+PY  - 1997
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 1
+SP  - 501
+EP  - 506
+UR  - https://www.scopus.com/pages/publications/0030678886?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Huang, B.
+AU  - Zhang, X.
+AU  - Yu, J.
+TI  - Toward Optimal Tabletop Rearrangement with Multiple Manipulation Primitives
+PY  - 2024
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 10860
+EP  - 10866
+DO  - 10.1109/ICRA57147.2024.10610565
+UR  - https://www.scopus.com/pages/publications/85202433524?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Li, T.
+AU  - Srinivasan, K.
+AU  - Meng, M.Q.-H.
+AU  - Yuan, W.
+AU  - Bohg, J.
+TI  - Learning Hierarchical Control for Robust In-Hand Manipulation
+PY  - 2020
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 9197343
+SP  - 8855
+EP  - 8862
+DO  - 10.1109/ICRA40945.2020.9197343
+UR  - https://www.scopus.com/pages/publications/85092704272?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 29
+ER  -
+
+TY  - CONF
+AU  - Braun, M.
+AU  - Wrede, S.
+TI  - Grey-Box Learning of Adaptive Manipulation Primitives for Robotic Assembly
+PY  - 2023
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2023-May
+SP  - 12381
+EP  - 12387
+DO  - 10.1109/ICRA48891.2023.10161077
+UR  - https://www.scopus.com/pages/publications/85168712732?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Rigo, A.
+AU  - Chen, Y.
+AU  - Gupta, S.K.
+AU  - Nguyen, Q.
+TI  - Contact Optimization for Non-Prehensile Loco-Manipulation via Hierarchical Model Predictive Control
+PY  - 2023
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2023-May
+SP  - 9945
+EP  - 9951
+DO  - 10.1109/ICRA48891.2023.10160507
+UR  - https://www.scopus.com/pages/publications/85168690385?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 23
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Liu, H.
+AU  - Ju, Z.
+AU  - Ji, X.
+AU  - Chan, C.S.
+AU  - Khoury, M.
+TI  - Human hand motion analysis with multisensory information
+PY  - 2017
+T2  - Studies in Computational Intelligence
+VL  - 675
+SP  - 171
+EP  - 191
+DO  - 10.1007/978-3-662-53692-6_8
+UR  - https://www.scopus.com/pages/publications/85019415659?origin=resultslist
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Garcia-Camacho, I.
+AU  - Longhini, A.
+AU  - Welle, M.
+AU  - Alenyà, G.
+AU  - Kragic, D.
+AU  - Borràs, J.
+TI  - Standardization of Cloth Objects and its Relevance in Robotic Manipulation
+PY  - 2024
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+SP  - 8298
+EP  - 8304
+DO  - 10.1109/ICRA57147.2024.10610630
+UR  - https://www.scopus.com/pages/publications/85199751950?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Lynch, Kevin M.
+TI  - The mechanics of fine manipulation by pushing
+PY  - 1992
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 3
+SP  - 2269
+EP  - 2276
+UR  - https://www.scopus.com/pages/publications/0026976835?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 97
+ER  -
+
+TY  - CONF
+AU  - Pook, Polly K.
+AU  - Ballard, Dana H.
+TI  - Recognizing teleoperated manipulations
+PY  - 1993
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2
+SP  - 578
+EP  - 585
+UR  - https://www.scopus.com/pages/publications/0027166617?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 63
+ER  -
+
+TY  - CONF
+AU  - Finkemeyer, B.
+AU  - Kröger, T.
+AU  - Wahl, F.M.
+TI  - The adaptive selection matrix - A key component for sensor-based control of robotic manipulators
+PY  - 2010
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 5509419
+SP  - 3855
+EP  - 3862
+DO  - 10.1109/ROBOT.2010.5509419
+UR  - https://www.scopus.com/pages/publications/77955807752?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 13
+ER  -
+
+TY  - CONF
+AU  - Onda, H.
+AU  - Kitagaki, K.
+AU  - Suehiro, T.
+TI  - Manipulation primitive analysis support system of state-based teaching by demonstration in VR - Visualization and simulation of sensory events
+PY  - 2005
+T2  - Proceedings of the IEEE International Symposium on Assembly and Task Planning
+VL  - 2005
+C7  - 1511474
+SP  - 206
+EP  - 211
+DO  - 10.1109/ISATP.2005.1511474
+UR  - https://www.scopus.com/pages/publications/33746640138?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Teeple, C.B.
+AU  - Kim, G.R.
+AU  - Graule, M.A.
+AU  - Wood, R.J.
+TI  - An Active Palm Enhances Dexterity of Soft Robotic in-Hand Manipulation
+PY  - 2021
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+VL  - 2021-May
+SP  - 11790
+EP  - 11796
+DO  - 10.1109/ICRA48506.2021.9562049
+UR  - https://www.scopus.com/pages/publications/85124341658?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Kroger, T.
+AU  - Finkemeyer, B.
+AU  - Winkelbach, S.
+AU  - Eble, L.-O.
+AU  - Molkenstruck, S.
+AU  - Wahl, F.M.
+TI  - A manipulator plays Jenga
+PY  - 2008
+T2  - IEEE Robotics and Automation Magazine
+VL  - 15
+IS  - 3
+SP  - 79
+EP  - 84
+DO  - 10.1109/MRA.2008.921547
+UR  - https://www.scopus.com/pages/publications/52949139815?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 26
+ER  -
+
+TY  - JOUR
+AU  - Dong, Y.
+AU  - Li, Y.
+AU  - Duan, J.
+AU  - Dai, Z.
+TI  - Introducing Environmental Constraints to Grasping Strategies for Paper-like Flexible Materials Using a Soft Gripper
+PY  - 2026
+T2  - Journal of Bionic Engineering
+DO  - 10.1007/s42235-026-00933-7
+UR  - https://www.scopus.com/pages/publications/105041779151?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Borràs, J.
+AU  - Alenyà, G.
+AU  - Torras, C.
+TI  - A Grasping-Centered Analysis for Cloth Manipulation
+PY  - 2020
+T2  - IEEE Transactions on Robotics
+VL  - 36
+IS  - 3
+C7  - 9097275
+SP  - 924
+EP  - 936
+DO  - 10.1109/TRO.2020.2986921
+UR  - https://www.scopus.com/pages/publications/85087085179?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 87
+ER  -
+
+TY  - CONF
+AU  - Spangenberg, M.
+AU  - Henrich, D.
+TI  - Grounding of actions based on verbalized physical effects and manipulation primitives
+PY  - 2015
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2015-December
+C7  - 7353470
+SP  - 844
+EP  - 851
+DO  - 10.1109/IROS.2015.7353470
+UR  - https://www.scopus.com/pages/publications/84958170628?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Cruciani, S.
+AU  - Smith, C.
+AU  - Kragic, D.
+AU  - Hang, K.
+TI  - Dexterous Manipulation Graphs
+PY  - 2018
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 8594303
+SP  - 2040
+EP  - 2047
+DO  - 10.1109/IROS.2018.8594303
+UR  - https://www.scopus.com/pages/publications/85062989451?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 31
+ER  -
+
+TY  - CONF
+AU  - Fuentes, Olac
+AU  - Nelson, Randal C.
+TI  - Learning dextrous manipulation skills using multisensory information
+PY  - 1996
+T2  - IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems
+SP  - 342
+EP  - 348
+UR  - https://www.scopus.com/pages/publications/0030405618?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Großekathöfer, U.
+AU  - Barchunova, A.
+AU  - Haschke, R.
+AU  - Hermann, T.
+AU  - Franzius, M.
+AU  - Ritter, H.
+TI  - Learning of object manipulation operations from continuous multimodal input
+PY  - 2011
+T2  - IEEE-RAS International Conference on Humanoid Robots
+C7  - 6100880
+SP  - 507
+EP  - 512
+DO  - 10.1109/Humanoids.2011.6100880
+UR  - https://www.scopus.com/pages/publications/84856324816?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Bertoncelli, F.
+AU  - Ruggiero, F.
+AU  - Sabattini, L.
+TI  - Characterization of Grasp Configurations for Multi-Robot Object Pushing
+PY  - 2021
+T2  - 2021 International Symposium on Multi-Robot and Multi-Agent Systems, MRS 2021
+SP  - 38
+EP  - 46
+DO  - 10.1109/MRS50823.2021.9620678
+UR  - https://www.scopus.com/pages/publications/85123994430?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Doshi, N.
+AU  - Hogan, F.R.
+AU  - Rodriguez, A.
+TI  - Hybrid Differential Dynamic Programming for Planar Manipulation Primitives
+PY  - 2020
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 9197414
+SP  - 6759
+EP  - 6765
+DO  - 10.1109/ICRA40945.2020.9197414
+UR  - https://www.scopus.com/pages/publications/85092693367?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 28
+ER  -
+
+TY  - JOUR
+AU  - Ma, R.R.
+AU  - Bircher, W.G.
+AU  - Dollar, A.M.
+TI  - Modeling and Evaluation of Robust Whole-Hand Caging Manipulation
+PY  - 2019
+T2  - IEEE Transactions on Robotics
+VL  - 35
+IS  - 3
+C7  - 8626491
+SP  - 549
+EP  - 563
+DO  - 10.1109/TRO.2019.2890990
+UR  - https://www.scopus.com/pages/publications/85067120136?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 18
+ER  -
+
+TY  - CONF
+AU  - Almeida, D.
+AU  - Ataer-Cansizoglu, E.
+AU  - Corcodel, R.
+TI  - Detection, tracking and 3d modeling of objects with sparse rgb-d slam and interactive perception
+PY  - 2019
+T2  - IEEE-RAS International Conference on Humanoid Robots
+VL  - 2019-October
+C7  - 9035001
+SP  - 297
+EP  - 304
+DO  - 10.1109/Humanoids43949.2019.9035001
+UR  - https://www.scopus.com/pages/publications/85082700044?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 4
+ER  -
+
+TY  - CONF
+AU  - Luz, G.S.
+AU  - Macharet, D.G.
+TI  - A DRL Approach for Mapless Transportation of Arbitrary Objects
+PY  - 2025
+T2  - Proceedings - 2025 1st Conference on Robotics, CROS 2025
+DO  - 10.1109/CROS66186.2025.11066082
+UR  - https://www.scopus.com/pages/publications/105012119180?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Berscheid, L.
+AU  - Meifbner, P.
+AU  - Kroger, T.
+TI  - Robot Learning of Shifting Objects for Grasping in Cluttered Environments
+PY  - 2019
+T2  - IEEE International Conference on Intelligent Robots and Systems
+C7  - 8968042
+SP  - 612
+EP  - 618
+DO  - 10.1109/IROS40897.2019.8968042
+UR  - https://www.scopus.com/pages/publications/85081155762?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 66
+ER  -
+
+TY  - JOUR
+AU  - Gold, T.
+AU  - Volz, A.
+AU  - Graichen, K.
+TI  - Model Predictive Interaction Control for Robotic Manipulation Tasks
+PY  - 2023
+T2  - IEEE Transactions on Robotics
+VL  - 39
+IS  - 1
+SP  - 76
+EP  - 89
+DO  - 10.1109/TRO.2022.3196607
+UR  - https://www.scopus.com/pages/publications/85137560329?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 68
+ER  -
+
+TY  - CONF
+AU  - Woodruff, J.Z.
+AU  - Lynch, K.M.
+TI  - Planning and control for dynamic, nonprehensile, and hybrid manipulation tasks
+PY  - 2017
+T2  - Proceedings - IEEE International Conference on Robotics and Automation
+C7  - 7989467
+SP  - 4066
+EP  - 4073
+DO  - 10.1109/ICRA.2017.7989467
+UR  - https://www.scopus.com/pages/publications/85028000839?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 59
+ER  -
+
+TY  - JOUR
+AU  - Farooqi, M.A.
+AU  - Omata, T.
+TI  - Online construction of the manipulation model of an unknown object by a robot hand using the regrasping primitives
+PY  - 2000
+T2  - Advanced Robotics
+VL  - 14
+IS  - 2
+SP  - 135
+EP  - 151
+DO  - 10.1163/156855300741492
+UR  - https://www.scopus.com/pages/publications/0346055058?origin=resultslist
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Blanco-Mulero, D.
+AU  - Alcan, G.
+AU  - Abu-Dakka, F.J.
+AU  - Kyrki, V.
+TI  - QDP: Learning to Sequentially Optimise Quasi-Static and Dynamic Manipulation Primitives for Robotic Cloth Manipulation
+PY  - 2023
+T2  - IEEE International Conference on Intelligent Robots and Systems
+SP  - 984
+EP  - 991
+DO  - 10.1109/IROS55552.2023.10342002
+UR  - https://www.scopus.com/pages/publications/85182525917?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 16
+ER  -
+
+TY  - CONF
+AU  - Liarokapis, M.
+AU  - Dollar, A.M.
+TI  - Deriving dexterous, in-hand manipulation primitives for adaptive robot hands
+PY  - 2017
+T2  - IEEE International Conference on Intelligent Robots and Systems
+VL  - 2017-September
+C7  - 8206014
+SP  - 1951
+EP  - 1958
+DO  - 10.1109/IROS.2017.8206014
+UR  - https://www.scopus.com/pages/publications/85041954586?origin=resultslist
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 01 July 2026; Cited By: 33
+ER  -
+

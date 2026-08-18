@@ -1,0 +1,187 @@
+%0 Journal Article
+%T Catch &amp; Carry: reusable neural controllers for vision-guided whole-body tasks
+%V 39
+%@ 0730-0301
+%U https://doi.org/10.1145/3386569.3392474
+%R 10.1145/3386569.3392474
+%N 4
+%J ACM Trans. Graph.
+%I Association for Computing Machinery
+%A Josh Merel
+%A Saran Tunyasuvunakool
+%A Arun Ahuja
+%A Yuval Tassa
+%A Leonard Hasenclever
+%A Vu Pham
+%A Tom Erez
+%A Greg Wayne
+%A Nicolas Heess
+%D 2020
+%P Article 39
+%K motor control, object interaction, physics-based character, reinforcement learning
+
+%0 Conference Paper
+%T Mixture of Meta-Policies for Cross-Environment Meta-Reinforcement Learning
+%@ 9798400722585
+%U https://doi.org/10.1145/3770854.3780332
+%R 10.1145/3770854.3780332
+%B Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1
+%I Association for Computing Machinery
+%A Xinyu Liu
+%A Qingyu Zeng
+%A Chenwei Tang
+%A Jiancheng Lv
+%D 2026
+%P 915–926
+%K robot simulation, reinforcement learning, meta-learning, continual learning
+%C Republic of Korea
+
+%0 Journal Article
+%T Neural Categorical Priors for Physics-Based Character Control
+%V 42
+%@ 0730-0301
+%U https://doi.org/10.1145/3618397
+%R 10.1145/3618397
+%N 6
+%J ACM Trans. Graph.
+%I Association for Computing Machinery
+%A Qingxu Zhu
+%A He Zhang
+%A Mengting Lan
+%A Lei Han
+%D 2023
+%P Article 178
+%K VQ-VAE, character animation, generative model, multi-agent, reinforcement learning
+
+%0 Conference Paper
+%T Obstacle avoidance algorithms for mobile robots
+%@ 9781450371490
+%U https://doi.org/10.1145/3345252.3345284
+%R 10.1145/3345252.3345284
+%B Proceedings of the 20th International Conference on Computer Systems and Technologies
+%I Association for Computing Machinery
+%A Dilyana Budakova
+%A Galya Pavlova
+%A Roumen Trifonov
+%A Ivan Chavdarov
+%D 2019
+%P 78–83
+%K Control robot, obstacle avoidance, path planning
+%C Ruse, Bulgaria
+
+%0 Conference Paper
+%T Developing Learning from Demonstration Techniques for Individuals with Physical Disabilities
+%@ 9781450333184
+%U https://doi.org/10.1145/2701973.2702710
+%R 10.1145/2701973.2702710
+%B Proceedings of the Tenth Annual ACM/IEEE International Conference on Human-Robot Interaction Extended Abstracts
+%I Association for Computing Machinery
+%A William Curran
+%D 2015
+%P 233–234
+%K human-robot interaction, learning from demonstration
+%C Portland, Oregon, USA
+
+%0 Conference Paper
+%T Interactive Characters for Virtual Reality Stories
+%@ 9781450383899
+%U https://doi.org/10.1145/3452918.3465494
+%R 10.1145/3452918.3465494
+%B Proceedings of the 2021 ACM International Conference on Interactive Media Experiences
+%I Association for Computing Machinery
+%A Joan Llobera
+%A Caecilia Charbonnier
+%D 2021
+%P 322–325
+%K Interactive Characters, Storytelling;, Virtual Reality
+%C Virtual Event, USA
+
+%0 Journal Article
+%T Hierarchical relative entropy policy search
+%V 17
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Christian Daniel
+%A Gerhard Neumann
+%A Oliver Kroemer
+%A Jan Peters
+%D 2016
+%P 3190–3239
+%K HiREPS, REPS, hierarchical learning, motor skill learning, policy search, reinforcement learning, robot learning, robust learning, structured learning, temporal correlation
+
+%0 Journal Article
+%T Approximate Newton methods for policy search in Markov decision processes
+%V 17
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Thomas Furmston
+%A Guy Lever
+%A David Barber
+%D 2016
+%P 8055–8105
+%K Markov decision processes, Newton method, function Approximation, reinforcement learning
+
+%0 Journal Article
+%T Imitation Learning: A Survey of Learning Methods
+%V 50
+%@ 0360-0300
+%U https://doi.org/10.1145/3054912
+%R 10.1145/3054912
+%N 2
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Ahmed Hussein
+%A Mohamed Medhat Gaber
+%A Eyad Elyan
+%A Chrisina Jayne
+%D 2017
+%P Article 21
+%K Imitation learning, deep learning, feature representations, intelligent agents, learning from demonstrations, learning from experience, reinforcement learning, robotics, self-improvement
+
+%0 Journal Article
+%T A Generalized Path Integral Control Approach to Reinforcement Learning
+%V 11
+%@ 1532-4435
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Evangelos Theodorou
+%A Jonas Buchli
+%A Stefan Schaal
+%D 2010
+%P 3137–3181
+
+%0 Journal Article
+%T End-to-end training of deep visuomotor policies
+%V 17
+%@ 1532-4435
+%N 1
+%J J. Mach. Learn. Res.
+%I JMLR.org
+%A Sergey Levine
+%A Chelsea Finn
+%A Trevor Darrell
+%A Pieter Abbeel
+%D 2016
+%P 1334–1373
+%K neural networks, optimal control, reinforcement learning, vision
+
+%0 Conference Paper
+%T Evolution of neural symmetry and its coupled alignment to body plan morphology
+%@ 9781450305570
+%U https://doi.org/10.1145/2001576.2001609
+%R 10.1145/2001576.2001609
+%B Proceedings of the 13th annual conference on Genetic and evolutionary computation
+%I Association for Computing Machinery
+%A Ben Jones
+%A Andrea Soltoggio
+%A Bernhard Sendhoff
+%A Xin Yao
+%D 2011
+%P 235–242
+%K artificial life, body symmetry, morphology, motor primitives, neuroevolution, soft robotics
+%C Dublin, Ireland
+

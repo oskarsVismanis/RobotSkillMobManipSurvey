@@ -1,0 +1,209 @@
+TY  - CONF
+TI  - Modular active curiosity-driven discovery of tool use
+T2  - 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 3965
+EP  - 3972
+AU  - S. Forestier
+AU  - P. -Y. Oudeyer
+PY  - 2016
+DO  - 10.1109/IROS.2016.7759584
+JO  - 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 9-14 Oct. 2016
+ER  - 
+
+TY  - CONF
+TI  - A kernel-based approach to direct action perception
+T2  - 2012 IEEE International Conference on Robotics and Automation
+SP  - 2605
+EP  - 2610
+AU  - O. Kroemer
+AU  - E. Ugur
+AU  - E. Oztop
+AU  - J. Peters
+PY  - 2012
+DO  - 10.1109/ICRA.2012.6224957
+JO  - 2012 IEEE International Conference on Robotics and Automation
+IS  - 
+SN  - 1050-4729
+VO  - 
+VL  - 
+JA  - 2012 IEEE International Conference on Robotics and Automation
+Y1  - 14-18 May 2012
+ER  - 
+
+TY  - CONF
+TI  - MIT-Skywalker: A novel environment for neural gait rehabilitation
+T2  - 5th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
+SP  - 677
+EP  - 682
+AU  - T. Susko
+AU  - H. I. Krebs
+PY  - 2014
+DO  - 10.1109/BIOROB.2014.6913856
+JO  - 5th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
+IS  - 
+SN  - 2155-1782
+VO  - 
+VL  - 
+JA  - 5th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
+Y1  - 12-15 Aug. 2014
+ER  - 
+
+TY  - JOUR
+TI  - Dynamical Movement Primitives: Learning Attractor Models for Motor Behaviors
+T2  - Neural Computation
+SP  - 328
+EP  - 373
+AU  - A. J. Ijspeert
+AU  - J. Nakanishi
+AU  - H. Hoffmann
+AU  - P. Pastor
+AU  - S. Schaal
+PY  - 2013
+DO  - 10.1162/NECO_a_00393
+JO  - Neural Computation
+IS  - 2
+SN  - 0899-7667
+VO  - 25
+VL  - 25
+JA  - Neural Computation
+Y1  - Feb. 2013
+ER  - 
+
+TY  - CONF
+TI  - Developing learnability — The case for reduced dimensionality
+T2  - 2013 IEEE Third Joint International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+SP  - 1
+EP  - 7
+AU  - N. Kuppuswamy
+AU  - C. M. Harris
+PY  - 2013
+DO  - 10.1109/DevLrn.2013.6652571
+JO  - 2013 IEEE Third Joint International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+IS  - 
+SN  - 2161-9476
+VO  - 
+VL  - 
+JA  - 2013 IEEE Third Joint International Conference on Development and Learning and Epigenetic Robotics (ICDL)
+Y1  - 18-22 Aug. 2013
+ER  - 
+
+TY  - CONF
+TI  - One-shot Visual Imitation via Attributed Waypoints and Demonstration Augmentation
+T2  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 5055
+EP  - 5062
+AU  - M. Chang
+AU  - S. Gupta
+PY  - 2023
+DO  - 10.1109/ICRA48891.2023.10160944
+JO  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 29 May-2 June 2023
+ER  - 
+
+TY  - CONF
+TI  - Robust learning from demonstrations using multidimensional SAX
+T2  - 2014 14th International Conference on Control, Automation and Systems (ICCAS 2014)
+SP  - 64
+EP  - 71
+AU  - Y. Mohammad
+AU  - T. Nishida
+PY  - 2014
+DO  - 10.1109/ICCAS.2014.6987960
+JO  - 2014 14th International Conference on Control, Automation and Systems (ICCAS 2014)
+IS  - 
+SN  - 2093-7121
+VO  - 
+VL  - 
+JA  - 2014 14th International Conference on Control, Automation and Systems (ICCAS 2014)
+Y1  - 22-25 Oct. 2014
+ER  - 
+
+TY  - CONF
+TI  - Model selection for incremental learning of generalizable movement primitives
+T2  - 2017 18th International Conference on Advanced Robotics (ICAR)
+SP  - 359
+EP  - 366
+AU  - M. Hazara
+AU  - V. Kyrki
+PY  - 2017
+DO  - 10.1109/ICAR.2017.8023633
+JO  - 2017 18th International Conference on Advanced Robotics (ICAR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 18th International Conference on Advanced Robotics (ICAR)
+Y1  - 10-12 July 2017
+ER  - 
+
+TY  - JOUR
+TI  - Neural primitives for motion control
+T2  - IEEE Journal of Oceanic Engineering
+SP  - 640
+EP  - 650
+AU  - F. A. Mussa-Ivaldi
+AU  - S. A. Solla
+PY  - 2004
+DO  - 10.1109/JOE.2004.833102
+JO  - IEEE Journal of Oceanic Engineering
+IS  - 3
+SN  - 1558-1691
+VO  - 29
+VL  - 29
+JA  - IEEE Journal of Oceanic Engineering
+Y1  - July 2004
+ER  - 
+
+TY  - CONF
+TI  - Speeding Up Incremental Learning Using Data Efficient Guided Exploration
+T2  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 5082
+EP  - 5089
+AU  - M. Hazara
+AU  - V. Kyrki
+PY  - 2018
+DO  - 10.1109/ICRA.2018.8461241
+JO  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 2577-087X
+VO  - 
+VL  - 
+JA  - 2018 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 21-25 May 2018
+ER  - 
+
+TY  - CONF
+TI  - Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation
+T2  - 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 12120
+EP  - 12129
+AU  - J. Li
+AU  - X. Wang
+AU  - S. Tang
+AU  - H. Shi
+AU  - F. Wu
+AU  - Y. Zhuang
+AU  - W. Y. Wang
+PY  - 2020
+DO  - 10.1109/CVPR42600.2020.01214
+JO  - 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 13-19 June 2020
+ER  - 
+
+

@@ -1,0 +1,124 @@
+﻿TY  - JOUR
+AU  - Djezairi, S
+AU  - Razika, BZ
+AU  - Akli, I
+AU  - Bouzouia, B
+TI  - Layered task planning for mobile manipulators
+T2  - COMPUTERS & ELECTRICAL ENGINEERING
+SN  - 0045-7906
+SN  - 1879-0755
+DA  - OCT
+PY  - 2019
+VL  - 79
+C7  - 106464
+DO  - 10.1016/j.compeleceng.2019.106464
+AN  - WOS:000492799200018
+ER  -
+
+TY  - CPAPER
+AU  - Zhang, YZ
+AU  - Yu, ZJ
+AU  - Lai, JX
+AU  - Lu, CW
+AU  - Han, L
+ED  - Lim, J
+ED  - Song, S
+ED  - Park, HW
+TI  - AgentWorld: An Interactive Simulation Platform for Scene Construction and Mobile Robotic Manipulation
+T2  - CONFERENCE ON ROBOT LEARNING
+CP  - 9th Conference on Robot Learning-CORL-Annual
+SN  - 2640-3498
+PY  - 2025
+VL  - 305
+SP  - 2763
+EP  - 2778
+AN  - WOS:001676333500132
+ER  -
+
+TY  - JOUR
+AU  - Nagatani, K
+AU  - Yuta, S
+TI  - Door-opening behavior of an autonomous mobile manipulator by sequence of action primitives
+T2  - JOURNAL OF ROBOTIC SYSTEMS
+CP  - 2nd World Automation Congress (WAC 96)
+SN  - 0741-2223
+DA  - NOV
+PY  - 1996
+VL  - 13
+IS  - 11
+SP  - 709
+EP  - 721
+AN  - WOS:A1996VL83200004
+ER  -
+
+TY  - CPAPER
+AU  - Nagatani, K
+AU  - Tanaka, Y
+A1  - IEEE
+A1  - IEEE
+TI  - Motion design for autonomous mobile manipulator based on programming style "action primitive"
+T2  - IECON 2000: 26TH ANNUAL CONFERENCE OF THE IEEE INDUSTRIAL ELECTRONICS SOCIETY, VOLS 1-4: 21ST CENTURY TECHNOLOGIES AND INDUSTRIAL OPPORTUNITIES
+CP  - 26th Annual Conference of the IEEE-Industrial-Electronics-Society
+SN  - 1553-572X
+SN  - 0-7803-6456-2
+PY  - 2000
+SP  - 399
+EP  - 404
+AN  - WOS:000176916400067
+ER  -
+
+TY  - CPAPER
+AU  - Peng, YL
+AU  - Wang, ZG
+AU  - Zhang, YS
+AU  - Zhang, SM
+AU  - Cai, N
+AU  - Wu, F
+AU  - Chen, M
+A1  - IEEE
+TI  - Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1)
+T2  - 2024 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS, IROS 2024
+CP  - 2024 International Conference on Intelligent Robots and Systems
+SN  - 2153-0858
+SN  - 979-8-3503-7771-2
+SN  - 979-8-3503-7770-5
+PY  - 2024
+SP  - 6367
+EP  - 6374
+DO  - 10.1109/IROS58592.2024.10802225
+AN  - WOS:001411890000620
+ER  -
+
+TY  - JOUR
+AU  - Aarno, D
+AU  - Kragic, D
+TI  - Motion intention recognition in robot assisted applications
+T2  - ROBOTICS AND AUTONOMOUS SYSTEMS
+SN  - 0921-8890
+SN  - 1872-793X
+DA  - AUG 31
+PY  - 2008
+VL  - 56
+IS  - 8
+SP  - 692
+EP  - 705
+DO  - 10.1016/j.robot.2007.11.005
+AN  - WOS:000258562600005
+ER  -
+
+TY  - JOUR
+AU  - Zhang, HZY
+TI  - ElevNav: Large Language Model-Guided Robot Navigation via 3D Scene Graphs in Elevator Environments
+T2  - OPTICAL MEMORY AND NEURAL NETWORKS
+SN  - 1060-992X
+SN  - 1934-7898
+DA  - SEP
+PY  - 2025
+VL  - 34
+IS  - 3
+SP  - 313
+EP  - 322
+DO  - 10.3103/S1060992X25700109
+AN  - WOS:001574947200015
+ER  -
+
